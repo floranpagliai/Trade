@@ -22,6 +22,11 @@ private:
 public:
     Trader(int capital, Logger *logger);
     virtual ~Trader();
+
+    int         getCapital() const;
+    int         getDays() const;
+
+    void        Trade();
 };
 
 #endif	/* __TRADER_H__ */

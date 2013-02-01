@@ -14,6 +14,12 @@ using namespace std;
 
 Logger::Logger(std::string fileName) {
   _fileName = fileName;
+
+  ofstream	logFile;
+
+  logFile.open(_fileName.c_str(), ios::out);
+  logFile << "ROBOT TRADER QUANTUM LOG" << std::endl;
+  logFile.close();
 }
 
 Logger::~Logger() {
@@ -22,7 +28,7 @@ Logger::~Logger() {
 void	Logger::writeLog(std::string const &log) {
   ofstream	logFile;
 
-  logFile.open(_fileName.c_str(), ios::out);
+  logFile.open(_fileName.c_str(), ios::app | ios::out);
   logFile << log << std::endl;
   logFile.close();
 }

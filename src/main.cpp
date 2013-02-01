@@ -17,5 +17,6 @@ int main(int argc, char** argv) {
   int		capital = atoi(buffer);
   Trader		trader(capital, &logger);
 
+  trader.Trade();
   return 0;
 }

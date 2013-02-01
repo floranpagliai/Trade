@@ -14,14 +14,50 @@ using namespace std;
 
 Trader::Trader(int capital, Logger *logger) : _logger(logger) {
     _capital = capital;
-    _days = 0;
+    _days = -1;
 
     stringstream   log;
-    log << "[Capital]\t" << capital << endl << "DING DING !";
+    log << "[Capital]\t" << _capital << endl << "DING DING !";
     _logger->writeLog(log.str());
 }
 
 Trader::~Trader() {
 }
 
+/*----GETTERS----*/
+int     Trader::getCapital() const {
+    return _capital;
+}
+
+int     Trader::getDays() const {
+    return _days;
+}
+
+void    Trader::Trade() {
+  char		buffer[256];
+  std::string   value;
+  stringstream   log;
+  int           day = 1;
+
+  while(value.compare("--end--") != 0 && day - 1 != _days)
+  {
+      cin.getline(buffer, 256);
+      value = buffer;
+      if (_days == -1) {
+          _days = atoi(buffer);
+          log << "[Period]\t" << _days << endl;
+          _logger->writeLog(log.str());
+          log.str("");
+      }
+      else {
+
+      log << "[Day " << day << "]\t" << value;
+      _logger->writeLog(log.str());
+      log.str("");
+      cout << "wait" << endl;
+      day++;
+      }
+
+  }
+}
 
