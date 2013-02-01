@@ -1,0 +1,2 @@
+[Capital]	1000
+DING DING !

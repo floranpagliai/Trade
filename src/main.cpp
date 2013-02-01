@@ -5,16 +5,17 @@
  * Created on 31 janvier 2013, 03:25
  */
 
-#include <iostream>
-#include <stdlib.h>
-#include "Trade.h"
+#include "Logger.h"
+#include "Trader.h"
 
 using namespace std;
 
 int main(int argc, char** argv) {
-    char        buffer[256];
-    cin.getline(buffer, 256);
-    int         capital = atoi(buffer);
-    Trade trader(capital);
-    return 0;
+  Logger	logger("log.txt");
+  char		buffer[256];
+  cin.getline(buffer, 256);
+  int		capital = atoi(buffer);
+  Trader		trader(capital, &logger);
+
+  return 0;
 }

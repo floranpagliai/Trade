@@ -5,23 +5,23 @@
 ## Login   <paglia_f@epitech.net>
 ##
 ## Started on  Mon Nov 14 10:39:32 2011 floran pagliai
-## Last update Thu Jan 31 16:31:35 2013 floran pagliai
+## Last update Thu Jan 31 17:11:04 2013 floran pagliai
 ##
 
-NAME= 	trade
+NAME= 	moulinette/trade
 
-SRC= 	main.cpp\
-	Trade.cpp
+SRC= 	src/main.cpp\
+	src/Logger.cpp\
+	src/Trader.cpp
 
 OBJ=	$(SRC:.cpp=.o)
 
 FLAG=	-g -Wall
 
-LIB=	include
-
 all:	$(OBJ)
 	g++ $(FLAG) -o $(NAME) $(OBJ)
 	make clean
+	./moulinette/trade_moulinette.php -f moulinette/ibm5.txt -p $(NAME) -m 1000
 
 clean:
 	rm -f $(OBJ)

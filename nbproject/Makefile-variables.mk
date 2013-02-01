@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=None-MacOSX
-CND_ARTIFACT_DIR_Debug=dist/Debug/None-MacOSX
+CND_PLATFORM_Debug=GNU-MacOSX
+CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
 CND_ARTIFACT_NAME_Debug=libtrade.a
-CND_ARTIFACT_PATH_Debug=dist/Debug/None-MacOSX/libtrade.a
-CND_PACKAGE_DIR_Debug=dist/Debug/None-MacOSX/package
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/libtrade.a
+CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
 CND_PACKAGE_NAME_Debug=Trade.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/None-MacOSX/package/Trade.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/Trade.tar
 # Release configuration
-CND_PLATFORM_Release=None-MacOSX
-CND_ARTIFACT_DIR_Release=dist/Release/None-MacOSX
+CND_PLATFORM_Release=GNU-MacOSX
+CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
 CND_ARTIFACT_NAME_Release=libtrade.a
-CND_ARTIFACT_PATH_Release=dist/Release/None-MacOSX/libtrade.a
-CND_PACKAGE_DIR_Release=dist/Release/None-MacOSX/package
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/libtrade.a
+CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
 CND_PACKAGE_NAME_Release=Trade.tar
-CND_PACKAGE_PATH_Release=dist/Release/None-MacOSX/package/Trade.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/Trade.tar
 #
 # include compiler specific variables
 #
