@@ -10,13 +10,19 @@
 
 #include <iostream>
 #include <sstream>
+#include <vector>
 #include <stdlib.h>
 #include "Logger.h"
+
+using namespace std;
 
 class Trader {
 private:
     int         _capital;
     int         _days;
+    int         _stock;
+    int         _stockPrice;
+    vector<int>	_stockPrices;
     Logger      *_logger;
 
 public:
@@ -26,7 +32,17 @@ public:
     int         getCapital() const;
     int         getDays() const;
 
+    enum	Action {
+    BUY,
+    SELL,
+    WAIT
+  };
+
     void        Trade();
+    void        buy(int);
+    void        sell(int);
+    Action      fourXTwo(int);
+    Action      pivotPoints();
 };
 
 #endif	/* __TRADER_H__ */
