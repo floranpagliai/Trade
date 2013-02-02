@@ -25,4 +25,5 @@ class Logger {
 
   void		writeLog(std::string const &);
 };
+
 #endif

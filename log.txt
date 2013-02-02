@@ -1,162 +1,1025 @@
 ROBOT TRADER QUANTUM LOG
-[Capital]	100000000
-[Period]	1524
+[Capital]	100000
+[Period]	254
 
-[Day 0]	7458
-[Day 1]	7425
-[Day 2]	7450
-Le point pivot est a 7444. L'action est a 7450. Il faut vendre !
-[Day 3]	7505
-Le point pivot est a 7462.33. L'action est a 7505. Il faut vendre !
-[Day 4]	7570
-Le point pivot est a 7499.67. L'action est a 7570. Il faut vendre !
-[Day 5]	7640
-Le point pivot est a 7544.67. L'action est a 7640. Il faut vendre !
-[Day 6]	7770
-Le point pivot est a 7611.33. L'action est a 7770. Il faut vendre !
-[Day 7]	7603
-Le point pivot est a 7599. L'action est a 7603. Il faut vendre !
-[Day 8]	7670
-Le point pivot est a 7621.33. L'action est a 7670. Il faut vendre !
-[Day 9]	7683
-Le point pivot est a 7625.67. L'action est a 7683. Il faut vendre !
-[Day 10]	7681
-Le point pivot est a 7625. L'action est a 7681. Il faut vendre !
-[Day 11]	7517
-Le point pivot est a 7570.33. L'action est a 7517. Il faut acheter !
-[Day 12]	7401
-Le point pivot est a 7531.67. L'action est a 7401. Il faut acheter !
-[Day 13]	7383
-Le point pivot est a 7517.67. L'action est a 7383. Il faut acheter !
-[Day 14]	7526
-Le point pivot est a 7559.33. L'action est a 7526. Il faut acheter !
-[Day 15]	7480
-Le point pivot est a 7544. L'action est a 7480. Il faut acheter !
-[Day 16]	7430
-Le point pivot est a 7527.33. L'action est a 7430. Il faut acheter !
-[Day 17]	7438
-Le point pivot est a 7530. L'action est a 7438. Il faut acheter !
-[Day 18]	7480
-Le point pivot est a 7544. L'action est a 7480. Il faut acheter !
-[Day 19]	7515
-Le point pivot est a 7555.67. L'action est a 7515. Il faut acheter !
-[Day 20]	7738
-Le point pivot est a 7630. L'action est a 7738. Il faut vendre !
-[Day 21]	7940
-Le point pivot est a 7697.33. L'action est a 7940. Il faut vendre !
-[Day 22]	7920
-Le point pivot est a 7747.33. L'action est a 7920. Il faut vendre !
-[Day 23]	8116
-Le point pivot est a 7812.67. L'action est a 8116. Il faut vendre !
-[Day 24]	8200
-Le point pivot est a 7899.33. L'action est a 8200. Il faut vendre !
-[Day 25]	8243
-Le point pivot est a 7941.67. L'action est a 8243. Il faut vendre !
-[Day 26]	8199
-Le point pivot est a 7941.33. L'action est a 8199. Il faut vendre !
-[Day 27]	8472
-Le point pivot est a 8032.33. L'action est a 8472. Il faut vendre !
-[Day 28]	8320
-Le point pivot est a 8058. L'action est a 8320. Il faut vendre !
-[Day 29]	8460
-Le point pivot est a 8104.67. L'action est a 8460. Il faut vendre !
-[Day 30]	8398
-Le point pivot est a 8084. L'action est a 8398. Il faut vendre !
-[Day 31]	8398
-Le point pivot est a 8084. L'action est a 8398. Il faut vendre !
-[Day 32]	8415
-Le point pivot est a 8089.67. L'action est a 8415. Il faut vendre !
-[Day 33]	8380
-Le point pivot est a 8078. L'action est a 8380. Il faut vendre !
-[Day 34]	8355
-Le point pivot est a 8069.67. L'action est a 8355. Il faut vendre !
-[Day 35]	8330
-Le point pivot est a 8061.33. L'action est a 8330. Il faut vendre !
-[Day 36]	8300
-Le point pivot est a 8051.33. L'action est a 8300. Il faut vendre !
-[Day 37]	8327
-Le point pivot est a 8060.33. L'action est a 8327. Il faut vendre !
-[Day 38]	8331
-Le point pivot est a 8061.67. L'action est a 8331. Il faut vendre !
-[Day 39]	8375
-Le point pivot est a 8076.33. L'action est a 8375. Il faut vendre !
-[Day 40]	8275
-Le point pivot est a 8043. L'action est a 8275. Il faut vendre !
-[Day 41]	8341
-Le point pivot est a 8065. L'action est a 8341. Il faut vendre !
-[Day 42]	8340
-Le point pivot est a 8064.67. L'action est a 8340. Il faut vendre !
-[Day 43]	8365
-Le point pivot est a 8073. L'action est a 8365. Il faut vendre !
-[Day 44]	8193
-Le point pivot est a 8015.67. L'action est a 8193. Il faut vendre !
-[Day 45]	8215
-Le point pivot est a 8023. L'action est a 8215. Il faut vendre !
-[Day 46]	8190
-Le point pivot est a 8014.67. L'action est a 8190. Il faut vendre !
-[Day 47]	8207
-Le point pivot est a 8020.33. L'action est a 8207. Il faut vendre !
-[Day 48]	8140
-Le point pivot est a 7998. L'action est a 8140. Il faut vendre !
-[Day 49]	8110
-Le point pivot est a 7988. L'action est a 8110. Il faut vendre !
-[Day 50]	8136
-Le point pivot est a 7996.67. L'action est a 8136. Il faut vendre !
-[Day 51]	8275
-Le point pivot est a 8043. L'action est a 8275. Il faut vendre !
-[Day 52]	8270
-Le point pivot est a 8041.33. L'action est a 8270. Il faut vendre !
-[Day 53]	8153
-Le point pivot est a 8002.33. L'action est a 8153. Il faut vendre !
-[Day 54]	8145
-Le point pivot est a 7999.67. L'action est a 8145. Il faut vendre !
-[Day 55]	8081
-Le point pivot est a 7978.33. L'action est a 8081. Il faut vendre !
-[Day 56]	8000
-Le point pivot est a 7951.33. L'action est a 8000. Il faut vendre !
-[Day 57]	8100
-Le point pivot est a 7984.67. L'action est a 8100. Il faut vendre !
-[Day 58]	8035
-Le point pivot est a 7963. L'action est a 8035. Il faut vendre !
-[Day 59]	8016
-Le point pivot est a 7956.67. L'action est a 8016. Il faut vendre !
-[Day 60]	7950
-Le point pivot est a 7934.67. L'action est a 7950. Il faut vendre !
-[Day 61]	7970
-Le point pivot est a 7941.33. L'action est a 7970. Il faut vendre !
-[Day 62]	8070
-Le point pivot est a 7974.67. L'action est a 8070. Il faut vendre !
-[Day 63]	8128
-Le point pivot est a 7994. L'action est a 8128. Il faut vendre !
-[Day 64]	8086
-Le point pivot est a 7980. L'action est a 8086. Il faut vendre !
-[Day 65]	8103
-Le point pivot est a 7985.67. L'action est a 8103. Il faut vendre !
-[Day 66]	8149
-Le point pivot est a 8001. L'action est a 8149. Il faut vendre !
-[Day 67]	8075
-Le point pivot est a 7976.33. L'action est a 8075. Il faut vendre !
-[Day 68]	8043
-Le point pivot est a 7965.67. L'action est a 8043. Il faut vendre !
-[Day 69]	8038
-Le point pivot est a 7964. L'action est a 8038. Il faut vendre !
-[Day 70]	7974
-Le point pivot est a 7942.67. L'action est a 7974. Il faut vendre !
-[Day 71]	7927
-Le point pivot est a 7927. L'action est a 7927. Il faut acheter !
-[Day 72]	7795
-Le point pivot est a 7883. L'action est a 7795. Il faut acheter !
-[Day 73]	7756
-Le point pivot est a 7870. L'action est a 7756. Il faut acheter !
-[Day 74]	7770
-Le point pivot est a 7874.67. L'action est a 7770. Il faut acheter !
-[Day 75]	7831
-Le point pivot est a 7895. L'action est a 7831. Il faut acheter !
-[Day 76]	7717
-Le point pivot est a 7857. L'action est a 7717. Il faut acheter !
-[Day 77]	7806
-Le point pivot est a 7886.67. L'action est a 7806. Il faut acheter !
-[Day 78]	7925
-Le point pivot est a 7926.33. L'action est a 7925. Il faut acheter !
-[Day 79]	0
-Le point pivot est a 5284.67. L'action est a 0. Il faut acheter !
+
+[Day 0]
+[Stock]	1543
+[Average] -1879013882
+
+[Day 1]
+[Stock]	1527
+[Average] 17918
+[BUY] 32 for 48864
+
+[Day 2]
+[Stock]	1533
+[Average] 626362535
+[BUY] 16 for 24528
+
+[Day 3]
+[Stock]	1570
+[Average] 9799
+[BUY] 8 for 12560
+
+[Day 4]
+[Stock]	1556
+[Average] 483191920
+[BUY] 4 for 6224
+
+[Day 5]
+[Stock]	1570
+[Average] 7011
+[BUY] 2 for 3140
+
+[Day 6]
+[Stock]	1596
+[Average] 24962
+[BUY] 1 for 1596
+
+[Day 7]
+[Stock]	1588
+[Average] 5656
+
+[Day 8]
+[Stock]	1603
+[Average] 5205
+
+[Day 9]
+[Stock]	1578
+[Average] 4843
+
+[Day 10]
+[Stock]	1560
+[Average] 4544
+
+[Day 11]
+[Stock]	1527
+[Average] 4293
+
+[Day 12]
+[Stock]	1526
+[Average] 4080
+
+[Day 13]
+[Stock]	1550
+[Average] 3899
+
+[Day 14]
+[Stock]	1501
+[Average] 3739
+
+[Day 15]
+[Stock]	1462
+[Average] 3597
+[BUY] 1 for 1462
+
+[Day 16]
+[Stock]	1432
+[Average] 3469
+
+[Day 17]
+[Stock]	1384
+[Average] 3354
+
+[Day 18]
+[Stock]	1384
+[Average] 3250
+
+[Day 19]
+[Stock]	1412
+[Average] 3158
+
+[Day 20]
+[Stock]	1412
+[Average] 3075
+
+[Day 21]
+[Stock]	1488
+[Average] 3003
+
+[Day 22]
+[Stock]	1486
+[Average] 2937
+
+[Day 23]
+[Stock]	1507
+[Average] 2877
+
+[Day 24]
+[Stock]	1548
+[Average] 2824
+
+[Day 25]
+[Stock]	1560
+[Average] 2775
+
+[Day 26]
+[Stock]	1566
+[Average] 2730
+
+[Day 27]
+[Stock]	1463
+[Average] 2685
+
+[Day 28]
+[Stock]	1397
+[Average] 2641
+
+[Day 29]
+[Stock]	1336
+[Average] 2597
+
+[Day 30]
+[Stock]	1396
+[Average] 2558
+
+[Day 31]
+[Stock]	1355
+[Average] 2521
+
+[Day 32]
+[Stock]	1368
+[Average] 2486
+
+[Day 33]
+[Stock]	1385
+[Average] 2454
+
+[Day 34]
+[Stock]	1452
+[Average] 2425
+
+[Day 35]
+[Stock]	1412
+[Average] 2397
+
+[Day 36]
+[Stock]	1415
+[Average] 2370
+
+[Day 37]
+[Stock]	1388
+[Average] 2344
+
+[Day 38]
+[Stock]	1438
+[Average] 2321
+
+[Day 39]
+[Stock]	1436
+[Average] 2299
+
+[Day 40]
+[Stock]	1436
+[Average] 2278
+
+[Day 41]
+[Stock]	1409
+[Average] 2257
+
+[Day 42]
+[Stock]	1391
+[Average] 2237
+
+[Day 43]
+[Stock]	1406
+[Average] 2218
+
+[Day 44]
+[Stock]	1377
+[Average] 2199
+
+[Day 45]
+[Stock]	1350
+[Average] 2181
+
+[Day 46]
+[Stock]	1305
+[Average] 2162
+
+[Day 47]
+[Stock]	1311
+[Average] 2145
+
+[Day 48]
+[Stock]	1313
+[Average] 2128
+
+[Day 49]
+[Stock]	1340
+[Average] 2112
+
+[Day 50]
+[Stock]	1325
+[Average] 2096
+
+[Day 51]
+[Stock]	1328
+[Average] 2082
+
+[Day 52]
+[Stock]	1298
+[Average] 2067
+
+[Day 53]
+[Stock]	1307
+[Average] 2053
+
+[Day 54]
+[Stock]	1275
+[Average] 2039
+
+[Day 55]
+[Stock]	1256
+[Average] 2025
+
+[Day 56]
+[Stock]	1274
+[Average] 2011
+
+[Day 57]
+[Stock]	1257
+[Average] 1998
+
+[Day 58]
+[Stock]	1254
+[Average] 35309
+
+[Day 59]
+[Stock]	1233
+[Average] 1973
+
+[Day 60]
+[Stock]	1264
+[Average] 1962
+
+[Day 61]
+[Stock]	1315
+[Average] 1951
+
+[Day 62]
+[Stock]	1350
+[Average] 1942
+
+[Day 63]
+[Stock]	1350
+[Average] 1932
+
+[Day 64]
+[Stock]	1338
+[Average] 1923
+
+[Day 65]
+[Stock]	1326
+[Average] 1914
+
+[Day 66]
+[Stock]	1358
+[Average] 1906
+
+[Day 67]
+[Stock]	1360
+[Average] 1898
+
+[Day 68]
+[Stock]	1394
+[Average] 1890
+
+[Day 69]
+[Stock]	1396
+[Average] 1883
+
+[Day 70]
+[Stock]	1362
+[Average] 1876
+
+[Day 71]
+[Stock]	1362
+[Average] 1869
+
+[Day 72]
+[Stock]	1369
+[Average] 1862
+
+[Day 73]
+[Stock]	1346
+[Average] 1855
+
+[Day 74]
+[Stock]	1395
+[Average] 1849
+
+[Day 75]
+[Stock]	1363
+[Average] 1843
+
+[Day 76]
+[Stock]	1331
+[Average] 1836
+
+[Day 77]
+[Stock]	1337
+[Average] 1829
+
+[Day 78]
+[Stock]	1360
+[Average] 1824
+
+[Day 79]
+[Stock]	1331
+[Average] 1817
+
+[Day 80]
+[Stock]	1324
+[Average] 1811
+
+[Day 81]
+[Stock]	1321
+[Average] 1805
+
+[Day 82]
+[Stock]	1322
+[Average] 1799
+
+[Day 83]
+[Stock]	1327
+[Average] 1794
+
+[Day 84]
+[Stock]	1332
+[Average] 1788
+
+[Day 85]
+[Stock]	1363
+[Average] 1783
+
+[Day 86]
+[Stock]	1347
+[Average] 1778
+
+[Day 87]
+[Stock]	1334
+[Average] 1773
+
+[Day 88]
+[Stock]	1320
+[Average] 1768
+
+[Day 89]
+[Stock]	1310
+[Average] 1763
+
+[Day 90]
+[Stock]	1360
+[Average] 1759
+
+[Day 91]
+[Stock]	1300
+[Average] 1754
+
+[Day 92]
+[Stock]	1266
+[Average] 1748
+
+[Day 93]
+[Stock]	1196
+[Average] 1743
+
+[Day 94]
+[Stock]	1234
+[Average] 1737
+
+[Day 95]
+[Stock]	1160
+[Average] 1731
+
+[Day 96]
+[Stock]	1184
+[Average] 1726
+
+[Day 97]
+[Stock]	1147
+[Average] 1720
+
+[Day 98]
+[Stock]	1156
+[Average] 1714
+
+[Day 99]
+[Stock]	1108
+[Average] 1708
+
+[Day 100]
+[Stock]	1132
+[Average] 1702
+
+[Day 101]
+[Stock]	1172
+[Average] 1697
+
+[Day 102]
+[Stock]	1150
+[Average] 1692
+
+[Day 103]
+[Stock]	1150
+[Average] 1686
+
+[Day 104]
+[Stock]	1156
+[Average] 1681
+
+[Day 105]
+[Stock]	1146
+[Average] 1676
+
+[Day 106]
+[Stock]	1179
+[Average] 1672
+
+[Day 107]
+[Stock]	1217
+[Average] 1667
+
+[Day 108]
+[Stock]	1262
+[Average] 1664
+
+[Day 109]
+[Stock]	1273
+[Average] 1660
+
+[Day 110]
+[Stock]	1235
+[Average] 1656
+
+[Day 111]
+[Stock]	1250
+[Average] 1653
+
+[Day 112]
+[Stock]	1229
+[Average] 1649
+
+[Day 113]
+[Stock]	1222
+[Average] 1645
+
+[Day 114]
+[Stock]	1199
+[Average] 1641
+
+[Day 115]
+[Stock]	1190
+[Average] 1637
+
+[Day 116]
+[Stock]	1178
+[Average] 1634
+
+[Day 117]
+[Stock]	1164
+[Average] 1630
+
+[Day 118]
+[Stock]	1156
+[Average] 1626
+
+[Day 119]
+[Stock]	1118
+[Average] 1621
+
+[Day 120]
+[Stock]	1128
+[Average] 1617
+
+[Day 121]
+[Stock]	1117
+[Average] 1613
+
+[Day 122]
+[Stock]	1114
+[Average] 1609
+
+[Day 123]
+[Stock]	1120
+[Average] 1605
+
+[Day 124]
+[Stock]	1117
+[Average] 1601
+
+[Day 125]
+[Stock]	1137
+[Average] 1598
+
+[Day 126]
+[Stock]	1159
+[Average] 1594
+
+[Day 127]
+[Stock]	1178
+[Average] 1591
+
+[Day 128]
+[Stock]	1184
+[Average] 1588
+
+[Day 129]
+[Stock]	1161
+[Average] 1584
+
+[Day 130]
+[Stock]	1226
+[Average] 1582
+
+[Day 131]
+[Stock]	1265
+[Average] 1579
+
+[Day 132]
+[Stock]	1286
+[Average] 1577
+
+[Day 133]
+[Stock]	1257
+[Average] 1575
+
+[Day 134]
+[Stock]	1238
+[Average] 1572
+
+[Day 135]
+[Stock]	1247
+[Average] 1570
+
+[Day 136]
+[Stock]	1255
+[Average] 1567
+
+[Day 137]
+[Stock]	1259
+[Average] 1565
+
+[Day 138]
+[Stock]	1273
+[Average] 1563
+
+[Day 139]
+[Stock]	1301
+[Average] 1561
+
+[Day 140]
+[Stock]	1306
+[Average] 1559
+
+[Day 141]
+[Stock]	1298
+[Average] 1558
+
+[Day 142]
+[Stock]	1338
+[Average] 1556
+
+[Day 143]
+[Stock]	1339
+[Average] 1555
+
+[Day 144]
+[Stock]	1332
+[Average] 1553
+
+[Day 145]
+[Stock]	1323
+[Average] 1551
+
+[Day 146]
+[Stock]	1385
+[Average] 1550
+
+[Day 147]
+[Stock]	1423
+[Average] 1549
+
+[Day 148]
+[Stock]	1419
+[Average] 1549
+
+[Day 149]
+[Stock]	1454
+[Average] 1548
+
+[Day 150]
+[Stock]	1454
+[Average] 1547
+
+[Day 151]
+[Stock]	1417
+[Average] 1546
+
+[Day 152]
+[Stock]	1461
+[Average] 1546
+
+[Day 153]
+[Stock]	1489
+[Average] 1545
+
+[Day 154]
+[Stock]	1501
+[Average] 1545
+
+[Day 155]
+[Stock]	1525
+[Average] 1545
+
+[Day 156]
+[Stock]	1508
+[Average] 1545
+
+[Day 157]
+[Stock]	1485
+[Average] 1544
+
+[Day 158]
+[Stock]	1427
+[Average] 1544
+
+[Day 159]
+[Stock]	1441
+[Average] 1543
+
+[Day 160]
+[Stock]	1425
+[Average] 1542
+
+[Day 161]
+[Stock]	1378
+[Average] 1541
+
+[Day 162]
+[Stock]	1371
+[Average] 1540
+
+[Day 163]
+[Stock]	1358
+[Average] 1539
+
+[Day 164]
+[Stock]	1383
+[Average] 1538
+
+[Day 165]
+[Stock]	1371
+[Average] 1537
+
+[Day 166]
+[Stock]	1390
+[Average] 1536
+
+[Day 167]
+[Stock]	1433
+[Average] 1536
+
+[Day 168]
+[Stock]	1416
+[Average] 1535
+
+[Day 169]
+[Stock]	1443
+[Average] 1534
+
+[Day 170]
+[Stock]	1451
+[Average] 1534
+
+[Day 171]
+[Stock]	1464
+[Average] 1534
+
+[Day 172]
+[Stock]	1446
+[Average] 1533
+
+[Day 173]
+[Stock]	1450
+[Average] 1533
+
+[Day 174]
+[Stock]	1437
+[Average] 1532
+
+[Day 175]
+[Stock]	1478
+[Average] 1532
+
+[Day 176]
+[Stock]	1480
+[Average] 1531
+
+[Day 177]
+[Stock]	1481
+[Average] 1531
+
+[Day 178]
+[Stock]	1475
+[Average] 1531
+
+[Day 179]
+[Stock]	1475
+[Average] 1530
+
+[Day 180]
+[Stock]	1438
+[Average] 1530
+
+[Day 181]
+[Stock]	1417
+[Average] 1529
+
+[Day 182]
+[Stock]	1411
+[Average] 1529
+
+[Day 183]
+[Stock]	1416
+[Average] 1528
+
+[Day 184]
+[Stock]	1427
+[Average] 1527
+
+[Day 185]
+[Stock]	1432
+[Average] 1527
+
+[Day 186]
+[Stock]	1392
+[Average] 1526
+
+[Day 187]
+[Stock]	1405
+[Average] 1526
+
+[Day 188]
+[Stock]	1430
+[Average] 1525
+
+[Day 189]
+[Stock]	1418
+[Average] 1525
+
+[Day 190]
+[Stock]	1427
+[Average] 1524
+
+[Day 191]
+[Stock]	1466
+[Average] 1524
+
+[Day 192]
+[Stock]	1442
+[Average] 1523
+
+[Day 193]
+[Stock]	1411
+[Average] 1523
+
+[Day 194]
+[Stock]	1426
+[Average] 1522
+
+[Day 195]
+[Stock]	1377
+[Average] 1521
+
+[Day 196]
+[Stock]	1401
+[Average] 1521
+
+[Day 197]
+[Stock]	1389
+[Average] 1520
+
+[Day 198]
+[Stock]	1420
+[Average] 1520
+
+[Day 199]
+[Stock]	1420
+[Average] 1519
+
+[Day 200]
+[Stock]	1404
+[Average] 1519
+
+[Day 201]
+[Stock]	1372
+[Average] 1518
+
+[Day 202]
+[Stock]	1356
+[Average] 1517
+
+[Day 203]
+[Stock]	1349
+[Average] 1516
+
+[Day 204]
+[Stock]	1342
+[Average] 1515
+
+[Day 205]
+[Stock]	1341
+[Average] 1515
+
+[Day 206]
+[Stock]	1340
+[Average] 1514
+
+[Day 207]
+[Stock]	1335
+[Average] 1513
+
+[Day 208]
+[Stock]	1345
+[Average] 1512
+
+[Day 209]
+[Stock]	1340
+[Average] 1511
+
+[Day 210]
+[Stock]	1343
+[Average] 1510
+
+[Day 211]
+[Stock]	1360
+[Average] 1510
+
+[Day 212]
+[Stock]	1379
+[Average] 1509
+
+[Day 213]
+[Stock]	1363
+[Average] 1508
+
+[Day 214]
+[Stock]	1350
+[Average] 1508
+
+[Day 215]
+[Stock]	1340
+[Average] 1507
+
+[Day 216]
+[Stock]	1361
+[Average] 1506
+
+[Day 217]
+[Stock]	1316
+[Average] 1505
+
+[Day 218]
+[Stock]	1322
+[Average] 1504
+
+[Day 219]
+[Stock]	1259
+[Average] 1503
+
+[Day 220]
+[Stock]	1253
+[Average] 1502
+
+[Day 221]
+[Stock]	1243
+[Average] 1501
+
+[Day 222]
+[Stock]	1231
+[Average] 1500
+
+[Day 223]
+[Stock]	1232
+[Average] 1499
+
+[Day 224]
+[Stock]	1249
+[Average] 1498
+
+[Day 225]
+[Stock]	1224
+[Average] 1496
+
+[Day 226]
+[Stock]	1231
+[Average] 1495
+
+[Day 227]
+[Stock]	1239
+[Average] 1494
+
+[Day 228]
+[Stock]	1236
+[Average] 1493
+
+[Day 229]
+[Stock]	1235
+[Average] 1492
+
+[Day 230]
+[Stock]	1264
+[Average] 1491
+
+[Day 231]
+[Stock]	1241
+[Average] 1490
+
+[Day 232]
+[Stock]	1241
+[Average] 1489
+
+[Day 233]
+[Stock]	1228
+[Average] 1488
+
+[Day 234]
+[Stock]	1221
+[Average] 1486
+
+[Day 235]
+[Stock]	1228
+[Average] 1485
+
+[Day 236]
+[Stock]	1220
+[Average] 1484
+
+[Day 237]
+[Stock]	1220
+[Average] 1483
+
+[Day 238]
+[Stock]	1189
+[Average] 1482
+
+[Day 239]
+[Stock]	1181
+[Average] 1481
+
+[Day 240]
+[Stock]	1190
+[Average] 1479
+
+[Day 241]
+[Stock]	1188
+[Average] 1478
+
+[Day 242]
+[Stock]	1164
+[Average] 1477
+
+[Day 243]
+[Stock]	1147
+[Average] 1476
+
+[Day 244]
+[Stock]	1145
+[Average] 1474
+
+[Day 245]
+[Stock]	1135
+[Average] 1473
+
+[Day 246]
+[Stock]	1139
+[Average] 1471
+
+[Day 247]
+[Stock]	1169
+[Average] 1470
+
+[Day 248]
+[Stock]	1187
+[Average] 1469
+
+[Day 249]
+[Stock]	1171
+[Average] 1468
+
+[Day 250]
+[Stock]	1129
+[Average] 1467
+
+[Day 251]
+[Stock]	1120
+[Average] 1465
+
+[Day 252]
+[Stock]	1118
+[Average] 1464
+[Stock] 64
+[SELL] 64 for 71552

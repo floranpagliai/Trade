@@ -17,14 +17,6 @@
 using namespace std;
 
 class Trader {
-private:
-    int         _capital;
-    int         _days;
-    int         _stock;
-    int         _stockPrice;
-    vector<int>	_stockPrices;
-    Logger      *_logger;
-
 public:
     Trader(int capital, Logger *logger);
     virtual ~Trader();
@@ -41,8 +33,17 @@ public:
     void        Trade();
     void        buy(int);
     void        sell(int);
-    Action      fourXTwo(int);
+
     Action      pivotPoints();
+    Action      movingAverage();
+
+ protected:
+    int         _capital;
+    int         _days;
+    int         _stock;
+    int         _stockPrice;
+    vector<int>	_stockPrices;
+    Logger      *_logger;
 };
 
 #endif	/* __TRADER_H__ */
