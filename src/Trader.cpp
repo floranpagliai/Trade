@@ -55,7 +55,7 @@ void    Trader::Trade() {
       log.str("");
       //movingAverage();
       switch (movingAverage()) {
-          case BUY: buy((_capital/2)/_stockPrice); break;
+          case BUY: buy((_capital)/_stockPrice); break;
           case SELL: sell(_stock); break;
           case WAIT: cout << "wait " << endl; break;
       }
@@ -71,11 +71,11 @@ void    Trader::buy(int stock) {
     std::stringstream	log;
     if (_capital >= stock * _stockPrice && stock > 0)
     {
-        log << "[BUY] " << stock << " for " << stock * _stockPrice;
+        log << "[BUY] " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
         cout << "buy " << stock << endl;
         _capital -= stock * _stockPrice;
-        _capital = _capital - (0.15/100 * _capital);
+        //_capital = _capital - (0.15/100 * _capital);
         _stock += stock;
     }
     else
@@ -86,11 +86,11 @@ void    Trader::sell(int stock) {
     std::stringstream	log;
     if (_stock >= stock && stock > 0)
     {
-        log << "[SELL] " << stock << " for " << stock * _stockPrice;
+        log << "[SELL] " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
         cout << "sell " << stock << endl;
         _capital += stock * _stockPrice;
-        _capital = _capital - (0.15/100 * _capital);
+        //_capital = _capital - (0.15/100 * _capital);
         _stock -= stock;
     }
     else
