@@ -22,7 +22,7 @@ FLAG=	-g -Wall
 all:	$(OBJ)
 	g++ $(FLAG) -o $(NAME) $(OBJ)
 	make clean
-	./moulinette/trade_moulinette.php -f moulinette/BAC1.txt -p $(NAME) -m 100000 -o
+	./moulinette/trade_moulinette.php -f moulinette/nike5.txt -p $(NAME) -m 100000 -o
 
 clean:
 	rm -f $(OBJ)

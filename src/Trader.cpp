@@ -50,7 +50,8 @@ void    Trader::Trade() {
       else {
       _stockPrice = atoi(buffer);
       _stockPrices.push_back(_stockPrice);
-      log << endl << "[Day " << day << "]" << endl << "[Stock]\t" << _stockPrice;
+      log << endl << "[Day " << day + 1<< "]" << endl << "[Capital] " << _capital << endl
+              << "[Stock]\t" << _stockPrice;
       _logger->writeLog(log.str());
       log.str("");
       switch (technicalAnalysis()) {
@@ -58,17 +59,19 @@ void    Trader::Trade() {
           case SELL: sell(_stock); break;
           case WAIT: cout << "wait " << endl; break;
       }
+      if (_stockPrice == 0)
+          break;
       ++day;
       }
   }
-  log << "[Stock] " << _stock;
+  log << endl << "[Day " << day + 1 << "]" << endl;
   _logger->writeLog(log.str());
   sell(_stock);
 }
 
 void    Trader::buy(int stock) {
     std::stringstream	log;
-    if (_capital >= stock * _stockPrice && stock > 0)
+    if ((_capital - (0.15/100 * _capital)) >= stock * _stockPrice && stock > 0)
     {
         log << "[BUY] " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
