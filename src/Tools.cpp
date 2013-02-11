@@ -1,27 +1,33 @@
 #include "Trader.h"
 
 Trader::Action  Trader::technicalAnalysis() {
+    float       mAverage = movingAverage();;
+    float       eMAverage = exponentialMovingAverage(26);
+
     if (_stockPrices.size() >= 26)
     {
-    std::stringstream	log;
-    log << "[MACD] " << MACD(12, 26);
-    _logger->writeLog(log.str());
+    if (eMAverage >= mAverage)
+        return BUY;
+    else if (eMAverage <= mAverage)
+        return SELL;
+    else
+        return WAIT;
     }
     return WAIT;
 }
 
 float             Trader::movingAverage() {
-    float         average = 0;
+    float         movingAverage = 0;
 
     for (int i = 0; i < _stockPrices.size() - 1; i++)
     {
-        average += _stockPrices[i];
+        movingAverage += _stockPrices[i];
     }
-   average /= _stockPrices.size();
+   movingAverage /= _stockPrices.size();
    std::stringstream	log;
-   log << "[movingAverage] " << average;
+   log << "[movingAverage] " << movingAverage;
    _logger->writeLog(log.str());
-   return average;
+   return movingAverage;
 }
 
 float           Trader::MACD(int EMAShort, int EMALong) {

@@ -53,7 +53,6 @@ void    Trader::Trade() {
       log << endl << "[Day " << day << "]" << endl << "[Stock]\t" << _stockPrice;
       _logger->writeLog(log.str());
       log.str("");
-      //movingAverage();
       switch (technicalAnalysis()) {
           case BUY: buy((_capital)/_stockPrice); break;
           case SELL: sell(_stock); break;
@@ -75,7 +74,7 @@ void    Trader::buy(int stock) {
         _logger->writeLog(log.str());
         cout << "buy " << stock << endl;
         _capital -= stock * _stockPrice;
-        //_capital = _capital - (0.15/100 * _capital);
+        _capital = _capital - (0.15/100 * _capital);
         _stock += stock;
     }
     else
@@ -90,7 +89,7 @@ void    Trader::sell(int stock) {
         _logger->writeLog(log.str());
         cout << "sell " << stock << endl;
         _capital += stock * _stockPrice;
-        //_capital = _capital - (0.15/100 * _capital);
+        _capital = _capital - (0.15/100 * _capital);
         _stock -= stock;
     }
     else

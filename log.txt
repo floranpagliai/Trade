@@ -5,1444 +5,1270 @@ ROBOT TRADER QUANTUM LOG
 
 [Day 0]
 [Stock]	1543
+[movingAverage] 0
+[exponentialMovingAverage 26] -9.24509e+06
 
 [Day 1]
 [Stock]	1527
+[movingAverage] 771.5
+[exponentialMovingAverage 26] -5.60715e+06
 
 [Day 2]
 [Stock]	1533
+[movingAverage] 1023.33
+[exponentialMovingAverage 26] -1.09373e+06
 
 [Day 3]
 [Stock]	1570
+[movingAverage] 1150.75
+[exponentialMovingAverage 26] -2.30952e+06
 
 [Day 4]
 [Stock]	1556
+[movingAverage] 1234.6
+[exponentialMovingAverage 26] 2.79773e+06
 
 [Day 5]
 [Stock]	1570
+[movingAverage] 1288.17
+[exponentialMovingAverage 26] 1.86548e+06
 
 [Day 6]
 [Stock]	1596
+[movingAverage] 1328.43
+[exponentialMovingAverage 26] 933238
 
 [Day 7]
 [Stock]	1588
+[movingAverage] 1361.88
+[exponentialMovingAverage 26] 467064
 
 [Day 8]
 [Stock]	1603
+[movingAverage] 1387
+[exponentialMovingAverage 26] 9.17768e+06
 
 [Day 9]
 [Stock]	1578
+[movingAverage] 1408.6
+[exponentialMovingAverage 26] -1.05129e+06
 
 [Day 10]
 [Stock]	1560
+[movingAverage] 1424
+[exponentialMovingAverage 26] -1.46839e+07
 
 [Day 11]
 [Stock]	1527
+[movingAverage] 1435.33
+[exponentialMovingAverage 26] -7.28012e+06
 
 [Day 12]
 [Stock]	1526
+[movingAverage] 1442.38
+[exponentialMovingAverage 26] 1.48799e+07
 
 [Day 13]
 [Stock]	1550
+[movingAverage] 1448.36
+[exponentialMovingAverage 26] 1.09821e+07
 
 [Day 14]
 [Stock]	1501
+[movingAverage] 1455.13
+[exponentialMovingAverage 26] -5.08563e+06
 
 [Day 15]
 [Stock]	1462
+[movingAverage] 1458
+[exponentialMovingAverage 26] -6.13958e+06
 
 [Day 16]
 [Stock]	1432
+[movingAverage] 1458.24
+[exponentialMovingAverage 26] 1339.12
 
 [Day 17]
 [Stock]	1384
+[movingAverage] 1456.78
+[exponentialMovingAverage 26] 1366.93
 
 [Day 18]
 [Stock]	1384
+[movingAverage] 1452.95
+[exponentialMovingAverage 26] 1390.8
 
 [Day 19]
 [Stock]	1412
+[movingAverage] 1449.5
+[exponentialMovingAverage 26] 1412.8
 
 [Day 20]
 [Stock]	1412
+[movingAverage] 1447.71
+[exponentialMovingAverage 26] 1430.77
 
 [Day 21]
 [Stock]	1488
+[movingAverage] 1446.09
+[exponentialMovingAverage 26] 1450.36
 
 [Day 22]
 [Stock]	1486
+[movingAverage] 1447.91
+[exponentialMovingAverage 26] 1465.56
 
 [Day 23]
 [Stock]	1507
+[movingAverage] 1449.5
+[exponentialMovingAverage 26] 1478.07
 
 [Day 24]
 [Stock]	1548
+[movingAverage] 1451.8
+[exponentialMovingAverage 26] 1489.34
 
 [Day 25]
 [Stock]	1560
-[exponentialMovingAverage 12] 1482.42
+[movingAverage] 1455.5
 [exponentialMovingAverage 26] 1497.08
-[MACD] -14.6538
+[BUY] 64 for 99840€
 
 [Day 26]
 [Stock]	1566
-[exponentialMovingAverage 12] 1498.01
+[movingAverage] 1459.37
 [exponentialMovingAverage 26] 1500.82
-[MACD] -2.80481
 
 [Day 27]
 [Stock]	1463
-[exponentialMovingAverage 12] 1496.92
+[movingAverage] 1463.18
 [exponentialMovingAverage 26] 1496.86
-[MACD] 0.0598145
 
 [Day 28]
 [Stock]	1397
-[exponentialMovingAverage 12] 1485.67
+[movingAverage] 1463.17
 [exponentialMovingAverage 26] 1488.2
-[MACD] -2.53564
 
 [Day 29]
 [Stock]	1336
-[exponentialMovingAverage 12] 1465.47
+[movingAverage] 1460.97
 [exponentialMovingAverage 26] 1475.41
-[MACD] -9.93591
 
 [Day 30]
 [Stock]	1396
-[exponentialMovingAverage 12] 1455.13
+[movingAverage] 1456.94
 [exponentialMovingAverage 26] 1467.73
-[MACD] -12.6012
 
 [Day 31]
 [Stock]	1355
-[exponentialMovingAverage 12] 1438.32
+[movingAverage] 1455.03
 [exponentialMovingAverage 26] 1457.47
-[MACD] -19.1467
 
 [Day 32]
 [Stock]	1368
-[exponentialMovingAverage 12] 1424.24
+[movingAverage] 1452
 [exponentialMovingAverage 26] 1448.78
-[MACD] -24.5371
+[SELL] 64 for 87552€
 
 [Day 33]
 [Stock]	1385
-[exponentialMovingAverage 12] 1413.35
+[movingAverage] 1449.53
 [exponentialMovingAverage 26] 1442
-[MACD] -28.6566
 
 [Day 34]
 [Stock]	1452
-[exponentialMovingAverage 12] 1414.08
+[movingAverage] 1447.69
 [exponentialMovingAverage 26] 1440.77
-[MACD] -26.6895
 
 [Day 35]
 [Stock]	1412
-[exponentialMovingAverage 12] 1409.09
+[movingAverage] 1447.81
 [exponentialMovingAverage 26] 1437
-[MACD] -27.9075
 
 [Day 36]
 [Stock]	1415
-[exponentialMovingAverage 12] 1405.78
+[movingAverage] 1446.84
 [exponentialMovingAverage 26] 1433.92
-[MACD] -28.141
 
 [Day 37]
 [Stock]	1388
-[exponentialMovingAverage 12] 1400.03
+[movingAverage] 1446
 [exponentialMovingAverage 26] 1429.26
-[MACD] -29.2365
 
 [Day 38]
 [Stock]	1438
-[exponentialMovingAverage 12] 1404.17
+[movingAverage] 1444.51
 [exponentialMovingAverage 26] 1428.7
-[MACD] -24.5342
 
 [Day 39]
 [Stock]	1436
-[exponentialMovingAverage 12] 1409.64
+[movingAverage] 1444.35
 [exponentialMovingAverage 26] 1428.24
-[MACD] -18.6012
 
 [Day 40]
 [Stock]	1436
-[exponentialMovingAverage 12] 1415.46
+[movingAverage] 1444.15
 [exponentialMovingAverage 26] 1428.11
-[MACD] -12.6467
 
 [Day 41]
 [Stock]	1409
-[exponentialMovingAverage 12] 1416.63
+[movingAverage] 1443.95
 [exponentialMovingAverage 26] 1426.16
-[MACD] -9.53137
 
 [Day 42]
 [Stock]	1391
-[exponentialMovingAverage 12] 1414.09
+[movingAverage] 1443.14
 [exponentialMovingAverage 26] 1423.03
-[MACD] -8.93872
 
 [Day 43]
 [Stock]	1406
-[exponentialMovingAverage 12] 1413.92
+[movingAverage] 1441.95
 [exponentialMovingAverage 26] 1421.13
-[MACD] -7.20227
 
 [Day 44]
 [Stock]	1377
-[exponentialMovingAverage 12] 1408.64
+[movingAverage] 1441.16
 [exponentialMovingAverage 26] 1417.01
-[MACD] -8.37036
 
 [Day 45]
 [Stock]	1350
-[exponentialMovingAverage 12] 1399.09
+[movingAverage] 1439.76
 [exponentialMovingAverage 26] 1410.92
-[MACD] -11.8276
 
 [Day 46]
 [Stock]	1305
-[exponentialMovingAverage 12] 1383.06
+[movingAverage] 1437.85
 [exponentialMovingAverage 26] 1401.67
-[MACD] -18.6025
 
 [Day 47]
 [Stock]	1311
-[exponentialMovingAverage 12] 1369.85
+[movingAverage] 1435.08
 [exponentialMovingAverage 26] 1393.17
-[MACD] -23.3191
 
 [Day 48]
 [Stock]	1313
-[exponentialMovingAverage 12] 1358.23
+[movingAverage] 1432.55
 [exponentialMovingAverage 26] 1385.32
-[MACD] -27.0856
 
 [Day 49]
 [Stock]	1340
-[exponentialMovingAverage 12] 1352.08
+[movingAverage] 1430.16
 [exponentialMovingAverage 26] 1379.96
-[MACD] -27.8832
 
 [Day 50]
 [Stock]	1325
-[exponentialMovingAverage 12] 1344.23
+[movingAverage] 1428.39
 [exponentialMovingAverage 26] 1373.97
-[MACD] -29.7379
 
 [Day 51]
 [Stock]	1328
-[exponentialMovingAverage 12] 1338.29
+[movingAverage] 1426.4
 [exponentialMovingAverage 26] 1368.83
-[MACD] -30.5398
 
 [Day 52]
 [Stock]	1298
-[exponentialMovingAverage 12] 1329.13
+[movingAverage] 1424.55
 [exponentialMovingAverage 26] 1362.14
-[MACD] -33.0115
 
 [Day 53]
 [Stock]	1307
-[exponentialMovingAverage 12] 1323.12
+[movingAverage] 1422.2
 [exponentialMovingAverage 26] 1356.87
-[MACD] -33.7593
 
 [Day 54]
 [Stock]	1275
-[exponentialMovingAverage 12] 1313.49
+[movingAverage] 1420.11
 [exponentialMovingAverage 26] 1349.68
-[MACD] -36.1965
 
 [Day 55]
 [Stock]	1256
-[exponentialMovingAverage 12] 1302.42
+[movingAverage] 1417.52
 [exponentialMovingAverage 26] 1341.43
-[MACD] -39.01
 
 [Day 56]
 [Stock]	1274
-[exponentialMovingAverage 12] 1296.05
+[movingAverage] 1414.68
 [exponentialMovingAverage 26] 1334.74
-[MACD] -38.6923
 
 [Day 57]
 [Stock]	1257
-[exponentialMovingAverage 12] 1288.38
+[movingAverage] 1412.26
 [exponentialMovingAverage 26] 1327.14
-[MACD] -38.7578
 
 [Day 58]
 [Stock]	1254
-[exponentialMovingAverage 12] 1281.45
+[movingAverage] 1409.63
 [exponentialMovingAverage 26] 1319.6
-[MACD] -38.1495
 
 [Day 59]
 [Stock]	1233
-[exponentialMovingAverage 12] 1271.94
+[movingAverage] 1407.03
 [exponentialMovingAverage 26] 1310.82
-[MACD] -38.8875
 
 [Day 60]
 [Stock]	1264
-[exponentialMovingAverage 12] 1268.19
+[movingAverage] 1404.18
 [exponentialMovingAverage 26] 1304.78
-[MACD] -36.5856
 
 [Day 61]
 [Stock]	1315
-[exponentialMovingAverage 12] 1272.92
+[movingAverage] 1401.92
 [exponentialMovingAverage 26] 1303.05
-[MACD] -30.1224
 
 [Day 62]
 [Stock]	1350
-[exponentialMovingAverage 12] 1283.36
+[movingAverage] 1400.54
 [exponentialMovingAverage 26] 1304.18
-[MACD] -20.8234
 
 [Day 63]
 [Stock]	1350
-[exponentialMovingAverage 12] 1293.47
+[movingAverage] 1399.75
 [exponentialMovingAverage 26] 1305.5
-[MACD] -12.0299
 
 [Day 64]
 [Stock]	1338
-[exponentialMovingAverage 12] 1301.46
+[movingAverage] 1398.98
 [exponentialMovingAverage 26] 1306.05
-[MACD] -4.58398
 
 [Day 65]
 [Stock]	1326
-[exponentialMovingAverage 12] 1307.09
+[movingAverage] 1398.06
 [exponentialMovingAverage 26] 1305.98
-[MACD] 1.10681
 
 [Day 66]
 [Stock]	1358
-[exponentialMovingAverage 12] 1317.4
+[movingAverage] 1396.99
 [exponentialMovingAverage 26] 1308.6
-[MACD] 8.79346
 
 [Day 67]
 [Stock]	1360
-[exponentialMovingAverage 12] 1326.95
+[movingAverage] 1396.41
 [exponentialMovingAverage 26] 1311.6
-[MACD] 15.3533
 
 [Day 68]
 [Stock]	1394
-[exponentialMovingAverage 12] 1340.4
+[movingAverage] 1395.88
 [exponentialMovingAverage 26] 1317.24
-[MACD] 23.1525
 
 [Day 69]
 [Stock]	1396
-[exponentialMovingAverage 12] 1352.62
+[movingAverage] 1395.86
 [exponentialMovingAverage 26] 1323.03
-[MACD] 29.5812
 
 [Day 70]
 [Stock]	1362
-[exponentialMovingAverage 12] 1357.82
+[movingAverage] 1395.86
 [exponentialMovingAverage 26] 1326.33
-[MACD] 31.4872
 
 [Day 71]
 [Stock]	1362
-[exponentialMovingAverage 12] 1361.64
+[movingAverage] 1395.39
 [exponentialMovingAverage 26] 1329.68
-[MACD] 31.9658
 
 [Day 72]
 [Stock]	1369
-[exponentialMovingAverage 12] 1364.88
+[movingAverage] 1394.93
 [exponentialMovingAverage 26] 1333.5
-[MACD] 31.3832
 
 [Day 73]
 [Stock]	1346
-[exponentialMovingAverage 12] 1363.24
+[movingAverage] 1394.58
 [exponentialMovingAverage 26] 1335.44
-[MACD] 27.8019
 
 [Day 74]
 [Stock]	1395
-[exponentialMovingAverage 12] 1368.74
+[movingAverage] 1393.93
 [exponentialMovingAverage 26] 1340.91
-[MACD] 27.8319
 
 [Day 75]
 [Stock]	1363
-[exponentialMovingAverage 12] 1368.74
+[movingAverage] 1393.95
 [exponentialMovingAverage 26] 1343.78
-[MACD] 24.9657
 
 [Day 76]
 [Stock]	1331
-[exponentialMovingAverage 12] 1363.65
+[movingAverage] 1393.55
 [exponentialMovingAverage 26] 1344.21
-[MACD] 19.4458
 
 [Day 77]
 [Stock]	1337
-[exponentialMovingAverage 12] 1359.58
+[movingAverage] 1392.74
 [exponentialMovingAverage 26] 1345.07
-[MACD] 14.5114
 
 [Day 78]
 [Stock]	1360
-[exponentialMovingAverage 12] 1358.9
+[movingAverage] 1392.04
 [exponentialMovingAverage 26] 1347.6
-[MACD] 11.2963
 
 [Day 79]
 [Stock]	1331
-[exponentialMovingAverage 12] 1353.73
+[movingAverage] 1391.64
 [exponentialMovingAverage 26] 1347.81
-[MACD] 5.9187
 
 [Day 80]
 [Stock]	1324
-[exponentialMovingAverage 12] 1347.86
+[movingAverage] 1390.89
 [exponentialMovingAverage 26] 1347.44
-[MACD] 0.423096
 
 [Day 81]
 [Stock]	1321
-[exponentialMovingAverage 12] 1342.42
+[movingAverage] 1390.07
 [exponentialMovingAverage 26] 1346.7
-[MACD] -4.2749
 
 [Day 82]
 [Stock]	1322
-[exponentialMovingAverage 12] 1338.1
+[movingAverage] 1389.24
 [exponentialMovingAverage 26] 1345.85
-[MACD] -7.74646
 
 [Day 83]
 [Stock]	1327
-[exponentialMovingAverage 12] 1335.06
+[movingAverage] 1388.44
 [exponentialMovingAverage 26] 1345.23
-[MACD] -10.1696
 
 [Day 84]
 [Stock]	1332
-[exponentialMovingAverage 12] 1333.24
+[movingAverage] 1387.72
 [exponentialMovingAverage 26] 1344.79
-[MACD] -11.5457
 
 [Day 85]
 [Stock]	1363
-[exponentialMovingAverage 12] 1336.67
+[movingAverage] 1387.07
 [exponentialMovingAverage 26] 1346.42
-[MACD] -9.7522
 
 [Day 86]
 [Stock]	1347
-[exponentialMovingAverage 12] 1337.41
+[movingAverage] 1386.79
 [exponentialMovingAverage 26] 1346.49
-[MACD] -9.08264
 
 [Day 87]
 [Stock]	1334
-[exponentialMovingAverage 12] 1336.77
+[movingAverage] 1386.34
 [exponentialMovingAverage 26] 1345.37
-[MACD] -8.59827
 
 [Day 88]
 [Stock]	1320
-[exponentialMovingAverage 12] 1334.35
+[movingAverage] 1385.75
 [exponentialMovingAverage 26] 1343.15
-[MACD] -8.80481
 
 [Day 89]
 [Stock]	1310
-[exponentialMovingAverage 12] 1330.53
+[movingAverage] 1385.02
 [exponentialMovingAverage 26] 1340.28
-[MACD] -9.75354
 
 [Day 90]
 [Stock]	1360
-[exponentialMovingAverage 12] 1334.74
+[movingAverage] 1384.2
 [exponentialMovingAverage 26] 1341.23
-[MACD] -6.48157
 
 [Day 91]
 [Stock]	1300
-[exponentialMovingAverage 12] 1329.73
+[movingAverage] 1383.93
 [exponentialMovingAverage 26] 1337.66
-[MACD] -7.93311
 
 [Day 92]
 [Stock]	1266
-[exponentialMovingAverage 12] 1319.88
+[movingAverage] 1383.03
 [exponentialMovingAverage 26] 1331.66
-[MACD] -11.7734
 
 [Day 93]
 [Stock]	1196
-[exponentialMovingAverage 12] 1300.01
+[movingAverage] 1381.79
 [exponentialMovingAverage 26] 1320.73
-[MACD] -20.7166
 
 [Day 94]
 [Stock]	1234
-[exponentialMovingAverage 12] 1287.59
+[movingAverage] 1379.83
 [exponentialMovingAverage 26] 1313.08
-[MACD] -25.4929
 
 [Day 95]
 [Stock]	1160
-[exponentialMovingAverage 12] 1264.91
+[movingAverage] 1378.31
 [exponentialMovingAverage 26] 1300.41
-[MACD] -35.5
 
 [Day 96]
 [Stock]	1184
-[exponentialMovingAverage 12] 1248.06
+[movingAverage] 1376.06
 [exponentialMovingAverage 26] 1290.19
-[MACD] -42.1239
 
 [Day 97]
 [Stock]	1147
-[exponentialMovingAverage 12] 1227.42
+[movingAverage] 1374.1
 [exponentialMovingAverage 26] 1277.73
-[MACD] -50.3091
 
 [Day 98]
 [Stock]	1156
-[exponentialMovingAverage 12] 1210.94
+[movingAverage] 1371.81
 [exponentialMovingAverage 26] 1266.56
-[MACD] -55.6196
 
 [Day 99]
 [Stock]	1108
-[exponentialMovingAverage 12] 1189.51
+[movingAverage] 1369.65
 [exponentialMovingAverage 26] 1252.43
-[MACD] -62.9174
 
 [Day 100]
 [Stock]	1132
-[exponentialMovingAverage 12] 1174.68
+[movingAverage] 1367.06
 [exponentialMovingAverage 26] 1240.76
-[MACD] -66.0813
 
 [Day 101]
 [Stock]	1172
-[exponentialMovingAverage 12] 1168.41
+[movingAverage] 1364.75
 [exponentialMovingAverage 26] 1232.8
-[MACD] -64.3932
 
 [Day 102]
 [Stock]	1150
-[exponentialMovingAverage 12] 1160.53
+[movingAverage] 1362.88
 [exponentialMovingAverage 26] 1223.76
-[MACD] -63.2351
 
 [Day 103]
 [Stock]	1150
-[exponentialMovingAverage 12] 1155.33
+[movingAverage] 1360.84
 [exponentialMovingAverage 26] 1215.23
-[MACD] -59.9003
 
 [Day 104]
 [Stock]	1156
-[exponentialMovingAverage 12] 1152.99
+[movingAverage] 1358.83
 [exponentialMovingAverage 26] 1207.68
-[MACD] -54.6965
 
 [Day 105]
 [Stock]	1146
-[exponentialMovingAverage 12] 1150.51
+[movingAverage] 1356.92
 [exponentialMovingAverage 26] 1199.97
-[MACD] -49.4615
 
 [Day 106]
 [Stock]	1179
-[exponentialMovingAverage 12] 1153.76
+[movingAverage] 1354.94
 [exponentialMovingAverage 26] 1195.24
-[MACD] -41.48
 
 [Day 107]
 [Stock]	1217
-[exponentialMovingAverage 12] 1163.55
+[movingAverage] 1353.31
 [exponentialMovingAverage 26] 1193.73
-[MACD] -30.1752
 
 [Day 108]
 [Stock]	1262
-[exponentialMovingAverage 12] 1179.54
+[movingAverage] 1352.06
 [exponentialMovingAverage 26] 1195.85
-[MACD] -16.3077
 
 [Day 109]
 [Stock]	1273
-[exponentialMovingAverage 12] 1196.22
+[movingAverage] 1351.25
 [exponentialMovingAverage 26] 1198.95
-[MACD] -2.73364
 
 [Day 110]
 [Stock]	1235
-[exponentialMovingAverage 12] 1205.44
+[movingAverage] 1350.54
 [exponentialMovingAverage 26] 1199.4
-[MACD] 6.03992
 
 [Day 111]
 [Stock]	1250
-[exponentialMovingAverage 12] 1215.95
+[movingAverage] 1349.51
 [exponentialMovingAverage 26] 1201.23
-[MACD] 14.7208
 
 [Day 112]
 [Stock]	1229
-[exponentialMovingAverage 12] 1221.41
+[movingAverage] 1348.63
 [exponentialMovingAverage 26] 1201.83
-[MACD] 19.5841
 
 [Day 113]
 [Stock]	1222
-[exponentialMovingAverage 12] 1224.55
+[movingAverage] 1347.58
 [exponentialMovingAverage 26] 1202.24
-[MACD] 22.3091
 
 [Day 114]
 [Stock]	1199
-[exponentialMovingAverage 12] 1223.51
+[movingAverage] 1346.49
 [exponentialMovingAverage 26] 1201.27
-[MACD] 22.2393
 
 [Day 115]
 [Stock]	1190
-[exponentialMovingAverage 12] 1220.46
+[movingAverage] 1345.22
 [exponentialMovingAverage 26] 1199.98
-[MACD] 20.4786
 
 [Day 116]
 [Stock]	1178
-[exponentialMovingAverage 12] 1215.05
+[movingAverage] 1343.89
 [exponentialMovingAverage 26] 1198.15
-[MACD] 16.906
 
 [Day 117]
 [Stock]	1164
-[exponentialMovingAverage 12] 1207.21
+[movingAverage] 1342.48
 [exponentialMovingAverage 26] 1195.79
-[MACD] 11.4159
 
 [Day 118]
 [Stock]	1156
-[exponentialMovingAverage 12] 1197.9
+[movingAverage] 1340.98
 [exponentialMovingAverage 26] 1193.23
-[MACD] 4.66956
 
 [Day 119]
 [Stock]	1118
-[exponentialMovingAverage 12] 1183.04
+[movingAverage] 1339.44
 [exponentialMovingAverage 26] 1188.17
-[MACD] -5.12683
 
 [Day 120]
 [Stock]	1128
-[exponentialMovingAverage 12] 1170.99
+[movingAverage] 1337.61
 [exponentialMovingAverage 26] 1184.07
-[MACD] -13.0784
 
 [Day 121]
 [Stock]	1117
-[exponentialMovingAverage 12] 1158.96
+[movingAverage] 1335.89
 [exponentialMovingAverage 26] 1179.45
-[MACD] -20.4915
 
 [Day 122]
 [Stock]	1114
-[exponentialMovingAverage 12] 1148.47
+[movingAverage] 1334.11
 [exponentialMovingAverage 26] 1174.74
-[MACD] -26.2664
 
 [Day 123]
 [Stock]	1120
-[exponentialMovingAverage 12] 1140.46
+[movingAverage] 1332.34
 [exponentialMovingAverage 26] 1170.67
-[MACD] -30.2108
 
 [Day 124]
 [Stock]	1117
-[exponentialMovingAverage 12] 1133.65
+[movingAverage] 1330.64
 [exponentialMovingAverage 26] 1166.46
-[MACD] -32.8049
 
 [Day 125]
 [Stock]	1137
-[exponentialMovingAverage 12] 1131.36
+[movingAverage] 1328.94
 [exponentialMovingAverage 26] 1163.84
-[MACD] -32.4786
 
 [Day 126]
 [Stock]	1159
-[exponentialMovingAverage 12] 1133.54
+[movingAverage] 1327.43
 [exponentialMovingAverage 26] 1162.76
-[MACD] -29.2251
 
 [Day 127]
 [Stock]	1178
-[exponentialMovingAverage 12] 1139.15
+[movingAverage] 1326.12
 [exponentialMovingAverage 26] 1163.02
-[MACD] -23.8661
 
 [Day 128]
 [Stock]	1184
-[exponentialMovingAverage 12] 1145.85
+[movingAverage] 1324.97
 [exponentialMovingAverage 26] 1163.7
-[MACD] -17.8575
 
 [Day 129]
 [Stock]	1161
-[exponentialMovingAverage 12] 1148.92
+[movingAverage] 1323.88
 [exponentialMovingAverage 26] 1162.59
-[MACD] -13.6638
 
 [Day 130]
 [Stock]	1226
-[exponentialMovingAverage 12] 1162.04
+[movingAverage] 1322.64
 [exponentialMovingAverage 26] 1166.25
-[MACD] -4.21509
 
 [Day 131]
 [Stock]	1265
-[exponentialMovingAverage 12] 1180.26
+[movingAverage] 1321.91
 [exponentialMovingAverage 26] 1172.61
-[MACD] 7.64673
 
 [Day 132]
 [Stock]	1286
-[exponentialMovingAverage 12] 1199.82
+[movingAverage] 1321.48
 [exponentialMovingAverage 26] 1180.18
-[MACD] 19.6382
 
 [Day 133]
 [Stock]	1257
-[exponentialMovingAverage 12] 1212.9
+[movingAverage] 1321.22
 [exponentialMovingAverage 26] 1185.3
-[MACD] 27.5955
 
 [Day 134]
 [Stock]	1238
-[exponentialMovingAverage 12] 1221.26
+[movingAverage] 1320.74
 [exponentialMovingAverage 26] 1188.9
-[MACD] 32.3562
 
 [Day 135]
 [Stock]	1247
-[exponentialMovingAverage 12] 1229.41
+[movingAverage] 1320.13
 [exponentialMovingAverage 26] 1193.23
-[MACD] 36.1766
 
 [Day 136]
 [Stock]	1255
-[exponentialMovingAverage 12] 1237.17
+[movingAverage] 1319.6
 [exponentialMovingAverage 26] 1198.23
-[MACD] 38.933
 
 [Day 137]
 [Stock]	1259
-[exponentialMovingAverage 12] 1243.77
+[movingAverage] 1319.13
 [exponentialMovingAverage 26] 1203.47
-[MACD] 40.2964
 
 [Day 138]
 [Stock]	1273
-[exponentialMovingAverage 12] 1250.96
+[movingAverage] 1318.7
 [exponentialMovingAverage 26] 1209.72
-[MACD] 41.2379
 
 [Day 139]
 [Stock]	1301
-[exponentialMovingAverage 12] 1261
+[movingAverage] 1318.37
 [exponentialMovingAverage 26] 1217.92
-[MACD] 43.0769
 
 [Day 140]
 [Stock]	1306
-[exponentialMovingAverage 12] 1270.23
+[movingAverage] 1318.25
 [exponentialMovingAverage 26] 1226.27
-[MACD] 43.9629
 
 [Day 141]
 [Stock]	1298
-[exponentialMovingAverage 12] 1276.67
+[movingAverage] 1318.16
 [exponentialMovingAverage 26] 1233.72
-[MACD] 42.9515
 
 [Day 142]
 [Stock]	1338
-[exponentialMovingAverage 12] 1287.5
+[movingAverage] 1318.02
 [exponentialMovingAverage 26] 1243.82
-[MACD] 43.6824
 
 [Day 143]
 [Stock]	1339
-[exponentialMovingAverage 12] 1297.05
+[movingAverage] 1318.16
 [exponentialMovingAverage 26] 1253.54
-[MACD] 43.5128
 
 [Day 144]
 [Stock]	1332
-[exponentialMovingAverage 12] 1304.58
+[movingAverage] 1318.3
 [exponentialMovingAverage 26] 1262.24
-[MACD] 42.3347
 
 [Day 145]
 [Stock]	1323
-[exponentialMovingAverage 12] 1310.13
+[movingAverage] 1318.4
 [exponentialMovingAverage 26] 1269.78
-[MACD] 40.3503
 
 [Day 146]
 [Stock]	1385
-[exponentialMovingAverage 12] 1324.37
+[movingAverage] 1318.43
 [exponentialMovingAverage 26] 1281.32
-[MACD] 43.0499
 
 [Day 147]
 [Stock]	1423
-[exponentialMovingAverage 12] 1342.58
+[movingAverage] 1318.88
 [exponentialMovingAverage 26] 1294.95
-[MACD] 47.6282
 
 [Day 148]
 [Stock]	1419
-[exponentialMovingAverage 12] 1357.91
+[movingAverage] 1319.58
 [exponentialMovingAverage 26] 1307.41
-[MACD] 50.5029
 
 [Day 149]
 [Stock]	1454
-[exponentialMovingAverage 12] 1376.53
+[movingAverage] 1320.24
 [exponentialMovingAverage 26] 1321.59
-[MACD] 54.9359
+[BUY] 60 for 87240€
 
 [Day 150]
 [Stock]	1454
-[exponentialMovingAverage 12] 1392.64
+[movingAverage] 1321.13
 [exponentialMovingAverage 26] 1334.82
-[MACD] 57.8204
 
 [Day 151]
 [Stock]	1417
-[exponentialMovingAverage 12] 1400.74
+[movingAverage] 1322
 [exponentialMovingAverage 26] 1344.35
-[MACD] 56.3931
 
 [Day 152]
 [Stock]	1461
-[exponentialMovingAverage 12] 1414.13
+[movingAverage] 1322.62
 [exponentialMovingAverage 26] 1356.34
-[MACD] 57.7863
 
 [Day 153]
 [Stock]	1489
-[exponentialMovingAverage 12] 1429.83
+[movingAverage] 1323.52
 [exponentialMovingAverage 26] 1369.55
-[MACD] 60.2864
 
 [Day 154]
 [Stock]	1501
-[exponentialMovingAverage 12] 1444.94
+[movingAverage] 1324.59
 [exponentialMovingAverage 26] 1382.76
-[MACD] 62.1809
 
 [Day 155]
 [Stock]	1525
-[exponentialMovingAverage 12] 1461.64
+[movingAverage] 1325.72
 [exponentialMovingAverage 26] 1396.84
-[MACD] 64.8033
 
 [Day 156]
 [Stock]	1508
-[exponentialMovingAverage 12] 1473.35
+[movingAverage] 1326.99
 [exponentialMovingAverage 26] 1408.62
-[MACD] 64.7223
 
 [Day 157]
 [Stock]	1485
-[exponentialMovingAverage 12] 1479.26
+[movingAverage] 1328.13
 [exponentialMovingAverage 26] 1417.9
-[MACD] 61.3534
 
 [Day 158]
 [Stock]	1427
-[exponentialMovingAverage 12] 1474.17
+[movingAverage] 1329.12
 [exponentialMovingAverage 26] 1422.26
-[MACD] 51.9073
 
 [Day 159]
 [Stock]	1441
-[exponentialMovingAverage 12] 1470.69
+[movingAverage] 1329.73
 [exponentialMovingAverage 26] 1427.25
-[MACD] 43.4415
 
 [Day 160]
 [Stock]	1425
-[exponentialMovingAverage 12] 1464.53
+[movingAverage] 1330.42
 [exponentialMovingAverage 26] 1430.53
-[MACD] 33.9929
 
 [Day 161]
 [Stock]	1378
-[exponentialMovingAverage 12] 1451.05
+[movingAverage] 1331.01
 [exponentialMovingAverage 26] 1429.8
-[MACD] 21.2507
 
 [Day 162]
 [Stock]	1371
-[exponentialMovingAverage 12] 1437.47
+[movingAverage] 1331.29
 [exponentialMovingAverage 26] 1428.18
-[MACD] 9.29773
 
 [Day 163]
 [Stock]	1358
-[exponentialMovingAverage 12] 1422.96
+[movingAverage] 1331.54
 [exponentialMovingAverage 26] 1425.26
-[MACD] -2.29773
 
 [Day 164]
 [Stock]	1383
-[exponentialMovingAverage 12] 1413.05
+[movingAverage] 1331.7
 [exponentialMovingAverage 26] 1423.91
-[MACD] -10.8604
 
 [Day 165]
 [Stock]	1371
-[exponentialMovingAverage 12] 1402.29
+[movingAverage] 1332.01
 [exponentialMovingAverage 26] 1421.36
-[MACD] -19.0669
 
 [Day 166]
 [Stock]	1390
-[exponentialMovingAverage 12] 1395.97
+[movingAverage] 1332.24
 [exponentialMovingAverage 26] 1420.02
-[MACD] -24.0455
 
 [Day 167]
 [Stock]	1433
-[exponentialMovingAverage 12] 1397.69
+[movingAverage] 1332.58
 [exponentialMovingAverage 26] 1421.62
-[MACD] -23.9316
 
 [Day 168]
 [Stock]	1416
-[exponentialMovingAverage 12] 1397.97
+[movingAverage] 1333.18
 [exponentialMovingAverage 26] 1421.58
-[MACD] -23.6097
 
 [Day 169]
 [Stock]	1443
-[exponentialMovingAverage 12] 1403.59
+[movingAverage] 1333.66
 [exponentialMovingAverage 26] 1423.32
-[MACD] -19.7322
 
 [Day 170]
 [Stock]	1451
-[exponentialMovingAverage 12] 1410.97
+[movingAverage] 1334.3
 [exponentialMovingAverage 26] 1425.36
-[MACD] -14.3817
 
 [Day 171]
 [Stock]	1464
-[exponentialMovingAverage 12] 1420.05
+[movingAverage] 1334.98
 [exponentialMovingAverage 26] 1428.01
-[MACD] -7.96301
 
 [Day 172]
 [Stock]	1446
-[exponentialMovingAverage 12] 1426.06
+[movingAverage] 1335.73
 [exponentialMovingAverage 26] 1428.94
-[MACD] -2.87329
 
 [Day 173]
 [Stock]	1450
-[exponentialMovingAverage 12] 1432.42
+[movingAverage] 1336.36
 [exponentialMovingAverage 26] 1429.98
-[MACD] 2.44019
 
 [Day 174]
 [Stock]	1437
-[exponentialMovingAverage 12] 1435.86
+[movingAverage] 1337.01
 [exponentialMovingAverage 26] 1429.99
-[MACD] 5.87036
 
 [Day 175]
 [Stock]	1478
-[exponentialMovingAverage 12] 1444.76
+[movingAverage] 1337.58
 [exponentialMovingAverage 26] 1432.98
-[MACD] 11.7764
 
 [Day 176]
 [Stock]	1480
-[exponentialMovingAverage 12] 1452.42
+[movingAverage] 1338.37
 [exponentialMovingAverage 26] 1436.05
-[MACD] 16.3718
 
 [Day 177]
 [Stock]	1481
-[exponentialMovingAverage 12] 1459
+[movingAverage] 1339.17
 [exponentialMovingAverage 26] 1439.12
-[MACD] 19.8774
 
 [Day 178]
 [Stock]	1475
-[exponentialMovingAverage 12] 1463.24
+[movingAverage] 1339.96
 [exponentialMovingAverage 26] 1441.57
-[MACD] 21.6766
 
 [Day 179]
 [Stock]	1475
-[exponentialMovingAverage 12] 1466.4
+[movingAverage] 1340.71
 [exponentialMovingAverage 26] 1443.97
-[MACD] 22.4259
 
 [Day 180]
 [Stock]	1438
-[exponentialMovingAverage 12] 1463.32
+[movingAverage] 1341.45
 [exponentialMovingAverage 26] 1443.68
-[MACD] 19.6454
 
 [Day 181]
 [Stock]	1417
-[exponentialMovingAverage 12] 1456.73
+[movingAverage] 1341.98
 [exponentialMovingAverage 26] 1442
-[MACD] 14.7279
 
 [Day 182]
 [Stock]	1411
-[exponentialMovingAverage 12] 1449.55
+[movingAverage] 1342.39
 [exponentialMovingAverage 26] 1440.19
-[MACD] 9.35754
 
 [Day 183]
 [Stock]	1416
-[exponentialMovingAverage 12] 1443.65
+[movingAverage] 1342.77
 [exponentialMovingAverage 26] 1439.03
-[MACD] 4.62244
 
 [Day 184]
 [Stock]	1427
-[exponentialMovingAverage 12] 1440.06
+[movingAverage] 1343.16
 [exponentialMovingAverage 26] 1438.88
-[MACD] 1.18372
 
 [Day 185]
 [Stock]	1432
-[exponentialMovingAverage 12] 1437.49
+[movingAverage] 1343.61
 [exponentialMovingAverage 26] 1439.1
-[MACD] -1.61255
 
 [Day 186]
 [Stock]	1392
-[exponentialMovingAverage 12] 1428.99
+[movingAverage] 1344.09
 [exponentialMovingAverage 26] 1436.38
-[MACD] -7.39453
 
 [Day 187]
 [Stock]	1405
-[exponentialMovingAverage 12] 1423.06
+[movingAverage] 1344.34
 [exponentialMovingAverage 26] 1434.72
-[MACD] -11.6567
 
 [Day 188]
 [Stock]	1430
-[exponentialMovingAverage 12] 1421.92
+[movingAverage] 1344.66
 [exponentialMovingAverage 26] 1434.83
-[MACD] -12.9116
 
 [Day 189]
 [Stock]	1418
-[exponentialMovingAverage 12] 1419.58
+[movingAverage] 1345.11
 [exponentialMovingAverage 26] 1433.89
-[MACD] -14.3148
 
 [Day 190]
 [Stock]	1427
-[exponentialMovingAverage 12] 1419.42
+[movingAverage] 1345.49
 [exponentialMovingAverage 26] 1433.44
-[MACD] -14.0214
 
 [Day 191]
 [Stock]	1466
-[exponentialMovingAverage 12] 1425.88
+[movingAverage] 1345.92
 [exponentialMovingAverage 26] 1435.76
-[MACD] -9.8761
 
 [Day 192]
 [Stock]	1442
-[exponentialMovingAverage 12] 1428.77
+[movingAverage] 1346.54
 [exponentialMovingAverage 26] 1436.03
-[MACD] -7.25916
 
 [Day 193]
 [Stock]	1411
-[exponentialMovingAverage 12] 1426.83
+[movingAverage] 1347.03
 [exponentialMovingAverage 26] 1433.85
-[MACD] -7.01843
 
 [Day 194]
 [Stock]	1426
-[exponentialMovingAverage 12] 1427.28
+[movingAverage] 1347.36
 [exponentialMovingAverage 26] 1432.85
-[MACD] -5.56689
 
 [Day 195]
 [Stock]	1377
-[exponentialMovingAverage 12] 1420
+[movingAverage] 1347.76
 [exponentialMovingAverage 26] 1428.19
-[MACD] -8.18799
 
 [Day 196]
 [Stock]	1401
-[exponentialMovingAverage 12] 1416.91
+[movingAverage] 1347.91
 [exponentialMovingAverage 26] 1425.49
-[MACD] -8.58264
 
 [Day 197]
 [Stock]	1389
-[exponentialMovingAverage 12] 1412.31
+[movingAverage] 1348.18
 [exponentialMovingAverage 26] 1422.05
-[MACD] -9.74353
 
 [Day 198]
 [Stock]	1420
-[exponentialMovingAverage 12] 1413.03
+[movingAverage] 1348.38
 [exponentialMovingAverage 26] 1421.12
-[MACD] -8.09399
 
 [Day 199]
 [Stock]	1420
-[exponentialMovingAverage 12] 1413.38
+[movingAverage] 1348.74
 [exponentialMovingAverage 26] 1420.26
-[MACD] -6.87744
 
 [Day 200]
 [Stock]	1404
-[exponentialMovingAverage 12] 1411.09
+[movingAverage] 1349.09
 [exponentialMovingAverage 26] 1418.3
-[MACD] -7.21509
 
 [Day 201]
 [Stock]	1372
-[exponentialMovingAverage 12] 1404.21
+[movingAverage] 1349.37
 [exponentialMovingAverage 26] 1414.07
-[MACD] -9.86609
 
 [Day 202]
 [Stock]	1356
-[exponentialMovingAverage 12] 1395.45
+[movingAverage] 1349.48
 [exponentialMovingAverage 26] 1408.95
-[MACD] -13.5057
 
 [Day 203]
 [Stock]	1349
-[exponentialMovingAverage 12] 1386.53
+[movingAverage] 1349.51
 [exponentialMovingAverage 26] 1403.67
-[MACD] -17.1467
 
 [Day 204]
 [Stock]	1342
-[exponentialMovingAverage 12] 1378.03
+[movingAverage] 1349.51
 [exponentialMovingAverage 26] 1398.25
-[MACD] -20.2222
 
 [Day 205]
 [Stock]	1341
-[exponentialMovingAverage 12] 1370.65
+[movingAverage] 1349.47
 [exponentialMovingAverage 26] 1393.13
-[MACD] -22.4744
 
 [Day 206]
 [Stock]	1340
-[exponentialMovingAverage 12] 1364.03
+[movingAverage] 1349.43
 [exponentialMovingAverage 26] 1388.32
-[MACD] -24.2906
 
 [Day 207]
 [Stock]	1335
-[exponentialMovingAverage 12] 1357.73
+[movingAverage] 1349.38
 [exponentialMovingAverage 26] 1383.41
-[MACD] -25.6824
 
 [Day 208]
 [Stock]	1345
-[exponentialMovingAverage 12] 1353.51
+[movingAverage] 1349.32
 [exponentialMovingAverage 26] 1379.48
-[MACD] -25.9716
 
 [Day 209]
 [Stock]	1340
-[exponentialMovingAverage 12] 1349.24
+[movingAverage] 1349.3
 [exponentialMovingAverage 26] 1375.37
-[MACD] -26.1296
 
 [Day 210]
 [Stock]	1343
-[exponentialMovingAverage 12] 1346.06
+[movingAverage] 1349.25
 [exponentialMovingAverage 26] 1371.7
-[MACD] -25.6367
 
 [Day 211]
 [Stock]	1360
-[exponentialMovingAverage 12] 1346.49
+[movingAverage] 1349.22
 [exponentialMovingAverage 26] 1369.53
-[MACD] -23.0399
 
 [Day 212]
 [Stock]	1379
-[exponentialMovingAverage 12] 1350.6
+[movingAverage] 1349.27
 [exponentialMovingAverage 26] 1368.97
-[MACD] -18.3633
 
 [Day 213]
 [Stock]	1363
-[exponentialMovingAverage 12] 1352.58
+[movingAverage] 1349.41
 [exponentialMovingAverage 26] 1367.26
-[MACD] -14.6796
 
 [Day 214]
 [Stock]	1350
-[exponentialMovingAverage 12] 1352.67
+[movingAverage] 1349.47
 [exponentialMovingAverage 26] 1364.7
-[MACD] -12.0371
 
 [Day 215]
 [Stock]	1340
-[exponentialMovingAverage 12] 1351.29
+[movingAverage] 1349.48
 [exponentialMovingAverage 26] 1361.64
-[MACD] -10.3433
 
 [Day 216]
 [Stock]	1361
-[exponentialMovingAverage 12] 1353.27
+[movingAverage] 1349.43
 [exponentialMovingAverage 26] 1360.35
-[MACD] -7.08118
 
 [Day 217]
 [Stock]	1316
-[exponentialMovingAverage 12] 1348.08
+[movingAverage] 1349.49
 [exponentialMovingAverage 26] 1355.92
-[MACD] -7.84045
 
 [Day 218]
 [Stock]	1322
-[exponentialMovingAverage 12] 1344.13
+[movingAverage] 1349.33
 [exponentialMovingAverage 26] 1352.36
-[MACD] -8.22791
 
 [Day 219]
 [Stock]	1259
-[exponentialMovingAverage 12] 1330.72
+[movingAverage] 1349.21
 [exponentialMovingAverage 26] 1344.47
-[MACD] -13.7522
+[SELL] 60 for 75540€
 
 [Day 220]
 [Stock]	1253
-[exponentialMovingAverage 12] 1317.36
+[movingAverage] 1348.8
 [exponentialMovingAverage 26] 1336.57
-[MACD] -19.2136
 
 [Day 221]
 [Stock]	1243
-[exponentialMovingAverage 12] 1303.64
+[movingAverage] 1348.37
 [exponentialMovingAverage 26] 1328.43
-[MACD] -24.7864
 
 [Day 222]
 [Stock]	1231
-[exponentialMovingAverage 12] 1289.32
+[movingAverage] 1347.9
 [exponentialMovingAverage 26] 1319.77
-[MACD] -30.4543
 
 [Day 223]
 [Stock]	1232
-[exponentialMovingAverage 12] 1276.59
+[movingAverage] 1347.38
 [exponentialMovingAverage 26] 1311.68
-[MACD] -35.0912
 
 [Day 224]
 [Stock]	1249
-[exponentialMovingAverage 12] 1268.12
+[movingAverage] 1346.86
 [exponentialMovingAverage 26] 1305.29
-[MACD] -37.1781
 
 [Day 225]
 [Stock]	1224
-[exponentialMovingAverage 12] 1257.46
+[movingAverage] 1346.43
 [exponentialMovingAverage 26] 1297.54
-[MACD] -40.0797
 
 [Day 226]
 [Stock]	1231
-[exponentialMovingAverage 12] 1249.67
+[movingAverage] 1345.89
 [exponentialMovingAverage 26] 1290.87
-[MACD] -41.1995
 
 [Day 227]
 [Stock]	1239
-[exponentialMovingAverage 12] 1244.63
+[movingAverage] 1345.39
 [exponentialMovingAverage 26] 1285.28
-[MACD] -40.6482
 
 [Day 228]
 [Stock]	1236
-[exponentialMovingAverage 12] 1240.42
+[movingAverage] 1344.92
 [exponentialMovingAverage 26] 1279.84
-[MACD] -39.4202
 
 [Day 229]
 [Stock]	1235
-[exponentialMovingAverage 12] 1237.67
+[movingAverage] 1344.45
 [exponentialMovingAverage 26] 1274.68
-[MACD] -37.0115
 
 [Day 230]
 [Stock]	1264
-[exponentialMovingAverage 12] 1240.41
+[movingAverage] 1343.97
 [exponentialMovingAverage 26] 1271.99
-[MACD] -31.5754
 
 [Day 231]
 [Stock]	1241
-[exponentialMovingAverage 12] 1240.36
+[movingAverage] 1343.63
 [exponentialMovingAverage 26] 1267.81
-[MACD] -27.453
 
 [Day 232]
 [Stock]	1241
-[exponentialMovingAverage 12] 1240.54
+[movingAverage] 1343.19
 [exponentialMovingAverage 26] 1263.92
-[MACD] -23.3846
 
 [Day 233]
 [Stock]	1228
-[exponentialMovingAverage 12] 1238.87
+[movingAverage] 1342.75
 [exponentialMovingAverage 26] 1259.35
-[MACD] -20.4814
 
 [Day 234]
 [Stock]	1221
-[exponentialMovingAverage 12] 1236.32
+[movingAverage] 1342.26
 [exponentialMovingAverage 26] 1254.57
-[MACD] -18.2493
 
 [Day 235]
 [Stock]	1228
-[exponentialMovingAverage 12] 1234.97
+[movingAverage] 1341.75
 [exponentialMovingAverage 26] 1250.66
-[MACD] -15.6837
 
 [Day 236]
 [Stock]	1220
-[exponentialMovingAverage 12] 1232.45
+[movingAverage] 1341.27
 [exponentialMovingAverage 26] 1246.47
-[MACD] -14.0242
 
 [Day 237]
 [Stock]	1220
-[exponentialMovingAverage 12] 1230.29
+[movingAverage] 1340.76
 [exponentialMovingAverage 26] 1242.64
-[MACD] -12.3433
 
 [Day 238]
 [Stock]	1189
-[exponentialMovingAverage 12] 1223.42
+[movingAverage] 1340.26
 [exponentialMovingAverage 26] 1236.91
-[MACD] -13.4829
 
 [Day 239]
 [Stock]	1181
-[exponentialMovingAverage 12] 1215.86
+[movingAverage] 1339.62
 [exponentialMovingAverage 26] 1231.12
-[MACD] -15.2635
 
 [Day 240]
 [Stock]	1190
-[exponentialMovingAverage 12] 1210.42
+[movingAverage] 1338.97
 [exponentialMovingAverage 26] 1226.52
-[MACD] -16.1011
 
 [Day 241]
 [Stock]	1188
-[exponentialMovingAverage 12] 1205.27
+[movingAverage] 1338.35
 [exponentialMovingAverage 26] 1222.23
-[MACD] -16.9644
 
 [Day 242]
 [Stock]	1164
-[exponentialMovingAverage 12] 1197.03
+[movingAverage] 1337.73
 [exponentialMovingAverage 26] 1216.6
-[MACD] -19.5726
 
 [Day 243]
 [Stock]	1147
-[exponentialMovingAverage 12] 1187.45
+[movingAverage] 1337.02
 [exponentialMovingAverage 26] 1210.27
-[MACD] -22.8163
 
 [Day 244]
 [Stock]	1145
-[exponentialMovingAverage 12] 1178.77
+[movingAverage] 1336.24
 [exponentialMovingAverage 26] 1204.27
-[MACD] -25.4957
 
 [Day 245]
 [Stock]	1135
-[exponentialMovingAverage 12] 1169.78
+[movingAverage] 1335.47
 [exponentialMovingAverage 26] 1198.03
-[MACD] -28.2463
 
 [Day 246]
 [Stock]	1139
-[exponentialMovingAverage 12] 1162.6
+[movingAverage] 1334.66
 [exponentialMovingAverage 26] 1192.44
-[MACD] -29.8391
 
 [Day 247]
 [Stock]	1169
-[exponentialMovingAverage 12] 1161.09
+[movingAverage] 1333.87
 [exponentialMovingAverage 26] 1189.4
-[MACD] -28.312
 
 [Day 248]
 [Stock]	1187
-[exponentialMovingAverage 12] 1163.1
+[movingAverage] 1333.2
 [exponentialMovingAverage 26] 1187.91
-[MACD] -24.8035
 
 [Day 249]
 [Stock]	1171
-[exponentialMovingAverage 12] 1163.08
+[movingAverage] 1332.62
 [exponentialMovingAverage 26] 1185.35
-[MACD] -22.2736
 
 [Day 250]
 [Stock]	1129
-[exponentialMovingAverage 12] 1157.22
+[movingAverage] 1331.98
 [exponentialMovingAverage 26] 1179.86
-[MACD] -22.6396
 
 [Day 251]
 [Stock]	1120
-[exponentialMovingAverage 12] 1150.74
+[movingAverage] 1331.17
 [exponentialMovingAverage 26] 1174.04
-[MACD] -23.2964
 
 [Day 252]
 [Stock]	1118
-[exponentialMovingAverage 12] 1144.74
+[movingAverage] 1330.34
 [exponentialMovingAverage 26] 1168.37
-[MACD] -23.6268
 [Stock] 0
