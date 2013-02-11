@@ -1,10 +1,3 @@
-/*
- * File:   Trade.h
- * Author: floran
- *
- * Created on 31 janvier 2013, 15:38
- */
-
 #ifndef __TRADER_H__
 #define	__TRADER_H__
 
@@ -28,14 +21,16 @@ public:
     BUY,
     SELL,
     WAIT
-  };
+    };
 
     void        Trade();
     void        buy(int);
     void        sell(int);
 
-    Action      pivotPoints();
-    Action      movingAverage();
+    Action      technicalAnalysis();
+    float       movingAverage();
+    float       exponentialMovingAverage(int);
+    float       MACD(int, int);
 
  protected:
     int         _capital;
@@ -43,6 +38,7 @@ public:
     int         _stock;
     int         _stockPrice;
     vector<int>	_stockPrices;
+
     Logger      *_logger;
 };
 

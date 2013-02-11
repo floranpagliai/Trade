@@ -54,7 +54,7 @@ void    Trader::Trade() {
       _logger->writeLog(log.str());
       log.str("");
       //movingAverage();
-      switch (movingAverage()) {
+      switch (technicalAnalysis()) {
           case BUY: buy((_capital)/_stockPrice); break;
           case SELL: sell(_stock); break;
           case WAIT: cout << "wait " << endl; break;
