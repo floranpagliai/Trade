@@ -48,7 +48,7 @@ void Trader::Trade() {
         } else {
             _stockPrice = atoi(buffer);
             _stockPrices.push_back(_stockPrice);
-            log << endl << "[Day " << day + 1 << "]" << endl << "[Capital] " << _capital << endl
+            log << endl << "--Day " << day + 1 << "--" << endl << "[Capital] " << _capital << endl
                     << "[Stock]\t" << _stockPrice;
             _logger->writeLog(log.str());
             log.str("");
