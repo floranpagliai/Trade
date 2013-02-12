@@ -1,52 +1,54 @@
 #include "Trader.h"
 
-Trader::Action  Trader::technicalAnalysis() {
-    float       mAverage = movingAverage();;
-    float       eMAverage = exponentialMovingAverage(26);
-
-    if (_stockPrices.size() >= 26)
-    {
-    if (eMAverage >= mAverage)
-        return BUY;
-    else if (eMAverage <= mAverage)
-        return SELL;
-    else
+Trader::Action Trader::technicalAnalysis() {
+    if (_stockPrices.size() >= 26) {
+        float macd = MACD(12, 26);
+        _macd.push_back(MACD(12, 26));
+        std::stringstream log;
+        log << "[MACD] " << macd;
+        _logger->writeLog(log.str());
+        log.str("");
+        if (_stockPrices.size() > 35) {
+            float signalLine = exponentialMovingAverage(9, _macd);
+            log << "[Signal Line] " << signalLine ;
+            _logger->writeLog(log.str());
+            if (macd <= signalLine)
+                return BUY;
+            else if (macd >= signalLine)
+                return SELL;
+            else
+                return WAIT;
+        }
         return WAIT;
     }
     return WAIT;
 }
 
-float             Trader::movingAverage() {
-    float         movingAverage = 0;
+float Trader::movingAverage(int days) {
+    float movingAverage = 0;
 
-    for (int i = 0; i < _stockPrices.size() - 1; i++)
-    {
+    for (int i = 0; i < days - 1; i++) {
         movingAverage += _stockPrices[i];
     }
-   movingAverage /= _stockPrices.size();
-   std::stringstream	log;
-   log << "[movingAverage] " << movingAverage;
-   _logger->writeLog(log.str());
-   return movingAverage;
+    movingAverage /= days;
+    std::stringstream log;
+
+    return movingAverage;
 }
 
-float           Trader::MACD(int EMAShort, int EMALong) {
-    return exponentialMovingAverage(EMAShort) - exponentialMovingAverage(EMALong);
-}
+float Trader::exponentialMovingAverage(int days, vector<int> stockPrices) {
+    float exponentialMovingAverage = 0;
+    int coeff = 0;
+    int i = stockPrices.size() - days;
 
-float             Trader::exponentialMovingAverage(int days) {
-    float         exponentialMovingAverage = 0;
-    int         coeff = 0;
-    int      i = _stockPrices.size() - days;
-
-    for (int n = 0; n < days; n++)
-    {
-        exponentialMovingAverage += _stockPrices[i++] * (n + 1);
+    for (int n = 0; n < days; n++) {
+        exponentialMovingAverage += stockPrices[i++] * (n + 1);
         coeff += (n + 1);
     }
     exponentialMovingAverage /= coeff;
-    std::stringstream	log;
-    log << "[exponentialMovingAverage " << days << "] " << exponentialMovingAverage;
-    _logger->writeLog(log.str());
-   return exponentialMovingAverage;
+    return exponentialMovingAverage;
+}
+
+float Trader::MACD(int EMAShort, int EMALong) {
+    return exponentialMovingAverage(EMAShort, _stockPrices) - exponentialMovingAverage(EMALong, _stockPrices);
 }

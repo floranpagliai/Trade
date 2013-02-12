@@ -14,32 +14,32 @@ public:
     Trader(int capital, Logger *logger);
     virtual ~Trader();
 
-    int         getCapital() const;
-    int         getDays() const;
+    int getCapital() const;
+    int getDays() const;
 
-    enum	Action {
-    BUY,
-    SELL,
-    WAIT
+    enum Action {
+        BUY,
+        SELL,
+        WAIT
     };
 
-    void        Trade();
-    void        buy(int);
-    void        sell(int);
+    void Trade();
+    void buy(int);
+    void sell(int);
 
-    Action      technicalAnalysis();
-    float       movingAverage();
-    float       exponentialMovingAverage(int);
-    float       MACD(int, int);
+    Action technicalAnalysis();
+    float movingAverage(int);
+    float exponentialMovingAverage(int, vector<int>);
+    float MACD(int, int);
 
- protected:
-    int         _capital;
-    int         _days;
-    int         _stock;
-    int         _stockPrice;
-    vector<int>	_stockPrices;
-
-    Logger      *_logger;
+protected:
+    int _capital;
+    int _days;
+    int _stock;
+    int _stockPrice;
+    vector<int> _stockPrices;
+    vector<int> _macd;
+    Logger *_logger;
 };
 
 #endif	/* __TRADER_H__ */

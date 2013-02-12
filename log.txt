@@ -1,9155 +1,1505 @@
 ROBOT TRADER QUANTUM LOG
 [Capital]	100000
-[Period]	1524
+[Period]	254
 
 
 [Day 1]
 [Capital] 100000
-[Stock]	4234
-[movingAverage] 0
-[exponentialMovingAverage 26] -1.01729e+07
+[Stock]	2302
 
 [Day 2]
 [Capital] 100000
-[Stock]	4282
-[movingAverage] 2117
-[exponentialMovingAverage 26] -1.85017e+07
+[Stock]	2300
 
 [Day 3]
 [Capital] 100000
-[Stock]	4336
-[movingAverage] 2838.67
-[exponentialMovingAverage 26] 306987
+[Stock]	2253
 
 [Day 4]
 [Capital] 100000
-[Stock]	4350
-[movingAverage] 3213
-[exponentialMovingAverage 26] 6.37364e+06
+[Stock]	2308
 
 [Day 5]
 [Capital] 100000
-[Stock]	4372
-[movingAverage] 3440.4
-[exponentialMovingAverage 26] 1.80799e+06
+[Stock]	2282
 
 [Day 6]
 [Capital] 100000
-[Stock]	4382
-[movingAverage] 3595.67
-[exponentialMovingAverage 26] -2.72033e+06
+[Stock]	2311
 
 [Day 7]
 [Capital] 100000
-[Stock]	4415
-[movingAverage] 3708
-[exponentialMovingAverage 26] -4.6947e+06
+[Stock]	2349
 
 [Day 8]
 [Capital] 100000
-[Stock]	4420
-[movingAverage] 3796.38
-[exponentialMovingAverage 26] -6.48056e+06
+[Stock]	2328
 
 [Day 9]
 [Capital] 100000
-[Stock]	4419
-[movingAverage] 3865.67
-[exponentialMovingAverage 26] -6.41458e+06
+[Stock]	2384
 
 [Day 10]
 [Capital] 100000
-[Stock]	4482
-[movingAverage] 3921
-[exponentialMovingAverage 26] -4.2247e+06
+[Stock]	2332
 
 [Day 11]
 [Capital] 100000
-[Stock]	4484
-[movingAverage] 3972
-[exponentialMovingAverage 26] -1.42712e+07
+[Stock]	2311
 
 [Day 12]
 [Capital] 100000
-[Stock]	4498
-[movingAverage] 4014.67
-[exponentialMovingAverage 26] -1.20813e+07
+[Stock]	2268
 
 [Day 13]
 [Capital] 100000
-[Stock]	4452
-[movingAverage] 4051.85
-[exponentialMovingAverage 26] 2.34488e+06
+[Stock]	2259
 
 [Day 14]
 [Capital] 100000
-[Stock]	4292
-[movingAverage] 4080.43
-[exponentialMovingAverage 26] 1.67711e+07
+[Stock]	2230
 
 [Day 15]
 [Capital] 100000
-[Stock]	4408
-[movingAverage] 4094.53
-[exponentialMovingAverage 26] 6.72451e+06
+[Stock]	2215
 
 [Day 16]
 [Capital] 100000
-[Stock]	4358
-[movingAverage] 4114.12
-[exponentialMovingAverage 26] -227079
+[Stock]	2152
 
 [Day 17]
 [Capital] 100000
-[Stock]	4308
-[movingAverage] 4128.47
-[exponentialMovingAverage 26] -1.37506e+07
+[Stock]	2120
 
 [Day 18]
 [Capital] 100000
-[Stock]	4300
-[movingAverage] 4138.44
-[exponentialMovingAverage 26] 1.40064e+07
+[Stock]	2113
 
 [Day 19]
 [Capital] 100000
-[Stock]	4348
-[movingAverage] 4146.95
-[exponentialMovingAverage 26] -7.18208e+06
+[Stock]	2113
 
 [Day 20]
 [Capital] 100000
-[Stock]	4266
-[movingAverage] 4157
-[exponentialMovingAverage 26] 8.33851e+06
+[Stock]	2142
 
 [Day 21]
 [Capital] 100000
-[Stock]	4265
-[movingAverage] 4162.19
-[exponentialMovingAverage 26] -613658
+[Stock]	2149
 
 [Day 22]
 [Capital] 100000
-[Stock]	4348
-[movingAverage] 4166.86
-[exponentialMovingAverage 26] 3.04396e+06
+[Stock]	2267
 
 [Day 23]
 [Capital] 100000
-[Stock]	4338
-[movingAverage] 4174.74
-[exponentialMovingAverage 26] 6.70158e+06
+[Stock]	2255
 
 [Day 24]
 [Capital] 100000
-[Stock]	4366
-[movingAverage] 4181.54
-[exponentialMovingAverage 26] 3.30321e+06
+[Stock]	2261
 
 [Day 25]
 [Capital] 100000
-[Stock]	4362
-[movingAverage] 4188.92
-[exponentialMovingAverage 26] 4.94577e+06
+[Stock]	2304
 
 [Day 26]
 [Capital] 100000
-[Stock]	4380
-[movingAverage] 4195.58
-[exponentialMovingAverage 26] 4360.69
-[BUY] 22 for 96360€
+[Stock]	2343
+[MACD] -3.67505
 
 [Day 27]
-[Capital] 3634
-[Stock]	4400
-[movingAverage] 4202.41
-[exponentialMovingAverage 26] 4363.36
+[Capital] 100000
+[Stock]	2370
+[MACD] 13.584
 
 [Day 28]
-[Capital] 3634
-[Stock]	4401
-[movingAverage] 4209.46
-[exponentialMovingAverage 26] 4365.62
+[Capital] 100000
+[Stock]	2387
+[MACD] 30.406
 
 [Day 29]
-[Capital] 3634
-[Stock]	4375
-[movingAverage] 4216.07
-[exponentialMovingAverage 26] 4365.62
+[Capital] 100000
+[Stock]	2287
+[MACD] 36.4858
 
 [Day 30]
-[Capital] 3634
-[Stock]	4410
-[movingAverage] 4221.37
-[exponentialMovingAverage 26] 4368.1
+[Capital] 100000
+[Stock]	2227
+[MACD] 35.7351
 
 [Day 31]
-[Capital] 3634
-[Stock]	4317
-[movingAverage] 4227.45
-[exponentialMovingAverage 26] 4363.52
+[Capital] 100000
+[Stock]	2306
+[MACD] 39.594
 
 [Day 32]
-[Capital] 3634
-[Stock]	4310
-[movingAverage] 4230.25
-[exponentialMovingAverage 26] 4358.58
+[Capital] 100000
+[Stock]	2273
+[MACD] 38.4146
 
 [Day 33]
-[Capital] 3634
-[Stock]	4260
-[movingAverage] 4232.67
-[exponentialMovingAverage 26] 4350.15
+[Capital] 100000
+[Stock]	2316
+[MACD] 38.8774
 
 [Day 34]
-[Capital] 3634
-[Stock]	4225
-[movingAverage] 4233.47
-[exponentialMovingAverage 26] 4339.56
+[Capital] 100000
+[Stock]	2332
+[MACD] 38.3818
 
 [Day 35]
-[Capital] 3634
-[Stock]	4212
-[movingAverage] 4233.23
-[exponentialMovingAverage 26] 4328.56
+[Capital] 100000
+[Stock]	2368
+[MACD] 39.936
 
 [Day 36]
-[Capital] 3634
-[Stock]	4216
-[movingAverage] 4232.64
-[exponentialMovingAverage 26] 4318.45
+[Capital] 100000
+[Stock]	2329
+[MACD] 36.8845
+[Signal Line] 37.4
+[BUY] 12 for 27948€
 
 [Day 37]
-[Capital] 3634
-[Stock]	4190
-[movingAverage] 4232.19
-[exponentialMovingAverage 26] 4307.17
+[Capital] 71943
+[Stock]	2353
+[MACD] 34.8674
+[Signal Line] 36.8889
+[BUY] 12 for 28236€
 
 [Day 38]
-[Capital] 3634
-[Stock]	4143
-[movingAverage] 4231.08
-[exponentialMovingAverage 26] 4293.25
+[Capital] 43641
+[Stock]	2302
+[MACD] 28.2734
+[Signal Line] 35.0889
+[BUY] 13 for 29926€
 
 [Day 39]
-[Capital] 3634
-[Stock]	4304
-[movingAverage] 4228.82
-[exponentialMovingAverage 26] 4292.26
+[Capital] 13694
+[Stock]	2343
+[MACD] 25.5728
+[Signal Line] 32.8667
 
 [Day 40]
-[Capital] 3634
-[Stock]	4310
-[movingAverage] 4230.7
-[exponentialMovingAverage 26] 4292.14
+[Capital] 13694
+[Stock]	2384
+[MACD] 26.7278
+[Signal Line] 31.0667
 
 [Day 41]
-[Capital] 3634
-[Stock]	4260
-[movingAverage] 4232.63
-[exponentialMovingAverage 26] 4288.27
+[Capital] 13694
+[Stock]	2379
+[MACD] 27.9617
+[Signal Line] 29.7556
 
 [Day 42]
-[Capital] 3634
-[Stock]	4252
-[movingAverage] 4233.29
-[exponentialMovingAverage 26] 4284.22
+[Capital] 13694
+[Stock]	2403
+[MACD] 30.3972
+[Signal Line] 29.2889
+[SELL] 37 for 88911€
 
 [Day 43]
-[Capital] 3634
-[Stock]	4238
-[movingAverage] 4233.72
-[exponentialMovingAverage 26] 4279.44
+[Capital] 102451
+[Stock]	2392
+[MACD] 30.4146
+[Signal Line] 29
 
 [Day 44]
-[Capital] 3634
-[Stock]	4210
-[movingAverage] 4233.82
-[exponentialMovingAverage 26] 4272.78
+[Capital] 102451
+[Stock]	2421
+[MACD] 32.4175
+[Signal Line] 29.2889
 
 [Day 45]
-[Capital] 3634
-[Stock]	4150
-[movingAverage] 4233.29
-[exponentialMovingAverage 26] 4261.94
+[Capital] 102451
+[Stock]	2446
+[MACD] 35.3945
+[Signal Line] 30.3333
 
 [Day 46]
-[Capital] 3634
-[Stock]	4086
-[movingAverage] 4231.48
-[exponentialMovingAverage 26] 4246.92
+[Capital] 102451
+[Stock]	2386
+[MACD] 32.8674
+[Signal Line] 30.8
 
 [Day 47]
-[Capital] 3634
-[Stock]	4082
-[movingAverage] 4228.38
-[exponentialMovingAverage 26] 4232.12
+[Capital] 102451
+[Stock]	2142
+[MACD] 10.8789
+[Signal Line] 26.9111
+[BUY] 14 for 29988€
 
 [Day 48]
-[Capital] 3634
-[Stock]	4108
-[movingAverage] 4225.33
-[exponentialMovingAverage 26] 4219.76
-[SELL] 22 for 90376€
+[Capital] 72354
+[Stock]	2151
+[MACD] -7.51416
+[Signal Line] 20.0222
+[BUY] 13 for 27963€
 
 [Day 49]
-[Capital] 93868
-[Stock]	4050
-[movingAverage] 4222.94
-[exponentialMovingAverage 26] 4203.79
+[Capital] 44324
+[Stock]	2124
+[MACD] -26.1096
+[Signal Line] 10.0444
+[BUY] 14 for 29736€
 
 [Day 50]
-[Capital] 93868
-[Stock]	3992
-[movingAverage] 4219.48
-[exponentialMovingAverage 26] 4184.35
+[Capital] 14566
+[Stock]	2207
+[MACD] -35.5212
+[Signal Line] -0.577778
 
 [Day 51]
-[Capital] 93868
-[Stock]	4060
-[movingAverage] 4215.02
-[exponentialMovingAverage 26] 4171.01
+[Capital] 14566
+[Stock]	2204
+[MACD] -44.1082
+[Signal Line] -11.6222
 
 [Day 52]
-[Capital] 93868
-[Stock]	4053
-[movingAverage] 4212.04
-[exponentialMovingAverage 26] 4158.01
+[Capital] 14566
+[Stock]	2234
+[MACD] -48.8049
+[Signal Line] -21.8222
 
 [Day 53]
-[Capital] 93868
-[Stock]	3975
-[movingAverage] 4209.04
-[exponentialMovingAverage 26] 4140.16
+[Capital] 14566
+[Stock]	2219
+[MACD] -53.0854
+[Signal Line] -31.2889
 
 [Day 54]
-[Capital] 93868
-[Stock]	3958
-[movingAverage] 4204.7
-[exponentialMovingAverage 26] 4122.27
+[Capital] 14566
+[Stock]	2247
+[MACD] -53.5112
+[Signal Line] -38.8667
 
 [Day 55]
-[Capital] 93868
-[Stock]	3985
-[movingAverage] 4200.22
-[exponentialMovingAverage 26] 4107.63
+[Capital] 14566
+[Stock]	2143
+[MACD] -60.6323
+[Signal Line] -45.8889
 
 [Day 56]
-[Capital] 93868
-[Stock]	3994
-[movingAverage] 4196.38
-[exponentialMovingAverage 26] 4094.78
+[Capital] 14566
+[Stock]	2099
+[MACD] -68.4814
+[Signal Line] -52.4667
 
 [Day 57]
-[Capital] 93868
-[Stock]	3960
-[movingAverage] 4192.82
-[exponentialMovingAverage 26] 4080.59
+[Capital] 14566
+[Stock]	2118
+[MACD] -71.0513
+[Signal Line] -57.9111
 
 [Day 58]
-[Capital] 93868
-[Stock]	3940
-[movingAverage] 4188.81
-[exponentialMovingAverage 26] 4065.94
+[Capital] 14566
+[Stock]	2084
+[MACD] -72.6638
+[Signal Line] -62.1333
 
 [Day 59]
-[Capital] 93868
-[Stock]	3915
-[movingAverage] 4184.59
-[exponentialMovingAverage 26] 4050.49
+[Capital] 14566
+[Stock]	2080
+[MACD] -71.2622
+[Signal Line] -65.1333
 
 [Day 60]
-[Capital] 93868
-[Stock]	3946
-[movingAverage] 4180.1
-[exponentialMovingAverage 26] 4038.32
+[Capital] 14566
+[Stock]	2011
+[MACD] -75.2422
+[Signal Line] -68.1333
 
 [Day 61]
-[Capital] 93868
-[Stock]	3922
-[movingAverage] 4176.26
-[exponentialMovingAverage 26] 4025.16
+[Capital] 14566
+[Stock]	2035
+[MACD] -76.4272
+[Signal Line] -70.6444
 
 [Day 62]
-[Capital] 93868
-[Stock]	3852
-[movingAverage] 4172.16
-[exponentialMovingAverage 26] 4007.65
+[Capital] 14566
+[Stock]	2048
+[MACD] -76.3833
+[Signal Line] -72.5333
 
 [Day 63]
-[Capital] 93868
-[Stock]	3918
-[movingAverage] 4167.08
-[exponentialMovingAverage 26] 3996.06
+[Capital] 14566
+[Stock]	2104
+[MACD] -70.6338
+[Signal Line] -72.7111
+[SELL] 41 for 86264€
 
 [Day 64]
-[Capital] 93868
-[Stock]	3850
-[movingAverage] 4163.19
-[exponentialMovingAverage 26] 3980.21
+[Capital] 100678
+[Stock]	2104
+[MACD] -64.312
+[Signal Line] -71.3111
 
 [Day 65]
-[Capital] 93868
-[Stock]	3930
-[movingAverage] 4158.37
-[exponentialMovingAverage 26] 3971.13
+[Capital] 100678
+[Stock]	2090
+[MACD] -58.0042
+[Signal Line] -68.6222
 
 [Day 66]
-[Capital] 93868
-[Stock]	3948
-[movingAverage] 4154.91
-[exponentialMovingAverage 26] 3964.44
+[Capital] 100678
+[Stock]	2068
+[MACD] -52.5186
+[Signal Line] -64.9556
 
 [Day 67]
-[Capital] 93868
-[Stock]	4030
-[movingAverage] 4151.82
-[exponentialMovingAverage 26] 3964.85
+[Capital] 100678
+[Stock]	2096
+[MACD] -43.4045
+[Signal Line] -59.9111
 
 [Day 68]
-[Capital] 93868
-[Stock]	3964
-[movingAverage] 4150.03
-[exponentialMovingAverage 26] 3961.03
+[Capital] 100678
+[Stock]	2063
+[MACD] -37.1267
+[Signal Line] -54.3111
 
 [Day 69]
-[Capital] 93868
-[Stock]	3938
-[movingAverage] 4147.33
-[exponentialMovingAverage 26] 3956.11
+[Capital] 100678
+[Stock]	2092
+[MACD] -29.0427
+[Signal Line] -47.8667
 
 [Day 70]
-[Capital] 93868
-[Stock]	3970
-[movingAverage] 4144.34
-[exponentialMovingAverage 26] 3954.41
+[Capital] 100678
+[Stock]	2136
+[MACD] -17.9702
+[Signal Line] -40.0444
 
 [Day 71]
-[Capital] 93868
-[Stock]	4180
-[movingAverage] 4141.89
-[exponentialMovingAverage 26] 3968.95
+[Capital] 100678
+[Stock]	2154
+[MACD] -6.94019
+[Signal Line] -31.3333
 
 [Day 72]
-[Capital] 93868
-[Stock]	4198
-[movingAverage] 4142.42
-[exponentialMovingAverage 26] 3984.74
+[Capital] 100678
+[Stock]	2158
+[MACD] 2.62817
+[Signal Line] -22.5778
 
 [Day 73]
-[Capital] 93868
-[Stock]	4010
-[movingAverage] 4143.18
-[exponentialMovingAverage 26] 3986.29
+[Capital] 100678
+[Stock]	2207
+[MACD] 13.5713
+[Signal Line] -13.2222
 
 [Day 74]
-[Capital] 93868
-[Stock]	4000
-[movingAverage] 4141.38
-[exponentialMovingAverage 26] 3987.3
+[Capital] 100678
+[Stock]	2197
+[MACD] 21.6965
+[Signal Line] -3.97778
 
 [Day 75]
-[Capital] 93868
-[Stock]	4028
-[movingAverage] 4139.49
-[exponentialMovingAverage 26] 3990.69
+[Capital] 100678
+[Stock]	2178
+[MACD] 26.5271
+[Signal Line] 4.51111
 
 [Day 76]
-[Capital] 93868
-[Stock]	4112
-[movingAverage] 4138.03
-[exponentialMovingAverage 26] 4000.36
+[Capital] 100678
+[Stock]	2167
+[MACD] 29.6853
+[Signal Line] 11.8667
 
 [Day 77]
-[Capital] 93868
-[Stock]	4092
-[movingAverage] 4137.69
-[exponentialMovingAverage 26] 4008.21
+[Capital] 100678
+[Stock]	2155
+[MACD] 30.9644
+[Signal Line] 17.8222
 
 [Day 78]
-[Capital] 93868
-[Stock]	4082
-[movingAverage] 4137.1
-[exponentialMovingAverage 26] 4015.23
+[Capital] 100678
+[Stock]	2184
+[MACD] 33.584
+[Signal Line] 22.8889
 
 [Day 79]
-[Capital] 93868
-[Stock]	4062
-[movingAverage] 4136.41
-[exponentialMovingAverage 26] 4020.69
+[Capital] 100678
+[Stock]	2201
+[MACD] 35.9302
+[Signal Line] 26.9778
 
 [Day 80]
-[Capital] 93868
-[Stock]	4056
-[movingAverage] 4135.48
-[exponentialMovingAverage 26] 4025.45
+[Capital] 100678
+[Stock]	2200
+[MACD] 36.7991
+[Signal Line] 30.1111
 
 [Day 81]
-[Capital] 93868
-[Stock]	4104
-[movingAverage] 4134.49
-[exponentialMovingAverage 26] 4033.49
+[Capital] 100678
+[Stock]	2163
+[MACD] 32.8262
+[Signal Line] 31.5111
 
 [Day 82]
-[Capital] 93868
-[Stock]	4132
-[movingAverage] 4134.12
-[exponentialMovingAverage 26] 4043.27
+[Capital] 100678
+[Stock]	2205
+[MACD] 31.3503
+[Signal Line] 32.0444
+[BUY] 13 for 28665€
 
 [Day 83]
-[Capital] 93868
-[Stock]	4132
-[movingAverage] 4134.1
-[exponentialMovingAverage 26] 4052.65
+[Capital] 71904
+[Stock]	2212
+[MACD] 29.8506
+[Signal Line] 31.7778
+[BUY] 13 for 28756€
 
 [Day 84]
-[Capital] 93868
-[Stock]	4075
-[movingAverage] 4134.07
-[exponentialMovingAverage 26] 4057.32
+[Capital] 43083
+[Stock]	2181
+[MACD] 25.4019
+[Signal Line] 30.5333
+[BUY] 13 for 28353€
 
 [Day 85]
-[Capital] 93868
-[Stock]	4118
-[movingAverage] 4133.38
-[exponentialMovingAverage 26] 4064.79
+[Capital] 14707
+[Stock]	2202
+[MACD] 22.6096
+[Signal Line] 28.7111
 
 [Day 86]
-[Capital] 93868
-[Stock]	4138
-[movingAverage] 4133.2
-[exponentialMovingAverage 26] 4073.16
+[Capital] 14707
+[Stock]	2203
+[MACD] 20.3091
+[Signal Line] 26.6444
 
 [Day 87]
-[Capital] 93868
-[Stock]	4136
-[movingAverage] 4133.25
-[exponentialMovingAverage 26] 4080.84
+[Capital] 14707
+[Stock]	2247
+[MACD] 21.9885
+[Signal Line] 25
 
 [Day 88]
-[Capital] 93868
-[Stock]	4146
-[movingAverage] 4133.28
-[exponentialMovingAverage 26] 4088.65
+[Capital] 14707
+[Stock]	2237
+[MACD] 22.5896
+[Signal Line] 23.8222
 
 [Day 89]
-[Capital] 93868
-[Stock]	4092
-[movingAverage] 4133.43
-[exponentialMovingAverage 26] 4091.62
+[Capital] 14707
+[Stock]	2248
+[MACD] 23.7095
+[Signal Line] 23.1333
+[SELL] 39 for 87672€
 
 [Day 90]
-[Capital] 93868
-[Stock]	4055
-[movingAverage] 4132.97
-[exponentialMovingAverage 26] 4091.36
+[Capital] 102225
+[Stock]	2238
+[MACD] 23.2493
+[Signal Line] 22.7333
 
 [Day 91]
-[Capital] 93868
-[Stock]	4080
-[movingAverage] 4132.11
-[exponentialMovingAverage 26] 4092.36
+[Capital] 102225
+[Stock]	2293
+[MACD] 26.8662
+[Signal Line] 23.1333
 
 [Day 92]
-[Capital] 93868
-[Stock]	4108
-[movingAverage] 4131.54
-[exponentialMovingAverage 26] 4095.01
+[Capital] 102225
+[Stock]	2326
+[MACD] 32.5142
+[Signal Line] 24.8444
 
 [Day 93]
-[Capital] 93868
-[Stock]	4068
-[movingAverage] 4131.29
-[exponentialMovingAverage 26] 4094.24
+[Capital] 102225
+[Stock]	2324
+[MACD] 37.1226
+[Signal Line] 27.4889
 
 [Day 94]
-[Capital] 93868
-[Stock]	4125
-[movingAverage] 4130.62
-[exponentialMovingAverage 26] 4097.58
+[Capital] 102225
+[Stock]	2335
+[MACD] 41.1936
+[Signal Line] 30.6667
 
 [Day 95]
-[Capital] 93868
-[Stock]	4160
-[movingAverage] 4130.56
-[exponentialMovingAverage 26] 4103.06
+[Capital] 102225
+[Stock]	2310
+[MACD] 42.3789
+[Signal Line] 33.6222
 
 [Day 96]
-[Capital] 93868
-[Stock]	4178
-[movingAverage] 4130.86
-[exponentialMovingAverage 26] 4109.24
+[Capital] 102225
+[Stock]	2291
+[MACD] 41.4131
+[Signal Line] 35.8889
 
 [Day 97]
-[Capital] 93868
-[Stock]	4185
-[movingAverage] 4131.35
-[exponentialMovingAverage 26] 4115.35
+[Capital] 102225
+[Stock]	2348
+[MACD] 44.0256
+[Signal Line] 38.3111
 
 [Day 98]
-[Capital] 93868
-[Stock]	4166
-[movingAverage] 4131.9
-[exponentialMovingAverage 26] 4120.03
+[Capital] 102225
+[Stock]	2325
+[MACD] 43.4841
+[Signal Line] 40.0444
 
 [Day 99]
-[Capital] 93868
-[Stock]	4192
-[movingAverage] 4132.24
-[exponentialMovingAverage 26] 4126.73
+[Capital] 102225
+[Stock]	2363
+[MACD] 44.886
+[Signal Line] 41.5333
 
 [Day 100]
-[Capital] 93868
-[Stock]	4121
-[movingAverage] 4132.84
-[exponentialMovingAverage 26] 4127.66
+[Capital] 102225
+[Stock]	2349
+[MACD] 44.1282
+[Signal Line] 42.5556
 
 [Day 101]
-[Capital] 93868
-[Stock]	4150
-[movingAverage] 4132.72
-[exponentialMovingAverage 26] 4130.38
+[Capital] 102225
+[Stock]	2325
+[MACD] 40.4529
+[Signal Line] 42.3778
+[BUY] 12 for 27900€
 
 [Day 102]
-[Capital] 93868
-[Stock]	4200
-[movingAverage] 4132.89
-[exponentialMovingAverage 26] 4136.46
-[BUY] 22 for 92400€
+[Capital] 74213
+[Stock]	2343
+[MACD] 37.6453
+[Signal Line] 41.4222
+[BUY] 12 for 28116€
 
 [Day 103]
-[Capital] 1465
-[Stock]	4200
-[movingAverage] 4133.54
-[exponentialMovingAverage 26] 4142.3
+[Capital] 46027
+[Stock]	2312
+[MACD] 31.52
+[Signal Line] 39.2667
+[BUY] 12 for 27744€
 
 [Day 104]
-[Capital] 1465
-[Stock]	4298
-[movingAverage] 4134.18
-[exponentialMovingAverage 26] 4155.08
+[Capital] 18255
+[Stock]	2295
+[MACD] 24.2422
+[Signal Line] 35.9333
 
 [Day 105]
-[Capital] 1465
-[Stock]	4350
-[movingAverage] 4135.74
-[exponentialMovingAverage 26] 4171.1
+[Capital] 18255
+[Stock]	2317
+[MACD] 19.4331
+[Signal Line] 32
 
 [Day 106]
-[Capital] 1465
-[Stock]	4390
-[movingAverage] 4137.76
-[exponentialMovingAverage 26] 4189.26
+[Capital] 18255
+[Stock]	2329
+[MACD] 16.0015
+[Signal Line] 27.9556
 
 [Day 107]
-[Capital] 1465
-[Stock]	4388
-[movingAverage] 4140.12
-[exponentialMovingAverage 26] 4206.32
+[Capital] 18255
+[Stock]	2392
+[MACD] 18.0398
+[Signal Line] 24.9333
 
 [Day 108]
-[Capital] 1465
-[Stock]	4355
-[movingAverage] 4142.42
-[exponentialMovingAverage 26] 4220.13
+[Capital] 18255
+[Stock]	2426
+[MACD] 22.3916
+[Signal Line] 23.2667
 
 [Day 109]
-[Capital] 1465
-[Stock]	4325
-[movingAverage] 4144.37
-[exponentialMovingAverage 26] 4231.09
+[Capital] 18255
+[Stock]	2454
+[MACD] 27.876
+[Signal Line] 23.0889
+[SELL] 36 for 88344€
 
 [Day 110]
-[Capital] 1465
-[Stock]	4375
-[movingAverage] 4146.01
-[exponentialMovingAverage 26] 4245.19
+[Capital] 106439
+[Stock]	2449
+[MACD] 32.292
+[Signal Line] 24.2889
 
 [Day 111]
-[Capital] 1465
-[Stock]	4346
-[movingAverage] 4148.07
-[exponentialMovingAverage 26] 4256.29
+[Capital] 106439
+[Stock]	2429
+[MACD] 34.2864
+[Signal Line] 26.0667
 
 [Day 112]
-[Capital] 1465
-[Stock]	4338
-[movingAverage] 4149.84
-[exponentialMovingAverage 26] 4266.15
+[Capital] 106439
+[Stock]	2046
+[MACD] 5.52856
+[Signal Line] 22.1111
+[BUY] 14 for 28644€
 
 [Day 113]
-[Capital] 1465
-[Stock]	4290
-[movingAverage] 4151.5
-[exponentialMovingAverage 26] 4271.89
+[Capital] 77678
+[Stock]	2062
+[MACD] -18.5156
+[Signal Line] 14.1333
+[BUY] 14 for 28868€
 
 [Day 114]
-[Capital] 1465
-[Stock]	4335
-[movingAverage] 4152.72
-[exponentialMovingAverage 26] 4280.52
+[Capital] 48736
+[Stock]	2037
+[MACD] -41.7095
+[Signal Line] 2.48889
+[BUY] 14 for 28518€
 
 [Day 115]
-[Capital] 1465
-[Stock]	4388
-[movingAverage] 4154.3
-[exponentialMovingAverage 26] 4292.54
+[Capital] 20187
+[Stock]	1988
+[MACD] -65.4587
+[Signal Line] -12.6222
 
 [Day 116]
-[Capital] 1465
-[Stock]	4336
-[movingAverage] 4156.32
-[exponentialMovingAverage 26] 4299.86
+[Capital] 20187
+[Stock]	1962
+[MACD] -87.8689
+[Signal Line] -30.3333
 
 [Day 117]
-[Capital] 1465
-[Stock]	4332
-[movingAverage] 4157.85
-[exponentialMovingAverage 26] 4306.08
+[Capital] 20187
+[Stock]	1973
+[MACD] -105.919
+[Signal Line] -49.3111
 
 [Day 118]
-[Capital] 1465
-[Stock]	4350
-[movingAverage] 4159.33
-[exponentialMovingAverage 26] 4312.92
+[Capital] 20187
+[Stock]	1983
+[MACD] -119.672
+[Signal Line] -68.2667
 
 [Day 119]
-[Capital] 1465
-[Stock]	4394
-[movingAverage] 4160.93
-[exponentialMovingAverage 26] 4322.33
+[Capital] 20187
+[Stock]	1965
+[MACD] -131.403
+[Signal Line] -86.3778
 
 [Day 120]
-[Capital] 1465
-[Stock]	4423
-[movingAverage] 4162.88
-[exponentialMovingAverage 26] 4332.96
+[Capital] 20187
+[Stock]	1944
+[MACD] -140.358
+[Signal Line] -102.667
 
 [Day 121]
-[Capital] 1465
-[Stock]	4322
-[movingAverage] 4165.02
-[exponentialMovingAverage 26] 4335.26
+[Capital] 20187
+[Stock]	1946
+[MACD] -144.087
+[Signal Line] -115.889
 
 [Day 122]
-[Capital] 1465
-[Stock]	4298
-[movingAverage] 4166.31
-[exponentialMovingAverage 26] 4335.32
+[Capital] 20187
+[Stock]	1949
+[MACD] -142.101
+[Signal Line] -125.4
 
 [Day 123]
-[Capital] 1465
-[Stock]	4288
-[movingAverage] 4167.38
-[exponentialMovingAverage 26] 4334.3
+[Capital] 20187
+[Stock]	1947
+[MACD] -134.839
+[Signal Line] -130.556
 
 [Day 124]
-[Capital] 1465
-[Stock]	4290
-[movingAverage] 4168.35
-[exponentialMovingAverage 26] 4333.13
+[Capital] 20187
+[Stock]	1924
+[MACD] -124.375
+[Signal Line] -131.644
+[SELL] 42 for 80808€
 
 [Day 125]
-[Capital] 1465
-[Stock]	4350
-[movingAverage] 4169.33
-[exponentialMovingAverage 26] 4336.05
+[Capital] 100843
+[Stock]	1934
+[MACD] -112.691
+[Signal Line] -129.022
 
 [Day 126]
-[Capital] 1465
-[Stock]	4375
-[movingAverage] 4170.76
-[exponentialMovingAverage 26] 4340.38
+[Capital] 100843
+[Stock]	1936
+[MACD] -100.429
+[Signal Line] -123.444
 
 [Day 127]
-[Capital] 1465
-[Stock]	4364
-[movingAverage] 4172.37
-[exponentialMovingAverage 26] 4343.17
+[Capital] 100843
+[Stock]	1916
+[MACD] -89.6438
+[Signal Line] -115.778
 
 [Day 128]
-[Capital] 1465
-[Stock]	4314
-[movingAverage] 4173.87
-[exponentialMovingAverage 26] 4341.64
+[Capital] 100843
+[Stock]	1931
+[MACD] -77.9045
+[Signal Line] -106.378
 
 [Day 129]
-[Capital] 1465
-[Stock]	4308
-[movingAverage] 4174.95
-[exponentialMovingAverage 26] 4339.34
+[Capital] 100843
+[Stock]	1970
+[MACD] -63.8304
+[Signal Line] -95.3778
 
 [Day 130]
-[Capital] 1465
-[Stock]	4365
-[movingAverage] 4175.98
-[exponentialMovingAverage 26] 4340.96
+[Capital] 100843
+[Stock]	1937
+[MACD] -53.3248
+[Signal Line] -84.0889
 
 [Day 131]
-[Capital] 1465
-[Stock]	4371
-[movingAverage] 4177.42
-[exponentialMovingAverage 26] 4342.83
+[Capital] 100843
+[Stock]	1949
+[MACD] -42.292
+[Signal Line] -72.6222
 
 [Day 132]
-[Capital] 1465
-[Stock]	4405
-[movingAverage] 4178.89
-[exponentialMovingAverage 26] 4347.16
+[Capital] 100843
+[Stock]	1975
+[MACD] -30.0286
+[Signal Line] -60.9778
 
 [Day 133]
-[Capital] 1465
-[Stock]	4568
-[movingAverage] 4180.59
-[exponentialMovingAverage 26] 4363.52
+[Capital] 100843
+[Stock]	1985
+[MACD] -18.3733
+[Signal Line] -49.2444
 
 [Day 134]
-[Capital] 1465
-[Stock]	4500
-[movingAverage] 4183.48
-[exponentialMovingAverage 26] 4374.34
+[Capital] 100843
+[Stock]	1965
+[MACD] -9.97302
+[Signal Line] -38.0667
 
 [Day 135]
-[Capital] 1465
-[Stock]	4470
-[movingAverage] 4185.82
-[exponentialMovingAverage 26] 4382.51
+[Capital] 100843
+[Stock]	1958
+[MACD] -3.64966
+[Signal Line] -27.9778
 
 [Day 136]
-[Capital] 1465
-[Stock]	4350
-[movingAverage] 4187.91
-[exponentialMovingAverage 26] 4381.39
+[Capital] 100843
+[Stock]	1944
+[MACD] 0.00280762
+[Signal Line] -19.4444
 
 [Day 137]
-[Capital] 1465
-[Stock]	4244
-[movingAverage] 4189.09
-[exponentialMovingAverage 26] 4372.48
+[Capital] 100843
+[Stock]	1970
+[MACD] 4.03418
+[Signal Line] -12.0889
 
 [Day 138]
-[Capital] 1465
-[Stock]	4265
-[movingAverage] 4189.49
-[exponentialMovingAverage 26] 4365.42
+[Capital] 100843
+[Stock]	1958
+[MACD] 5.33899
+[Signal Line] -6.33333
 
 [Day 139]
-[Capital] 1465
-[Stock]	4335
-[movingAverage] 4190.04
-[exponentialMovingAverage 26] 4363.75
+[Capital] 100843
+[Stock]	1964
+[MACD] 6.58984
+[Signal Line] -1.88889
 
 [Day 140]
-[Capital] 1465
-[Stock]	4372
-[movingAverage] 4191.07
-[exponentialMovingAverage 26] 4364.7
+[Capital] 100843
+[Stock]	1954
+[MACD] 6.14807
+[Signal Line] 1.24444
 
 [Day 141]
-[Capital] 1465
-[Stock]	4354
-[movingAverage] 4192.35
-[exponentialMovingAverage 26] 4364.21
+[Capital] 100843
+[Stock]	1969
+[MACD] 6.37183
+[Signal Line] 3.31111
 
 [Day 142]
-[Capital] 1465
-[Stock]	4385
-[movingAverage] 4193.49
-[exponentialMovingAverage 26] 4366.11
+[Capital] 100843
+[Stock]	1984
+[MACD] 7.75073
+[Signal Line] 4.77778
 
 [Day 143]
-[Capital] 1465
-[Stock]	4362
-[movingAverage] 4194.83
-[exponentialMovingAverage 26] 4366.17
+[Capital] 100843
+[Stock]	2037
+[MACD] 12.8176
+[Signal Line] 6.68889
 
 [Day 144]
-[Capital] 1465
-[Stock]	4340
-[movingAverage] 4195.99
-[exponentialMovingAverage 26] 4364.51
+[Capital] 100843
+[Stock]	2049
+[MACD] 17.896
+[Signal Line] 9.13333
 
 [Day 145]
-[Capital] 1465
-[Stock]	4282
-[movingAverage] 4196.99
-[exponentialMovingAverage 26] 4358.58
+[Capital] 100843
+[Stock]	2032
+[MACD] 20.8575
+[Signal Line] 11.7333
 
 [Day 146]
-[Capital] 1465
-[Stock]	4278
-[movingAverage] 4197.57
-[exponentialMovingAverage 26] 4352.68
+[Capital] 100843
+[Stock]	2024
+[MACD] 22.7692
+[Signal Line] 14.2889
 
 [Day 147]
-[Capital] 1465
-[Stock]	4315
-[movingAverage] 4198.12
-[exponentialMovingAverage 26] 4349.93
+[Capital] 100843
+[Stock]	2045
+[MACD] 25.8276
+[Signal Line] 17.0444
 
 [Day 148]
-[Capital] 1465
-[Stock]	4290
-[movingAverage] 4198.91
-[exponentialMovingAverage 26] 4345.35
+[Capital] 100843
+[Stock]	2051
+[MACD] 28.5314
+[Signal Line] 19.9556
 
 [Day 149]
-[Capital] 1465
-[Stock]	4322
-[movingAverage] 4199.52
-[exponentialMovingAverage 26] 4343.16
+[Capital] 100843
+[Stock]	2058
+[MACD] 30.7123
+[Signal Line] 22.7778
 
 [Day 150]
-[Capital] 1465
-[Stock]	4365
-[movingAverage] 4200.33
-[exponentialMovingAverage 26] 4344.06
+[Capital] 100843
+[Stock]	2091
+[MACD] 34.7136
+[Signal Line] 25.8667
 
 [Day 151]
-[Capital] 1465
-[Stock]	4408
-[movingAverage] 4201.42
-[exponentialMovingAverage 26] 4347.93
+[Capital] 100843
+[Stock]	2086
+[MACD] 37.0869
+[Signal Line] 28.9333
 
 [Day 152]
-[Capital] 1465
-[Stock]	4335
-[movingAverage] 4202.78
-[exponentialMovingAverage 26] 4346.23
+[Capital] 100843
+[Stock]	2094
+[MACD] 38.9673
+[Signal Line] 31.5333
 
 [Day 153]
-[Capital] 1465
-[Stock]	4300
-[movingAverage] 4203.65
-[exponentialMovingAverage 26] 4342.05
+[Capital] 100843
+[Stock]	2090
+[MACD] 39.1838
+[Signal Line] 33.7556
 
 [Day 154]
-[Capital] 1465
-[Stock]	4252
-[movingAverage] 4204.27
-[exponentialMovingAverage 26] 4334.5
+[Capital] 100843
+[Stock]	2100
+[MACD] 39.1426
+[Signal Line] 35.4889
 
 [Day 155]
-[Capital] 1465
-[Stock]	4212
-[movingAverage] 4204.58
-[exponentialMovingAverage 26] 4324.16
+[Capital] 100843
+[Stock]	2118
+[MACD] 39.5315
+[Signal Line] 36.8
 
 [Day 156]
-[Capital] 1465
-[Stock]	4255
-[movingAverage] 4204.63
-[exponentialMovingAverage 26] 4317.28
+[Capital] 100843
+[Stock]	2121
+[MACD] 39.5427
+[Signal Line] 37.7333
 
 [Day 157]
-[Capital] 1465
-[Stock]	4180
-[movingAverage] 4204.95
-[exponentialMovingAverage 26] 4305.16
+[Capital] 100843
+[Stock]	2122
+[MACD] 39.2351
+[Signal Line] 38.3556
 
 [Day 158]
-[Capital] 1465
-[Stock]	4216
-[movingAverage] 4204.79
-[exponentialMovingAverage 26] 4296.25
+[Capital] 100843
+[Stock]	2132
+[MACD] 39.0642
+[Signal Line] 38.7333
 
 [Day 159]
-[Capital] 1465
-[Stock]	4203
-[movingAverage] 4204.86
-[exponentialMovingAverage 26] 4286.91
+[Capital] 100843
+[Stock]	2061
+[MACD] 32.292
+[Signal Line] 37.5111
+[BUY] 14 for 28854€
 
 [Day 160]
-[Capital] 1465
-[Stock]	4257
-[movingAverage] 4204.85
-[exponentialMovingAverage 26] 4282.61
+[Capital] 71881
+[Stock]	2097
+[MACD] 28.4033
+[Signal Line] 35.5333
+[BUY] 14 for 29358€
 
 [Day 161]
-[Capital] 1465
-[Stock]	4212
-[movingAverage] 4205.17
-[exponentialMovingAverage 26] 4275.68
+[Capital] 42459
+[Stock]	2084
+[MACD] 23.2637
+[Signal Line] 32.7556
+[BUY] 14 for 29176€
 
 [Day 162]
-[Capital] 1465
-[Stock]	4131
-[movingAverage] 4205.22
-[exponentialMovingAverage 26] 4263.47
+[Capital] 13263
+[Stock]	2116
+[MACD] 20.7021
+[Signal Line] 29.7111
 
 [Day 163]
-[Capital] 1465
-[Stock]	4090
-[movingAverage] 4204.76
-[exponentialMovingAverage 26] 4248.86
+[Capital] 13263
+[Stock]	2148
+[MACD] 20.8633
+[Signal Line] 27.0889
 
 [Day 164]
-[Capital] 1465
-[Stock]	4062
-[movingAverage] 4204.06
-[exponentialMovingAverage 26] 4232.61
+[Capital] 13263
+[Stock]	2137
+[MACD] 19.8589
+[Signal Line] 24.6889
 
 [Day 165]
-[Capital] 1465
-[Stock]	4159
-[movingAverage] 4203.2
-[exponentialMovingAverage 26] 4224.12
+[Capital] 13263
+[Stock]	2149
+[MACD] 19.7708
+[Signal Line] 22.7333
 
 [Day 166]
-[Capital] 1465
-[Stock]	4145
-[movingAverage] 4202.93
-[exponentialMovingAverage 26] 4215.1
+[Capital] 13263
+[Stock]	2093
+[MACD] 14.9858
+[Signal Line] 20.2222
 
 [Day 167]
-[Capital] 1465
-[Stock]	4270
-[movingAverage] 4202.59
-[exponentialMovingAverage 26] 4215.98
+[Capital] 13263
+[Stock]	2127
+[MACD] 13.3989
+[Signal Line] 18.0667
 
 [Day 168]
-[Capital] 1465
-[Stock]	4215
-[movingAverage] 4202.99
-[exponentialMovingAverage 26] 4213.03
+[Capital] 13263
+[Stock]	2152
+[MACD] 14.1411
+[Signal Line] 16.6889
 
 [Day 169]
-[Capital] 1465
-[Stock]	4186
-[movingAverage] 4203.06
-[exponentialMovingAverage 26] 4208.41
+[Capital] 13263
+[Stock]	2170
+[MACD] 16.4004
+[Signal Line] 16.1111
+[SELL] 42 for 91140€
 
 [Day 170]
-[Capital] 1465
-[Stock]	4190
-[movingAverage] 4202.96
-[exponentialMovingAverage 26] 4204.6
+[Capital] 104246
+[Stock]	2190
+[MACD] 20.0186
+[Signal Line] 16.6
 
 [Day 171]
-[Capital] 1465
-[Stock]	4234
-[movingAverage] 4202.88
-[exponentialMovingAverage 26] 4204.46
+[Capital] 104246
+[Stock]	2211
+[MACD] 24.97
+[Signal Line] 17.9556
 
 [Day 172]
-[Capital] 1465
-[Stock]	4208
-[movingAverage] 4203.06
-[exponentialMovingAverage 26] 4202.54
-[SELL] 22 for 92576€
+[Capital] 104246
+[Stock]	2195
+[MACD] 27.2322
+[Signal Line] 19.8222
 
 [Day 173]
-[Capital] 93899
-[Stock]	4214
-[movingAverage] 4203.09
-[exponentialMovingAverage 26] 4201.27
+[Capital] 104246
+[Stock]	2192
+[MACD] 28.4858
+[Signal Line] 21.7333
 
 [Day 174]
-[Capital] 93899
-[Stock]	4212
-[movingAverage] 4203.16
-[exponentialMovingAverage 26] 4200.13
+[Capital] 104246
+[Stock]	1965
+[MACD] 10.6653
+[Signal Line] 19.8444
+[BUY] 15 for 29475€
 
 [Day 175]
-[Capital] 93899
-[Stock]	4248
-[movingAverage] 4203.21
-[exponentialMovingAverage 26] 4201.88
+[Capital] 74658
+[Stock]	1911
+[MACD] -9.77197
+[Signal Line] 14.3556
+[BUY] 15 for 28665€
 
 [Day 176]
-[Capital] 93899
-[Stock]	4212
-[movingAverage] 4203.46
-[exponentialMovingAverage 26] 4201.18
+[Capital] 45924
+[Stock]	1884
+[MACD] -29.7434
+[Signal Line] 5.37778
+[BUY] 15 for 28260€
 
 [Day 177]
-[Capital] 93899
-[Stock]	4240
-[movingAverage] 4203.51
-[exponentialMovingAverage 26] 4202.99
+[Capital] 17637
+[Stock]	1889
+[MACD] -46.6624
+[Signal Line] -6.06667
 
 [Day 178]
-[Capital] 93899
-[Stock]	4262
-[movingAverage] 4203.71
-[exponentialMovingAverage 26] 4206.9
+[Capital] 17637
+[Stock]	1877
+[MACD] -61.7662
+[Signal Line] -19.1778
 
 [Day 179]
-[Capital] 93899
-[Stock]	4297
-[movingAverage] 4204.04
-[exponentialMovingAverage 26] 4213.62
-[BUY] 21 for 90237€
+[Capital] 17637
+[Stock]	1863
+[MACD] -75.8362
+[Signal Line] -33.3778
 
 [Day 180]
-[Capital] 3656
-[Stock]	4328
-[movingAverage] 4204.56
-[exponentialMovingAverage 26] 4222.64
+[Capital] 17637
+[Stock]	1885
+[MACD] -85.4131
+[Signal Line] -47.4667
 
 [Day 181]
-[Capital] 3656
-[Stock]	4360
-[movingAverage] 4205.24
-[exponentialMovingAverage 26] 4233.81
+[Capital] 17637
+[Stock]	1873
+[MACD] -93.1367
+[Signal Line] -60.7333
 
 [Day 182]
-[Capital] 3656
-[Stock]	4340
-[movingAverage] 4206.09
-[exponentialMovingAverage 26] 4243.08
+[Capital] 17637
+[Stock]	1857
+[MACD] -99.0271
+[Signal Line] -72.5333
 
 [Day 183]
-[Capital] 3656
-[Stock]	4332
-[movingAverage] 4206.82
-[exponentialMovingAverage 26] 4251.52
+[Capital] 17637
+[Stock]	1839
+[MACD] -102.836
+[Signal Line] -82.1111
 
 [Day 184]
-[Capital] 3656
-[Stock]	4288
-[movingAverage] 4207.5
-[exponentialMovingAverage 26] 4256.26
+[Capital] 17637
+[Stock]	1851
+[MACD] -101.725
+[Signal Line] -89
 
 [Day 185]
-[Capital] 3656
-[Stock]	4292
-[movingAverage] 4207.94
-[exponentialMovingAverage 26] 4261.09
+[Capital] 17637
+[Stock]	1862
+[MACD] -96.1268
+[Signal Line] -92.8444
 
 [Day 186]
-[Capital] 3656
-[Stock]	4325
-[movingAverage] 4208.39
-[exponentialMovingAverage 26] 4268.12
+[Capital] 17637
+[Stock]	1867
+[MACD] -86.4658
+[Signal Line] -93.2
+[SELL] 45 for 84015€
 
 [Day 187]
-[Capital] 3656
-[Stock]	4283
-[movingAverage] 4209.01
-[exponentialMovingAverage 26] 4271.84
+[Capital] 101499
+[Stock]	1849
+[MACD] -77.6396
+[Signal Line] -90.8667
 
 [Day 188]
-[Capital] 3656
-[Stock]	4238
-[movingAverage] 4209.4
-[exponentialMovingAverage 26] 4272.03
+[Capital] 101499
+[Stock]	1863
+[MACD] -67.5713
+[Signal Line] -86.1778
 
 [Day 189]
-[Capital] 3656
-[Stock]	4240
-[movingAverage] 4209.56
-[exponentialMovingAverage 26] 4272.05
+[Capital] 101499
+[Stock]	1853
+[MACD] -58.7521
+[Signal Line] -79.8667
 
 [Day 190]
-[Capital] 3656
-[Stock]	4268
-[movingAverage] 4209.72
-[exponentialMovingAverage 26] 4273.73
+[Capital] 101499
+[Stock]	1836
+[MACD] -51.6681
+[Signal Line] -72.7556
 
 [Day 191]
-[Capital] 3656
-[Stock]	4250
-[movingAverage] 4210.02
-[exponentialMovingAverage 26] 4273.48
+[Capital] 101499
+[Stock]	1817
+[MACD] -46.4316
+[Signal Line] -65.5778
 
 [Day 192]
-[Capital] 3656
-[Stock]	4220
-[movingAverage] 4210.23
-[exponentialMovingAverage 26] 4270.76
+[Capital] 101499
+[Stock]	1811
+[MACD] -42.0299
+[Signal Line] -58.7778
 
 [Day 193]
-[Capital] 3656
-[Stock]	4250
-[movingAverage] 4210.28
-[exponentialMovingAverage 26] 4270.04
+[Capital] 101499
+[Stock]	1804
+[MACD] -38.0413
+[Signal Line] -52.5111
 
 [Day 194]
-[Capital] 3656
-[Stock]	4250
-[movingAverage] 4210.48
-[exponentialMovingAverage 26] 4269.38
+[Capital] 101499
+[Stock]	1781
+[MACD] -35.9231
+[Signal Line] -47.0444
 
 [Day 195]
-[Capital] 3656
-[Stock]	4288
-[movingAverage] 4210.69
-[exponentialMovingAverage 26] 4271.43
+[Capital] 101499
+[Stock]	1781
+[MACD] -33.8875
+[Signal Line] -42.5333
 
 [Day 196]
-[Capital] 3656
-[Stock]	4250
-[movingAverage] 4211.08
-[exponentialMovingAverage 26] 4270.38
+[Capital] 101499
+[Stock]	1731
+[MACD] -36.2052
+[Signal Line] -39.8
 
 [Day 197]
-[Capital] 3656
-[Stock]	4276
-[movingAverage] 4211.28
-[exponentialMovingAverage 26] 4271.09
+[Capital] 101499
+[Stock]	1733
+[MACD] -38.1324
+[Signal Line] -38.3778
 
 [Day 198]
-[Capital] 3656
-[Stock]	4245
-[movingAverage] 4211.61
-[exponentialMovingAverage 26] 4269.37
+[Capital] 101499
+[Stock]	1713
+[MACD] -41.3633
+[Signal Line] -38.2
+[BUY] 17 for 29121€
 
 [Day 199]
-[Capital] 3656
-[Stock]	4338
-[movingAverage] 4211.77
-[exponentialMovingAverage 26] 4274.44
+[Capital] 72269
+[Stock]	1735
+[MACD] -42.2379
+[Signal Line] -38.6
+[BUY] 17 for 29495€
 
 [Day 200]
-[Capital] 3656
-[Stock]	4306
-[movingAverage] 4212.4
-[exponentialMovingAverage 26] 4276.79
+[Capital] 42709
+[Stock]	1734
+[MACD] -43.0328
+[Signal Line] -39.4
+[BUY] 17 for 29478€
 
 [Day 201]
-[Capital] 3656
-[Stock]	4292
-[movingAverage] 4212.87
-[exponentialMovingAverage 26] 4277.83
+[Capital] 13211
+[Stock]	1742
+[MACD] -42.1937
+[Signal Line] -40.0667
 
 [Day 202]
-[Capital] 3656
-[Stock]	4265
-[movingAverage] 4213.26
-[exponentialMovingAverage 26] 4276.75
+[Capital] 13211
+[Stock]	1742
+[MACD] -40.4131
+[Signal Line] -40.3333
 
 [Day 203]
-[Capital] 3656
-[Stock]	4255
-[movingAverage] 4213.52
-[exponentialMovingAverage 26] 4274.78
+[Capital] 13211
+[Stock]	1762
+[MACD] -36.2365
+[Signal Line] -39.7556
+[SELL] 51 for 89862€
 
 [Day 204]
-[Capital] 3656
-[Stock]	4295
-[movingAverage] 4213.72
-[exponentialMovingAverage 26] 4275.72
+[Capital] 102918
+[Stock]	1738
+[MACD] -33.6311
+[Signal Line] -38.5556
 
 [Day 205]
-[Capital] 3656
-[Stock]	4250
-[movingAverage] 4214.12
-[exponentialMovingAverage 26] 4273.24
+[Capital] 102918
+[Stock]	1736
+[MACD] -30.6453
+[Signal Line] -36.7556
 
 [Day 206]
-[Capital] 3656
-[Stock]	4255
-[movingAverage] 4214.29
-[exponentialMovingAverage 26] 4271.27
+[Capital] 102918
+[Stock]	1721
+[MACD] -28.3462
+[Signal Line] -34.6889
 
 [Day 207]
-[Capital] 3656
-[Stock]	4245
-[movingAverage] 4214.49
-[exponentialMovingAverage 26] 4268.75
+[Capital] 102918
+[Stock]	1758
+[MACD] -22.7935
+[Signal Line] -31.6444
 
 [Day 208]
-[Capital] 3656
-[Stock]	4245
-[movingAverage] 4214.63
-[exponentialMovingAverage 26] 4266.57
+[Capital] 102918
+[Stock]	1732
+[MACD] -19.3477
+[Signal Line] -28.4222
 
 [Day 209]
-[Capital] 3656
-[Stock]	4235
-[movingAverage] 4214.78
-[exponentialMovingAverage 26] 4263.92
+[Capital] 102918
+[Stock]	1729
+[MACD] -16.51
+[Signal Line] -25.1111
 
 [Day 210]
-[Capital] 3656
-[Stock]	4258
-[movingAverage] 4214.88
-[exponentialMovingAverage 26] 4263.25
+[Capital] 102918
+[Stock]	1701
+[MACD] -16.1681
+[Signal Line] -22.4
 
 [Day 211]
-[Capital] 3656
-[Stock]	4191
-[movingAverage] 4215.08
-[exponentialMovingAverage 26] 4257.7
+[Capital] 102918
+[Stock]	1716
+[MACD] -14.9031
+[Signal Line] -19.8667
 
 [Day 212]
-[Capital] 3656
-[Stock]	4178
-[movingAverage] 4214.97
-[exponentialMovingAverage 26] 4251.47
+[Capital] 102918
+[Stock]	1744
+[MACD] -11.5769
+[Signal Line] -17.3111
 
 [Day 213]
-[Capital] 3656
-[Stock]	4124
-[movingAverage] 4214.79
-[exponentialMovingAverage 26] 4241.67
+[Capital] 102918
+[Stock]	1816
+[MACD] -2.98572
+[Signal Line] -13.5111
 
 [Day 214]
-[Capital] 3656
-[Stock]	4132
-[movingAverage] 4214.37
-[exponentialMovingAverage 26] 4232.91
+[Capital] 102918
+[Stock]	1797
+[MACD] 3.047
+[Signal Line] -9.4
 
 [Day 215]
-[Capital] 3656
-[Stock]	4162
-[movingAverage] 4213.99
-[exponentialMovingAverage 26] 4226.67
+[Capital] 102918
+[Stock]	1771
+[MACD] 6.11255
+[Signal Line] -5.42222
 
 [Day 216]
-[Capital] 3656
-[Stock]	4088
-[movingAverage] 4213.75
-[exponentialMovingAverage 26] 4215.17
+[Capital] 102918
+[Stock]	1750
+[MACD] 7.15393
+[Signal Line] -2
 
 [Day 217]
-[Capital] 3656
-[Stock]	4090
-[movingAverage] 4213.17
-[exponentialMovingAverage 26] 4204.34
-[SELL] 21 for 85890€
+[Capital] 102918
+[Stock]	1750
+[MACD] 7.79626
+[Signal Line] 0.777778
 
 [Day 218]
-[Capital] 89411
-[Stock]	4102
-[movingAverage] 4212.6
-[exponentialMovingAverage 26] 4194.85
+[Capital] 102918
+[Stock]	1715
+[MACD] 5.27637
+[Signal Line] 2.57778
 
 [Day 219]
-[Capital] 89411
-[Stock]	4155
-[movingAverage] 4212.1
-[exponentialMovingAverage 26] 4189.62
+[Capital] 102918
+[Stock]	1719
+[MACD] 2.87891
+[Signal Line] 3.31111
+[BUY] 17 for 29223€
 
 [Day 220]
-[Capital] 89411
-[Stock]	4151
-[movingAverage] 4211.84
-[exponentialMovingAverage 26] 4184.37
+[Capital] 73584
+[Stock]	1688
+[MACD] -1.73364
+[Signal Line] 3.04444
+[BUY] 17 for 28696€
 
 [Day 221]
-[Capital] 89411
-[Stock]	4130
-[movingAverage] 4211.56
-[exponentialMovingAverage 26] 4177.84
+[Capital] 44820
+[Stock]	1665
+[MACD] -7.88171
+[Signal Line] 1.28889
+[BUY] 18 for 29970€
 
 [Day 222]
-[Capital] 89411
-[Stock]	4114
-[movingAverage] 4211.19
-[exponentialMovingAverage 26] 4170.58
+[Capital] 14827
+[Stock]	1690
+[MACD] -11.5455
+[Signal Line] -1.35556
 
 [Day 223]
-[Capital] 89411
-[Stock]	4018
-[movingAverage] 4210.76
-[exponentialMovingAverage 26] 4156.59
+[Capital] 14827
+[Stock]	1694
+[MACD] -14.8661
+[Signal Line] -4.4
 
 [Day 224]
-[Capital] 89411
-[Stock]	4108
-[movingAverage] 4209.9
-[exponentialMovingAverage 26] 4150.01
+[Capital] 14827
+[Stock]	1693
+[MACD] -18.0955
+[Signal Line] -7.86667
 
 [Day 225]
-[Capital] 89411
-[Stock]	4102
-[movingAverage] 4209.44
-[exponentialMovingAverage 26] 4143.37
+[Capital] 14827
+[Stock]	1721
+[MACD] -18.4944
+[Signal Line] -10.8
 
 [Day 226]
-[Capital] 89411
-[Stock]	4105
-[movingAverage] 4208.97
-[exponentialMovingAverage 26] 4137.63
+[Capital] 14827
+[Stock]	1760
+[MACD] -14.604
+[Signal Line] -12.3778
 
 [Day 227]
-[Capital] 89411
-[Stock]	4079
-[movingAverage] 4208.51
-[exponentialMovingAverage 26] 4130.53
+[Capital] 14827
+[Stock]	1720
+[MACD] -13.3561
+[Signal Line] -13.2889
 
 [Day 228]
-[Capital] 89411
-[Stock]	4068
-[movingAverage] 4207.94
-[exponentialMovingAverage 26] 4123.23
+[Capital] 14827
+[Stock]	1732
+[MACD] -10.5599
+[Signal Line] -13.2
+[SELL] 52 for 90064€
 
 [Day 229]
-[Capital] 89411
-[Stock]	4059
-[movingAverage] 4207.33
-[exponentialMovingAverage 26] 4115.81
+[Capital] 104733
+[Stock]	1751
+[MACD] -6.04565
+[Signal Line] -12.0444
 
 [Day 230]
-[Capital] 89411
-[Stock]	4080
-[movingAverage] 4206.69
-[exponentialMovingAverage 26] 4110.52
+[Capital] 104733
+[Stock]	1753
+[MACD] -1.41589
+[Signal Line] -9.77778
 
 [Day 231]
-[Capital] 89411
-[Stock]	4118
-[movingAverage] 4206.14
-[exponentialMovingAverage 26] 4108.65
+[Capital] 104733
+[Stock]	1737
+[MACD] 1.49292
+[Signal Line] -7.24444
 
 [Day 232]
-[Capital] 89411
-[Stock]	4120
-[movingAverage] 4205.76
-[exponentialMovingAverage 26] 4107.3
+[Capital] 104733
+[Stock]	1748
+[MACD] 5.05127
+[Signal Line] -4.17778
 
 [Day 233]
-[Capital] 89411
-[Stock]	4146
-[movingAverage] 4205.39
-[exponentialMovingAverage 26] 4108.27
+[Capital] 104733
+[Stock]	1763
+[MACD] 9.11401
+[Signal Line] -0.733333
 
 [Day 234]
-[Capital] 89411
-[Stock]	4050
-[movingAverage] 4205.14
-[exponentialMovingAverage 26] 4102.41
+[Capital] 104733
+[Stock]	1753
+[MACD] 11.1368
+[Signal Line] 2.51111
 
 [Day 235]
-[Capital] 89411
-[Stock]	4050
-[movingAverage] 4204.48
-[exponentialMovingAverage 26] 4097.1
+[Capital] 104733
+[Stock]	1765
+[MACD] 13.369
+[Signal Line] 5.51111
 
 [Day 236]
-[Capital] 89411
-[Stock]	4090
-[movingAverage] 4203.82
-[exponentialMovingAverage 26] 4095.28
+[Capital] 104733
+[Stock]	1782
+[MACD] 16.1495
+[Signal Line] 8.51111
 
 [Day 237]
-[Capital] 89411
-[Stock]	4003
-[movingAverage] 4203.34
-[exponentialMovingAverage 26] 4087.5
+[Capital] 104733
+[Stock]	1696
+[MACD] 11.1595
+[Signal Line] 9.86667
 
 [Day 238]
-[Capital] 89411
-[Stock]	3976
-[movingAverage] 4202.5
-[exponentialMovingAverage 26] 4078.25
+[Capital] 104733
+[Stock]	1686
+[MACD] 5.63525
+[Signal Line] 9.55556
+[BUY] 17 for 28662€
 
 [Day 239]
-[Capital] 89411
-[Stock]	3980
-[movingAverage] 4201.55
-[exponentialMovingAverage 26] 4069.87
+[Capital] 75956
+[Stock]	1682
+[MACD] 0.575439
+[Signal Line] 8
+[BUY] 17 for 28594€
 
 [Day 240]
-[Capital] 89411
-[Stock]	3925
-[movingAverage] 4200.63
-[exponentialMovingAverage 26] 4057.83
+[Capital] 47290
+[Stock]	1650
+[MACD] -6.93152
+[Signal Line] 5.22222
+[BUY] 18 for 29700€
 
 [Day 241]
-[Capital] 89411
-[Stock]	3935
-[movingAverage] 4199.49
-[exponentialMovingAverage 26] 4047.13
+[Capital] 17563
+[Stock]	1664
+[MACD] -12.6895
+[Signal Line] 1.4
 
 [Day 242]
-[Capital] 89411
-[Stock]	3950
-[movingAverage] 4198.39
-[exponentialMovingAverage 26] 4038.17
+[Capital] 17563
+[Stock]	1675
+[MACD] -16.7593
+[Signal Line] -2.84444
 
 [Day 243]
-[Capital] 89411
-[Stock]	3982
-[movingAverage] 4197.37
-[exponentialMovingAverage 26] 4031.99
+[Capital] 17563
+[Stock]	1668
+[MACD] -20.6012
+[Signal Line] -7.33333
 
 [Day 244]
-[Capital] 89411
-[Stock]	3996
-[movingAverage] 4196.49
-[exponentialMovingAverage 26] 4027.14
+[Capital] 17563
+[Stock]	1641
+[MACD] -25.9458
+[Signal Line] -12.1333
 
 [Day 245]
-[Capital] 89411
-[Stock]	4042
-[movingAverage] 4195.67
-[exponentialMovingAverage 26] 4026.01
+[Capital] 17563
+[Stock]	1640
+[MACD] -30.2094
+[Signal Line] -17.0889
 
 [Day 246]
-[Capital] 89411
-[Stock]	4000
-[movingAverage] 4195.04
-[exponentialMovingAverage 26] 4022.09
+[Capital] 17563
+[Stock]	1615
+[MACD] -35.1154
+[Signal Line] -22.0222
 
 [Day 247]
-[Capital] 89411
-[Stock]	4020
-[movingAverage] 4194.25
-[exponentialMovingAverage 26] 4020.07
+[Capital] 17563
+[Stock]	1616
+[MACD] -38.3804
+[Signal Line] -26.5333
 
 [Day 248]
-[Capital] 89411
-[Stock]	4069
-[movingAverage] 4193.55
-[exponentialMovingAverage 26] 4022.01
+[Capital] 17563
+[Stock]	1646
+[MACD] -37.4816
+[Signal Line] -29.8889
 
 [Day 249]
-[Capital] 89411
-[Stock]	4090
-[movingAverage] 4193.05
-[exponentialMovingAverage 26] 4025.62
+[Capital] 17563
+[Stock]	1659
+[MACD] -33.9274
+[Signal Line] -31.6222
 
 [Day 250]
-[Capital] 89411
-[Stock]	4025
-[movingAverage] 4192.64
-[exponentialMovingAverage 26] 4024.22
+[Capital] 17563
+[Stock]	1676
+[MACD] -28.6425
+[Signal Line] -31.7556
+[SELL] 52 for 87152€
 
 [Day 251]
-[Capital] 89411
-[Stock]	4012
-[movingAverage] 4191.97
-[exponentialMovingAverage 26] 4022.09
+[Capital] 104557
+[Stock]	1631
+[MACD] -26.8676
+[Signal Line] -31.1333
 
 [Day 252]
-[Capital] 89411
-[Stock]	4030
-[movingAverage] 4191.26
-[exponentialMovingAverage 26] 4021.54
+[Capital] 104557
+[Stock]	1614
+[MACD] -26.0513
+[Signal Line] -30.2889
 
 [Day 253]
-[Capital] 89411
-[Stock]	4048
-[movingAverage] 4190.62
-[exponentialMovingAverage 26] 4022.55
+[Capital] 104557
+[Stock]	1604
+[MACD] -25.9872
+[Signal Line] -29.1111
 
 [Day 254]
-[Capital] 89411
-[Stock]	4062
-[movingAverage] 4190.06
-[exponentialMovingAverage 26] 4024.68
 
-[Day 255]
-[Capital] 89411
-[Stock]	4050
-[movingAverage] 4189.56
-[exponentialMovingAverage 26] 4025.94
-
-[Day 256]
-[Capital] 89411
-[Stock]	4060
-[movingAverage] 4189.01
-[exponentialMovingAverage 26] 4027.97
-
-[Day 257]
-[Capital] 89411
-[Stock]	4104
-[movingAverage] 4188.51
-[exponentialMovingAverage 26] 4033.31
-
-[Day 258]
-[Capital] 89411
-[Stock]	4160
-[movingAverage] 4188.18
-[exponentialMovingAverage 26] 4042.84
-
-[Day 259]
-[Capital] 89411
-[Stock]	4200
-[movingAverage] 4188.07
-[exponentialMovingAverage 26] 4055.22
-
-[Day 260]
-[Capital] 89411
-[Stock]	4166
-[movingAverage] 4188.12
-[exponentialMovingAverage 26] 4064.92
-
-[Day 261]
-[Capital] 89411
-[Stock]	4108
-[movingAverage] 4188.03
-[exponentialMovingAverage 26] 4070
-
-[Day 262]
-[Capital] 89411
-[Stock]	4138
-[movingAverage] 4187.73
-[exponentialMovingAverage 26] 4077.14
-
-[Day 263]
-[Capital] 89411
-[Stock]	4194
-[movingAverage] 4187.54
-[exponentialMovingAverage 26] 4088.29
-
-[Day 264]
-[Capital] 89411
-[Stock]	4242
-[movingAverage] 4187.56
-[exponentialMovingAverage 26] 4102.45
-
-[Day 265]
-[Capital] 89411
-[Stock]	4222
-[movingAverage] 4187.77
-[exponentialMovingAverage 26] 4114.37
-
-[Day 266]
-[Capital] 89411
-[Stock]	4075
-[movingAverage] 4187.9
-[exponentialMovingAverage 26] 4114.71
-
-[Day 267]
-[Capital] 89411
-[Stock]	4000
-[movingAverage] 4187.48
-[exponentialMovingAverage 26] 4109.07
-
-[Day 268]
-[Capital] 89411
-[Stock]	4055
-[movingAverage] 4186.78
-[exponentialMovingAverage 26] 4107.32
-
-[Day 269]
-[Capital] 89411
-[Stock]	4052
-[movingAverage] 4186.29
-[exponentialMovingAverage 26] 4105.04
-
-[Day 270]
-[Capital] 89411
-[Stock]	4038
-[movingAverage] 4185.79
-[exponentialMovingAverage 26] 4101.53
-
-[Day 271]
-[Capital] 89411
-[Stock]	4015
-[movingAverage] 4185.24
-[exponentialMovingAverage 26] 4096.2
-
-[Day 272]
-[Capital] 89411
-[Stock]	3976
-[movingAverage] 4184.62
-[exponentialMovingAverage 26] 4088.05
-
-[Day 273]
-[Capital] 89411
-[Stock]	3954
-[movingAverage] 4183.85
-[exponentialMovingAverage 26] 4078.35
-
-[Day 274]
-[Capital] 89411
-[Stock]	3938
-[movingAverage] 4183.01
-[exponentialMovingAverage 26] 4067.64
-
-[Day 275]
-[Capital] 89411
-[Stock]	3908
-[movingAverage] 4182.12
-[exponentialMovingAverage 26] 4055.09
-
-[Day 276]
-[Capital] 89411
-[Stock]	3930
-[movingAverage] 4181.13
-[exponentialMovingAverage 26] 4044.69
-
-[Day 277]
-[Capital] 89411
-[Stock]	3920
-[movingAverage] 4180.22
-[exponentialMovingAverage 26] 4033.81
-
-[Day 278]
-[Capital] 89411
-[Stock]	3900
-[movingAverage] 4179.29
-[exponentialMovingAverage 26] 4021.72
-
-[Day 279]
-[Capital] 89411
-[Stock]	3944
-[movingAverage] 4178.29
-[exponentialMovingAverage 26] 4013.25
-
-[Day 280]
-[Capital] 89411
-[Stock]	3945
-[movingAverage] 4177.45
-[exponentialMovingAverage 26] 4005.16
-
-[Day 281]
-[Capital] 89411
-[Stock]	3918
-[movingAverage] 4176.62
-[exponentialMovingAverage 26] 3995.4
-
-[Day 282]
-[Capital] 89411
-[Stock]	3980
-[movingAverage] 4175.71
-[exponentialMovingAverage 26] 3990.61
-
-[Day 283]
-[Capital] 89411
-[Stock]	4000
-[movingAverage] 4175.01
-[exponentialMovingAverage 26] 3987.52
-
-[Day 284]
-[Capital] 89411
-[Stock]	4008
-[movingAverage] 4174.4
-[exponentialMovingAverage 26] 3985.33
-
-[Day 285]
-[Capital] 89411
-[Stock]	4000
-[movingAverage] 4173.81
-[exponentialMovingAverage 26] 3982.98
-
-[Day 286]
-[Capital] 89411
-[Stock]	4022
-[movingAverage] 4173.21
-[exponentialMovingAverage 26] 3982.82
-
-[Day 287]
-[Capital] 89411
-[Stock]	3959
-[movingAverage] 4172.68
-[exponentialMovingAverage 26] 3978.41
-
-[Day 288]
-[Capital] 89411
-[Stock]	3981
-[movingAverage] 4171.94
-[exponentialMovingAverage 26] 3976.06
-
-[Day 289]
-[Capital] 89411
-[Stock]	3950
-[movingAverage] 4171.28
-[exponentialMovingAverage 26] 3971.85
-
-[Day 290]
-[Capital] 89411
-[Stock]	3940
-[movingAverage] 4170.51
-[exponentialMovingAverage 26] 3967.6
-
-[Day 291]
-[Capital] 89411
-[Stock]	3882
-[movingAverage] 4169.72
-[exponentialMovingAverage 26] 3959.91
-
-[Day 292]
-[Capital] 89411
-[Stock]	3925
-[movingAverage] 4168.74
-[exponentialMovingAverage 26] 3956.38
-
-[Day 293]
-[Capital] 89411
-[Stock]	3914
-[movingAverage] 4167.9
-[exponentialMovingAverage 26] 3952.46
-
-[Day 294]
-[Capital] 89411
-[Stock]	3918
-[movingAverage] 4167.04
-[exponentialMovingAverage 26] 3949.08
-
-[Day 295]
-[Capital] 89411
-[Stock]	3863
-[movingAverage] 4166.2
-[exponentialMovingAverage 26] 3942.02
-
-[Day 296]
-[Capital] 89411
-[Stock]	3830
-[movingAverage] 4165.17
-[exponentialMovingAverage 26] 3933.05
-
-[Day 297]
-[Capital] 89411
-[Stock]	3822
-[movingAverage] 4164.04
-[exponentialMovingAverage 26] 3924.08
-
-[Day 298]
-[Capital] 89411
-[Stock]	3850
-[movingAverage] 4162.9
-[exponentialMovingAverage 26] 3917.74
-
-[Day 299]
-[Capital] 89411
-[Stock]	3872
-[movingAverage] 4161.85
-[exponentialMovingAverage 26] 3913.38
-
-[Day 300]
-[Capital] 89411
-[Stock]	3898
-[movingAverage] 4160.88
-[exponentialMovingAverage 26] 3911.19
-
-[Day 301]
-[Capital] 89411
-[Stock]	3888
-[movingAverage] 4160.01
-[exponentialMovingAverage 26] 3908.36
-
-[Day 302]
-[Capital] 89411
-[Stock]	3843
-[movingAverage] 4159.11
-[exponentialMovingAverage 26] 3902.26
-
-[Day 303]
-[Capital] 89411
-[Stock]	3836
-[movingAverage] 4158.07
-[exponentialMovingAverage 26] 3895.89
-
-[Day 304]
-[Capital] 89411
-[Stock]	3848
-[movingAverage] 4157.01
-[exponentialMovingAverage 26] 3890.65
-
-[Day 305]
-[Capital] 89411
-[Stock]	3838
-[movingAverage] 4155.99
-[exponentialMovingAverage 26] 3884.81
-
-[Day 306]
-[Capital] 89411
-[Stock]	3838
-[movingAverage] 4154.95
-[exponentialMovingAverage 26] 3879.28
-
-[Day 307]
-[Capital] 89411
-[Stock]	3838
-[movingAverage] 4153.92
-[exponentialMovingAverage 26] 3874.05
-
-[Day 308]
-[Capital] 89411
-[Stock]	3846
-[movingAverage] 4152.9
-[exponentialMovingAverage 26] 3869.65
-
-[Day 309]
-[Capital] 89411
-[Stock]	3888
-[movingAverage] 4151.9
-[exponentialMovingAverage 26] 3868.73
-
-[Day 310]
-[Capital] 89411
-[Stock]	3992
-[movingAverage] 4151.05
-[exponentialMovingAverage 26] 3875.84
-
-[Day 311]
-[Capital] 89411
-[Stock]	3990
-[movingAverage] 4150.54
-[exponentialMovingAverage 26] 3882.85
-
-[Day 312]
-[Capital] 89411
-[Stock]	4038
-[movingAverage] 4150.03
-[exponentialMovingAverage 26] 3893.44
-
-[Day 313]
-[Capital] 89411
-[Stock]	4050
-[movingAverage] 4149.67
-[exponentialMovingAverage 26] 3904.87
-
-[Day 314]
-[Capital] 89411
-[Stock]	4062
-[movingAverage] 4149.35
-[exponentialMovingAverage 26] 3916.93
-
-[Day 315]
-[Capital] 89411
-[Stock]	4048
-[movingAverage] 4149.07
-[exponentialMovingAverage 26] 3927.73
-
-[Day 316]
-[Capital] 89411
-[Stock]	4040
-[movingAverage] 4148.75
-[exponentialMovingAverage 26] 3937.65
-
-[Day 317]
-[Capital] 89411
-[Stock]	4100
-[movingAverage] 4148.41
-[exponentialMovingAverage 26] 3951.73
-
-[Day 318]
-[Capital] 89411
-[Stock]	4121
-[movingAverage] 4148.26
-[exponentialMovingAverage 26] 3966.75
-
-[Day 319]
-[Capital] 89411
-[Stock]	4150
-[movingAverage] 4148.17
-[exponentialMovingAverage 26] 3983.36
-
-[Day 320]
-[Capital] 89411
-[Stock]	4148
-[movingAverage] 4148.18
-[exponentialMovingAverage 26] 3999.14
-
-[Day 321]
-[Capital] 89411
-[Stock]	4140
-[movingAverage] 4148.18
-[exponentialMovingAverage 26] 4013.68
-
-[Day 322]
-[Capital] 89411
-[Stock]	4130
-[movingAverage] 4148.15
-[exponentialMovingAverage 26] 4026.69
-
-[Day 323]
-[Capital] 89411
-[Stock]	4116
-[movingAverage] 4148.1
-[exponentialMovingAverage 26] 4037.81
-
-[Day 324]
-[Capital] 89411
-[Stock]	4125
-[movingAverage] 4148
-[exponentialMovingAverage 26] 4048.75
-
-[Day 325]
-[Capital] 89411
-[Stock]	4146
-[movingAverage] 4147.93
-[exponentialMovingAverage 26] 4060.47
-
-[Day 326]
-[Capital] 89411
-[Stock]	4308
-[movingAverage] 4147.92
-[exponentialMovingAverage 26] 4083.41
-
-[Day 327]
-[Capital] 89411
-[Stock]	4323
-[movingAverage] 4148.41
-[exponentialMovingAverage 26] 4106.29
-
-[Day 328]
-[Capital] 89411
-[Stock]	4298
-[movingAverage] 4148.94
-[exponentialMovingAverage 26] 4126.08
-
-[Day 329]
-[Capital] 89411
-[Stock]	4380
-[movingAverage] 4149.4
-[exponentialMovingAverage 26] 4150.64
-[BUY] 20 for 87600€
-
-[Day 330]
-[Capital] 1808
-[Stock]	4405
-[movingAverage] 4150.09
-[exponentialMovingAverage 26] 4175.51
-
-[Day 331]
-[Capital] 1808
-[Stock]	4425
-[movingAverage] 4150.86
-[exponentialMovingAverage 26] 4200.28
-
-[Day 332]
-[Capital] 1808
-[Stock]	4348
-[movingAverage] 4151.69
-[exponentialMovingAverage 26] 4217.66
-
-[Day 333]
-[Capital] 1808
-[Stock]	4362
-[movingAverage] 4152.28
-[exponentialMovingAverage 26] 4234.64
-
-[Day 334]
-[Capital] 1808
-[Stock]	4385
-[movingAverage] 4152.91
-[exponentialMovingAverage 26] 4251.82
-
-[Day 335]
-[Capital] 1808
-[Stock]	4438
-[movingAverage] 4153.6
-[exponentialMovingAverage 26] 4271.39
-
-[Day 336]
-[Capital] 1808
-[Stock]	4437
-[movingAverage] 4154.45
-[exponentialMovingAverage 26] 4289.32
-
-[Day 337]
-[Capital] 1808
-[Stock]	4385
-[movingAverage] 4155.28
-[exponentialMovingAverage 26] 4302.13
-
-[Day 338]
-[Capital] 1808
-[Stock]	4420
-[movingAverage] 4155.96
-[exponentialMovingAverage 26] 4316.41
-
-[Day 339]
-[Capital] 1808
-[Stock]	4425
-[movingAverage] 4156.74
-[exponentialMovingAverage 26] 4329.97
-
-[Day 340]
-[Capital] 1808
-[Stock]	4417
-[movingAverage] 4157.53
-[exponentialMovingAverage 26] 4341.87
-
-[Day 341]
-[Capital] 1808
-[Stock]	4475
-[movingAverage] 4158.29
-[exponentialMovingAverage 26] 4357.06
-
-[Day 342]
-[Capital] 1808
-[Stock]	4480
-[movingAverage] 4159.22
-[exponentialMovingAverage 26] 4371.4
-
-[Day 343]
-[Capital] 1808
-[Stock]	4500
-[movingAverage] 4160.15
-[exponentialMovingAverage 26] 4385.97
-
-[Day 344]
-[Capital] 1808
-[Stock]	4492
-[movingAverage] 4161.14
-[exponentialMovingAverage 26] 4398.8
-
-[Day 345]
-[Capital] 1808
-[Stock]	4430
-[movingAverage] 4162.1
-[exponentialMovingAverage 26] 4405.99
-
-[Day 346]
-[Capital] 1808
-[Stock]	4470
-[movingAverage] 4162.88
-[exponentialMovingAverage 26] 4415.34
-
-[Day 347]
-[Capital] 1808
-[Stock]	4430
-[movingAverage] 4163.76
-[exponentialMovingAverage 26] 4420.81
-
-[Day 348]
-[Capital] 1808
-[Stock]	4478
-[movingAverage] 4164.53
-[exponentialMovingAverage 26] 4429.01
-
-[Day 349]
-[Capital] 1808
-[Stock]	4570
-[movingAverage] 4165.42
-[exponentialMovingAverage 26] 4443.03
-
-[Day 350]
-[Capital] 1808
-[Stock]	4652
-[movingAverage] 4166.58
-[exponentialMovingAverage 26] 4461.83
-
-[Day 351]
-[Capital] 1808
-[Stock]	4648
-[movingAverage] 4167.96
-[exponentialMovingAverage 26] 4478.84
-
-[Day 352]
-[Capital] 1808
-[Stock]	4566
-[movingAverage] 4169.33
-[exponentialMovingAverage 26] 4488.34
-
-[Day 353]
-[Capital] 1808
-[Stock]	4590
-[movingAverage] 4170.45
-[exponentialMovingAverage 26] 4498.88
-
-[Day 354]
-[Capital] 1808
-[Stock]	4605
-[movingAverage] 4171.64
-[exponentialMovingAverage 26] 4509.78
-
-[Day 355]
-[Capital] 1808
-[Stock]	4540
-[movingAverage] 4172.86
-[exponentialMovingAverage 26] 4514.98
-
-[Day 356]
-[Capital] 1808
-[Stock]	4650
-[movingAverage] 4173.89
-[exponentialMovingAverage 26] 4527.88
-
-[Day 357]
-[Capital] 1808
-[Stock]	4628
-[movingAverage] 4175.22
-[exponentialMovingAverage 26] 4538.45
-
-[Day 358]
-[Capital] 1808
-[Stock]	4643
-[movingAverage] 4176.49
-[exponentialMovingAverage 26] 4549.55
-
-[Day 359]
-[Capital] 1808
-[Stock]	4578
-[movingAverage] 4177.79
-[exponentialMovingAverage 26] 4555
-
-[Day 360]
-[Capital] 1808
-[Stock]	4668
-[movingAverage] 4178.9
-[exponentialMovingAverage 26] 4566.5
-
-[Day 361]
-[Capital] 1808
-[Stock]	4646
-[movingAverage] 4180.25
-[exponentialMovingAverage 26] 4575.56
-
-[Day 362]
-[Capital] 1808
-[Stock]	4685
-[movingAverage] 4181.54
-[exponentialMovingAverage 26] 4586.92
-
-[Day 363]
-[Capital] 1808
-[Stock]	4718
-[movingAverage] 4182.93
-[exponentialMovingAverage 26] 4600.02
-
-[Day 364]
-[Capital] 1808
-[Stock]	4735
-[movingAverage] 4184.4
-[exponentialMovingAverage 26] 4613.42
-
-[Day 365]
-[Capital] 1808
-[Stock]	4792
-[movingAverage] 4185.9
-[exponentialMovingAverage 26] 4630.16
-
-[Day 366]
-[Capital] 1808
-[Stock]	4752
-[movingAverage] 4187.56
-[exponentialMovingAverage 26] 4642.88
-
-[Day 367]
-[Capital] 1808
-[Stock]	4775
-[movingAverage] 4189.1
-[exponentialMovingAverage 26] 4656.35
-
-[Day 368]
-[Capital] 1808
-[Stock]	4800
-[movingAverage] 4190.69
-[exponentialMovingAverage 26] 4670.82
-
-[Day 369]
-[Capital] 1808
-[Stock]	4818
-[movingAverage] 4192.34
-[exponentialMovingAverage 26] 4685.72
-
-[Day 370]
-[Capital] 1808
-[Stock]	4826
-[movingAverage] 4194.03
-[exponentialMovingAverage 26] 4700.29
-
-[Day 371]
-[Capital] 1808
-[Stock]	4824
-[movingAverage] 4195.74
-[exponentialMovingAverage 26] 4713.77
-
-[Day 372]
-[Capital] 1808
-[Stock]	4760
-[movingAverage] 4197.42
-[exponentialMovingAverage 26] 4721.39
-
-[Day 373]
-[Capital] 1808
-[Stock]	4832
-[movingAverage] 4198.93
-[exponentialMovingAverage 26] 4733.51
-
-[Day 374]
-[Capital] 1808
-[Stock]	4844
-[movingAverage] 4200.63
-[exponentialMovingAverage 26] 4745.38
-
-[Day 375]
-[Capital] 1808
-[Stock]	4935
-[movingAverage] 4202.34
-[exponentialMovingAverage 26] 4762.94
-
-[Day 376]
-[Capital] 1808
-[Stock]	4850
-[movingAverage] 4204.29
-[exponentialMovingAverage 26] 4773.17
-
-[Day 377]
-[Capital] 1808
-[Stock]	4894
-[movingAverage] 4206
-[exponentialMovingAverage 26] 4786.09
-
-[Day 378]
-[Capital] 1808
-[Stock]	4938
-[movingAverage] 4207.82
-[exponentialMovingAverage 26] 4801.57
-
-[Day 379]
-[Capital] 1808
-[Stock]	4900
-[movingAverage] 4209.75
-[exponentialMovingAverage 26] 4813.18
-
-[Day 380]
-[Capital] 1808
-[Stock]	4872
-[movingAverage] 4211.57
-[exponentialMovingAverage 26] 4821.83
-
-[Day 381]
-[Capital] 1808
-[Stock]	4847
-[movingAverage] 4213.3
-[exponentialMovingAverage 26] 4827.87
-
-[Day 382]
-[Capital] 1808
-[Stock]	4863
-[movingAverage] 4214.96
-[exponentialMovingAverage 26] 4834.21
-
-[Day 383]
-[Capital] 1808
-[Stock]	4816
-[movingAverage] 4216.65
-[exponentialMovingAverage 26] 4836.47
-
-[Day 384]
-[Capital] 1808
-[Stock]	4802
-[movingAverage] 4218.21
-[exponentialMovingAverage 26] 4837.16
-
-[Day 385]
-[Capital] 1808
-[Stock]	4858
-[movingAverage] 4219.73
-[exponentialMovingAverage 26] 4841.54
-
-[Day 386]
-[Capital] 1808
-[Stock]	4844
-[movingAverage] 4221.38
-[exponentialMovingAverage 26] 4844.09
-
-[Day 387]
-[Capital] 1808
-[Stock]	4809
-[movingAverage] 4222.99
-[exponentialMovingAverage 26] 4843.54
-
-[Day 388]
-[Capital] 1808
-[Stock]	4850
-[movingAverage] 4224.5
-[exponentialMovingAverage 26] 4845.57
-
-[Day 389]
-[Capital] 1808
-[Stock]	4960
-[movingAverage] 4226.11
-[exponentialMovingAverage 26] 4855.27
-
-[Day 390]
-[Capital] 1808
-[Stock]	4986
-[movingAverage] 4227.99
-[exponentialMovingAverage 26] 4866.21
-
-[Day 391]
-[Capital] 1808
-[Stock]	4997
-[movingAverage] 4229.93
-[exponentialMovingAverage 26] 4877.25
-
-[Day 392]
-[Capital] 1808
-[Stock]	5012
-[movingAverage] 4231.89
-[exponentialMovingAverage 26] 4888.82
-
-[Day 393]
-[Capital] 1808
-[Stock]	4980
-[movingAverage] 4233.87
-[exponentialMovingAverage 26] 4897.27
-
-[Day 394]
-[Capital] 1808
-[Stock]	4960
-[movingAverage] 4235.76
-[exponentialMovingAverage 26] 4903.66
-
-[Day 395]
-[Capital] 1808
-[Stock]	4900
-[movingAverage] 4237.6
-[exponentialMovingAverage 26] 4905.15
-
-[Day 396]
-[Capital] 1808
-[Stock]	4884
-[movingAverage] 4239.27
-[exponentialMovingAverage 26] 4905.23
-
-[Day 397]
-[Capital] 1808
-[Stock]	4905
-[movingAverage] 4240.89
-[exponentialMovingAverage 26] 4906.69
-
-[Day 398]
-[Capital] 1808
-[Stock]	4925
-[movingAverage] 4242.56
-[exponentialMovingAverage 26] 4909.4
-
-[Day 399]
-[Capital] 1808
-[Stock]	4926
-[movingAverage] 4244.27
-[exponentialMovingAverage 26] 4911.72
-
-[Day 400]
-[Capital] 1808
-[Stock]	4962
-[movingAverage] 4245.98
-[exponentialMovingAverage 26] 4916.43
-
-[Day 401]
-[Capital] 1808
-[Stock]	4995
-[movingAverage] 4247.76
-[exponentialMovingAverage 26] 4923.25
-
-[Day 402]
-[Capital] 1808
-[Stock]	4978
-[movingAverage] 4249.62
-[exponentialMovingAverage 26] 4928.65
-
-[Day 403]
-[Capital] 1808
-[Stock]	4975
-[movingAverage] 4251.43
-[exponentialMovingAverage 26] 4933.45
-
-[Day 404]
-[Capital] 1808
-[Stock]	4990
-[movingAverage] 4253.22
-[exponentialMovingAverage 26] 4939.14
-
-[Day 405]
-[Capital] 1808
-[Stock]	4991
-[movingAverage] 4255.04
-[exponentialMovingAverage 26] 4944.75
-
-[Day 406]
-[Capital] 1808
-[Stock]	5000
-[movingAverage] 4256.85
-[exponentialMovingAverage 26] 4950.77
-
-[Day 407]
-[Capital] 1808
-[Stock]	5008
-[movingAverage] 4258.68
-[exponentialMovingAverage 26] 4957.02
-
-[Day 408]
-[Capital] 1808
-[Stock]	4885
-[movingAverage] 4260.51
-[exponentialMovingAverage 26] 4953.7
-
-[Day 409]
-[Capital] 1808
-[Stock]	4840
-[movingAverage] 4262.04
-[exponentialMovingAverage 26] 4946.98
-
-[Day 410]
-[Capital] 1808
-[Stock]	4845
-[movingAverage] 4263.45
-[exponentialMovingAverage 26] 4940.56
-
-[Day 411]
-[Capital] 1808
-[Stock]	4800
-[movingAverage] 4264.87
-[exponentialMovingAverage 26] 4930.69
-
-[Day 412]
-[Capital] 1808
-[Stock]	4768
-[movingAverage] 4266.17
-[exponentialMovingAverage 26] 4918.62
-
-[Day 413]
-[Capital] 1808
-[Stock]	4825
-[movingAverage] 4267.38
-[exponentialMovingAverage 26] 4910.98
-
-[Day 414]
-[Capital] 1808
-[Stock]	4888
-[movingAverage] 4268.73
-[exponentialMovingAverage 26] 4907.96
-
-[Day 415]
-[Capital] 1808
-[Stock]	4931
-[movingAverage] 4270.22
-[exponentialMovingAverage 26] 4908.02
-
-[Day 416]
-[Capital] 1808
-[Stock]	5050
-[movingAverage] 4271.81
-[exponentialMovingAverage 26] 4916.98
-
-[Day 417]
-[Capital] 1808
-[Stock]	4980
-[movingAverage] 4273.67
-[exponentialMovingAverage 26] 4920.57
-
-[Day 418]
-[Capital] 1808
-[Stock]	4971
-[movingAverage] 4275.36
-[exponentialMovingAverage 26] 4923.54
-
-[Day 419]
-[Capital] 1808
-[Stock]	5093
-[movingAverage] 4277.02
-[exponentialMovingAverage 26] 4935.66
-
-[Day 420]
-[Capital] 1808
-[Stock]	5135
-[movingAverage] 4278.97
-[exponentialMovingAverage 26] 4950.58
-
-[Day 421]
-[Capital] 1808
-[Stock]	5154
-[movingAverage] 4281
-[exponentialMovingAverage 26] 4966.4
-
-[Day 422]
-[Capital] 1808
-[Stock]	5180
-[movingAverage] 4283.07
-[exponentialMovingAverage 26] 4983.43
-
-[Day 423]
-[Capital] 1808
-[Stock]	5172
-[movingAverage] 4285.19
-[exponentialMovingAverage 26] 4999.02
-
-[Day 424]
-[Capital] 1808
-[Stock]	5260
-[movingAverage] 4287.28
-[exponentialMovingAverage 26] 5020.36
-
-[Day 425]
-[Capital] 1808
-[Stock]	5262
-[movingAverage] 4289.57
-[exponentialMovingAverage 26] 5040.91
-
-[Day 426]
-[Capital] 1808
-[Stock]	5325
-[movingAverage] 4291.85
-[exponentialMovingAverage 26] 5065.16
-
-[Day 427]
-[Capital] 1808
-[Stock]	5315
-[movingAverage] 4294.27
-[exponentialMovingAverage 26] 5087.63
-
-[Day 428]
-[Capital] 1808
-[Stock]	5340
-[movingAverage] 4296.66
-[exponentialMovingAverage 26] 5111.05
-
-[Day 429]
-[Capital] 1808
-[Stock]	5345
-[movingAverage] 4299.09
-[exponentialMovingAverage 26] 5133.8
-
-[Day 430]
-[Capital] 1808
-[Stock]	5412
-[movingAverage] 4301.52
-[exponentialMovingAverage 26] 5160.47
-
-[Day 431]
-[Capital] 1808
-[Stock]	5445
-[movingAverage] 4304.1
-[exponentialMovingAverage 26] 5188.37
-
-[Day 432]
-[Capital] 1808
-[Stock]	5372
-[movingAverage] 4306.74
-[exponentialMovingAverage 26] 5209.58
-
-[Day 433]
-[Capital] 1808
-[Stock]	5238
-[movingAverage] 4309.2
-[exponentialMovingAverage 26] 5219.8
-
-[Day 434]
-[Capital] 1808
-[Stock]	5155
-[movingAverage] 4311.34
-[exponentialMovingAverage 26] 5223.21
-
-[Day 435]
-[Capital] 1808
-[Stock]	5260
-[movingAverage] 4313.28
-[exponentialMovingAverage 26] 5233.64
-
-[Day 436]
-[Capital] 1808
-[Stock]	5194
-[movingAverage] 4315.45
-[exponentialMovingAverage 26] 5237.98
-
-[Day 437]
-[Capital] 1808
-[Stock]	5148
-[movingAverage] 4317.46
-[exponentialMovingAverage 26] 5237.91
-
-[Day 438]
-[Capital] 1808
-[Stock]	5246
-[movingAverage] 4319.36
-[exponentialMovingAverage 26] 5244.12
-
-[Day 439]
-[Capital] 1808
-[Stock]	5260
-[movingAverage] 4321.47
-[exponentialMovingAverage 26] 5250
-
-[Day 440]
-[Capital] 1808
-[Stock]	5268
-[movingAverage] 4323.6
-[exponentialMovingAverage 26] 5255.23
-
-[Day 441]
-[Capital] 1808
-[Stock]	5285
-[movingAverage] 4325.74
-[exponentialMovingAverage 26] 5260.64
-
-[Day 442]
-[Capital] 1808
-[Stock]	5250
-[movingAverage] 4327.91
-[exponentialMovingAverage 26] 5262.45
-
-[Day 443]
-[Capital] 1808
-[Stock]	5230
-[movingAverage] 4329.99
-[exponentialMovingAverage 26] 5262.21
-
-[Day 444]
-[Capital] 1808
-[Stock]	5238
-[movingAverage] 4332.02
-[exponentialMovingAverage 26] 5261.85
-
-[Day 445]
-[Capital] 1808
-[Stock]	5290
-[movingAverage] 4334.06
-[exponentialMovingAverage 26] 5264.58
-
-[Day 446]
-[Capital] 1808
-[Stock]	5390
-[movingAverage] 4336.2
-[exponentialMovingAverage 26] 5274.15
-
-[Day 447]
-[Capital] 1808
-[Stock]	5416
-[movingAverage] 4338.56
-[exponentialMovingAverage 26] 5284.93
-
-[Day 448]
-[Capital] 1808
-[Stock]	5462
-[movingAverage] 4340.96
-[exponentialMovingAverage 26] 5298.36
-
-[Day 449]
-[Capital] 1808
-[Stock]	5440
-[movingAverage] 4343.46
-[exponentialMovingAverage 26] 5309.37
-
-[Day 450]
-[Capital] 1808
-[Stock]	5350
-[movingAverage] 4345.9
-[exponentialMovingAverage 26] 5312.94
-
-[Day 451]
-[Capital] 1808
-[Stock]	5452
-[movingAverage] 4348.12
-[exponentialMovingAverage 26] 5323.81
-
-[Day 452]
-[Capital] 1808
-[Stock]	5425
-[movingAverage] 4350.56
-[exponentialMovingAverage 26] 5332.14
-
-[Day 453]
-[Capital] 1808
-[Stock]	5320
-[movingAverage] 4352.94
-[exponentialMovingAverage 26] 5332.41
-
-[Day 454]
-[Capital] 1808
-[Stock]	5255
-[movingAverage] 4355.07
-[exponentialMovingAverage 26] 5327.85
-
-[Day 455]
-[Capital] 1808
-[Stock]	5260
-[movingAverage] 4357.04
-[exponentialMovingAverage 26] 5323.9
-
-[Day 456]
-[Capital] 1808
-[Stock]	5340
-[movingAverage] 4359.02
-[exponentialMovingAverage 26] 5326.12
-
-[Day 457]
-[Capital] 1808
-[Stock]	5325
-[movingAverage] 4361.17
-[exponentialMovingAverage 26] 5327.43
-
-[Day 458]
-[Capital] 1808
-[Stock]	5345
-[movingAverage] 4363.27
-[exponentialMovingAverage 26] 5330.57
-
-[Day 459]
-[Capital] 1808
-[Stock]	5359
-[movingAverage] 4365.41
-[exponentialMovingAverage 26] 5334.82
-
-[Day 460]
-[Capital] 1808
-[Stock]	5341
-[movingAverage] 4367.57
-[exponentialMovingAverage 26] 5337.39
-
-[Day 461]
-[Capital] 1808
-[Stock]	5373
-[movingAverage] 4369.69
-[exponentialMovingAverage 26] 5341.81
-
-[Day 462]
-[Capital] 1808
-[Stock]	5432
-[movingAverage] 4371.86
-[exponentialMovingAverage 26] 5350.27
-
-[Day 463]
-[Capital] 1808
-[Stock]	5383
-[movingAverage] 4374.15
-[exponentialMovingAverage 26] 5354.42
-
-[Day 464]
-[Capital] 1808
-[Stock]	5510
-[movingAverage] 4376.32
-[exponentialMovingAverage 26] 5367.31
-
-[Day 465]
-[Capital] 1808
-[Stock]	5400
-[movingAverage] 4378.76
-[exponentialMovingAverage 26] 5371.3
-
-[Day 466]
-[Capital] 1808
-[Stock]	5439
-[movingAverage] 4380.95
-[exponentialMovingAverage 26] 5377.79
-
-[Day 467]
-[Capital] 1808
-[Stock]	5408
-[movingAverage] 4383.22
-[exponentialMovingAverage 26] 5381.48
-
-[Day 468]
-[Capital] 1808
-[Stock]	5450
-[movingAverage] 4385.41
-[exponentialMovingAverage 26] 5387.94
-
-[Day 469]
-[Capital] 1808
-[Stock]	5348
-[movingAverage] 4387.68
-[exponentialMovingAverage 26] 5386.28
-
-[Day 470]
-[Capital] 1808
-[Stock]	5344
-[movingAverage] 4389.72
-[exponentialMovingAverage 26] 5383.98
-
-[Day 471]
-[Capital] 1808
-[Stock]	5385
-[movingAverage] 4391.75
-[exponentialMovingAverage 26] 5384.41
-
-[Day 472]
-[Capital] 1808
-[Stock]	5385
-[movingAverage] 4393.85
-[exponentialMovingAverage 26] 5384.58
-
-[Day 473]
-[Capital] 1808
-[Stock]	5360
-[movingAverage] 4395.94
-[exponentialMovingAverage 26] 5382.91
-
-[Day 474]
-[Capital] 1808
-[Stock]	5365
-[movingAverage] 4397.98
-[exponentialMovingAverage 26] 5381.76
-
-[Day 475]
-[Capital] 1808
-[Stock]	5425
-[movingAverage] 4400.01
-[exponentialMovingAverage 26] 5385.34
-
-[Day 476]
-[Capital] 1808
-[Stock]	5386
-[movingAverage] 4402.17
-[exponentialMovingAverage 26] 5386.07
-
-[Day 477]
-[Capital] 1808
-[Stock]	5317
-[movingAverage] 4404.23
-[exponentialMovingAverage 26] 5381.59
-
-[Day 478]
-[Capital] 1808
-[Stock]	5355
-[movingAverage] 4406.14
-[exponentialMovingAverage 26] 5380.31
-
-[Day 479]
-[Capital] 1808
-[Stock]	5341
-[movingAverage] 4408.12
-[exponentialMovingAverage 26] 5378.19
-
-[Day 480]
-[Capital] 1808
-[Stock]	5328
-[movingAverage] 4410.06
-[exponentialMovingAverage 26] 5375.05
-
-[Day 481]
-[Capital] 1808
-[Stock]	5395
-[movingAverage] 4411.97
-[exponentialMovingAverage 26] 5376.66
-
-[Day 482]
-[Capital] 1808
-[Stock]	5380
-[movingAverage] 4414.01
-[exponentialMovingAverage 26] 5376.78
-
-[Day 483]
-[Capital] 1808
-[Stock]	5402
-[movingAverage] 4416.01
-[exponentialMovingAverage 26] 5378.41
-
-[Day 484]
-[Capital] 1808
-[Stock]	5332
-[movingAverage] 4418.05
-[exponentialMovingAverage 26] 5374.64
-
-[Day 485]
-[Capital] 1808
-[Stock]	5328
-[movingAverage] 4419.93
-[exponentialMovingAverage 26] 5370.61
-
-[Day 486]
-[Capital] 1808
-[Stock]	5300
-[movingAverage] 4421.8
-[exponentialMovingAverage 26] 5364.59
-
-[Day 487]
-[Capital] 1808
-[Stock]	5269
-[movingAverage] 4423.61
-[exponentialMovingAverage 26] 5356.39
-
-[Day 488]
-[Capital] 1808
-[Stock]	5280
-[movingAverage] 4425.34
-[exponentialMovingAverage 26] 5349.31
-
-[Day 489]
-[Capital] 1808
-[Stock]	5292
-[movingAverage] 4427.09
-[exponentialMovingAverage 26] 5343.54
-
-[Day 490]
-[Capital] 1808
-[Stock]	5360
-[movingAverage] 4428.85
-[exponentialMovingAverage 26] 5343.08
-
-[Day 491]
-[Capital] 1808
-[Stock]	5469
-[movingAverage] 4430.75
-[exponentialMovingAverage 26] 5351.11
-
-[Day 492]
-[Capital] 1808
-[Stock]	5540
-[movingAverage] 4432.86
-[exponentialMovingAverage 26] 5364.21
-
-[Day 493]
-[Capital] 1808
-[Stock]	5503
-[movingAverage] 4435.1
-[exponentialMovingAverage 26] 5374.28
-
-[Day 494]
-[Capital] 1808
-[Stock]	5442
-[movingAverage] 4437.27
-[exponentialMovingAverage 26] 5379.56
-
-[Day 495]
-[Capital] 1808
-[Stock]	5460
-[movingAverage] 4439.29
-[exponentialMovingAverage 26] 5386.19
-
-[Day 496]
-[Capital] 1808
-[Stock]	5470
-[movingAverage] 4441.35
-[exponentialMovingAverage 26] 5393.25
-
-[Day 497]
-[Capital] 1808
-[Stock]	5597
-[movingAverage] 4443.42
-[exponentialMovingAverage 26] 5409.35
-
-[Day 498]
-[Capital] 1808
-[Stock]	5675
-[movingAverage] 4445.74
-[exponentialMovingAverage 26] 5430.63
-
-[Day 499]
-[Capital] 1808
-[Stock]	5758
-[movingAverage] 4448.2
-[exponentialMovingAverage 26] 5457.23
-
-[Day 500]
-[Capital] 1808
-[Stock]	5724
-[movingAverage] 4450.82
-[exponentialMovingAverage 26] 5480.18
-
-[Day 501]
-[Capital] 1808
-[Stock]	5690
-[movingAverage] 4453.36
-[exponentialMovingAverage 26] 5499.59
-
-[Day 502]
-[Capital] 1808
-[Stock]	5562
-[movingAverage] 4455.83
-[exponentialMovingAverage 26] 5508.76
-
-[Day 503]
-[Capital] 1808
-[Stock]	5325
-[movingAverage] 4458.03
-[exponentialMovingAverage 26] 5499.87
-
-[Day 504]
-[Capital] 1808
-[Stock]	5360
-[movingAverage] 4459.75
-[exponentialMovingAverage 26] 5493.56
-
-[Day 505]
-[Capital] 1808
-[Stock]	5340
-[movingAverage] 4461.53
-[exponentialMovingAverage 26] 5485.75
-
-[Day 506]
-[Capital] 1808
-[Stock]	5354
-[movingAverage] 4463.26
-[exponentialMovingAverage 26] 5478.97
-
-[Day 507]
-[Capital] 1808
-[Stock]	5375
-[movingAverage] 4465.02
-[exponentialMovingAverage 26] 5473.68
-
-[Day 508]
-[Capital] 1808
-[Stock]	5388
-[movingAverage] 4466.81
-[exponentialMovingAverage 26] 5469.41
-
-[Day 509]
-[Capital] 1808
-[Stock]	5386
-[movingAverage] 4468.62
-[exponentialMovingAverage 26] 5464.97
-
-[Day 510]
-[Capital] 1808
-[Stock]	5350
-[movingAverage] 4470.42
-[exponentialMovingAverage 26] 5457.91
-
-[Day 511]
-[Capital] 1808
-[Stock]	5470
-[movingAverage] 4472.14
-[exponentialMovingAverage 26] 5459.68
-
-[Day 512]
-[Capital] 1808
-[Stock]	5368
-[movingAverage] 4474.09
-[exponentialMovingAverage 26] 5453.5
-
-[Day 513]
-[Capital] 1808
-[Stock]	5358
-[movingAverage] 4475.83
-[exponentialMovingAverage 26] 5446.38
-
-[Day 514]
-[Capital] 1808
-[Stock]	5360
-[movingAverage] 4477.55
-[exponentialMovingAverage 26] 5439.15
-
-[Day 515]
-[Capital] 1808
-[Stock]	5426
-[movingAverage] 4479.26
-[exponentialMovingAverage 26] 5436.59
-
-[Day 516]
-[Capital] 1808
-[Stock]	5675
-[movingAverage] 4481.1
-[exponentialMovingAverage 26] 5452.09
-
-[Day 517]
-[Capital] 1808
-[Stock]	5816
-[movingAverage] 4483.41
-[exponentialMovingAverage 26] 5477.13
-
-[Day 518]
-[Capital] 1808
-[Stock]	5830
-[movingAverage] 4485.98
-[exponentialMovingAverage 26] 5502.23
-
-[Day 519]
-[Capital] 1808
-[Stock]	5870
-[movingAverage] 4488.57
-[exponentialMovingAverage 26] 5529.46
-
-[Day 520]
-[Capital] 1808
-[Stock]	5843
-[movingAverage] 4491.23
-[exponentialMovingAverage 26] 5553.64
-
-[Day 521]
-[Capital] 1808
-[Stock]	5898
-[movingAverage] 4493.82
-[exponentialMovingAverage 26] 5580.76
-
-[Day 522]
-[Capital] 1808
-[Stock]	5935
-[movingAverage] 4496.51
-[exponentialMovingAverage 26] 5609.37
-
-[Day 523]
-[Capital] 1808
-[Stock]	5963
-[movingAverage] 4499.26
-[exponentialMovingAverage 26] 5638.73
-
-[Day 524]
-[Capital] 1808
-[Stock]	5875
-[movingAverage] 4502.06
-[exponentialMovingAverage 26] 5660.53
-
-[Day 525]
-[Capital] 1808
-[Stock]	5810
-[movingAverage] 4504.67
-[exponentialMovingAverage 26] 5676.94
-
-[Day 526]
-[Capital] 1808
-[Stock]	5842
-[movingAverage] 4507.15
-[exponentialMovingAverage 26] 5695.58
-
-[Day 527]
-[Capital] 1808
-[Stock]	5915
-[movingAverage] 4509.69
-[exponentialMovingAverage 26] 5719.28
-
-[Day 528]
-[Capital] 1808
-[Stock]	5831
-[movingAverage] 4512.35
-[exponentialMovingAverage 26] 5736.13
-
-[Day 529]
-[Capital] 1808
-[Stock]	5820
-[movingAverage] 4514.84
-[exponentialMovingAverage 26] 5751.39
-
-[Day 530]
-[Capital] 1808
-[Stock]	5879
-[movingAverage] 4517.3
-[exponentialMovingAverage 26] 5769.61
-
-[Day 531]
-[Capital] 1808
-[Stock]	5985
-[movingAverage] 4519.87
-[exponentialMovingAverage 26] 5794.21
-
-[Day 532]
-[Capital] 1808
-[Stock]	5936
-[movingAverage] 4522.62
-[exponentialMovingAverage 26] 5813.33
-
-[Day 533]
-[Capital] 1808
-[Stock]	5906
-[movingAverage] 4525.27
-[exponentialMovingAverage 26] 5828.58
-
-[Day 534]
-[Capital] 1808
-[Stock]	5917
-[movingAverage] 4527.86
-[exponentialMovingAverage 26] 5843.13
-
-[Day 535]
-[Capital] 1808
-[Stock]	5836
-[movingAverage] 4530.45
-[exponentialMovingAverage 26] 5850.17
-
-[Day 536]
-[Capital] 1808
-[Stock]	5670
-[movingAverage] 4532.89
-[exponentialMovingAverage 26] 5843.64
-
-[Day 537]
-[Capital] 1808
-[Stock]	5645
-[movingAverage] 4535.01
-[exponentialMovingAverage 26] 5834.34
-
-[Day 538]
-[Capital] 1808
-[Stock]	5633
-[movingAverage] 4537.07
-[exponentialMovingAverage 26] 5823.65
-
-[Day 539]
-[Capital] 1808
-[Stock]	5606
-[movingAverage] 4539.1
-[exponentialMovingAverage 26] 5810.21
-
-[Day 540]
-[Capital] 1808
-[Stock]	5721
-[movingAverage] 4541.08
-[exponentialMovingAverage 26] 5804.58
-
-[Day 541]
-[Capital] 1808
-[Stock]	5725
-[movingAverage] 4543.26
-[exponentialMovingAverage 26] 5798.22
-
-[Day 542]
-[Capital] 1808
-[Stock]	5613
-[movingAverage] 4545.44
-[exponentialMovingAverage 26] 5782.71
-
-[Day 543]
-[Capital] 1808
-[Stock]	5585
-[movingAverage] 4547.41
-[exponentialMovingAverage 26] 5765.3
-
-[Day 544]
-[Capital] 1808
-[Stock]	5702
-[movingAverage] 4549.31
-[exponentialMovingAverage 26] 5757.22
-
-[Day 545]
-[Capital] 1808
-[Stock]	5775
-[movingAverage] 4551.43
-[exponentialMovingAverage 26] 5754.91
-
-[Day 546]
-[Capital] 1808
-[Stock]	5576
-[movingAverage] 4553.67
-[exponentialMovingAverage 26] 5738.13
-
-[Day 547]
-[Capital] 1808
-[Stock]	5300
-[movingAverage] 4555.54
-[exponentialMovingAverage 26] 5701.66
-
-[Day 548]
-[Capital] 1808
-[Stock]	5610
-[movingAverage] 4556.9
-[exponentialMovingAverage 26] 5689.87
-
-[Day 549]
-[Capital] 1808
-[Stock]	5615
-[movingAverage] 4558.82
-[exponentialMovingAverage 26] 5679.36
-
-[Day 550]
-[Capital] 1808
-[Stock]	5432
-[movingAverage] 4560.74
-[exponentialMovingAverage 26] 5656.3
-
-[Day 551]
-[Capital] 1808
-[Stock]	5302
-[movingAverage] 4562.32
-[exponentialMovingAverage 26] 5624.87
-
-[Day 552]
-[Capital] 1808
-[Stock]	5438
-[movingAverage] 4563.66
-[exponentialMovingAverage 26] 5604.95
-
-[Day 553]
-[Capital] 1808
-[Stock]	5450
-[movingAverage] 4565.24
-[exponentialMovingAverage 26] 5587.08
-
-[Day 554]
-[Capital] 1808
-[Stock]	5450
-[movingAverage] 4566.84
-[exponentialMovingAverage 26] 5570.54
-
-[Day 555]
-[Capital] 1808
-[Stock]	5435
-[movingAverage] 4568.43
-[exponentialMovingAverage 26] 5553.96
-
-[Day 556]
-[Capital] 1808
-[Stock]	5446
-[movingAverage] 4569.99
-[exponentialMovingAverage 26] 5539.3
-
-[Day 557]
-[Capital] 1808
-[Stock]	5403
-[movingAverage] 4571.56
-[exponentialMovingAverage 26] 5522.69
-
-[Day 558]
-[Capital] 1808
-[Stock]	5412
-[movingAverage] 4573.05
-[exponentialMovingAverage 26] 5508.4
-
-[Day 559]
-[Capital] 1808
-[Stock]	5388
-[movingAverage] 4574.55
-[exponentialMovingAverage 26] 5493.83
-
-[Day 560]
-[Capital] 1808
-[Stock]	5391
-[movingAverage] 4576
-[exponentialMovingAverage 26] 5480.95
-
-[Day 561]
-[Capital] 1808
-[Stock]	5490
-[movingAverage] 4577.45
-[exponentialMovingAverage 26] 5476.91
-
-[Day 562]
-[Capital] 1808
-[Stock]	5627
-[movingAverage] 4579.08
-[exponentialMovingAverage 26] 5484
-
-[Day 563]
-[Capital] 1808
-[Stock]	5604
-[movingAverage] 4580.94
-[exponentialMovingAverage 26] 5489.51
-
-[Day 564]
-[Capital] 1808
-[Stock]	5619
-[movingAverage] 4582.75
-[exponentialMovingAverage 26] 5496.25
-
-[Day 565]
-[Capital] 1808
-[Stock]	5526
-[movingAverage] 4584.59
-[exponentialMovingAverage 26] 5496.14
-
-[Day 566]
-[Capital] 1808
-[Stock]	5509
-[movingAverage] 4586.25
-[exponentialMovingAverage 26] 5495
-
-[Day 567]
-[Capital] 1808
-[Stock]	5505
-[movingAverage] 4587.88
-[exponentialMovingAverage 26] 5494.16
-
-[Day 568]
-[Capital] 1808
-[Stock]	5530
-[movingAverage] 4589.49
-[exponentialMovingAverage 26] 5495.81
-
-[Day 569]
-[Capital] 1808
-[Stock]	5549
-[movingAverage] 4591.15
-[exponentialMovingAverage 26] 5499.09
-
-[Day 570]
-[Capital] 1808
-[Stock]	5644
-[movingAverage] 4592.83
-[exponentialMovingAverage 26] 5509.52
-
-[Day 571]
-[Capital] 1808
-[Stock]	5657
-[movingAverage] 4594.67
-[exponentialMovingAverage 26] 5521.08
-
-[Day 572]
-[Capital] 1808
-[Stock]	5700
-[movingAverage] 4596.52
-[exponentialMovingAverage 26] 5536.15
-
-[Day 573]
-[Capital] 1808
-[Stock]	5672
-[movingAverage] 4598.45
-[exponentialMovingAverage 26] 5548.8
-
-[Day 574]
-[Capital] 1808
-[Stock]	5932
-[movingAverage] 4600.32
-[exponentialMovingAverage 26] 5579.65
-
-[Day 575]
-[Capital] 1808
-[Stock]	5870
-[movingAverage] 4602.64
-[exponentialMovingAverage 26] 5604.99
-
-[Day 576]
-[Capital] 1808
-[Stock]	6022
-[movingAverage] 4604.84
-[exponentialMovingAverage 26] 5640.86
-
-[Day 577]
-[Capital] 1808
-[Stock]	5775
-[movingAverage] 4607.29
-[exponentialMovingAverage 26] 5656.76
-
-[Day 578]
-[Capital] 1808
-[Stock]	5700
-[movingAverage] 4609.31
-[exponentialMovingAverage 26] 5665.75
-
-[Day 579]
-[Capital] 1808
-[Stock]	5864
-[movingAverage] 4611.2
-[exponentialMovingAverage 26] 5686.14
-
-[Day 580]
-[Capital] 1808
-[Stock]	5833
-[movingAverage] 4613.36
-[exponentialMovingAverage 26] 5703.06
-
-[Day 581]
-[Capital] 1808
-[Stock]	5808
-[movingAverage] 4615.46
-[exponentialMovingAverage 26] 5717.03
-
-[Day 582]
-[Capital] 1808
-[Stock]	5879
-[movingAverage] 4617.51
-[exponentialMovingAverage 26] 5735.21
-
-[Day 583]
-[Capital] 1808
-[Stock]	5929
-[movingAverage] 4619.67
-[exponentialMovingAverage 26] 5755.85
-
-[Day 584]
-[Capital] 1808
-[Stock]	5881
-[movingAverage] 4621.91
-[exponentialMovingAverage 26] 5771.43
-
-[Day 585]
-[Capital] 1808
-[Stock]	5936
-[movingAverage] 4624.06
-[exponentialMovingAverage 26] 5789.76
-
-[Day 586]
-[Capital] 1808
-[Stock]	5934
-[movingAverage] 4626.3
-[exponentialMovingAverage 26] 5806.37
-
-[Day 587]
-[Capital] 1808
-[Stock]	6016
-[movingAverage] 4628.53
-[exponentialMovingAverage 26] 5827.52
-
-[Day 588]
-[Capital] 1808
-[Stock]	6000
-[movingAverage] 4630.89
-[exponentialMovingAverage 26] 5845.97
-
-[Day 589]
-[Capital] 1808
-[Stock]	6146
-[movingAverage] 4633.21
-[exponentialMovingAverage 26] 5874.19
-
-[Day 590]
-[Capital] 1808
-[Stock]	6200
-[movingAverage] 4635.78
-[exponentialMovingAverage 26] 5904.85
-
-[Day 591]
-[Capital] 1808
-[Stock]	6096
-[movingAverage] 4638.42
-[exponentialMovingAverage 26] 5926.16
-
-[Day 592]
-[Capital] 1808
-[Stock]	6300
-[movingAverage] 4640.89
-[exponentialMovingAverage 26] 5960.95
-
-[Day 593]
-[Capital] 1808
-[Stock]	6386
-[movingAverage] 4643.68
-[exponentialMovingAverage 26] 5999.87
-
-[Day 594]
-[Capital] 1808
-[Stock]	6450
-[movingAverage] 4646.62
-[exponentialMovingAverage 26] 6041.01
-
-[Day 595]
-[Capital] 1808
-[Stock]	6258
-[movingAverage] 4649.65
-[exponentialMovingAverage 26] 6065.31
-
-[Day 596]
-[Capital] 1808
-[Stock]	6294
-[movingAverage] 4652.35
-[exponentialMovingAverage 26] 6090.25
-
-[Day 597]
-[Capital] 1808
-[Stock]	6251
-[movingAverage] 4655.1
-[exponentialMovingAverage 26] 6110.16
-
-[Day 598]
-[Capital] 1808
-[Stock]	6390
-[movingAverage] 4657.77
-[exponentialMovingAverage 26] 6138.68
-
-[Day 599]
-[Capital] 1808
-[Stock]	6380
-[movingAverage] 4660.66
-[exponentialMovingAverage 26] 6164.48
-
-[Day 600]
-[Capital] 1808
-[Stock]	6343
-[movingAverage] 4663.52
-[exponentialMovingAverage 26] 6185.53
-
-[Day 601]
-[Capital] 1808
-[Stock]	6348
-[movingAverage] 4666.32
-[exponentialMovingAverage 26] 6205.78
-
-[Day 602]
-[Capital] 1808
-[Stock]	6446
-[movingAverage] 4669.11
-[exponentialMovingAverage 26] 6231.92
-
-[Day 603]
-[Capital] 1808
-[Stock]	6424
-[movingAverage] 4672.06
-[exponentialMovingAverage 26] 6255.23
-
-[Day 604]
-[Capital] 1808
-[Stock]	6557
-[movingAverage] 4674.96
-[exponentialMovingAverage 26] 6286.54
-
-[Day 605]
-[Capital] 1808
-[Stock]	6594
-[movingAverage] 4678.07
-[exponentialMovingAverage 26] 6318.15
-
-[Day 606]
-[Capital] 1808
-[Stock]	6534
-[movingAverage] 4681.23
-[exponentialMovingAverage 26] 6343.24
-
-[Day 607]
-[Capital] 1808
-[Stock]	6200
-[movingAverage] 4684.28
-[exponentialMovingAverage 26] 6341.58
-
-[Day 608]
-[Capital] 1808
-[Stock]	6343
-[movingAverage] 4686.78
-[exponentialMovingAverage 26] 6349.41
-
-[Day 609]
-[Capital] 1808
-[Stock]	6300
-[movingAverage] 4689.5
-[exponentialMovingAverage 26] 6352.72
-
-[Day 610]
-[Capital] 1808
-[Stock]	6283
-[movingAverage] 4692.14
-[exponentialMovingAverage 26] 6353.72
-
-[Day 611]
-[Capital] 1808
-[Stock]	6234
-[movingAverage] 4694.74
-[exponentialMovingAverage 26] 6349.95
-
-[Day 612]
-[Capital] 1808
-[Stock]	6171
-[movingAverage] 4697.25
-[exponentialMovingAverage 26] 6340.66
-
-[Day 613]
-[Capital] 1808
-[Stock]	6300
-[movingAverage] 4699.66
-[exponentialMovingAverage 26] 6340.25
-
-[Day 614]
-[Capital] 1808
-[Stock]	6425
-[movingAverage] 4702.27
-[exponentialMovingAverage 26] 6348.29
-
-[Day 615]
-[Capital] 1808
-[Stock]	6300
-[movingAverage] 4705.07
-[exponentialMovingAverage 26] 6345.86
-
-[Day 616]
-[Capital] 1808
-[Stock]	6360
-[movingAverage] 4707.66
-[exponentialMovingAverage 26] 6347.43
-
-[Day 617]
-[Capital] 1808
-[Stock]	6237
-[movingAverage] 4710.33
-[exponentialMovingAverage 26] 6339.44
-
-[Day 618]
-[Capital] 1808
-[Stock]	6215
-[movingAverage] 4712.8
-[exponentialMovingAverage 26] 6329.42
-
-[Day 619]
-[Capital] 1808
-[Stock]	6131
-[movingAverage] 4715.23
-[exponentialMovingAverage 26] 6313.42
-
-[Day 620]
-[Capital] 1808
-[Stock]	6313
-[movingAverage] 4717.51
-[exponentialMovingAverage 26] 6311.62
-
-[Day 621]
-[Capital] 1808
-[Stock]	6388
-[movingAverage] 4720.08
-[exponentialMovingAverage 26] 6315.77
-
-[Day 622]
-[Capital] 1808
-[Stock]	6238
-[movingAverage] 4722.77
-[exponentialMovingAverage 26] 6308.44
-
-[Day 623]
-[Capital] 1808
-[Stock]	6400
-[movingAverage] 4725.2
-[exponentialMovingAverage 26] 6313.27
-
-[Day 624]
-[Capital] 1808
-[Stock]	6513
-[movingAverage] 4727.88
-[exponentialMovingAverage 26] 6326.05
-
-[Day 625]
-[Capital] 1808
-[Stock]	6499
-[movingAverage] 4730.74
-[exponentialMovingAverage 26] 6337.43
-
-[Day 626]
-[Capital] 1808
-[Stock]	6495
-[movingAverage] 4733.56
-[exponentialMovingAverage 26] 6348.19
-
-[Day 627]
-[Capital] 1808
-[Stock]	6736
-[movingAverage] 4736.37
-[exponentialMovingAverage 26] 6376.36
-
-[Day 628]
-[Capital] 1808
-[Stock]	6644
-[movingAverage] 4739.56
-[exponentialMovingAverage 26] 6396.61
-
-[Day 629]
-[Capital] 1808
-[Stock]	6537
-[movingAverage] 4742.58
-[exponentialMovingAverage 26] 6408.37
-
-[Day 630]
-[Capital] 1808
-[Stock]	6540
-[movingAverage] 4745.43
-[exponentialMovingAverage 26] 6420.03
-
-[Day 631]
-[Capital] 1808
-[Stock]	6540
-[movingAverage] 4748.28
-[exponentialMovingAverage 26] 6431.74
-
-[Day 632]
-[Capital] 1808
-[Stock]	6609
-[movingAverage] 4751.11
-[exponentialMovingAverage 26] 6448.71
-
-[Day 633]
-[Capital] 1808
-[Stock]	6487
-[movingAverage] 4754.05
-[exponentialMovingAverage 26] 6456.44
-
-[Day 634]
-[Capital] 1808
-[Stock]	6401
-[movingAverage] 4756.78
-[exponentialMovingAverage 26] 6456.97
-
-[Day 635]
-[Capital] 1808
-[Stock]	6511
-[movingAverage] 4759.37
-[exponentialMovingAverage 26] 6465.49
-
-[Day 636]
-[Capital] 1808
-[Stock]	6404
-[movingAverage] 4762.12
-[exponentialMovingAverage 26] 6465.48
-
-[Day 637]
-[Capital] 1808
-[Stock]	6355
-[movingAverage] 4764.7
-[exponentialMovingAverage 26] 6461.5
-
-[Day 638]
-[Capital] 1808
-[Stock]	6416
-[movingAverage] 4767.19
-[exponentialMovingAverage 26] 6461.69
-
-[Day 639]
-[Capital] 1808
-[Stock]	6581
-[movingAverage] 4769.77
-[exponentialMovingAverage 26] 6473.4
-
-[Day 640]
-[Capital] 1808
-[Stock]	6666
-[movingAverage] 4772.6
-[exponentialMovingAverage 26] 6490.62
-
-[Day 641]
-[Capital] 1808
-[Stock]	6609
-[movingAverage] 4775.56
-[exponentialMovingAverage 26] 6502.92
-
-[Day 642]
-[Capital] 1808
-[Stock]	6677
-[movingAverage] 4778.41
-[exponentialMovingAverage 26] 6519.38
-
-[Day 643]
-[Capital] 1808
-[Stock]	6581
-[movingAverage] 4781.37
-[exponentialMovingAverage 26] 6527.82
-
-[Day 644]
-[Capital] 1808
-[Stock]	6583
-[movingAverage] 4784.16
-[exponentialMovingAverage 26] 6535.43
-
-[Day 645]
-[Capital] 1808
-[Stock]	6401
-[movingAverage] 4786.95
-[exponentialMovingAverage 26] 6528.52
-
-[Day 646]
-[Capital] 1808
-[Stock]	6432
-[movingAverage] 4789.45
-[exponentialMovingAverage 26] 6523.13
-
-[Day 647]
-[Capital] 1808
-[Stock]	6328
-[movingAverage] 4791.99
-[exponentialMovingAverage 26] 6509.69
-
-[Day 648]
-[Capital] 1808
-[Stock]	6224
-[movingAverage] 4794.36
-[exponentialMovingAverage 26] 6488.73
-
-[Day 649]
-[Capital] 1808
-[Stock]	6200
-[movingAverage] 4796.56
-[exponentialMovingAverage 26] 6466.02
-
-[Day 650]
-[Capital] 1808
-[Stock]	6240
-[movingAverage] 4798.72
-[exponentialMovingAverage 26] 6446.85
-
-[Day 651]
-[Capital] 1808
-[Stock]	6203
-[movingAverage] 4800.93
-[exponentialMovingAverage 26] 6425.72
-
-[Day 652]
-[Capital] 1808
-[Stock]	6192
-[movingAverage] 4803.08
-[exponentialMovingAverage 26] 6404.61
-
-[Day 653]
-[Capital] 1808
-[Stock]	6204
-[movingAverage] 4805.21
-[exponentialMovingAverage 26] 6385.26
-
-[Day 654]
-[Capital] 1808
-[Stock]	6107
-[movingAverage] 4807.35
-[exponentialMovingAverage 26] 6360.24
-
-[Day 655]
-[Capital] 1808
-[Stock]	5987
-[movingAverage] 4809.33
-[exponentialMovingAverage 26] 6327.85
-
-[Day 656]
-[Capital] 1808
-[Stock]	5694
-[movingAverage] 4811.13
-[exponentialMovingAverage 26] 6275.34
-
-[Day 657]
-[Capital] 1808
-[Stock]	5772
-[movingAverage] 4812.47
-[exponentialMovingAverage 26] 6231.01
-
-[Day 658]
-[Capital] 1808
-[Stock]	5645
-[movingAverage] 4813.93
-[exponentialMovingAverage 26] 6179.46
-
-[Day 659]
-[Capital] 1808
-[Stock]	5196
-[movingAverage] 4815.19
-[exponentialMovingAverage 26] 6097.39
-
-[Day 660]
-[Capital] 1808
-[Stock]	5550
-[movingAverage] 4815.77
-[exponentialMovingAverage 26] 6045.23
-
-[Day 661]
-[Capital] 1808
-[Stock]	5762
-[movingAverage] 4816.88
-[exponentialMovingAverage 26] 6011.2
-
-[Day 662]
-[Capital] 1808
-[Stock]	5818
-[movingAverage] 4818.31
-[exponentialMovingAverage 26] 5983.44
-
-[Day 663]
-[Capital] 1808
-[Stock]	5603
-[movingAverage] 4819.81
-[exponentialMovingAverage 26] 5941.44
-
-[Day 664]
-[Capital] 1808
-[Stock]	5757
-[movingAverage] 4820.99
-[exponentialMovingAverage 26] 5912.98
-
-[Day 665]
-[Capital] 1808
-[Stock]	5826
-[movingAverage] 4822.4
-[exponentialMovingAverage 26] 5891.51
-
-[Day 666]
-[Capital] 1808
-[Stock]	5938
-[movingAverage] 4823.91
-[exponentialMovingAverage 26] 5880.48
-
-[Day 667]
-[Capital] 1808
-[Stock]	6164
-[movingAverage] 4825.58
-[exponentialMovingAverage 26] 5888.28
-
-[Day 668]
-[Capital] 1808
-[Stock]	6253
-[movingAverage] 4827.58
-[exponentialMovingAverage 26] 5903.93
-
-[Day 669]
-[Capital] 1808
-[Stock]	5979
-[movingAverage] 4829.71
-[exponentialMovingAverage 26] 5900.49
-
-[Day 670]
-[Capital] 1808
-[Stock]	6032
-[movingAverage] 4831.43
-[exponentialMovingAverage 26] 5902.7
-
-[Day 671]
-[Capital] 1808
-[Stock]	5958
-[movingAverage] 4833.22
-[exponentialMovingAverage 26] 5900.99
-
-[Day 672]
-[Capital] 1808
-[Stock]	6055
-[movingAverage] 4834.89
-[exponentialMovingAverage 26] 5907.73
-
-[Day 673]
-[Capital] 1808
-[Stock]	6074
-[movingAverage] 4836.7
-[exponentialMovingAverage 26] 5916.95
-
-[Day 674]
-[Capital] 1808
-[Stock]	6081
-[movingAverage] 4838.54
-[exponentialMovingAverage 26] 5927.42
-
-[Day 675]
-[Capital] 1808
-[Stock]	6187
-[movingAverage] 4840.38
-[exponentialMovingAverage 26] 5946.14
-
-[Day 676]
-[Capital] 1808
-[Stock]	6289
-[movingAverage] 4842.37
-[exponentialMovingAverage 26] 5972.46
-
-[Day 677]
-[Capital] 1808
-[Stock]	6216
-[movingAverage] 4844.51
-[exponentialMovingAverage 26] 5993.23
-
-[Day 678]
-[Capital] 1808
-[Stock]	6289
-[movingAverage] 4846.53
-[exponentialMovingAverage 26] 6019.37
-
-[Day 679]
-[Capital] 1808
-[Stock]	6074
-[movingAverage] 4848.66
-[exponentialMovingAverage 26] 6029.3
-
-[Day 680]
-[Capital] 1808
-[Stock]	5966
-[movingAverage] 4850.46
-[exponentialMovingAverage 26] 6031.61
-
-[Day 681]
-[Capital] 1808
-[Stock]	6045
-[movingAverage] 4852.1
-[exponentialMovingAverage 26] 6040.17
-
-[Day 682]
-[Capital] 1808
-[Stock]	6070
-[movingAverage] 4853.85
-[exponentialMovingAverage 26] 6050.42
-
-[Day 683]
-[Capital] 1808
-[Stock]	6141
-[movingAverage] 4855.63
-[exponentialMovingAverage 26] 6064.86
-
-[Day 684]
-[Capital] 1808
-[Stock]	6211
-[movingAverage] 4857.51
-[exponentialMovingAverage 26] 6083.43
-
-[Day 685]
-[Capital] 1808
-[Stock]	6198
-[movingAverage] 4859.48
-[exponentialMovingAverage 26] 6099.42
-
-[Day 686]
-[Capital] 1808
-[Stock]	6131
-[movingAverage] 4861.43
-[exponentialMovingAverage 26] 6107.6
-
-[Day 687]
-[Capital] 1808
-[Stock]	6024
-[movingAverage] 4863.28
-[exponentialMovingAverage 26] 6106.19
-
-[Day 688]
-[Capital] 1808
-[Stock]	5963
-[movingAverage] 4864.97
-[exponentialMovingAverage 26] 6099.52
-
-[Day 689]
-[Capital] 1808
-[Stock]	6081
-[movingAverage] 4866.56
-[exponentialMovingAverage 26] 6101.18
-
-[Day 690]
-[Capital] 1808
-[Stock]	6062
-[movingAverage] 4868.32
-[exponentialMovingAverage 26] 6100.07
-
-[Day 691]
-[Capital] 1808
-[Stock]	5899
-[movingAverage] 4870.05
-[exponentialMovingAverage 26] 6086.02
-
-[Day 692]
-[Capital] 1808
-[Stock]	5818
-[movingAverage] 4871.54
-[exponentialMovingAverage 26] 6065.75
-
-[Day 693]
-[Capital] 1808
-[Stock]	5814
-[movingAverage] 4872.9
-[exponentialMovingAverage 26] 6045.54
-
-[Day 694]
-[Capital] 1808
-[Stock]	5800
-[movingAverage] 4874.26
-[exponentialMovingAverage 26] 6025.28
-
-[Day 695]
-[Capital] 1808
-[Stock]	5885
-[movingAverage] 4875.59
-[exponentialMovingAverage 26] 6012.61
-
-[Day 696]
-[Capital] 1808
-[Stock]	6160
-[movingAverage] 4877.04
-[exponentialMovingAverage 26] 6020.58
-
-[Day 697]
-[Capital] 1808
-[Stock]	5842
-[movingAverage] 4878.88
-[exponentialMovingAverage 26] 6004.63
-
-[Day 698]
-[Capital] 1808
-[Stock]	6027
-[movingAverage] 4880.26
-[exponentialMovingAverage 26] 6002.71
-
-[Day 699]
-[Capital] 1808
-[Stock]	6279
-[movingAverage] 4881.9
-[exponentialMovingAverage 26] 6019.54
-
-[Day 700]
-[Capital] 1808
-[Stock]	6471
-[movingAverage] 4883.9
-[exponentialMovingAverage 26] 6050.01
-
-[Day 701]
-[Capital] 1808
-[Stock]	6699
-[movingAverage] 4886.16
-[exponentialMovingAverage 26] 6096.25
-
-[Day 702]
-[Capital] 1808
-[Stock]	6924
-[movingAverage] 4888.74
-[exponentialMovingAverage 26] 6157.71
-
-[Day 703]
-[Capital] 1808
-[Stock]	6815
-[movingAverage] 4891.64
-[exponentialMovingAverage 26] 6209.28
-
-[Day 704]
-[Capital] 1808
-[Stock]	6655
-[movingAverage] 4894.37
-[exponentialMovingAverage 26] 6247.29
-
-[Day 705]
-[Capital] 1808
-[Stock]	6633
-[movingAverage] 4896.87
-[exponentialMovingAverage 26] 6282.63
-
-[Day 706]
-[Capital] 1808
-[Stock]	6575
-[movingAverage] 4899.33
-[exponentialMovingAverage 26] 6312.08
-
-[Day 707]
-[Capital] 1808
-[Stock]	6860
-[movingAverage] 4901.7
-[exponentialMovingAverage 26] 6360.9
-
-[Day 708]
-[Capital] 1808
-[Stock]	6888
-[movingAverage] 4904.46
-[exponentialMovingAverage 26] 6409.48
-
-[Day 709]
-[Capital] 1808
-[Stock]	6743
-[movingAverage] 4907.26
-[exponentialMovingAverage 26] 6444.99
-
-[Day 710]
-[Capital] 1808
-[Stock]	6915
-[movingAverage] 4909.85
-[exponentialMovingAverage 26] 6491.52
-
-[Day 711]
-[Capital] 1808
-[Stock]	6887
-[movingAverage] 4912.67
-[exponentialMovingAverage 26] 6533.97
-
-[Day 712]
-[Capital] 1808
-[Stock]	6624
-[movingAverage] 4915.44
-[exponentialMovingAverage 26] 6554.98
-
-[Day 713]
-[Capital] 1808
-[Stock]	6670
-[movingAverage] 4917.84
-[exponentialMovingAverage 26] 6577.99
-
-[Day 714]
-[Capital] 1808
-[Stock]	6632
-[movingAverage] 4920.29
-[exponentialMovingAverage 26] 6596.35
-
-[Day 715]
-[Capital] 1808
-[Stock]	6670
-[movingAverage] 4922.68
-[exponentialMovingAverage 26] 6615.62
-
-[Day 716]
-[Capital] 1808
-[Stock]	6631
-[movingAverage] 4925.12
-[exponentialMovingAverage 26] 6630.31
-
-[Day 717]
-[Capital] 1808
-[Stock]	6661
-[movingAverage] 4927.5
-[exponentialMovingAverage 26] 6645.61
-
-[Day 718]
-[Capital] 1808
-[Stock]	6615
-[movingAverage] 4929.92
-[exponentialMovingAverage 26] 6655.33
-
-[Day 719]
-[Capital] 1808
-[Stock]	6600
-[movingAverage] 4932.26
-[exponentialMovingAverage 26] 6661.67
-
-[Day 720]
-[Capital] 1808
-[Stock]	6815
-[movingAverage] 4934.58
-[exponentialMovingAverage 26] 6681.7
-
-[Day 721]
-[Capital] 1808
-[Stock]	6747
-[movingAverage] 4937.19
-[exponentialMovingAverage 26] 6693.79
-
-[Day 722]
-[Capital] 1808
-[Stock]	6845
-[movingAverage] 4939.69
-[exponentialMovingAverage 26] 6710.7
-
-[Day 723]
-[Capital] 1808
-[Stock]	6842
-[movingAverage] 4942.33
-[exponentialMovingAverage 26] 6725.42
-
-[Day 724]
-[Capital] 1808
-[Stock]	6781
-[movingAverage] 4944.95
-[exponentialMovingAverage 26] 6732.78
-
-[Day 725]
-[Capital] 1808
-[Stock]	6852
-[movingAverage] 4947.48
-[exponentialMovingAverage 26] 6743.25
-
-[Day 726]
-[Capital] 1808
-[Stock]	6903
-[movingAverage] 4950.11
-[exponentialMovingAverage 26] 6755.87
-
-[Day 727]
-[Capital] 1808
-[Stock]	6782
-[movingAverage] 4952.79
-[exponentialMovingAverage 26] 6758.29
-
-[Day 728]
-[Capital] 1808
-[Stock]	6823
-[movingAverage] 4955.31
-[exponentialMovingAverage 26] 6763.51
-
-[Day 729]
-[Capital] 1808
-[Stock]	6680
-[movingAverage] 4957.87
-[exponentialMovingAverage 26] 6758.43
-
-[Day 730]
-[Capital] 1808
-[Stock]	6859
-[movingAverage] 4960.23
-[exponentialMovingAverage 26] 6766.99
-
-[Day 731]
-[Capital] 1808
-[Stock]	6712
-[movingAverage] 4962.82
-[exponentialMovingAverage 26] 6764.08
-
-[Day 732]
-[Capital] 1808
-[Stock]	6696
-[movingAverage] 4965.21
-[exponentialMovingAverage 26] 6759.76
-
-[Day 733]
-[Capital] 1808
-[Stock]	6774
-[movingAverage] 4967.58
-[exponentialMovingAverage 26] 6760.87
-
-[Day 734]
-[Capital] 1808
-[Stock]	6687
-[movingAverage] 4970.04
-[exponentialMovingAverage 26] 6755.79
-
-[Day 735]
-[Capital] 1808
-[Stock]	6530
-[movingAverage] 4972.37
-[exponentialMovingAverage 26] 6739.65
-
-[Day 736]
-[Capital] 1808
-[Stock]	6517
-[movingAverage] 4974.49
-[exponentialMovingAverage 26] 6723.15
-
-[Day 737]
-[Capital] 1808
-[Stock]	6564
-[movingAverage] 4976.58
-[exponentialMovingAverage 26] 6711.27
-
-[Day 738]
-[Capital] 1808
-[Stock]	6600
-[movingAverage] 4978.73
-[exponentialMovingAverage 26] 6702.97
-
-[Day 739]
-[Capital] 1808
-[Stock]	6789
-[movingAverage] 4980.93
-[exponentialMovingAverage 26] 6708.74
-
-[Day 740]
-[Capital] 1808
-[Stock]	6827
-[movingAverage] 4983.37
-[exponentialMovingAverage 26] 6716.99
-
-[Day 741]
-[Capital] 1808
-[Stock]	6753
-[movingAverage] 4985.86
-[exponentialMovingAverage 26] 6719.2
-
-[Day 742]
-[Capital] 1808
-[Stock]	6720
-[movingAverage] 4988.24
-[exponentialMovingAverage 26] 6718.73
-
-[Day 743]
-[Capital] 1808
-[Stock]	6711
-[movingAverage] 4990.57
-[exponentialMovingAverage 26] 6717.34
-
-[Day 744]
-[Capital] 1808
-[Stock]	6509
-[movingAverage] 4992.88
-[exponentialMovingAverage 26] 6700.84
-
-[Day 745]
-[Capital] 1808
-[Stock]	6489
-[movingAverage] 4994.92
-[exponentialMovingAverage 26] 6683.17
-
-[Day 746]
-[Capital] 1808
-[Stock]	6492
-[movingAverage] 4996.92
-[exponentialMovingAverage 26] 6666.03
-
-[Day 747]
-[Capital] 1808
-[Stock]	6659
-[movingAverage] 4998.92
-[exponentialMovingAverage 26] 6662.19
-
-[Day 748]
-[Capital] 1808
-[Stock]	6739
-[movingAverage] 5001.14
-[exponentialMovingAverage 26] 6664.52
-
-[Day 749]
-[Capital] 1808
-[Stock]	6872
-[movingAverage] 5003.46
-[exponentialMovingAverage 26] 6677
-
-[Day 750]
-[Capital] 1808
-[Stock]	6827
-[movingAverage] 5005.95
-[exponentialMovingAverage 26] 6686.07
-
-[Day 751]
-[Capital] 1808
-[Stock]	6751
-[movingAverage] 5008.38
-[exponentialMovingAverage 26] 6689.37
-
-[Day 752]
-[Capital] 1808
-[Stock]	6697
-[movingAverage] 5010.7
-[exponentialMovingAverage 26] 6688.96
-
-[Day 753]
-[Capital] 1808
-[Stock]	6805
-[movingAverage] 5012.94
-[exponentialMovingAverage 26] 6697.14
-
-[Day 754]
-[Capital] 1808
-[Stock]	6936
-[movingAverage] 5015.31
-[exponentialMovingAverage 26] 6714.96
-
-[Day 755]
-[Capital] 1808
-[Stock]	6787
-[movingAverage] 5017.86
-[exponentialMovingAverage 26] 6721.42
-
-[Day 756]
-[Capital] 1808
-[Stock]	6803
-[movingAverage] 5020.2
-[exponentialMovingAverage 26] 6728.76
-
-[Day 757]
-[Capital] 1808
-[Stock]	6853
-[movingAverage] 5022.55
-[exponentialMovingAverage 26] 6739.96
-
-[Day 758]
-[Capital] 1808
-[Stock]	6766
-[movingAverage] 5024.97
-[exponentialMovingAverage 26] 6744.32
-
-[Day 759]
-[Capital] 1808
-[Stock]	6709
-[movingAverage] 5027.26
-[exponentialMovingAverage 26] 6744.25
-
-[Day 760]
-[Capital] 1808
-[Stock]	6884
-[movingAverage] 5029.47
-[exponentialMovingAverage 26] 6757.33
-
-[Day 761]
-[Capital] 1808
-[Stock]	6920
-[movingAverage] 5031.91
-[exponentialMovingAverage 26] 6772.52
-
-[Day 762]
-[Capital] 1808
-[Stock]	6770
-[movingAverage] 5034.39
-[exponentialMovingAverage 26] 6775.49
-
-[Day 763]
-[Capital] 1808
-[Stock]	6805
-[movingAverage] 5036.66
-[exponentialMovingAverage 26] 6780.32
-
-[Day 764]
-[Capital] 1808
-[Stock]	6723
-[movingAverage] 5038.98
-[exponentialMovingAverage 26] 6778.4
-
-[Day 765]
-[Capital] 1808
-[Stock]	6703
-[movingAverage] 5041.18
-[exponentialMovingAverage 26] 6774.65
-
-[Day 766]
-[Capital] 1808
-[Stock]	6708
-[movingAverage] 5043.35
-[exponentialMovingAverage 26] 6771.51
-
-[Day 767]
-[Capital] 1808
-[Stock]	6625
-[movingAverage] 5045.52
-[exponentialMovingAverage 26] 6762.56
-
-[Day 768]
-[Capital] 1808
-[Stock]	6085
-[movingAverage] 5047.57
-[exponentialMovingAverage 26] 6713.97
-
-[Day 769]
-[Capital] 1808
-[Stock]	5972
-[movingAverage] 5048.92
-[exponentialMovingAverage 26] 6658.83
-
-[Day 770]
-[Capital] 1808
-[Stock]	6046
-[movingAverage] 5050.12
-[exponentialMovingAverage 26] 6611.27
-
-[Day 771]
-[Capital] 1808
-[Stock]	5960
-[movingAverage] 5051.41
-[exponentialMovingAverage 26] 6558.66
-
-[Day 772]
-[Capital] 1808
-[Stock]	5933
-[movingAverage] 5052.59
-[exponentialMovingAverage 26] 6505.56
-
-[Day 773]
-[Capital] 1808
-[Stock]	5744
-[movingAverage] 5053.73
-[exponentialMovingAverage 26] 6440.05
-
-[Day 774]
-[Capital] 1808
-[Stock]	5856
-[movingAverage] 5054.62
-[exponentialMovingAverage 26] 6385.44
-
-[Day 775]
-[Capital] 1808
-[Stock]	5639
-[movingAverage] 5055.66
-[exponentialMovingAverage 26] 6317.28
-
-[Day 776]
-[Capital] 1808
-[Stock]	5810
-[movingAverage] 5056.41
-[exponentialMovingAverage 26] 6265.29
-
-[Day 777]
-[Capital] 1808
-[Stock]	5685
-[movingAverage] 5057.38
-[exponentialMovingAverage 26] 6206.94
-
-[Day 778]
-[Capital] 1808
-[Stock]	5514
-[movingAverage] 5058.18
-[exponentialMovingAverage 26] 6138.97
-
-[Day 779]
-[Capital] 1808
-[Stock]	5704
-[movingAverage] 5058.77
-[exponentialMovingAverage 26] 6088.43
-
-[Day 780]
-[Capital] 1808
-[Stock]	5668
-[movingAverage] 5059.6
-[exponentialMovingAverage 26] 6038.37
-
-[Day 781]
-[Capital] 1808
-[Stock]	5759
-[movingAverage] 5060.38
-[exponentialMovingAverage 26] 5998.66
-
-[Day 782]
-[Capital] 1808
-[Stock]	5852
-[movingAverage] 5061.27
-[exponentialMovingAverage 26] 5968.77
-
-[Day 783]
-[Capital] 1808
-[Stock]	5873
-[movingAverage] 5062.28
-[exponentialMovingAverage 26] 5943.14
-
-[Day 784]
-[Capital] 1808
-[Stock]	5726
-[movingAverage] 5063.31
-[exponentialMovingAverage 26] 5909.42
-
-[Day 785]
-[Capital] 1808
-[Stock]	5722
-[movingAverage] 5064.16
-[exponentialMovingAverage 26] 5878.36
-
-[Day 786]
-[Capital] 1808
-[Stock]	5857
-[movingAverage] 5064.99
-[exponentialMovingAverage 26] 5860.12
-
-[Day 787]
-[Capital] 1808
-[Stock]	5934
-[movingAverage] 5066
-[exponentialMovingAverage 26] 5850.5
-
-[Day 788]
-[Capital] 1808
-[Stock]	5848
-[movingAverage] 5067.1
-[exponentialMovingAverage 26] 5837.32
-
-[Day 789]
-[Capital] 1808
-[Stock]	5813
-[movingAverage] 5068.09
-[exponentialMovingAverage 26] 5824.18
-
-[Day 790]
-[Capital] 1808
-[Stock]	5710
-[movingAverage] 5069.03
-[exponentialMovingAverage 26] 5806.24
-
-[Day 791]
-[Capital] 1808
-[Stock]	5930
-[movingAverage] 5069.84
-[exponentialMovingAverage 26] 5807.47
-
-[Day 792]
-[Capital] 1808
-[Stock]	5975
-[movingAverage] 5070.93
-[exponentialMovingAverage 26] 5814.25
-
-[Day 793]
-[Capital] 1808
-[Stock]	5842
-[movingAverage] 5072.07
-[exponentialMovingAverage 26] 5813.25
-
-[Day 794]
-[Capital] 1808
-[Stock]	5961
-[movingAverage] 5073.04
-[exponentialMovingAverage 26] 5823.31
-
-[Day 795]
-[Capital] 1808
-[Stock]	6011
-[movingAverage] 5074.16
-[exponentialMovingAverage 26] 5837.42
-
-[Day 796]
-[Capital] 1808
-[Stock]	6149
-[movingAverage] 5075.33
-[exponentialMovingAverage 26] 5861.64
-
-[Day 797]
-[Capital] 1808
-[Stock]	6160
-[movingAverage] 5076.68
-[exponentialMovingAverage 26] 5886.38
-
-[Day 798]
-[Capital] 1808
-[Stock]	6106
-[movingAverage] 5078.04
-[exponentialMovingAverage 26] 5906.56
-
-[Day 799]
-[Capital] 1808
-[Stock]	6302
-[movingAverage] 5079.33
-[exponentialMovingAverage 26] 5940.76
-
-[Day 800]
-[Capital] 1808
-[Stock]	6271
-[movingAverage] 5080.85
-[exponentialMovingAverage 26] 5971.07
-
-[Day 801]
-[Capital] 1808
-[Stock]	6243
-[movingAverage] 5082.34
-[exponentialMovingAverage 26] 5998.13
-
-[Day 802]
-[Capital] 1808
-[Stock]	6169
-[movingAverage] 5083.79
-[exponentialMovingAverage 26] 6017.98
-
-[Day 803]
-[Capital] 1808
-[Stock]	6202
-[movingAverage] 5085.14
-[exponentialMovingAverage 26] 6039.26
-
-[Day 804]
-[Capital] 1808
-[Stock]	6250
-[movingAverage] 5086.53
-[exponentialMovingAverage 26] 6062.62
-
-[Day 805]
-[Capital] 1808
-[Stock]	6121
-[movingAverage] 5087.97
-[exponentialMovingAverage 26] 6074.32
-
-[Day 806]
-[Capital] 1808
-[Stock]	6109
-[movingAverage] 5089.25
-[exponentialMovingAverage 26] 6083.95
-
-[Day 807]
-[Capital] 1808
-[Stock]	6010
-[movingAverage] 5090.52
-[exponentialMovingAverage 26] 6084.99
-
-[Day 808]
-[Capital] 1808
-[Stock]	6098
-[movingAverage] 5091.66
-[exponentialMovingAverage 26] 6091.84
-
-[Day 809]
-[Capital] 1808
-[Stock]	6066
-[movingAverage] 5092.9
-[exponentialMovingAverage 26] 6095.61
-
-[Day 810]
-[Capital] 1808
-[Stock]	5979
-[movingAverage] 5094.1
-[exponentialMovingAverage 26] 6092.39
-
-[Day 811]
-[Capital] 1808
-[Stock]	5910
-[movingAverage] 5095.19
-[exponentialMovingAverage 26] 6083.33
-
-[Day 812]
-[Capital] 1808
-[Stock]	5992
-[movingAverage] 5096.2
-[exponentialMovingAverage 26] 6079.82
-
-[Day 813]
-[Capital] 1808
-[Stock]	6118
-[movingAverage] 5097.3
-[exponentialMovingAverage 26] 6085.25
-
-[Day 814]
-[Capital] 1808
-[Stock]	6156
-[movingAverage] 5098.55
-[exponentialMovingAverage 26] 6092.97
-
-[Day 815]
-[Capital] 1808
-[Stock]	6073
-[movingAverage] 5099.85
-[exponentialMovingAverage 26] 6093.67
-
-[Day 816]
-[Capital] 1808
-[Stock]	6097
-[movingAverage] 5101.04
-[exponentialMovingAverage 26] 6095.41
-
-[Day 817]
-[Capital] 1808
-[Stock]	5941
-[movingAverage] 5102.26
-[exponentialMovingAverage 26] 6084.48
-
-[Day 818]
-[Capital] 1808
-[Stock]	6000
-[movingAverage] 5103.29
-[exponentialMovingAverage 26] 6077.9
-
-[Day 819]
-[Capital] 1808
-[Stock]	6033
-[movingAverage] 5104.38
-[exponentialMovingAverage 26] 6073.69
-
-[Day 820]
-[Capital] 1808
-[Stock]	5989
-[movingAverage] 5105.51
-[exponentialMovingAverage 26] 6065.68
-
-[Day 821]
-[Capital] 1808
-[Stock]	5925
-[movingAverage] 5106.59
-[exponentialMovingAverage 26] 6052.84
-
-[Day 822]
-[Capital] 1808
-[Stock]	6060
-[movingAverage] 5107.58
-[exponentialMovingAverage 26] 6050.25
-
-[Day 823]
-[Capital] 1808
-[Stock]	6043
-[movingAverage] 5108.74
-[exponentialMovingAverage 26] 6046.66
-
-[Day 824]
-[Capital] 1808
-[Stock]	5911
-[movingAverage] 5109.88
-[exponentialMovingAverage 26] 6033.62
-
-[Day 825]
-[Capital] 1808
-[Stock]	5951
-[movingAverage] 5110.85
-[exponentialMovingAverage 26] 6024.09
-
-[Day 826]
-[Capital] 1808
-[Stock]	6025
-[movingAverage] 5111.86
-[exponentialMovingAverage 26] 6021.05
-
-[Day 827]
-[Capital] 1808
-[Stock]	6662
-[movingAverage] 5112.97
-[exponentialMovingAverage 26] 6065.9
-
-[Day 828]
-[Capital] 1808
-[Stock]	6520
-[movingAverage] 5114.84
-[exponentialMovingAverage 26] 6099.03
-
-[Day 829]
-[Capital] 1808
-[Stock]	6340
-[movingAverage] 5116.53
-[exponentialMovingAverage 26] 6117.83
-
-[Day 830]
-[Capital] 1808
-[Stock]	6084
-[movingAverage] 5118.01
-[exponentialMovingAverage 26] 6117.28
-
-[Day 831]
-[Capital] 1808
-[Stock]	6242
-[movingAverage] 5119.17
-[exponentialMovingAverage 26] 6128.9
-
-[Day 832]
-[Capital] 1808
-[Stock]	6418
-[movingAverage] 5120.52
-[exponentialMovingAverage 26] 6153.21
-
-[Day 833]
-[Capital] 1808
-[Stock]	6698
-[movingAverage] 5122.08
-[exponentialMovingAverage 26] 6197.39
-
-[Day 834]
-[Capital] 1808
-[Stock]	6593
-[movingAverage] 5123.97
-[exponentialMovingAverage 26] 6231.82
-
-[Day 835]
-[Capital] 1808
-[Stock]	6620
-[movingAverage] 5125.73
-[exponentialMovingAverage 26] 6266.85
-
-[Day 836]
-[Capital] 1808
-[Stock]	6512
-[movingAverage] 5127.51
-[exponentialMovingAverage 26] 6292.3
-
-[Day 837]
-[Capital] 1808
-[Stock]	6439
-[movingAverage] 5129.17
-[exponentialMovingAverage 26] 6310.82
-
-[Day 838]
-[Capital] 1808
-[Stock]	6199
-[movingAverage] 5130.73
-[exponentialMovingAverage 26] 6310.05
-
-[Day 839]
-[Capital] 1808
-[Stock]	6195
-[movingAverage] 5132
-[exponentialMovingAverage 26] 6308.4
-
-[Day 840]
-[Capital] 1808
-[Stock]	5703
-[movingAverage] 5133.27
-[exponentialMovingAverage 26] 6270.09
-
-[Day 841]
-[Capital] 1808
-[Stock]	5608
-[movingAverage] 5133.95
-[exponentialMovingAverage 26] 6226.03
-
-[Day 842]
-[Capital] 1808
-[Stock]	5034
-[movingAverage] 5134.51
-[exponentialMovingAverage 26] 6140.78
-
-[Day 843]
-[Capital] 1808
-[Stock]	5569
-[movingAverage] 5134.39
-[exponentialMovingAverage 26] 6098.18
-
-[Day 844]
-[Capital] 1808
-[Stock]	5806
-[movingAverage] 5134.91
-[exponentialMovingAverage 26] 6074.2
-
-[Day 845]
-[Capital] 1808
-[Stock]	5602
-[movingAverage] 5135.7
-[exponentialMovingAverage 26] 6035.66
-
-[Day 846]
-[Capital] 1808
-[Stock]	5263
-[movingAverage] 5136.25
-[exponentialMovingAverage 26] 5973.24
-
-[Day 847]
-[Capital] 1808
-[Stock]	5463
-[movingAverage] 5136.4
-[exponentialMovingAverage 26] 5927.7
-
-[Day 848]
-[Capital] 1808
-[Stock]	5827
-[movingAverage] 5136.79
-[exponentialMovingAverage 26] 5910.44
-
-[Day 849]
-[Capital] 1808
-[Stock]	5901
-[movingAverage] 5137.6
-[exponentialMovingAverage 26] 5899.33
-
-[Day 850]
-[Capital] 1808
-[Stock]	5550
-[movingAverage] 5138.5
-[exponentialMovingAverage 26] 5862.62
-
-[Day 851]
-[Capital] 1808
-[Stock]	5221
-[movingAverage] 5138.98
-[exponentialMovingAverage 26] 5802.57
-
-[Day 852]
-[Capital] 1808
-[Stock]	4759
-[movingAverage] 5139.08
-[exponentialMovingAverage 26] 5710.38
-
-[Day 853]
-[Capital] 1808
-[Stock]	4719
-[movingAverage] 5138.63
-[exponentialMovingAverage 26] 5618.83
-
-[Day 854]
-[Capital] 1808
-[Stock]	4766
-[movingAverage] 5138.14
-[exponentialMovingAverage 26] 5536.29
-
-[Day 855]
-[Capital] 1808
-[Stock]	5218
-[movingAverage] 5137.71
-[exponentialMovingAverage 26] 5492.24
-
-[Day 856]
-[Capital] 1808
-[Stock]	5451
-[movingAverage] 5137.8
-[exponentialMovingAverage 26] 5468.64
-
-[Day 857]
-[Capital] 1808
-[Stock]	5518
-[movingAverage] 5138.16
-[exponentialMovingAverage 26] 5451.81
-
-[Day 858]
-[Capital] 1808
-[Stock]	5735
-[movingAverage] 5138.61
-[exponentialMovingAverage 26] 5453.11
-
-[Day 859]
-[Capital] 1808
-[Stock]	5687
-[movingAverage] 5139.3
-[exponentialMovingAverage 26] 5452.81
-
-[Day 860]
-[Capital] 1808
-[Stock]	5599
-[movingAverage] 5139.94
-[exponentialMovingAverage 26] 5448.87
-
-[Day 861]
-[Capital] 1808
-[Stock]	5194
-[movingAverage] 5140.47
-[exponentialMovingAverage 26] 5417.75
-
-[Day 862]
-[Capital] 1808
-[Stock]	5066
-[movingAverage] 5140.53
-[exponentialMovingAverage 26] 5381.23
-
-[Day 863]
-[Capital] 1808
-[Stock]	5073
-[movingAverage] 5140.45
-[exponentialMovingAverage 26] 5349.33
-
-[Day 864]
-[Capital] 1808
-[Stock]	4791
-[movingAverage] 5140.37
-[exponentialMovingAverage 26] 5300.44
-
-[Day 865]
-[Capital] 1808
-[Stock]	4514
-[movingAverage] 5139.97
-[exponentialMovingAverage 26] 5235.05
-
-[Day 866]
-[Capital] 1808
-[Stock]	4453
-[movingAverage] 5139.24
-[exponentialMovingAverage 26] 5169.92
-
-[Day 867]
-[Capital] 1808
-[Stock]	4785
-[movingAverage] 5138.45
-[exponentialMovingAverage 26] 5132.95
-[SELL] 20 for 95700€
-
-[Day 868]
-[Capital] 97361
-[Stock]	4605
-[movingAverage] 5138.04
-[exponentialMovingAverage 26] 5084.99
-
-[Day 869]
-[Capital] 97361
-[Stock]	4613
-[movingAverage] 5137.43
-[exponentialMovingAverage 26] 5038.85
-
-[Day 870]
-[Capital] 97361
-[Stock]	4650
-[movingAverage] 5136.83
-[exponentialMovingAverage 26] 4998.17
-
-[Day 871]
-[Capital] 97361
-[Stock]	4327
-[movingAverage] 5136.27
-[exponentialMovingAverage 26] 4936.85
-
-[Day 872]
-[Capital] 97361
-[Stock]	4441
-[movingAverage] 5135.34
-[exponentialMovingAverage 26] 4887.62
-
-[Day 873]
-[Capital] 97361
-[Stock]	4818
-[movingAverage] 5134.55
-[exponentialMovingAverage 26] 4868.65
-
-[Day 874]
-[Capital] 97361
-[Stock]	5128
-[movingAverage] 5134.18
-[exponentialMovingAverage 26] 4874.48
-
-[Day 875]
-[Capital] 97361
-[Stock]	4864
-[movingAverage] 5134.18
-[exponentialMovingAverage 26] 4862.75
-
-[Day 876]
-[Capital] 97361
-[Stock]	5325
-[movingAverage] 5133.87
-[exponentialMovingAverage 26] 4888.12
-
-[Day 877]
-[Capital] 97361
-[Stock]	5400
-[movingAverage] 5134.09
-[exponentialMovingAverage 26] 4919.68
-
-[Day 878]
-[Capital] 97361
-[Stock]	5227
-[movingAverage] 5134.39
-[exponentialMovingAverage 26] 4937.93
-
-[Day 879]
-[Capital] 97361
-[Stock]	4869
-[movingAverage] 5134.49
-[exponentialMovingAverage 26] 4928.32
-
-[Day 880]
-[Capital] 97361
-[Stock]	4893
-[movingAverage] 5134.19
-[exponentialMovingAverage 26] 4920.06
-
-[Day 881]
-[Capital] 97361
-[Stock]	5117
-[movingAverage] 5133.92
-[exponentialMovingAverage 26] 4928.03
-
-[Day 882]
-[Capital] 97361
-[Stock]	5098
-[movingAverage] 5133.9
-[exponentialMovingAverage 26] 4934.88
-
-[Day 883]
-[Capital] 97361
-[Stock]	5453
-[movingAverage] 5133.86
-[exponentialMovingAverage 26] 4969.03
-
-[Day 884]
-[Capital] 97361
-[Stock]	5527
-[movingAverage] 5134.22
-[exponentialMovingAverage 26] 5008.85
-
-[Day 885]
-[Capital] 97361
-[Stock]	5159
-[movingAverage] 5134.66
-[exponentialMovingAverage 26] 5022.01
-
-[Day 886]
-[Capital] 97361
-[Stock]	5017
-[movingAverage] 5134.69
-[exponentialMovingAverage 26] 5026.15
-
-[Day 887]
-[Capital] 97361
-[Stock]	4767
-[movingAverage] 5134.56
-[exponentialMovingAverage 26] 5013.43
-
-[Day 888]
-[Capital] 97361
-[Stock]	5001
-[movingAverage] 5134.14
-[exponentialMovingAverage 26] 5019.26
-
-[Day 889]
-[Capital] 97361
-[Stock]	4827
-[movingAverage] 5133.99
-[exponentialMovingAverage 26] 5012.38
-
-[Day 890]
-[Capital] 97361
-[Stock]	4870
-[movingAverage] 5133.65
-[exponentialMovingAverage 26] 5009.39
-
-[Day 891]
-[Capital] 97361
-[Stock]	5069
-[movingAverage] 5133.35
-[exponentialMovingAverage 26] 5020.92
-
-[Day 892]
-[Capital] 97361
-[Stock]	5329
-[movingAverage] 5133.28
-[exponentialMovingAverage 26] 5050.13
-
-[Day 893]
-[Capital] 97361
-[Stock]	5127
-[movingAverage] 5133.5
-[exponentialMovingAverage 26] 5061.87
-
-[Day 894]
-[Capital] 97361
-[Stock]	4922
-[movingAverage] 5133.49
-[exponentialMovingAverage 26] 5057.46
-
-[Day 895]
-[Capital] 97361
-[Stock]	4805
-[movingAverage] 5133.26
-[exponentialMovingAverage 26] 5043.48
-
-[Day 896]
-[Capital] 97361
-[Stock]	4913
-[movingAverage] 5132.89
-[exponentialMovingAverage 26] 5036.95
-
-[Day 897]
-[Capital] 97361
-[Stock]	4930
-[movingAverage] 5132.65
-[exponentialMovingAverage 26] 5030.93
-
-[Day 898]
-[Capital] 97361
-[Stock]	4970
-[movingAverage] 5132.42
-[exponentialMovingAverage 26] 5026.15
-
-[Day 899]
-[Capital] 97361
-[Stock]	4933
-[movingAverage] 5132.24
-[exponentialMovingAverage 26] 5017.13
-
-[Day 900]
-[Capital] 97361
-[Stock]	4981
-[movingAverage] 5132.02
-[exponentialMovingAverage 26] 5011.33
-
-[Day 901]
-[Capital] 97361
-[Stock]	5100
-[movingAverage] 5131.85
-[exponentialMovingAverage 26] 5014.77
-
-[Day 902]
-[Capital] 97361
-[Stock]	5095
-[movingAverage] 5131.81
-[exponentialMovingAverage 26] 5017.17
-
-[Day 903]
-[Capital] 97361
-[Stock]	5262
-[movingAverage] 5131.77
-[exponentialMovingAverage 26] 5032.59
-
-[Day 904]
-[Capital] 97361
-[Stock]	5380
-[movingAverage] 5131.92
-[exponentialMovingAverage 26] 5057.15
-
-[Day 905]
-[Capital] 97361
-[Stock]	5161
-[movingAverage] 5132.19
-[exponentialMovingAverage 26] 5065.04
-
-[Day 906]
-[Capital] 97361
-[Stock]	5029
-[movingAverage] 5132.22
-[exponentialMovingAverage 26] 5062.33
-
-[Day 907]
-[Capital] 97361
-[Stock]	5145
-[movingAverage] 5132.11
-[exponentialMovingAverage 26] 5067.82
-
-[Day 908]
-[Capital] 97361
-[Stock]	4940
-[movingAverage] 5132.12
-[exponentialMovingAverage 26] 5058.05
-
-[Day 909]
-[Capital] 97361
-[Stock]	4981
-[movingAverage] 5131.91
-[exponentialMovingAverage 26] 5051.77
-
-[Day 910]
-[Capital] 97361
-[Stock]	4822
-[movingAverage] 5131.75
-[exponentialMovingAverage 26] 5035.05
-
-[Day 911]
-[Capital] 97361
-[Stock]	4665
-[movingAverage] 5131.41
-[exponentialMovingAverage 26] 5008.71
-
-[Day 912]
-[Capital] 97361
-[Stock]	4738
-[movingAverage] 5130.9
-[exponentialMovingAverage 26] 4989.19
-
-[Day 913]
-[Capital] 97361
-[Stock]	4613
-[movingAverage] 5130.47
-[exponentialMovingAverage 26] 4961.2
-
-[Day 914]
-[Capital] 97361
-[Stock]	4469
-[movingAverage] 5129.9
-[exponentialMovingAverage 26] 4922.98
-
-[Day 915]
-[Capital] 97361
-[Stock]	4503
-[movingAverage] 5129.18
-[exponentialMovingAverage 26] 4888.8
-
-[Day 916]
-[Capital] 97361
-[Stock]	4477
-[movingAverage] 5128.49
-[exponentialMovingAverage 26] 4853.61
-
-[Day 917]
-[Capital] 97361
-[Stock]	4579
-[movingAverage] 5127.78
-[exponentialMovingAverage 26] 4827.1
-
-[Day 918]
-[Capital] 97361
-[Stock]	4592
-[movingAverage] 5127.19
-[exponentialMovingAverage 26] 4802.95
-
-[Day 919]
-[Capital] 97361
-[Stock]	4632
-[movingAverage] 5126.6
-[exponentialMovingAverage 26] 4783.86
-
-[Day 920]
-[Capital] 97361
-[Stock]	4713
-[movingAverage] 5126.07
-[exponentialMovingAverage 26] 4772.19
-
-[Day 921]
-[Capital] 97361
-[Stock]	4630
-[movingAverage] 5125.62
-[exponentialMovingAverage 26] 4754.95
-
-[Day 922]
-[Capital] 97361
-[Stock]	4457
-[movingAverage] 5125.08
-[exponentialMovingAverage 26] 4725.41
-
-[Day 923]
-[Capital] 97361
-[Stock]	4468
-[movingAverage] 5124.36
-[exponentialMovingAverage 26] 4697.97
-
-[Day 924]
-[Capital] 97361
-[Stock]	4642
-[movingAverage] 5123.65
-[exponentialMovingAverage 26] 4684.75
-
-[Day 925]
-[Capital] 97361
-[Stock]	4578
-[movingAverage] 5123.12
-[exponentialMovingAverage 26] 4667.71
-
-[Day 926]
-[Capital] 97361
-[Stock]	4732
-[movingAverage] 5122.54
-[exponentialMovingAverage 26] 4663.1
-
-[Day 927]
-[Capital] 97361
-[Stock]	4874
-[movingAverage] 5122.11
-[exponentialMovingAverage 26] 4669.71
-
-[Day 928]
-[Capital] 97361
-[Stock]	4727
-[movingAverage] 5121.85
-[exponentialMovingAverage 26] 4666.08
-
-[Day 929]
-[Capital] 97361
-[Stock]	4538
-[movingAverage] 5121.42
-[exponentialMovingAverage 26] 4649.49
-
-[Day 930]
-[Capital] 97361
-[Stock]	4369
-[movingAverage] 5120.79
-[exponentialMovingAverage 26] 4622.45
-
-[Day 931]
-[Capital] 97361
-[Stock]	4423
-[movingAverage] 5119.99
-[exponentialMovingAverage 26] 4602.29
-
-[Day 932]
-[Capital] 97361
-[Stock]	4272
-[movingAverage] 5119.24
-[exponentialMovingAverage 26] 4573.05
-
-[Day 933]
-[Capital] 97361
-[Stock]	4232
-[movingAverage] 5118.33
-[exponentialMovingAverage 26] 4543
-
-[Day 934]
-[Capital] 97361
-[Stock]	4394
-[movingAverage] 5117.38
-[exponentialMovingAverage 26] 4527.56
-
-[Day 935]
-[Capital] 97361
-[Stock]	4232
-[movingAverage] 5116.61
-[exponentialMovingAverage 26] 4501.66
-
-[Day 936]
-[Capital] 97361
-[Stock]	4345
-[movingAverage] 5115.66
-[exponentialMovingAverage 26] 4486.28
-
-[Day 937]
-[Capital] 97361
-[Stock]	4164
-[movingAverage] 5114.84
-[exponentialMovingAverage 26] 4458.84
-
-[Day 938]
-[Capital] 97361
-[Stock]	4264
-[movingAverage] 5113.83
-[exponentialMovingAverage 26] 4440.24
-
-[Day 939]
-[Capital] 97361
-[Stock]	4250
-[movingAverage] 5112.92
-[exponentialMovingAverage 26] 4421.95
-
-[Day 940]
-[Capital] 97361
-[Stock]	4023
-[movingAverage] 5112
-[exponentialMovingAverage 26] 4387.88
-
-[Day 941]
-[Capital] 97361
-[Stock]	4083
-[movingAverage] 5110.85
-[exponentialMovingAverage 26] 4359.53
-
-[Day 942]
-[Capital] 97361
-[Stock]	4037
-[movingAverage] 5109.76
-[exponentialMovingAverage 26] 4328.97
-
-[Day 943]
-[Capital] 97361
-[Stock]	4074
-[movingAverage] 5108.62
-[exponentialMovingAverage 26] 4302.4
-
-[Day 944]
-[Capital] 97361
-[Stock]	4137
-[movingAverage] 5107.52
-[exponentialMovingAverage 26] 4281.93
-
-[Day 945]
-[Capital] 97361
-[Stock]	4025
-[movingAverage] 5106.5
-[exponentialMovingAverage 26] 4254.47
-
-[Day 946]
-[Capital] 97361
-[Stock]	3935
-[movingAverage] 5105.35
-[exponentialMovingAverage 26] 4222.07
-
-[Day 947]
-[Capital] 97361
-[Stock]	3897
-[movingAverage] 5104.12
-[exponentialMovingAverage 26] 4189.07
-
-[Day 948]
-[Capital] 97361
-[Stock]	4198
-[movingAverage] 5102.84
-[exponentialMovingAverage 26] 4180.45
-
-[Day 949]
-[Capital] 97361
-[Stock]	4343
-[movingAverage] 5101.89
-[exponentialMovingAverage 26] 4183.31
-
-[Day 950]
-[Capital] 97361
-[Stock]	4476
-[movingAverage] 5101.09
-[exponentialMovingAverage 26] 4196.38
-
-[Day 951]
-[Capital] 97361
-[Stock]	4500
-[movingAverage] 5100.43
-[exponentialMovingAverage 26] 4211.71
-
-[Day 952]
-[Capital] 97361
-[Stock]	4385
-[movingAverage] 5099.8
-[exponentialMovingAverage 26] 4218.73
-
-[Day 953]
-[Capital] 97361
-[Stock]	4595
-[movingAverage] 5099.05
-[exponentialMovingAverage 26] 4242.3
-
-[Day 954]
-[Capital] 97361
-[Stock]	4378
-[movingAverage] 5098.52
-[exponentialMovingAverage 26] 4250.59
-
-[Day 955]
-[Capital] 97361
-[Stock]	4697
-[movingAverage] 5097.77
-[exponentialMovingAverage 26] 4283.51
-
-[Day 956]
-[Capital] 97361
-[Stock]	4597
-[movingAverage] 5097.35
-[exponentialMovingAverage 26] 4308.56
-
-[Day 957]
-[Capital] 97361
-[Stock]	4674
-[movingAverage] 5096.83
-[exponentialMovingAverage 26] 4338.67
-
-[Day 958]
-[Capital] 97361
-[Stock]	4612
-[movingAverage] 5096.39
-[exponentialMovingAverage 26] 4363.47
-
-[Day 959]
-[Capital] 97361
-[Stock]	4668
-[movingAverage] 5095.88
-[exponentialMovingAverage 26] 4391.45
-
-[Day 960]
-[Capital] 97361
-[Stock]	4742
-[movingAverage] 5095.44
-[exponentialMovingAverage 26] 4423.67
-
-[Day 961]
-[Capital] 97361
-[Stock]	4600
-[movingAverage] 5095.07
-[exponentialMovingAverage 26] 4444.38
-
-[Day 962]
-[Capital] 97361
-[Stock]	4674
-[movingAverage] 5094.55
-[exponentialMovingAverage 26] 4469.52
-
-[Day 963]
-[Capital] 97361
-[Stock]	4618
-[movingAverage] 5094.12
-[exponentialMovingAverage 26] 4489.58
-
-[Day 964]
-[Capital] 97361
-[Stock]	4761
-[movingAverage] 5093.62
-[exponentialMovingAverage 26] 4518.93
-
-[Day 965]
-[Capital] 97361
-[Stock]	5026
-[movingAverage] 5093.28
-[exponentialMovingAverage 26] 4566.5
-
-[Day 966]
-[Capital] 97361
-[Stock]	5128
-[movingAverage] 5093.21
-[exponentialMovingAverage 26] 4619.42
-
-[Day 967]
-[Capital] 97361
-[Stock]	5037
-[movingAverage] 5093.24
-[exponentialMovingAverage 26] 4662.44
-
-[Day 968]
-[Capital] 97361
-[Stock]	4996
-[movingAverage] 5093.19
-[exponentialMovingAverage 26] 4699.72
-
-[Day 969]
-[Capital] 97361
-[Stock]	5125
-[movingAverage] 5093.09
-[exponentialMovingAverage 26] 4743.81
-
-[Day 970]
-[Capital] 97361
-[Stock]	5327
-[movingAverage] 5093.12
-[exponentialMovingAverage 26] 4799.87
-
-[Day 971]
-[Capital] 97361
-[Stock]	5273
-[movingAverage] 5093.36
-[exponentialMovingAverage 26] 4848.54
-
-[Day 972]
-[Capital] 97361
-[Stock]	5260
-[movingAverage] 5093.54
-[exponentialMovingAverage 26] 4892.7
-
-[Day 973]
-[Capital] 97361
-[Stock]	5140
-[movingAverage] 5093.72
-[exponentialMovingAverage 26] 4924.19
-
-[Day 974]
-[Capital] 97361
-[Stock]	5220
-[movingAverage] 5093.76
-[exponentialMovingAverage 26] 4958.06
-
-[Day 975]
-[Capital] 97361
-[Stock]	5403
-[movingAverage] 5093.89
-[exponentialMovingAverage 26] 5002.58
-
-[Day 976]
-[Capital] 97361
-[Stock]	5388
-[movingAverage] 5094.21
-[exponentialMovingAverage 26] 5042.97
-
-[Day 977]
-[Capital] 97361
-[Stock]	5231
-[movingAverage] 5094.51
-[exponentialMovingAverage 26] 5069.13
-
-[Day 978]
-[Capital] 97361
-[Stock]	5291
-[movingAverage] 5094.65
-[exponentialMovingAverage 26] 5097.65
-[BUY] 18 for 95238€
-
-[Day 979]
-[Capital] 2119
-[Stock]	5500
-[movingAverage] 5094.85
-[exponentialMovingAverage 26] 5139.07
-
-[Day 980]
-[Capital] 2119
-[Stock]	5473
-[movingAverage] 5095.26
-[exponentialMovingAverage 26] 5175.91
-
-[Day 981]
-[Capital] 2119
-[Stock]	5401
-[movingAverage] 5095.65
-[exponentialMovingAverage 26] 5204.3
-
-[Day 982]
-[Capital] 2119
-[Stock]	5342
-[movingAverage] 5095.96
-[exponentialMovingAverage 26] 5226.32
-
-[Day 983]
-[Capital] 2119
-[Stock]	5560
-[movingAverage] 5096.21
-[exponentialMovingAverage 26] 5262.36
-
-[Day 984]
-[Capital] 2119
-[Stock]	5354
-[movingAverage] 5096.68
-[exponentialMovingAverage 26] 5280.62
-
-[Day 985]
-[Capital] 2119
-[Stock]	5287
-[movingAverage] 5096.94
-[exponentialMovingAverage 26] 5291.79
-
-[Day 986]
-[Capital] 2119
-[Stock]	5291
-[movingAverage] 5097.13
-[exponentialMovingAverage 26] 5301.51
-
-[Day 987]
-[Capital] 2119
-[Stock]	5442
-[movingAverage] 5097.33
-[exponentialMovingAverage 26] 5320.84
-
-[Day 988]
-[Capital] 2119
-[Stock]	5545
-[movingAverage] 5097.68
-[exponentialMovingAverage 26] 5345.4
-
-[Day 989]
-[Capital] 2119
-[Stock]	5532
-[movingAverage] 5098.13
-[exponentialMovingAverage 26] 5366.52
-
-[Day 990]
-[Capital] 2119
-[Stock]	5376
-[movingAverage] 5098.57
-[exponentialMovingAverage 26] 5373.48
-
-[Day 991]
-[Capital] 2119
-[Stock]	5360
-[movingAverage] 5098.85
-[exponentialMovingAverage 26] 5377.51
-
-[Day 992]
-[Capital] 2119
-[Stock]	5250
-[movingAverage] 5099.11
-[exponentialMovingAverage 26] 5372.43
-
-[Day 993]
-[Capital] 2119
-[Stock]	5040
-[movingAverage] 5099.27
-[exponentialMovingAverage 26] 5351.45
-
-[Day 994]
-[Capital] 2119
-[Stock]	4940
-[movingAverage] 5099.21
-[exponentialMovingAverage 26] 5323.05
-
-[Day 995]
-[Capital] 2119
-[Stock]	5009
-[movingAverage] 5099.05
-[exponentialMovingAverage 26] 5299.93
-
-[Day 996]
-[Capital] 2119
-[Stock]	5012
-[movingAverage] 5098.96
-[exponentialMovingAverage 26] 5277.36
-
-[Day 997]
-[Capital] 2119
-[Stock]	5150
-[movingAverage] 5098.87
-[exponentialMovingAverage 26] 5265.9
-
-[Day 998]
-[Capital] 2119
-[Stock]	5233
-[movingAverage] 5098.92
-[exponentialMovingAverage 26] 5260.95
-
-[Day 999]
-[Capital] 2119
-[Stock]	5036
-[movingAverage] 5099.05
-[exponentialMovingAverage 26] 5241.48
-
-[Day 1000]
-[Capital] 2119
-[Stock]	5135
-[movingAverage] 5098.99
-[exponentialMovingAverage 26] 5229.64
-
-[Day 1001]
-[Capital] 2119
-[Stock]	5241
-[movingAverage] 5099.03
-[exponentialMovingAverage 26] 5225.89
-
-[Day 1002]
-[Capital] 2119
-[Stock]	5197
-[movingAverage] 5099.17
-[exponentialMovingAverage 26] 5219.35
-
-[Day 1003]
-[Capital] 2119
-[Stock]	5417
-[movingAverage] 5099.27
-[exponentialMovingAverage 26] 5229.64
-
-[Day 1004]
-[Capital] 2119
-[Stock]	5445
-[movingAverage] 5099.58
-[exponentialMovingAverage 26] 5241.48
-
-[Day 1005]
-[Capital] 2119
-[Stock]	5526
-[movingAverage] 5099.93
-[exponentialMovingAverage 26] 5258.89
-
-[Day 1006]
-[Capital] 2119
-[Stock]	5786
-[movingAverage] 5100.35
-[exponentialMovingAverage 26] 5295.47
-
-[Day 1007]
-[Capital] 2119
-[Stock]	5899
-[movingAverage] 5101.03
-[exponentialMovingAverage 26] 5339.54
-
-[Day 1008]
-[Capital] 2119
-[Stock]	5739
-[movingAverage] 5101.82
-[exponentialMovingAverage 26] 5370.33
-
-[Day 1009]
-[Capital] 2119
-[Stock]	5814
-[movingAverage] 5102.45
-[exponentialMovingAverage 26] 5405.55
-
-[Day 1010]
-[Capital] 2119
-[Stock]	5860
-[movingAverage] 5103.16
-[exponentialMovingAverage 26] 5443.46
-
-[Day 1011]
-[Capital] 2119
-[Stock]	5812
-[movingAverage] 5103.91
-[exponentialMovingAverage 26] 5476.36
-
-[Day 1012]
-[Capital] 2119
-[Stock]	5799
-[movingAverage] 5104.61
-[exponentialMovingAverage 26] 5506.81
-
-[Day 1013]
-[Capital] 2119
-[Stock]	5887
-[movingAverage] 5105.29
-[exponentialMovingAverage 26] 5542.33
-
-[Day 1014]
-[Capital] 2119
-[Stock]	5716
-[movingAverage] 5106.06
-[exponentialMovingAverage 26] 5563.91
-
-[Day 1015]
-[Capital] 2119
-[Stock]	5642
-[movingAverage] 5106.66
-[exponentialMovingAverage 26] 5579.53
-
-[Day 1016]
-[Capital] 2119
-[Stock]	5639
-[movingAverage] 5107.19
-[exponentialMovingAverage 26] 5594.61
-
-[Day 1017]
-[Capital] 2119
-[Stock]	5595
-[movingAverage] 5107.71
-[exponentialMovingAverage 26] 5605.68
-
-[Day 1018]
-[Capital] 2119
-[Stock]	5515
-[movingAverage] 5108.19
-[exponentialMovingAverage 26] 5610.15
-
-[Day 1019]
-[Capital] 2119
-[Stock]	5520
-[movingAverage] 5108.59
-[exponentialMovingAverage 26] 5614.25
-
-[Day 1020]
-[Capital] 2119
-[Stock]	5683
-[movingAverage] 5109
-[exponentialMovingAverage 26] 5629.04
-
-[Day 1021]
-[Capital] 2119
-[Stock]	5620
-[movingAverage] 5109.56
-[exponentialMovingAverage 26] 5637.06
-
-[Day 1022]
-[Capital] 2119
-[Stock]	5521
-[movingAverage] 5110.06
-[exponentialMovingAverage 26] 5636
-
-[Day 1023]
-[Capital] 2119
-[Stock]	5395
-[movingAverage] 5110.46
-[exponentialMovingAverage 26] 5624.15
-
-[Day 1024]
-[Capital] 2119
-[Stock]	5065
-[movingAverage] 5110.74
-[exponentialMovingAverage 26] 5587.17
-
-[Day 1025]
-[Capital] 2119
-[Stock]	5074
-[movingAverage] 5110.69
-[exponentialMovingAverage 26] 5551.33
-
-[Day 1026]
-[Capital] 2119
-[Stock]	5115
-[movingAverage] 5110.66
-[exponentialMovingAverage 26] 5518.42
-
-[Day 1027]
-[Capital] 2119
-[Stock]	5186
-[movingAverage] 5110.66
-[exponentialMovingAverage 26] 5490.82
-
-[Day 1028]
-[Capital] 2119
-[Stock]	5214
-[movingAverage] 5110.73
-[exponentialMovingAverage 26] 5465.46
-
-[Day 1029]
-[Capital] 2119
-[Stock]	5177
-[movingAverage] 5110.83
-[exponentialMovingAverage 26] 5437.3
-
-[Day 1030]
-[Capital] 2119
-[Stock]	5106
-[movingAverage] 5110.9
-[exponentialMovingAverage 26] 5404.57
-
-[Day 1031]
-[Capital] 2119
-[Stock]	5074
-[movingAverage] 5110.89
-[exponentialMovingAverage 26] 5370.44
-
-[Day 1032]
-[Capital] 2119
-[Stock]	5170
-[movingAverage] 5110.86
-[exponentialMovingAverage 26] 5344.7
-
-[Day 1033]
-[Capital] 2119
-[Stock]	5099
-[movingAverage] 5110.92
-[exponentialMovingAverage 26] 5315.46
-
-[Day 1034]
-[Capital] 2119
-[Stock]	5186
-[movingAverage] 5110.9
-[exponentialMovingAverage 26] 5294.95
-
-[Day 1035]
-[Capital] 2119
-[Stock]	5067
-[movingAverage] 5110.98
-[exponentialMovingAverage 26] 5267.19
-
-[Day 1036]
-[Capital] 2119
-[Stock]	5146
-[movingAverage] 5110.93
-[exponentialMovingAverage 26] 5247.42
-
-[Day 1037]
-[Capital] 2119
-[Stock]	5149
-[movingAverage] 5110.97
-[exponentialMovingAverage 26] 5229.9
-
-[Day 1038]
-[Capital] 2119
-[Stock]	5235
-[movingAverage] 5111
-[exponentialMovingAverage 26] 5220.64
-
-[Day 1039]
-[Capital] 2119
-[Stock]	5278
-[movingAverage] 5111.12
-[exponentialMovingAverage 26] 5216.17
-
-[Day 1040]
-[Capital] 2119
-[Stock]	5315
-[movingAverage] 5111.28
-[exponentialMovingAverage 26] 5216.18
-
-[Day 1041]
-[Capital] 2119
-[Stock]	5259
-[movingAverage] 5111.48
-[exponentialMovingAverage 26] 5213.19
-
-[Day 1042]
-[Capital] 2119
-[Stock]	5343
-[movingAverage] 5111.62
-[exponentialMovingAverage 26] 5217.5
-
-[Day 1043]
-[Capital] 2119
-[Stock]	5200
-[movingAverage] 5111.84
-[exponentialMovingAverage 26] 5212.07
-
-[Day 1044]
-[Capital] 2119
-[Stock]	5150
-[movingAverage] 5111.93
-[exponentialMovingAverage 26] 5204.06
-
-[Day 1045]
-[Capital] 2119
-[Stock]	5111
-[movingAverage] 5111.96
-[exponentialMovingAverage 26] 5194.2
-
-[Day 1046]
-[Capital] 2119
-[Stock]	5221
-[movingAverage] 5111.96
-[exponentialMovingAverage 26] 5193.65
-
-[Day 1047]
-[Capital] 2119
-[Stock]	5198
-[movingAverage] 5112.07
-[exponentialMovingAverage 26] 5192.72
-
-[Day 1048]
-[Capital] 2119
-[Stock]	5250
-[movingAverage] 5112.15
-[exponentialMovingAverage 26] 5196.83
-
-[Day 1049]
-[Capital] 2119
-[Stock]	5493
-[movingAverage] 5112.28
-[exponentialMovingAverage 26] 5219.73
-
-[Day 1050]
-[Capital] 2119
-[Stock]	5567
-[movingAverage] 5112.64
-[exponentialMovingAverage 26] 5247.82
-
-[Day 1051]
-[Capital] 2119
-[Stock]	5698
-[movingAverage] 5113.08
-[exponentialMovingAverage 26] 5284.19
-
-[Day 1052]
-[Capital] 2119
-[Stock]	5646
-[movingAverage] 5113.63
-[exponentialMovingAverage 26] 5314.93
-
-[Day 1053]
-[Capital] 2119
-[Stock]	5754
-[movingAverage] 5114.14
-[exponentialMovingAverage 26] 5352.15
-
-[Day 1054]
-[Capital] 2119
-[Stock]	5725
-[movingAverage] 5114.74
-[exponentialMovingAverage 26] 5385.61
-
-[Day 1055]
-[Capital] 2119
-[Stock]	5796
-[movingAverage] 5115.32
-[exponentialMovingAverage 26] 5422.87
-
-[Day 1056]
-[Capital] 2119
-[Stock]	5787
-[movingAverage] 5115.97
-[exponentialMovingAverage 26] 5457.7
-
-[Day 1057]
-[Capital] 2119
-[Stock]	5660
-[movingAverage] 5116.6
-[exponentialMovingAverage 26] 5481.19
-
-[Day 1058]
-[Capital] 2119
-[Stock]	5738
-[movingAverage] 5117.12
-[exponentialMovingAverage 26] 5508.78
-
-[Day 1059]
-[Capital] 2119
-[Stock]	5766
-[movingAverage] 5117.7
-[exponentialMovingAverage 26] 5536.83
-
-[Day 1060]
-[Capital] 2119
-[Stock]	5607
-[movingAverage] 5118.31
-[exponentialMovingAverage 26] 5551.2
-
-[Day 1061]
-[Capital] 2119
-[Stock]	5552
-[movingAverage] 5118.77
-[exponentialMovingAverage 26] 5560.3
-
-[Day 1062]
-[Capital] 2119
-[Stock]	5509
-[movingAverage] 5119.18
-[exponentialMovingAverage 26] 5564.83
-
-[Day 1063]
-[Capital] 2119
-[Stock]	5680
-[movingAverage] 5119.55
-[exponentialMovingAverage 26] 5580.99
-
-[Day 1064]
-[Capital] 2119
-[Stock]	5599
-[movingAverage] 5120.08
-[exponentialMovingAverage 26] 5589.64
-
-[Day 1065]
-[Capital] 2119
-[Stock]	5570
-[movingAverage] 5120.52
-[exponentialMovingAverage 26] 5595.1
-
-[Day 1066]
-[Capital] 2119
-[Stock]	5629
-[movingAverage] 5120.95
-[exponentialMovingAverage 26] 5604.11
-
-[Day 1067]
-[Capital] 2119
-[Stock]	5528
-[movingAverage] 5121.42
-[exponentialMovingAverage 26] 5604.73
-
-[Day 1068]
-[Capital] 2119
-[Stock]	5554
-[movingAverage] 5121.8
-[exponentialMovingAverage 26] 5606.52
-
-[Day 1069]
-[Capital] 2119
-[Stock]	5705
-[movingAverage] 5122.21
-[exponentialMovingAverage 26] 5618.89
-
-[Day 1070]
-[Capital] 2119
-[Stock]	5592
-[movingAverage] 5122.75
-[exponentialMovingAverage 26] 5621.45
-
-[Day 1071]
-[Capital] 2119
-[Stock]	5490
-[movingAverage] 5123.19
-[exponentialMovingAverage 26] 5615.2
-
-[Day 1072]
-[Capital] 2119
-[Stock]	5412
-[movingAverage] 5123.53
-[exponentialMovingAverage 26] 5602.09
-
-[Day 1073]
-[Capital] 2119
-[Stock]	5349
-[movingAverage] 5123.8
-[exponentialMovingAverage 26] 5583.76
-
-[Day 1074]
-[Capital] 2119
-[Stock]	5387
-[movingAverage] 5124.01
-[exponentialMovingAverage 26] 5567.83
-
-[Day 1075]
-[Capital] 2119
-[Stock]	5463
-[movingAverage] 5124.26
-[exponentialMovingAverage 26] 5557.13
-
-[Day 1076]
-[Capital] 2119
-[Stock]	5493
-[movingAverage] 5124.57
-[exponentialMovingAverage 26] 5548.74
-
-[Day 1077]
-[Capital] 2119
-[Stock]	5535
-[movingAverage] 5124.91
-[exponentialMovingAverage 26] 5543.67
-
-[Day 1078]
-[Capital] 2119
-[Stock]	5556
-[movingAverage] 5125.29
-[exponentialMovingAverage 26] 5540.62
-
-[Day 1079]
-[Capital] 2119
-[Stock]	5448
-[movingAverage] 5125.69
-[exponentialMovingAverage 26] 5529.83
-
-[Day 1080]
-[Capital] 2119
-[Stock]	5476
-[movingAverage] 5125.99
-[exponentialMovingAverage 26] 5521.98
-
-[Day 1081]
-[Capital] 2119
-[Stock]	5476
-[movingAverage] 5126.31
-[exponentialMovingAverage 26] 5514.85
-
-[Day 1082]
-[Capital] 2119
-[Stock]	5700
-[movingAverage] 5126.64
-[exponentialMovingAverage 26] 5525.21
-
-[Day 1083]
-[Capital] 2119
-[Stock]	5825
-[movingAverage] 5127.17
-[exponentialMovingAverage 26] 5545.09
-
-[Day 1084]
-[Capital] 2119
-[Stock]	5805
-[movingAverage] 5127.81
-[exponentialMovingAverage 26] 5563.01
-
-[Day 1085]
-[Capital] 2119
-[Stock]	5897
-[movingAverage] 5128.44
-[exponentialMovingAverage 26] 5587.56
-
-[Day 1086]
-[Capital] 2119
-[Stock]	5880
-[movingAverage] 5129.14
-[exponentialMovingAverage 26] 5610.47
-
-[Day 1087]
-[Capital] 2119
-[Stock]	5831
-[movingAverage] 5129.83
-[exponentialMovingAverage 26] 5628.98
-
-[Day 1088]
-[Capital] 2119
-[Stock]	5833
-[movingAverage] 5130.48
-[exponentialMovingAverage 26] 5646.84
-
-[Day 1089]
-[Capital] 2119
-[Stock]	5873
-[movingAverage] 5131.12
-[exponentialMovingAverage 26] 5666.74
-
-[Day 1090]
-[Capital] 2119
-[Stock]	5923
-[movingAverage] 5131.8
-[exponentialMovingAverage 26] 5689.79
-
-[Day 1091]
-[Capital] 2119
-[Stock]	6401
-[movingAverage] 5132.53
-[exponentialMovingAverage 26] 5747.33
-
-[Day 1092]
-[Capital] 2119
-[Stock]	6400
-[movingAverage] 5133.69
-[exponentialMovingAverage 26] 5802.43
-
-[Day 1093]
-[Capital] 2119
-[Stock]	6153
-[movingAverage] 5134.85
-[exponentialMovingAverage 26] 5837.03
-
-[Day 1094]
-[Capital] 2119
-[Stock]	6188
-[movingAverage] 5135.78
-[exponentialMovingAverage 26] 5872.45
-
-[Day 1095]
-[Capital] 2119
-[Stock]	6291
-[movingAverage] 5136.74
-[exponentialMovingAverage 26] 5913.69
-
-[Day 1096]
-[Capital] 2119
-[Stock]	6294
-[movingAverage] 5137.79
-[exponentialMovingAverage 26] 5953.48
-
-[Day 1097]
-[Capital] 2119
-[Stock]	6371
-[movingAverage] 5138.85
-[exponentialMovingAverage 26] 5996.98
-
-[Day 1098]
-[Capital] 2119
-[Stock]	6412
-[movingAverage] 5139.97
-[exponentialMovingAverage 26] 6041
-
-[Day 1099]
-[Capital] 2119
-[Stock]	6385
-[movingAverage] 5141.13
-[exponentialMovingAverage 26] 6080.17
-
-[Day 1100]
-[Capital] 2119
-[Stock]	6326
-[movingAverage] 5142.26
-[exponentialMovingAverage 26] 6112.03
-
-[Day 1101]
-[Capital] 2119
-[Stock]	6408
-[movingAverage] 5143.33
-[exponentialMovingAverage 26] 6147.28
-
-[Day 1102]
-[Capital] 2119
-[Stock]	6473
-[movingAverage] 5144.48
-[exponentialMovingAverage 26] 6184.65
-
-[Day 1103]
-[Capital] 2119
-[Stock]	6434
-[movingAverage] 5145.69
-[exponentialMovingAverage 26] 6216.34
-
-[Day 1104]
-[Capital] 2119
-[Stock]	6504
-[movingAverage] 5146.85
-[exponentialMovingAverage 26] 6250.66
-
-[Day 1105]
-[Capital] 2119
-[Stock]	6553
-[movingAverage] 5148.08
-[exponentialMovingAverage 26] 6285.9
-
-[Day 1106]
-[Capital] 2119
-[Stock]	6510
-[movingAverage] 5149.35
-[exponentialMovingAverage 26] 6314.81
-
-[Day 1107]
-[Capital] 2119
-[Stock]	6482
-[movingAverage] 5150.58
-[exponentialMovingAverage 26] 6338.71
-
-[Day 1108]
-[Capital] 2119
-[Stock]	6505
-[movingAverage] 5151.78
-[exponentialMovingAverage 26] 6361.44
-
-[Day 1109]
-[Capital] 2119
-[Stock]	6408
-[movingAverage] 5153
-[exponentialMovingAverage 26] 6374.69
-
-[Day 1110]
-[Capital] 2119
-[Stock]	6365
-[movingAverage] 5154.13
-[exponentialMovingAverage 26] 6383.09
-
-[Day 1111]
-[Capital] 2119
-[Stock]	6363
-[movingAverage] 5155.22
-[exponentialMovingAverage 26] 6389.75
-
-[Day 1112]
-[Capital] 2119
-[Stock]	6300
-[movingAverage] 5156.31
-[exponentialMovingAverage 26] 6390.42
-
-[Day 1113]
-[Capital] 2119
-[Stock]	6335
-[movingAverage] 5157.34
-[exponentialMovingAverage 26] 6392.48
-
-[Day 1114]
-[Capital] 2119
-[Stock]	6234
-[movingAverage] 5158.39
-[exponentialMovingAverage 26] 6385.63
-
-[Day 1115]
-[Capital] 2119
-[Stock]	6225
-[movingAverage] 5159.36
-[exponentialMovingAverage 26] 6376.96
-
-[Day 1116]
-[Capital] 2119
-[Stock]	6282
-[movingAverage] 5160.31
-[exponentialMovingAverage 26] 6371.52
-
-[Day 1117]
-[Capital] 2119
-[Stock]	6349
-[movingAverage] 5161.32
-[exponentialMovingAverage 26] 6370.01
-
-[Day 1118]
-[Capital] 2119
-[Stock]	6465
-[movingAverage] 5162.38
-[exponentialMovingAverage 26] 6377.25
-
-[Day 1119]
-[Capital] 2119
-[Stock]	6450
-[movingAverage] 5163.54
-[exponentialMovingAverage 26] 6383.19
-
-[Day 1120]
-[Capital] 2119
-[Stock]	6534
-[movingAverage] 5164.69
-[exponentialMovingAverage 26] 6394.51
-
-[Day 1121]
-[Capital] 2119
-[Stock]	6461
-[movingAverage] 5165.91
-[exponentialMovingAverage 26] 6399.43
-
-[Day 1122]
-[Capital] 2119
-[Stock]	6494
-[movingAverage] 5167.07
-[exponentialMovingAverage 26] 6406.31
-
-[Day 1123]
-[Capital] 2119
-[Stock]	6427
-[movingAverage] 5168.25
-[exponentialMovingAverage 26] 6407.66
-
-[Day 1124]
-[Capital] 2119
-[Stock]	6466
-[movingAverage] 5169.37
-[exponentialMovingAverage 26] 6411.74
-
-[Day 1125]
-[Capital] 2119
-[Stock]	6589
-[movingAverage] 5170.52
-[exponentialMovingAverage 26] 6424.78
-
-[Day 1126]
-[Capital] 2119
-[Stock]	6479
-[movingAverage] 5171.78
-[exponentialMovingAverage 26] 6429.09
-
-[Day 1127]
-[Capital] 2119
-[Stock]	6393
-[movingAverage] 5172.94
-[exponentialMovingAverage 26] 6426.59
-
-[Day 1128]
-[Capital] 2119
-[Stock]	6334
-[movingAverage] 5174.02
-[exponentialMovingAverage 26] 6419.76
-
-[Day 1129]
-[Capital] 2119
-[Stock]	6482
-[movingAverage] 5175.05
-[exponentialMovingAverage 26] 6424.3
-
-[Day 1130]
-[Capital] 2119
-[Stock]	6468
-[movingAverage] 5176.21
-[exponentialMovingAverage 26] 6427.66
-
-[Day 1131]
-[Capital] 2119
-[Stock]	6453
-[movingAverage] 5177.35
-[exponentialMovingAverage 26] 6430.01
-
-[Day 1132]
-[Capital] 2119
-[Stock]	6570
-[movingAverage] 5178.48
-[exponentialMovingAverage 26] 6441.31
-
-[Day 1133]
-[Capital] 2119
-[Stock]	6452
-[movingAverage] 5179.7
-[exponentialMovingAverage 26] 6443.7
-
-[Day 1134]
-[Capital] 2119
-[Stock]	6480
-[movingAverage] 5180.83
-[exponentialMovingAverage 26] 6448.25
-
-[Day 1135]
-[Capital] 2119
-[Stock]	6527
-[movingAverage] 5181.97
-[exponentialMovingAverage 26] 6456.35
-
-[Day 1136]
-[Capital] 2119
-[Stock]	6453
-[movingAverage] 5183.15
-[exponentialMovingAverage 26] 6458.63
-
-[Day 1137]
-[Capital] 2119
-[Stock]	6526
-[movingAverage] 5184.27
-[exponentialMovingAverage 26] 6466.07
-
-[Day 1138]
-[Capital] 2119
-[Stock]	6528
-[movingAverage] 5185.45
-[exponentialMovingAverage 26] 6473.19
-
-[Day 1139]
-[Capital] 2119
-[Stock]	6430
-[movingAverage] 5186.63
-[exponentialMovingAverage 26] 6472.41
-
-[Day 1140]
-[Capital] 2119
-[Stock]	6400
-[movingAverage] 5187.72
-[exponentialMovingAverage 26] 6469.13
-
-[Day 1141]
-[Capital] 2119
-[Stock]	6351
-[movingAverage] 5188.78
-[exponentialMovingAverage 26] 6461.75
-
-[Day 1142]
-[Capital] 2119
-[Stock]	6220
-[movingAverage] 5189.8
-[exponentialMovingAverage 26] 6444.3
-
-[Day 1143]
-[Capital] 2119
-[Stock]	6316
-[movingAverage] 5190.7
-[exponentialMovingAverage 26] 6434.15
-
-[Day 1144]
-[Capital] 2119
-[Stock]	6401
-[movingAverage] 5191.69
-[exponentialMovingAverage 26] 6430.38
-
-[Day 1145]
-[Capital] 2119
-[Stock]	6393
-[movingAverage] 5192.74
-[exponentialMovingAverage 26] 6426.2
-
-[Day 1146]
-[Capital] 2119
-[Stock]	6468
-[movingAverage] 5193.79
-[exponentialMovingAverage 26] 6427.74
-
-[Day 1147]
-[Capital] 2119
-[Stock]	6357
-[movingAverage] 5194.9
-[exponentialMovingAverage 26] 6421.25
-
-[Day 1148]
-[Capital] 2119
-[Stock]	6440
-[movingAverage] 5195.91
-[exponentialMovingAverage 26] 6421.2
-
-[Day 1149]
-[Capital] 2119
-[Stock]	6452
-[movingAverage] 5196.99
-[exponentialMovingAverage 26] 6422.2
-
-[Day 1150]
-[Capital] 2119
-[Stock]	6488
-[movingAverage] 5198.09
-[exponentialMovingAverage 26] 6425.79
-
-[Day 1151]
-[Capital] 2119
-[Stock]	6507
-[movingAverage] 5199.21
-[exponentialMovingAverage 26] 6430.72
-
-[Day 1152]
-[Capital] 2119
-[Stock]	6544
-[movingAverage] 5200.34
-[exponentialMovingAverage 26] 6438.63
-
-[Day 1153]
-[Capital] 2119
-[Stock]	6525
-[movingAverage] 5201.51
-[exponentialMovingAverage 26] 6444.95
-
-[Day 1154]
-[Capital] 2119
-[Stock]	6525
-[movingAverage] 5202.65
-[exponentialMovingAverage 26] 6450.89
-
-[Day 1155]
-[Capital] 2119
-[Stock]	6550
-[movingAverage] 5203.8
-[exponentialMovingAverage 26] 6458.13
-
-[Day 1156]
-[Capital] 2119
-[Stock]	6585
-[movingAverage] 5204.96
-[exponentialMovingAverage 26] 6467.78
-
-[Day 1157]
-[Capital] 2119
-[Stock]	6607
-[movingAverage] 5206.16
-[exponentialMovingAverage 26] 6478.72
-
-[Day 1158]
-[Capital] 2119
-[Stock]	6607
-[movingAverage] 5207.37
-[exponentialMovingAverage 26] 6489.23
-
-[Day 1159]
-[Capital] 2119
-[Stock]	6606
-[movingAverage] 5208.57
-[exponentialMovingAverage 26] 6499.55
-
-[Day 1160]
-[Capital] 2119
-[Stock]	6514
-[movingAverage] 5209.78
-[exponentialMovingAverage 26] 6502.62
-
-[Day 1161]
-[Capital] 2119
-[Stock]	6540
-[movingAverage] 5210.9
-[exponentialMovingAverage 26] 6507.52
-
-[Day 1162]
-[Capital] 2119
-[Stock]	6512
-[movingAverage] 5212.05
-[exponentialMovingAverage 26] 6510.31
-
-[Day 1163]
-[Capital] 2119
-[Stock]	6579
-[movingAverage] 5213.16
-[exponentialMovingAverage 26] 6517.9
-
-[Day 1164]
-[Capital] 2119
-[Stock]	6592
-[movingAverage] 5214.34
-[exponentialMovingAverage 26] 6526.29
-
-[Day 1165]
-[Capital] 2119
-[Stock]	6460
-[movingAverage] 5215.52
-[exponentialMovingAverage 26] 6524.73
-
-[Day 1166]
-[Capital] 2119
-[Stock]	6511
-[movingAverage] 5216.59
-[exponentialMovingAverage 26] 6526.86
-
-[Day 1167]
-[Capital] 2119
-[Stock]	6549
-[movingAverage] 5217.7
-[exponentialMovingAverage 26] 6531.48
-
-[Day 1168]
-[Capital] 2119
-[Stock]	6439
-[movingAverage] 5218.84
-[exponentialMovingAverage 26] 6527.4
-
-[Day 1169]
-[Capital] 2119
-[Stock]	6439
-[movingAverage] 5219.88
-[exponentialMovingAverage 26] 6522.69
-
-[Day 1170]
-[Capital] 2119
-[Stock]	6420
-[movingAverage] 5220.92
-[exponentialMovingAverage 26] 6516.22
-
-[Day 1171]
-[Capital] 2119
-[Stock]	6421
-[movingAverage] 5221.95
-[exponentialMovingAverage 26] 6509.77
-
-[Day 1172]
-[Capital] 2119
-[Stock]	6431
-[movingAverage] 5222.97
-[exponentialMovingAverage 26] 6503.99
-
-[Day 1173]
-[Capital] 2119
-[Stock]	6351
-[movingAverage] 5224
-[exponentialMovingAverage 26] 6492.38
-
-[Day 1174]
-[Capital] 2119
-[Stock]	6337
-[movingAverage] 5224.96
-[exponentialMovingAverage 26] 6479.75
-
-[Day 1175]
-[Capital] 2119
-[Stock]	6333
-[movingAverage] 5225.9
-[exponentialMovingAverage 26] 6467.13
-
-[Day 1176]
-[Capital] 2119
-[Stock]	6367
-[movingAverage] 5226.85
-[exponentialMovingAverage 26] 6457.35
-
-[Day 1177]
-[Capital] 2119
-[Stock]	6425
-[movingAverage] 5227.81
-[exponentialMovingAverage 26] 6452.22
-
-[Day 1178]
-[Capital] 2119
-[Stock]	6364
-[movingAverage] 5228.83
-[exponentialMovingAverage 26] 6442.81
-
-[Day 1179]
-[Capital] 2119
-[Stock]	6397
-[movingAverage] 5229.79
-[exponentialMovingAverage 26] 6436.35
-
-[Day 1180]
-[Capital] 2119
-[Stock]	6429
-[movingAverage] 5230.78
-[exponentialMovingAverage 26] 6432.62
-
-[Day 1181]
-[Capital] 2119
-[Stock]	6369
-[movingAverage] 5231.8
-[exponentialMovingAverage 26] 6424.73
-
-[Day 1182]
-[Capital] 2119
-[Stock]	6353
-[movingAverage] 5232.76
-[exponentialMovingAverage 26] 6416.17
-
-[Day 1183]
-[Capital] 2119
-[Stock]	6202
-[movingAverage] 5233.71
-[exponentialMovingAverage 26] 6397.08
-
-[Day 1184]
-[Capital] 2119
-[Stock]	6162
-[movingAverage] 5234.52
-[exponentialMovingAverage 26] 6376.18
-
-[Day 1185]
-[Capital] 2119
-[Stock]	6178
-[movingAverage] 5235.31
-[exponentialMovingAverage 26] 6357.73
-
-[Day 1186]
-[Capital] 2119
-[Stock]	6251
-[movingAverage] 5236.1
-[exponentialMovingAverage 26] 6345.92
-
-[Day 1187]
-[Capital] 2119
-[Stock]	6243
-[movingAverage] 5236.96
-[exponentialMovingAverage 26] 6334.26
-
-[Day 1188]
-[Capital] 2119
-[Stock]	6249
-[movingAverage] 5237.8
-[exponentialMovingAverage 26] 6323.89
-
-[Day 1189]
-[Capital] 2119
-[Stock]	6249
-[movingAverage] 5238.65
-[exponentialMovingAverage 26] 6314.27
-
-[Day 1190]
-[Capital] 2119
-[Stock]	6282
-[movingAverage] 5239.5
-[exponentialMovingAverage 26] 6308.03
-
-[Day 1191]
-[Capital] 2119
-[Stock]	6387
-[movingAverage] 5240.38
-[exponentialMovingAverage 26] 6310.45
-
-[Day 1192]
-[Capital] 2119
-[Stock]	6449
-[movingAverage] 5241.34
-[exponentialMovingAverage 26] 6317.68
-
-[Day 1193]
-[Capital] 2119
-[Stock]	6414
-[movingAverage] 5242.35
-[exponentialMovingAverage 26] 6322.49
-
-[Day 1194]
-[Capital] 2119
-[Stock]	6457
-[movingAverage] 5243.33
-[exponentialMovingAverage 26] 6330.87
-
-[Day 1195]
-[Capital] 2119
-[Stock]	6430
-[movingAverage] 5244.35
-[exponentialMovingAverage 26] 6337.19
-
-[Day 1196]
-[Capital] 2119
-[Stock]	6400
-[movingAverage] 5245.34
-[exponentialMovingAverage 26] 6341.32
-
-[Day 1197]
-[Capital] 2119
-[Stock]	6501
-[movingAverage] 5246.31
-[exponentialMovingAverage 26] 6352.99
-
-[Day 1198]
-[Capital] 2119
-[Stock]	6623
-[movingAverage] 5247.35
-[exponentialMovingAverage 26] 6373.47
-
-[Day 1199]
-[Capital] 2119
-[Stock]	6791
-[movingAverage] 5248.5
-[exponentialMovingAverage 26] 6405.85
-
-[Day 1200]
-[Capital] 2119
-[Stock]	6806
-[movingAverage] 5249.79
-[exponentialMovingAverage 26] 6438.08
-
-[Day 1201]
-[Capital] 2119
-[Stock]	6770
-[movingAverage] 5251.08
-[exponentialMovingAverage 26] 6466.31
-
-[Day 1202]
-[Capital] 2119
-[Stock]	6802
-[movingAverage] 5252.35
-[exponentialMovingAverage 26] 6495.67
-
-[Day 1203]
-[Capital] 2119
-[Stock]	6783
-[movingAverage] 5253.63
-[exponentialMovingAverage 26] 6522.38
-
-[Day 1204]
-[Capital] 2119
-[Stock]	6797
-[movingAverage] 5254.9
-[exponentialMovingAverage 26] 6549.11
-
-[Day 1205]
-[Capital] 2119
-[Stock]	6876
-[movingAverage] 5256.18
-[exponentialMovingAverage 26] 6580.45
-
-[Day 1206]
-[Capital] 2119
-[Stock]	6891
-[movingAverage] 5257.53
-[exponentialMovingAverage 26] 6611.54
-
-[Day 1207]
-[Capital] 2119
-[Stock]	6910
-[movingAverage] 5258.88
-[exponentialMovingAverage 26] 6642.72
-
-[Day 1208]
-[Capital] 2119
-[Stock]	6942
-[movingAverage] 5260.25
-[exponentialMovingAverage 26] 6674.73
-
-[Day 1209]
-[Capital] 2119
-[Stock]	6975
-[movingAverage] 5261.64
-[exponentialMovingAverage 26] 6707.51
-
-[Day 1210]
-[Capital] 2119
-[Stock]	7033
-[movingAverage] 5263.05
-[exponentialMovingAverage 26] 6742.38
-
-[Day 1211]
-[Capital] 2119
-[Stock]	7039
-[movingAverage] 5264.52
-[exponentialMovingAverage 26] 6775.22
-
-[Day 1212]
-[Capital] 2119
-[Stock]	7335
-[movingAverage] 5265.98
-[exponentialMovingAverage 26] 6827.53
-
-[Day 1213]
-[Capital] 2119
-[Stock]	7426
-[movingAverage] 5267.69
-[exponentialMovingAverage 26] 6883.49
-
-[Day 1214]
-[Capital] 2119
-[Stock]	7289
-[movingAverage] 5269.46
-[exponentialMovingAverage 26] 6925.93
-
-[Day 1215]
-[Capital] 2119
-[Stock]	7440
-[movingAverage] 5271.12
-[exponentialMovingAverage 26] 6976.59
-
-[Day 1216]
-[Capital] 2119
-[Stock]	7435
-[movingAverage] 5272.91
-[exponentialMovingAverage 26] 7023.49
-
-[Day 1217]
-[Capital] 2119
-[Stock]	7417
-[movingAverage] 5274.69
-[exponentialMovingAverage 26] 7065.77
-
-[Day 1218]
-[Capital] 2119
-[Stock]	7380
-[movingAverage] 5276.44
-[exponentialMovingAverage 26] 7102.38
-
-[Day 1219]
-[Capital] 2119
-[Stock]	7416
-[movingAverage] 5278.17
-[exponentialMovingAverage 26] 7139
-
-[Day 1220]
-[Capital] 2119
-[Stock]	7401
-[movingAverage] 5279.92
-[exponentialMovingAverage 26] 7171.66
-
-[Day 1221]
-[Capital] 2119
-[Stock]	7349
-[movingAverage] 5281.66
-[exponentialMovingAverage 26] 7197.77
-
-[Day 1222]
-[Capital] 2119
-[Stock]	7401
-[movingAverage] 5283.35
-[exponentialMovingAverage 26] 7225.12
-
-[Day 1223]
-[Capital] 2119
-[Stock]	7401
-[movingAverage] 5285.08
-[exponentialMovingAverage 26] 7249.62
-
-[Day 1224]
-[Capital] 2119
-[Stock]	7419
-[movingAverage] 5286.81
-[exponentialMovingAverage 26] 7272.88
-
-[Day 1225]
-[Capital] 2119
-[Stock]	7354
-[movingAverage] 5288.55
-[exponentialMovingAverage 26] 7289.06
-
-[Day 1226]
-[Capital] 2119
-[Stock]	7397
-[movingAverage] 5290.24
-[exponentialMovingAverage 26] 7306.83
-
-[Day 1227]
-[Capital] 2119
-[Stock]	7346
-[movingAverage] 5291.95
-[exponentialMovingAverage 26] 7319.13
-
-[Day 1228]
-[Capital] 2119
-[Stock]	7418
-[movingAverage] 5293.63
-[exponentialMovingAverage 26] 7335.12
-
-[Day 1229]
-[Capital] 2119
-[Stock]	7529
-[movingAverage] 5295.35
-[exponentialMovingAverage 26] 7357.58
-
-[Day 1230]
-[Capital] 2119
-[Stock]	7543
-[movingAverage] 5297.17
-[exponentialMovingAverage 26] 7378.96
-
-[Day 1231]
-[Capital] 2119
-[Stock]	7561
-[movingAverage] 5299
-[exponentialMovingAverage 26] 7399.54
-
-[Day 1232]
-[Capital] 2119
-[Stock]	7557
-[movingAverage] 5300.83
-[exponentialMovingAverage 26] 7417.87
-
-[Day 1233]
-[Capital] 2119
-[Stock]	7559
-[movingAverage] 5302.66
-[exponentialMovingAverage 26] 7434.46
-
-[Day 1234]
-[Capital] 2119
-[Stock]	7495
-[movingAverage] 5304.49
-[exponentialMovingAverage 26] 7444.45
-
-[Day 1235]
-[Capital] 2119
-[Stock]	7602
-[movingAverage] 5306.26
-[exponentialMovingAverage 26] 7460.79
-
-[Day 1236]
-[Capital] 2119
-[Stock]	7640
-[movingAverage] 5308.12
-[exponentialMovingAverage 26] 7478.17
-
-[Day 1237]
-[Capital] 2119
-[Stock]	7629
-[movingAverage] 5310.01
-[exponentialMovingAverage 26] 7493
-
-[Day 1238]
-[Capital] 2119
-[Stock]	7782
-[movingAverage] 5311.88
-[exponentialMovingAverage 26] 7517.48
-
-[Day 1239]
-[Capital] 2119
-[Stock]	7791
-[movingAverage] 5313.87
-[exponentialMovingAverage 26] 7541.35
-
-[Day 1240]
-[Capital] 2119
-[Stock]	7767
-[movingAverage] 5315.87
-[exponentialMovingAverage 26] 7562.41
-
-[Day 1241]
-[Capital] 2119
-[Stock]	7694
-[movingAverage] 5317.85
-[exponentialMovingAverage 26] 7576.7
-
-[Day 1242]
-[Capital] 2119
-[Stock]	7710
-[movingAverage] 5319.76
-[exponentialMovingAverage 26] 7591.45
-
-[Day 1243]
-[Capital] 2119
-[Stock]	7745
-[movingAverage] 5321.68
-[exponentialMovingAverage 26] 7608.01
-
-[Day 1244]
-[Capital] 2119
-[Stock]	7601
-[movingAverage] 5323.63
-[exponentialMovingAverage 26] 7612.96
-
-[Day 1245]
-[Capital] 2119
-[Stock]	7802
-[movingAverage] 5325.46
-[exponentialMovingAverage 26] 7632.18
-
-[Day 1246]
-[Capital] 2119
-[Stock]	7687
-[movingAverage] 5327.45
-[exponentialMovingAverage 26] 7641.78
-
-[Day 1247]
-[Capital] 2119
-[Stock]	7455
-[movingAverage] 5329.34
-[exponentialMovingAverage 26] 7633.38
-
-[Day 1248]
-[Capital] 2119
-[Stock]	7135
-[movingAverage] 5331.04
-[exponentialMovingAverage 26] 7600.97
-
-[Day 1249]
-[Capital] 2119
-[Stock]	7389
-[movingAverage] 5332.49
-[exponentialMovingAverage 26] 7588.13
-
-[Day 1250]
-[Capital] 2119
-[Stock]	7580
-[movingAverage] 5334.13
-[exponentialMovingAverage 26] 7589.48
-
-[Day 1251]
-[Capital] 2119
-[Stock]	7671
-[movingAverage] 5335.93
-[exponentialMovingAverage 26] 7597.11
-
-[Day 1252]
-[Capital] 2119
-[Stock]	7765
-[movingAverage] 5337.79
-[exponentialMovingAverage 26] 7610.8
-
-[Day 1253]
-[Capital] 2119
-[Stock]	7463
-[movingAverage] 5339.73
-[exponentialMovingAverage 26] 7601.07
-
-[Day 1254]
-[Capital] 2119
-[Stock]	7373
-[movingAverage] 5341.42
-[exponentialMovingAverage 26] 7584.34
-
-[Day 1255]
-[Capital] 2119
-[Stock]	7416
-[movingAverage] 5343.04
-[exponentialMovingAverage 26] 7570.93
-
-[Day 1256]
-[Capital] 2119
-[Stock]	7254
-[movingAverage] 5344.69
-[exponentialMovingAverage 26] 7545.83
-
-[Day 1257]
-[Capital] 2119
-[Stock]	7053
-[movingAverage] 5346.21
-[exponentialMovingAverage 26] 7506.67
-
-[Day 1258]
-[Capital] 2119
-[Stock]	6914
-[movingAverage] 5347.57
-[exponentialMovingAverage 26] 7458.66
-
-[Day 1259]
-[Capital] 2119
-[Stock]	7117
-[movingAverage] 5348.81
-[exponentialMovingAverage 26] 7427.52
-
-[Day 1260]
-[Capital] 2119
-[Stock]	7009
-[movingAverage] 5350.21
-[exponentialMovingAverage 26] 7389.64
-
-[Day 1261]
-[Capital] 2119
-[Stock]	7352
-[movingAverage] 5351.53
-[exponentialMovingAverage 26] 7378.56
-
-[Day 1262]
-[Capital] 2119
-[Stock]	7328
-[movingAverage] 5353.11
-[exponentialMovingAverage 26] 7366.4
-
-[Day 1263]
-[Capital] 2119
-[Stock]	7238
-[movingAverage] 5354.68
-[exponentialMovingAverage 26] 7348.47
-
-[Day 1264]
-[Capital] 2119
-[Stock]	7238
-[movingAverage] 5356.17
-[exponentialMovingAverage 26] 7331.65
-
-[Day 1265]
-[Capital] 2119
-[Stock]	7144
-[movingAverage] 5357.66
-[exponentialMovingAverage 26] 7309.42
-
-[Day 1266]
-[Capital] 2119
-[Stock]	7131
-[movingAverage] 5359.07
-[exponentialMovingAverage 26] 7288.07
-
-[Day 1267]
-[Capital] 2119
-[Stock]	7320
-[movingAverage] 5360.47
-[exponentialMovingAverage 26] 7282.53
-
-[Day 1268]
-[Capital] 2119
-[Stock]	7236
-[movingAverage] 5362.01
-[exponentialMovingAverage 26] 7271.84
-
-[Day 1269]
-[Capital] 2119
-[Stock]	7054
-[movingAverage] 5363.49
-[exponentialMovingAverage 26] 7249.01
-
-[Day 1270]
-[Capital] 2119
-[Stock]	6959
-[movingAverage] 5364.82
-[exponentialMovingAverage 26] 7221.12
-
-[Day 1271]
-[Capital] 2119
-[Stock]	7052
-[movingAverage] 5366.07
-[exponentialMovingAverage 26] 7201.94
-
-[Day 1272]
-[Capital] 2119
-[Stock]	7119
-[movingAverage] 5367.4
-[exponentialMovingAverage 26] 7189.86
-
-[Day 1273]
-[Capital] 2119
-[Stock]	7129
-[movingAverage] 5368.77
-[exponentialMovingAverage 26] 7180.15
-
-[Day 1274]
-[Capital] 2119
-[Stock]	7249
-[movingAverage] 5370.16
-[exponentialMovingAverage 26] 7180.25
-
-[Day 1275]
-[Capital] 2119
-[Stock]	7229
-[movingAverage] 5371.63
-[exponentialMovingAverage 26] 7178.54
-
-[Day 1276]
-[Capital] 2119
-[Stock]	7337
-[movingAverage] 5373.09
-[exponentialMovingAverage 26] 7185.29
-
-[Day 1277]
-[Capital] 2119
-[Stock]	7442
-[movingAverage] 5374.62
-[exponentialMovingAverage 26] 7200.51
-
-[Day 1278]
-[Capital] 2119
-[Stock]	7480
-[movingAverage] 5376.24
-[exponentialMovingAverage 26] 7219.19
-
-[Day 1279]
-[Capital] 2119
-[Stock]	7549
-[movingAverage] 5377.89
-[exponentialMovingAverage 26] 7243.8
-
-[Day 1280]
-[Capital] 2119
-[Stock]	7444
-[movingAverage] 5379.58
-[exponentialMovingAverage 26] 7260.39
-
-[Day 1281]
-[Capital] 2119
-[Stock]	7266
-[movingAverage] 5381.19
-[exponentialMovingAverage 26] 7263.59
-
-[Day 1282]
-[Capital] 2119
-[Stock]	7001
-[movingAverage] 5382.66
-[exponentialMovingAverage 26] 7247.59
-
-[Day 1283]
-[Capital] 2119
-[Stock]	6986
-[movingAverage] 5383.93
-[exponentialMovingAverage 26] 7231.19
-
-[Day 1284]
-[Capital] 2119
-[Stock]	7050
-[movingAverage] 5385.17
-[exponentialMovingAverage 26] 7219.73
-
-[Day 1285]
-[Capital] 2119
-[Stock]	6963
-[movingAverage] 5386.47
-[exponentialMovingAverage 26] 7201.44
-
-[Day 1286]
-[Capital] 2119
-[Stock]	6794
-[movingAverage] 5387.69
-[exponentialMovingAverage 26] 7171.07
-
-[Day 1287]
-[Capital] 2119
-[Stock]	6789
-[movingAverage] 5388.79
-[exponentialMovingAverage 26] 7140.93
-
-[Day 1288]
-[Capital] 2119
-[Stock]	6786
-[movingAverage] 5389.87
-[exponentialMovingAverage 26] 7112.19
-
-[Day 1289]
-[Capital] 2119
-[Stock]	6786
-[movingAverage] 5390.96
-[exponentialMovingAverage 26] 7084.98
-
-[Day 1290]
-[Capital] 2119
-[Stock]	6821
-[movingAverage] 5392.04
-[exponentialMovingAverage 26] 7061.66
-
-[Day 1291]
-[Capital] 2119
-[Stock]	6747
-[movingAverage] 5393.15
-[exponentialMovingAverage 26] 7034.04
-
-[Day 1292]
-[Capital] 2119
-[Stock]	6923
-[movingAverage] 5394.19
-[exponentialMovingAverage 26] 7020.59
-
-[Day 1293]
-[Capital] 2119
-[Stock]	7016
-[movingAverage] 5395.38
-[exponentialMovingAverage 26] 7014.62
-
-[Day 1294]
-[Capital] 2119
-[Stock]	6997
-[movingAverage] 5396.63
-[exponentialMovingAverage 26] 7008.11
-
-[Day 1295]
-[Capital] 2119
-[Stock]	7040
-[movingAverage] 5397.86
-[exponentialMovingAverage 26] 7005.46
-
-[Day 1296]
-[Capital] 2119
-[Stock]	7016
-[movingAverage] 5399.13
-[exponentialMovingAverage 26] 7001.08
-
-[Day 1297]
-[Capital] 2119
-[Stock]	7034
-[movingAverage] 5400.38
-[exponentialMovingAverage 26] 6997.87
-
-[Day 1298]
-[Capital] 2119
-[Stock]	7035
-[movingAverage] 5401.64
-[exponentialMovingAverage 26] 6994.79
-
-[Day 1299]
-[Capital] 2119
-[Stock]	6914
-[movingAverage] 5402.89
-[exponentialMovingAverage 26] 6982.98
-
-[Day 1300]
-[Capital] 2119
-[Stock]	6790
-[movingAverage] 5404.06
-[exponentialMovingAverage 26] 6962.6
-
-[Day 1301]
-[Capital] 2119
-[Stock]	7013
-[movingAverage] 5405.12
-[exponentialMovingAverage 26] 6960.04
-
-[Day 1302]
-[Capital] 2119
-[Stock]	7039
-[movingAverage] 5406.36
-[exponentialMovingAverage 26] 6960.03
-
-[Day 1303]
-[Capital] 2119
-[Stock]	7150
-[movingAverage] 5407.61
-[exponentialMovingAverage 26] 6969.08
-
-[Day 1304]
-[Capital] 2119
-[Stock]	7271
-[movingAverage] 5408.95
-[exponentialMovingAverage 26] 6987.93
-
-[Day 1305]
-[Capital] 2119
-[Stock]	7370
-[movingAverage] 5410.37
-[exponentialMovingAverage 26] 7014.72
-
-[Day 1306]
-[Capital] 2119
-[Stock]	7364
-[movingAverage] 5411.87
-[exponentialMovingAverage 26] 7041.56
-
-[Day 1307]
-[Capital] 2119
-[Stock]	7365
-[movingAverage] 5413.37
-[exponentialMovingAverage 26] 7068.71
-
-[Day 1308]
-[Capital] 2119
-[Stock]	7301
-[movingAverage] 5414.86
-[exponentialMovingAverage 26] 7090.83
-
-[Day 1309]
-[Capital] 2119
-[Stock]	7439
-[movingAverage] 5416.3
-[exponentialMovingAverage 26] 7122.33
-
-[Day 1310]
-[Capital] 2119
-[Stock]	7420
-[movingAverage] 5417.84
-[exponentialMovingAverage 26] 7151.12
-
-[Day 1311]
-[Capital] 2119
-[Stock]	7318
-[movingAverage] 5419.37
-[exponentialMovingAverage 26] 7171.31
-
-[Day 1312]
-[Capital] 2119
-[Stock]	7345
-[movingAverage] 5420.82
-[exponentialMovingAverage 26] 7192.48
-
-[Day 1313]
-[Capital] 2119
-[Stock]	7342
-[movingAverage] 5422.28
-[exponentialMovingAverage 26] 7211.86
-
-[Day 1314]
-[Capital] 2119
-[Stock]	7414
-[movingAverage] 5423.74
-[exponentialMovingAverage 26] 7235
-
-[Day 1315]
-[Capital] 2119
-[Stock]	7342
-[movingAverage] 5425.26
-[exponentialMovingAverage 26] 7251.02
-
-[Day 1316]
-[Capital] 2119
-[Stock]	7277
-[movingAverage] 5426.71
-[exponentialMovingAverage 26] 7260.64
-
-[Day 1317]
-[Capital] 2119
-[Stock]	7099
-[movingAverage] 5428.12
-[exponentialMovingAverage 26] 7255.77
-
-[Day 1318]
-[Capital] 2119
-[Stock]	7141
-[movingAverage] 5429.39
-[exponentialMovingAverage 26] 7253.01
-
-[Day 1319]
-[Capital] 2119
-[Stock]	7011
-[movingAverage] 5430.68
-[exponentialMovingAverage 26] 7240.01
-
-[Day 1320]
-[Capital] 2119
-[Stock]	7175
-[movingAverage] 5431.88
-[exponentialMovingAverage 26] 7239.16
-
-[Day 1321]
-[Capital] 2119
-[Stock]	7169
-[movingAverage] 5433.2
-[exponentialMovingAverage 26] 7237.36
-
-[Day 1322]
-[Capital] 2119
-[Stock]	7181
-[movingAverage] 5434.51
-[exponentialMovingAverage 26] 7236.09
-
-[Day 1323]
-[Capital] 2119
-[Stock]	7073
-[movingAverage] 5435.83
-[exponentialMovingAverage 26] 7226.34
-
-[Day 1324]
-[Capital] 2119
-[Stock]	7163
-[movingAverage] 5437.07
-[exponentialMovingAverage 26] 7223.15
-
-[Day 1325]
-[Capital] 2119
-[Stock]	7003
-[movingAverage] 5438.37
-[exponentialMovingAverage 26] 7207.74
-
-[Day 1326]
-[Capital] 2119
-[Stock]	6945
-[movingAverage] 5439.55
-[exponentialMovingAverage 26] 7187.78
-
-[Day 1327]
-[Capital] 2119
-[Stock]	7065
-[movingAverage] 5440.69
-[exponentialMovingAverage 26] 7176.27
-
-[Day 1328]
-[Capital] 2119
-[Stock]	7073
-[movingAverage] 5441.91
-[exponentialMovingAverage 26] 7165.21
-
-[Day 1329]
-[Capital] 2119
-[Stock]	7072
-[movingAverage] 5443.14
-[exponentialMovingAverage 26] 7153.97
-
-[Day 1330]
-[Capital] 2119
-[Stock]	7001
-[movingAverage] 5444.36
-[exponentialMovingAverage 26] 7137.7
-
-[Day 1331]
-[Capital] 2119
-[Stock]	7113
-[movingAverage] 5445.53
-[exponentialMovingAverage 26] 7130.49
-
-[Day 1332]
-[Capital] 2119
-[Stock]	7208
-[movingAverage] 5446.78
-[exponentialMovingAverage 26] 7131.05
-
-[Day 1333]
-[Capital] 2119
-[Stock]	7425
-[movingAverage] 5448.11
-[exponentialMovingAverage 26] 7148.13
-
-[Day 1334]
-[Capital] 2119
-[Stock]	7425
-[movingAverage] 5449.59
-[exponentialMovingAverage 26] 7165.04
-
-[Day 1335]
-[Capital] 2119
-[Stock]	7378
-[movingAverage] 5451.07
-[exponentialMovingAverage 26] 7178.11
-
-[Day 1336]
-[Capital] 2119
-[Stock]	7424
-[movingAverage] 5452.51
-[exponentialMovingAverage 26] 7194.77
-
-[Day 1337]
-[Capital] 2119
-[Stock]	7483
-[movingAverage] 5453.98
-[exponentialMovingAverage 26] 7215.78
-
-[Day 1338]
-[Capital] 2119
-[Stock]	7415
-[movingAverage] 5455.5
-[exponentialMovingAverage 26] 7231.29
-
-[Day 1339]
-[Capital] 2119
-[Stock]	7441
-[movingAverage] 5456.96
-[exponentialMovingAverage 26] 7248.52
-
-[Day 1340]
-[Capital] 2119
-[Stock]	7447
-[movingAverage] 5458.44
-[exponentialMovingAverage 26] 7265.92
-
-[Day 1341]
-[Capital] 2119
-[Stock]	7515
-[movingAverage] 5459.93
-[exponentialMovingAverage 26] 7288.26
-
-[Day 1342]
-[Capital] 2119
-[Stock]	7630
-[movingAverage] 5461.46
-[exponentialMovingAverage 26] 7318.62
-
-[Day 1343]
-[Capital] 2119
-[Stock]	7693
-[movingAverage] 5463.07
-[exponentialMovingAverage 26] 7352.65
-
-[Day 1344]
-[Capital] 2119
-[Stock]	7730
-[movingAverage] 5464.73
-[exponentialMovingAverage 26] 7387.72
-
-[Day 1345]
-[Capital] 2119
-[Stock]	7793
-[movingAverage] 5466.42
-[exponentialMovingAverage 26] 7425.79
-
-[Day 1346]
-[Capital] 2119
-[Stock]	7747
-[movingAverage] 5468.15
-[exponentialMovingAverage 26] 7458.21
-
-[Day 1347]
-[Capital] 2119
-[Stock]	7690
-[movingAverage] 5469.84
-[exponentialMovingAverage 26] 7484.79
-
-[Day 1348]
-[Capital] 2119
-[Stock]	8135
-[movingAverage] 5471.48
-[exponentialMovingAverage 26] 7542.84
-
-[Day 1349]
-[Capital] 2119
-[Stock]	7942
-[movingAverage] 5473.46
-[exponentialMovingAverage 26] 7583.88
-
-[Day 1350]
-[Capital] 2119
-[Stock]	7907
-[movingAverage] 5475.29
-[exponentialMovingAverage 26] 7619.85
-
-[Day 1351]
-[Capital] 2119
-[Stock]	8027
-[movingAverage] 5477.09
-[exponentialMovingAverage 26] 7662.6
-
-[Day 1352]
-[Capital] 2119
-[Stock]	8001
-[movingAverage] 5478.97
-[exponentialMovingAverage 26] 7700.49
-
-[Day 1353]
-[Capital] 2119
-[Stock]	8096
-[movingAverage] 5480.84
-[exponentialMovingAverage 26] 7742.42
-
-[Day 1354]
-[Capital] 2119
-[Stock]	7992
-[movingAverage] 5482.77
-[exponentialMovingAverage 26] 7773.7
-
-[Day 1355]
-[Capital] 2119
-[Stock]	8060
-[movingAverage] 5484.62
-[exponentialMovingAverage 26] 7807.41
-
-[Day 1356]
-[Capital] 2119
-[Stock]	8103
-[movingAverage] 5486.52
-[exponentialMovingAverage 26] 7841.48
-
-[Day 1357]
-[Capital] 2119
-[Stock]	8127
-[movingAverage] 5488.45
-[exponentialMovingAverage 26] 7874.19
-
-[Day 1358]
-[Capital] 2119
-[Stock]	8094
-[movingAverage] 5490.39
-[exponentialMovingAverage 26] 7901.57
-
-[Day 1359]
-[Capital] 2119
-[Stock]	8162
-[movingAverage] 5492.31
-[exponentialMovingAverage 26] 7931.46
-
-[Day 1360]
-[Capital] 2119
-[Stock]	8300
-[movingAverage] 5494.27
-[exponentialMovingAverage 26] 7969.48
-
-[Day 1361]
-[Capital] 2119
-[Stock]	8238
-[movingAverage] 5496.33
-[exponentialMovingAverage 26] 8000.41
-
-[Day 1362]
-[Capital] 2119
-[Stock]	8172
-[movingAverage] 5498.34
-[exponentialMovingAverage 26] 8024
-
-[Day 1363]
-[Capital] 2119
-[Stock]	8226
-[movingAverage] 5500.31
-[exponentialMovingAverage 26] 8049.46
-
-[Day 1364]
-[Capital] 2119
-[Stock]	8200
-[movingAverage] 5502.3
-[exponentialMovingAverage 26] 8070.87
-
-[Day 1365]
-[Capital] 2119
-[Stock]	8046
-[movingAverage] 5504.28
-[exponentialMovingAverage 26] 8078.64
-
-[Day 1366]
-[Capital] 2119
-[Stock]	8104
-[movingAverage] 5506.14
-[exponentialMovingAverage 26] 8088.99
-
-[Day 1367]
-[Capital] 2119
-[Stock]	8162
-[movingAverage] 5508.04
-[exponentialMovingAverage 26] 8101.76
-
-[Day 1368]
-[Capital] 2119
-[Stock]	8211
-[movingAverage] 5509.98
-[exponentialMovingAverage 26] 8116.31
-
-[Day 1369]
-[Capital] 2119
-[Stock]	8257
-[movingAverage] 5511.95
-[exponentialMovingAverage 26] 8132.62
-
-[Day 1370]
-[Capital] 2119
-[Stock]	8164
-[movingAverage] 5513.96
-[exponentialMovingAverage 26] 8140.43
-
-[Day 1371]
-[Capital] 2119
-[Stock]	8124
-[movingAverage] 5515.89
-[exponentialMovingAverage 26] 8144.05
-
-[Day 1372]
-[Capital] 2119
-[Stock]	8131
-[movingAverage] 5517.79
-[exponentialMovingAverage 26] 8147.23
-
-[Day 1373]
-[Capital] 2119
-[Stock]	8094
-[movingAverage] 5519.7
-[exponentialMovingAverage 26] 8146.59
-
-[Day 1374]
-[Capital] 2119
-[Stock]	8188
-[movingAverage] 5521.57
-[exponentialMovingAverage 26] 8151.75
-
-[Day 1375]
-[Capital] 2119
-[Stock]	8180
-[movingAverage] 5523.51
-[exponentialMovingAverage 26] 8156.17
-
-[Day 1376]
-[Capital] 2119
-[Stock]	8173
-[movingAverage] 5525.44
-[exponentialMovingAverage 26] 8159.4
-
-[Day 1377]
-[Capital] 2119
-[Stock]	8272
-[movingAverage] 5527.36
-[exponentialMovingAverage 26] 8169.2
-
-[Day 1378]
-[Capital] 2119
-[Stock]	8324
-[movingAverage] 5529.35
-[exponentialMovingAverage 26] 8182.15
-
-[Day 1379]
-[Capital] 2119
-[Stock]	8366
-[movingAverage] 5531.38
-[exponentialMovingAverage 26] 8197.3
-
-[Day 1380]
-[Capital] 2119
-[Stock]	8365
-[movingAverage] 5533.43
-[exponentialMovingAverage 26] 8211.6
-
-[Day 1381]
-[Capital] 2119
-[Stock]	8314
-[movingAverage] 5535.48
-[exponentialMovingAverage 26] 8221.06
-
-[Day 1382]
-[Capital] 2119
-[Stock]	8335
-[movingAverage] 5537.5
-[exponentialMovingAverage 26] 8231.36
-
-[Day 1383]
-[Capital] 2119
-[Stock]	8319
-[movingAverage] 5539.52
-[exponentialMovingAverage 26] 8239.8
-
-[Day 1384]
-[Capital] 2119
-[Stock]	8291
-[movingAverage] 5541.53
-[exponentialMovingAverage 26] 8245.63
-
-[Day 1385]
-[Capital] 2119
-[Stock]	8158
-[movingAverage] 5543.51
-[exponentialMovingAverage 26] 8241.04
-
-[Day 1386]
-[Capital] 2119
-[Stock]	8078
-[movingAverage] 5545.4
-[exponentialMovingAverage 26] 8230.54
-
-[Day 1387]
-[Capital] 2119
-[Stock]	8217
-[movingAverage] 5547.22
-[exponentialMovingAverage 26] 8230.97
-
-[Day 1388]
-[Capital] 2119
-[Stock]	8287
-[movingAverage] 5549.15
-[exponentialMovingAverage 26] 8236.64
-
-[Day 1389]
-[Capital] 2119
-[Stock]	8508
-[movingAverage] 5551.12
-[exponentialMovingAverage 26] 8258.36
-
-[Day 1390]
-[Capital] 2119
-[Stock]	8505
-[movingAverage] 5553.25
-[exponentialMovingAverage 26] 8279.05
-
-[Day 1391]
-[Capital] 2119
-[Stock]	8653
-[movingAverage] 5555.37
-[exponentialMovingAverage 26] 8309.83
-
-[Day 1392]
-[Capital] 2119
-[Stock]	8631
-[movingAverage] 5557.59
-[exponentialMovingAverage 26] 8337.25
-
-[Day 1393]
-[Capital] 2119
-[Stock]	8540
-[movingAverage] 5559.8
-[exponentialMovingAverage 26] 8356.44
-
-[Day 1394]
-[Capital] 2119
-[Stock]	8450
-[movingAverage] 5561.94
-[exponentialMovingAverage 26] 8367.88
-
-[Day 1395]
-[Capital] 2119
-[Stock]	8748
-[movingAverage] 5564.01
-[exponentialMovingAverage 26] 8400.71
-
-[Day 1396]
-[Capital] 2119
-[Stock]	8784
-[movingAverage] 5566.29
-[exponentialMovingAverage 26] 8434.81
-
-[Day 1397]
-[Capital] 2119
-[Stock]	8751
-[movingAverage] 5568.59
-[exponentialMovingAverage 26] 8464.7
-
-[Day 1398]
-[Capital] 2119
-[Stock]	8751
-[movingAverage] 5570.87
-[exponentialMovingAverage 26] 8492.8
-
-[Day 1399]
-[Capital] 2119
-[Stock]	8839
-[movingAverage] 5573.14
-[exponentialMovingAverage 26] 8525.65
-
-[Day 1400]
-[Capital] 2119
-[Stock]	8745
-[movingAverage] 5575.47
-[exponentialMovingAverage 26] 8549.42
-
-[Day 1401]
-[Capital] 2119
-[Stock]	8814
-[movingAverage] 5577.74
-[exponentialMovingAverage 26] 8576.71
-
-[Day 1402]
-[Capital] 2119
-[Stock]	8776
-[movingAverage] 5580.04
-[exponentialMovingAverage 26] 8599.39
-
-[Day 1403]
-[Capital] 2119
-[Stock]	8964
-[movingAverage] 5582.32
-[exponentialMovingAverage 26] 8634.27
-
-[Day 1404]
-[Capital] 2119
-[Stock]	8898
-[movingAverage] 5584.73
-[exponentialMovingAverage 26] 8662.29
-
-[Day 1405]
-[Capital] 2119
-[Stock]	8927
-[movingAverage] 5587.09
-[exponentialMovingAverage 26] 8690.82
-
-[Day 1406]
-[Capital] 2119
-[Stock]	8854
-[movingAverage] 5589.46
-[exponentialMovingAverage 26] 8712.35
-
-[Day 1407]
-[Capital] 2119
-[Stock]	8936
-[movingAverage] 5591.78
-[exponentialMovingAverage 26] 8738.56
-
-[Day 1408]
-[Capital] 2119
-[Stock]	9053
-[movingAverage] 5594.16
-[exponentialMovingAverage 26] 8771.66
-
-[Day 1409]
-[Capital] 2119
-[Stock]	9100
-[movingAverage] 5596.61
-[exponentialMovingAverage 26] 8806.2
-
-[Day 1410]
-[Capital] 2119
-[Stock]	8700
-[movingAverage] 5599.1
-[exponentialMovingAverage 26] 8808.88
-
-[Day 1411]
-[Capital] 2119
-[Stock]	8605
-[movingAverage] 5601.3
-[exponentialMovingAverage 26] 8803.36
-
-[Day 1412]
-[Capital] 2119
-[Stock]	8598
-[movingAverage] 5603.42
-[exponentialMovingAverage 26] 8796.05
-
-[Day 1413]
-[Capital] 2119
-[Stock]	8624
-[movingAverage] 5605.54
-[exponentialMovingAverage 26] 8789.19
-
-[Day 1414]
-[Capital] 2119
-[Stock]	8654
-[movingAverage] 5607.68
-[exponentialMovingAverage 26] 8783.38
-
-[Day 1415]
-[Capital] 2119
-[Stock]	8530
-[movingAverage] 5609.83
-[exponentialMovingAverage 26] 8767.35
-
-[Day 1416]
-[Capital] 2119
-[Stock]	8540
-[movingAverage] 5611.89
-[exponentialMovingAverage 26] 8751.99
-
-[Day 1417]
-[Capital] 2119
-[Stock]	8583
-[movingAverage] 5613.96
-[exponentialMovingAverage 26] 8739.72
-
-[Day 1418]
-[Capital] 2119
-[Stock]	8560
-[movingAverage] 5616.05
-[exponentialMovingAverage 26] 8725.95
-
-[Day 1419]
-[Capital] 2119
-[Stock]	8365
-[movingAverage] 5618.13
-[exponentialMovingAverage 26] 8697.93
-
-[Day 1420]
-[Capital] 2119
-[Stock]	8445
-[movingAverage] 5620.06
-[exponentialMovingAverage 26] 8676.34
-
-[Day 1421]
-[Capital] 2119
-[Stock]	8370
-[movingAverage] 5622.05
-[exponentialMovingAverage 26] 8649.2
-
-[Day 1422]
-[Capital] 2119
-[Stock]	8325
-[movingAverage] 5623.98
-[exponentialMovingAverage 26] 8619.81
-
-[Day 1423]
-[Capital] 2119
-[Stock]	8420
-[movingAverage] 5625.88
-[exponentialMovingAverage 26] 8598.77
-
-[Day 1424]
-[Capital] 2119
-[Stock]	8440
-[movingAverage] 5627.84
-[exponentialMovingAverage 26] 8580.15
-
-[Day 1425]
-[Capital] 2119
-[Stock]	8383
-[movingAverage] 5629.82
-[exponentialMovingAverage 26] 8558.19
-
-[Day 1426]
-[Capital] 2119
-[Stock]	8407
-[movingAverage] 5631.75
-[exponentialMovingAverage 26] 8539.31
-
-[Day 1427]
-[Capital] 2119
-[Stock]	8442
-[movingAverage] 5633.69
-[exponentialMovingAverage 26] 8523.98
-
-[Day 1428]
-[Capital] 2119
-[Stock]	8409
-[movingAverage] 5635.66
-[exponentialMovingAverage 26] 8507.27
-
-[Day 1429]
-[Capital] 2119
-[Stock]	8320
-[movingAverage] 5637.6
-[exponentialMovingAverage 26] 8485.02
-
-[Day 1430]
-[Capital] 2119
-[Stock]	8351
-[movingAverage] 5639.48
-[exponentialMovingAverage 26] 8466.89
-
-[Day 1431]
-[Capital] 2119
-[Stock]	8200
-[movingAverage] 5641.37
-[exponentialMovingAverage 26] 8439.14
-
-[Day 1432]
-[Capital] 2119
-[Stock]	8257
-[movingAverage] 5643.16
-[exponentialMovingAverage 26] 8417.68
-
-[Day 1433]
-[Capital] 2119
-[Stock]	8314
-[movingAverage] 5644.98
-[exponentialMovingAverage 26] 8402.15
-
-[Day 1434]
-[Capital] 2119
-[Stock]	8407
-[movingAverage] 5646.84
-[exponentialMovingAverage 26] 8395.27
-
-[Day 1435]
-[Capital] 2119
-[Stock]	8291
-[movingAverage] 5648.77
-[exponentialMovingAverage 26] 8381.64
-
-[Day 1436]
-[Capital] 2119
-[Stock]	8152
-[movingAverage] 5650.61
-[exponentialMovingAverage 26] 8360.03
-
-[Day 1437]
-[Capital] 2119
-[Stock]	8275
-[movingAverage] 5652.35
-[exponentialMovingAverage 26] 8349.08
-
-[Day 1438]
-[Capital] 2119
-[Stock]	8343
-[movingAverage] 5654.17
-[exponentialMovingAverage 26] 8344.11
-
-[Day 1439]
-[Capital] 2119
-[Stock]	8357
-[movingAverage] 5656.04
-[exponentialMovingAverage 26] 8340.91
-
-[Day 1440]
-[Capital] 2119
-[Stock]	8401
-[movingAverage] 5657.91
-[exponentialMovingAverage 26] 8341.72
-
-[Day 1441]
-[Capital] 2119
-[Stock]	8580
-[movingAverage] 5659.82
-[exponentialMovingAverage 26] 8356.52
-
-[Day 1442]
-[Capital] 2119
-[Stock]	8668
-[movingAverage] 5661.84
-[exponentialMovingAverage 26] 8377.69
-
-[Day 1443]
-[Capital] 2119
-[Stock]	8671
-[movingAverage] 5663.93
-[exponentialMovingAverage 26] 8398.71
-
-[Day 1444]
-[Capital] 2119
-[Stock]	8692
-[movingAverage] 5666.01
-[exponentialMovingAverage 26] 8421.05
-
-[Day 1445]
-[Capital] 2119
-[Stock]	8645
-[movingAverage] 5668.1
-[exponentialMovingAverage 26] 8439.52
-
-[Day 1446]
-[Capital] 2119
-[Stock]	8632
-[movingAverage] 5670.16
-[exponentialMovingAverage 26] 8456.24
-
-[Day 1447]
-[Capital] 2119
-[Stock]	8527
-[movingAverage] 5672.21
-[exponentialMovingAverage 26] 8464.64
-
-[Day 1448]
-[Capital] 2119
-[Stock]	8552
-[movingAverage] 5674.18
-[exponentialMovingAverage 26] 8474.45
-
-[Day 1449]
-[Capital] 2119
-[Stock]	8474
-[movingAverage] 5676.17
-[exponentialMovingAverage 26] 8477.84
-
-[Day 1450]
-[Capital] 2119
-[Stock]	8882
-[movingAverage] 5678.1
-[exponentialMovingAverage 26] 8511.29
-
-[Day 1451]
-[Capital] 2119
-[Stock]	8760
-[movingAverage] 5680.3
-[exponentialMovingAverage 26] 8534.45
-
-[Day 1452]
-[Capital] 2119
-[Stock]	8689
-[movingAverage] 5682.42
-[exponentialMovingAverage 26] 8551.27
-
-[Day 1453]
-[Capital] 2119
-[Stock]	8592
-[movingAverage] 5684.49
-[exponentialMovingAverage 26] 8560.11
-
-[Day 1454]
-[Capital] 2119
-[Stock]	8667
-[movingAverage] 5686.49
-[exponentialMovingAverage 26] 8574.07
-
-[Day 1455]
-[Capital] 2119
-[Stock]	8829
-[movingAverage] 5688.54
-[exponentialMovingAverage 26] 8599.3
-
-[Day 1456]
-[Capital] 2119
-[Stock]	8965
-[movingAverage] 5690.7
-[exponentialMovingAverage 26] 8633.15
-
-[Day 1457]
-[Capital] 2119
-[Stock]	8766
-[movingAverage] 5692.95
-[exponentialMovingAverage 26] 8650.51
-
-[Day 1458]
-[Capital] 2119
-[Stock]	8891
-[movingAverage] 5695.05
-[exponentialMovingAverage 26] 8675.52
-
-[Day 1459]
-[Capital] 2119
-[Stock]	8981
-[movingAverage] 5697.24
-[exponentialMovingAverage 26] 8705.39
-
-[Day 1460]
-[Capital] 2119
-[Stock]	9000
-[movingAverage] 5699.49
-[exponentialMovingAverage 26] 8734.76
-
-[Day 1461]
-[Capital] 2119
-[Stock]	8915
-[movingAverage] 5701.75
-[exponentialMovingAverage 26] 8756.15
-
-[Day 1462]
-[Capital] 2119
-[Stock]	8876
-[movingAverage] 5703.95
-[exponentialMovingAverage 26] 8772.88
-
-[Day 1463]
-[Capital] 2119
-[Stock]	8825
-[movingAverage] 5706.12
-[exponentialMovingAverage 26] 8783.76
-
-[Day 1464]
-[Capital] 2119
-[Stock]	8748
-[movingAverage] 5708.25
-[exponentialMovingAverage 26] 8787.37
-
-[Day 1465]
-[Capital] 2119
-[Stock]	8686
-[movingAverage] 5710.32
-[exponentialMovingAverage 26] 8785.24
-
-[Day 1466]
-[Capital] 2119
-[Stock]	8463
-[movingAverage] 5712.35
-[exponentialMovingAverage 26] 8765.65
-
-[Day 1467]
-[Capital] 2119
-[Stock]	8500
-[movingAverage] 5714.23
-[exponentialMovingAverage 26] 8748.62
-
-[Day 1468]
-[Capital] 2119
-[Stock]	8557
-[movingAverage] 5716.13
-[exponentialMovingAverage 26] 8736.05
-
-[Day 1469]
-[Capital] 2119
-[Stock]	7799
-[movingAverage] 5718.06
-[exponentialMovingAverage 26] 8667.64
-
-[Day 1470]
-[Capital] 2119
-[Stock]	7762
-[movingAverage] 5719.48
-[exponentialMovingAverage 26] 8598.98
-
-[Day 1471]
-[Capital] 2119
-[Stock]	7665
-[movingAverage] 5720.86
-[exponentialMovingAverage 26] 8525.78
-
-[Day 1472]
-[Capital] 2119
-[Stock]	7518
-[movingAverage] 5722.19
-[exponentialMovingAverage 26] 8444.48
-
-[Day 1473]
-[Capital] 2119
-[Stock]	7748
-[movingAverage] 5723.4
-[exponentialMovingAverage 26] 8383.4
-
-[Day 1474]
-[Capital] 2119
-[Stock]	7683
-[movingAverage] 5724.78
-[exponentialMovingAverage 26] 8319.71
-
-[Day 1475]
-[Capital] 2119
-[Stock]	7668
-[movingAverage] 5726.11
-[exponentialMovingAverage 26] 8257.4
-
-[Day 1476]
-[Capital] 2119
-[Stock]	7610
-[movingAverage] 5727.42
-[exponentialMovingAverage 26] 8193.08
-
-[Day 1477]
-[Capital] 2119
-[Stock]	7647
-[movingAverage] 5728.7
-[exponentialMovingAverage 26] 8135.13
-
-[Day 1478]
-[Capital] 2119
-[Stock]	7649
-[movingAverage] 5729.99
-[exponentialMovingAverage 26] 8080.5
-
-[Day 1479]
-[Capital] 2119
-[Stock]	7594
-[movingAverage] 5731.29
-[exponentialMovingAverage 26] 8024.75
-
-[Day 1480]
-[Capital] 2119
-[Stock]	7678
-[movingAverage] 5732.55
-[exponentialMovingAverage 26] 7978.08
-
-[Day 1481]
-[Capital] 2119
-[Stock]	7718
-[movingAverage] 5733.86
-[exponentialMovingAverage 26] 7937.18
-
-[Day 1482]
-[Capital] 2119
-[Stock]	7864
-[movingAverage] 5735.2
-[exponentialMovingAverage 26] 7910.26
-
-[Day 1483]
-[Capital] 2119
-[Stock]	7864
-[movingAverage] 5736.64
-[exponentialMovingAverage 26] 7886.48
-
-[Day 1484]
-[Capital] 2119
-[Stock]	7867
-[movingAverage] 5738.07
-[exponentialMovingAverage 26] 7865.49
-
-[Day 1485]
-[Capital] 2119
-[Stock]	7726
-[movingAverage] 5739.5
-[exponentialMovingAverage 26] 7836.98
-
-[Day 1486]
-[Capital] 2119
-[Stock]	7752
-[movingAverage] 5740.84
-[exponentialMovingAverage 26] 7813.96
-
-[Day 1487]
-[Capital] 2119
-[Stock]	7818
-[movingAverage] 5742.19
-[exponentialMovingAverage 26] 7799.39
-
-[Day 1488]
-[Capital] 2119
-[Stock]	7886
-[movingAverage] 5743.59
-[exponentialMovingAverage 26] 7792.99
-
-[Day 1489]
-[Capital] 2119
-[Stock]	8041
-[movingAverage] 5745.03
-[exponentialMovingAverage 26] 7800.88
-
-[Day 1490]
-[Capital] 2119
-[Stock]	7807
-[movingAverage] 5746.57
-[exponentialMovingAverage 26] 7793.68
-
-[Day 1491]
-[Capital] 2119
-[Stock]	7867
-[movingAverage] 5747.95
-[exponentialMovingAverage 26] 7793.6
-
-[Day 1492]
-[Capital] 2119
-[Stock]	7944
-[movingAverage] 5749.37
-[exponentialMovingAverage 26] 7801.55
-
-[Day 1493]
-[Capital] 2119
-[Stock]	8019
-[movingAverage] 5750.84
-[exponentialMovingAverage 26] 7816.54
-
-[Day 1494]
-[Capital] 2119
-[Stock]	8061
-[movingAverage] 5752.36
-[exponentialMovingAverage 26] 7836.02
-
-[Day 1495]
-[Capital] 2119
-[Stock]	8009
-[movingAverage] 5753.9
-[exponentialMovingAverage 26] 7853.05
-
-[Day 1496]
-[Capital] 2119
-[Stock]	8006
-[movingAverage] 5755.41
-[exponentialMovingAverage 26] 7869.27
-
-[Day 1497]
-[Capital] 2119
-[Stock]	8108
-[movingAverage] 5756.91
-[exponentialMovingAverage 26] 7892.34
-
-[Day 1498]
-[Capital] 2119
-[Stock]	8226
-[movingAverage] 5758.48
-[exponentialMovingAverage 26] 7922.89
-
-[Day 1499]
-[Capital] 2119
-[Stock]	8278
-[movingAverage] 5760.13
-[exponentialMovingAverage 26] 7955.28
-
-[Day 1500]
-[Capital] 2119
-[Stock]	8235
-[movingAverage] 5761.81
-[exponentialMovingAverage 26] 7982.97
-
-[Day 1501]
-[Capital] 2119
-[Stock]	8248
-[movingAverage] 5763.46
-[exponentialMovingAverage 26] 8010.05
-
-[Day 1502]
-[Capital] 2119
-[Stock]	8270
-[movingAverage] 5765.11
-[exponentialMovingAverage 26] 8037.11
-
-[Day 1503]
-[Capital] 2119
-[Stock]	8319
-[movingAverage] 5766.78
-[exponentialMovingAverage 26] 8065.92
-
-[Day 1504]
-[Capital] 2119
-[Stock]	8180
-[movingAverage] 5768.47
-[exponentialMovingAverage 26] 8082.52
-
-[Day 1505]
-[Capital] 2119
-[Stock]	8325
-[movingAverage] 5770.08
-[exponentialMovingAverage 26] 8108.35
-
-[Day 1506]
-[Capital] 2119
-[Stock]	8317
-[movingAverage] 5771.77
-[exponentialMovingAverage 26] 8131.5
-
-[Day 1507]
-[Capital] 2119
-[Stock]	8264
-[movingAverage] 5773.46
-[exponentialMovingAverage 26] 8148.9
-
-[Day 1508]
-[Capital] 2119
-[Stock]	8472
-[movingAverage] 5775.11
-[exponentialMovingAverage 26] 8180.16
-
-[Day 1509]
-[Capital] 2119
-[Stock]	8574
-[movingAverage] 5776.9
-[exponentialMovingAverage 26] 8217.24
-
-[Day 1510]
-[Capital] 2119
-[Stock]	8482
-[movingAverage] 5778.75
-[exponentialMovingAverage 26] 8245.48
-
-[Day 1511]
-[Capital] 2119
-[Stock]	8489
-[movingAverage] 5780.54
-[exponentialMovingAverage 26] 8272.49
-
-[Day 1512]
-[Capital] 2119
-[Stock]	8519
-[movingAverage] 5782.33
-[exponentialMovingAverage 26] 8299.55
-
-[Day 1513]
-[Capital] 2119
-[Stock]	8639
-[movingAverage] 5784.14
-[exponentialMovingAverage 26] 8333.31
-
-[Day 1514]
-[Capital] 2119
-[Stock]	8410
-[movingAverage] 5786.03
-[exponentialMovingAverage 26] 8347.77
-
-[Day 1515]
-[Capital] 2119
-[Stock]	8379
-[movingAverage] 5787.76
-[exponentialMovingAverage 26] 8358.44
-
-[Day 1516]
-[Capital] 2119
-[Stock]	8378
-[movingAverage] 5789.47
-[exponentialMovingAverage 26] 8368.07
-
-[Day 1517]
-[Capital] 2119
-[Stock]	8317
-[movingAverage] 5791.18
-[exponentialMovingAverage 26] 8371.56
-
-[Day 1518]
-[Capital] 2119
-[Stock]	8462
-[movingAverage] 5792.84
-[exponentialMovingAverage 26] 8384.5
-
-[Day 1519]
-[Capital] 2119
-[Stock]	8484
-[movingAverage] 5794.6
-[exponentialMovingAverage 26] 8397.6
-
-[Day 1520]
-[Capital] 2119
-[Stock]	8434
-[movingAverage] 5796.37
-[exponentialMovingAverage 26] 8405.67
-
-[Day 1521]
-[Capital] 2119
-[Stock]	8187
-[movingAverage] 5798.1
-[exponentialMovingAverage 26] 8394.38
-
-[Day 1522]
-[Capital] 2119
-[Stock]	8051
-[movingAverage] 5799.67
-[exponentialMovingAverage 26] 8372.52
-
-[Day 1523]
-[Capital] 2119
-[Stock]	8037
-[movingAverage] 5801.15
-[exponentialMovingAverage 26] 8349.48
-
-[Day 1524]
-
-[SELL] 18 for 144666€

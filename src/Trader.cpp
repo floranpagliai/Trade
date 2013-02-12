@@ -13,7 +13,7 @@
 Trader::Trader(int capital, Logger *logger) : _logger(logger) {
     _capital = capital;
     _days = -1;
-    stringstream   log;
+    stringstream log;
     log << "[Capital]\t" << _capital;
     _logger->writeLog(log.str());
 }
@@ -22,79 +22,77 @@ Trader::~Trader() {
 }
 
 /*----GETTERS----*/
-int     Trader::getCapital() const {
+int Trader::getCapital() const {
     return _capital;
 }
 
-int     Trader::getDays() const {
+int Trader::getDays() const {
     return _days;
 }
 
 /*----FUNCTIONS----*/
-void    Trader::Trade() {
-  char		buffer[256];
-  std::string   value;
-  stringstream   log;
-  int           day = 0;
+void Trader::Trade() {
+    char buffer[256];
+    std::string value;
+    stringstream log;
+    int day = 0;
 
-  while(day != _days - 1)
-  {
-      cin.getline(buffer, 256);
-      value = buffer;
-      if (_days == -1) {
-          _days = atoi(buffer);
-          log << "[Period]\t" << _days << endl;
-          _logger->writeLog(log.str());
-          log.str("");
-      }
-      else {
-      _stockPrice = atoi(buffer);
-      _stockPrices.push_back(_stockPrice);
-      log << endl << "[Day " << day + 1<< "]" << endl << "[Capital] " << _capital << endl
-              << "[Stock]\t" << _stockPrice;
-      _logger->writeLog(log.str());
-      log.str("");
-      switch (technicalAnalysis()) {
-          case BUY: buy((_capital)/_stockPrice); break;
-          case SELL: sell(_stock); break;
-          case WAIT: cout << "wait " << endl; break;
-      }
-      if (_stockPrice == 0)
-          break;
-      ++day;
-      }
-  }
-  log << endl << "[Day " << day + 1 << "]" << endl;
-  _logger->writeLog(log.str());
-  sell(_stock);
+    while (day != _days - 1) {
+        cin.getline(buffer, 256);
+        value = buffer;
+        if (_days == -1) {
+            _days = atoi(buffer);
+            log << "[Period]\t" << _days << endl;
+            _logger->writeLog(log.str());
+            log.str("");
+        } else {
+            _stockPrice = atoi(buffer);
+            _stockPrices.push_back(_stockPrice);
+            log << endl << "[Day " << day + 1 << "]" << endl << "[Capital] " << _capital << endl
+                    << "[Stock]\t" << _stockPrice;
+            _logger->writeLog(log.str());
+            log.str("");
+            switch (technicalAnalysis()) {
+                case BUY: buy((30000) / _stockPrice);
+                    break;
+                case SELL: sell(_stock);
+                    break;
+                case WAIT: cout << "wait " << endl;
+                    break;
+            }
+            if (_stockPrice == 0)
+                break;
+            ++day;
+        }
+    }
+    log << endl << "[Day " << day + 1 << "]" << endl;
+    _logger->writeLog(log.str());
+    sell(_stock);
 }
 
-void    Trader::buy(int stock) {
-    std::stringstream	log;
-    if ((_capital - (0.15/100 * _capital)) >= stock * _stockPrice && stock > 0)
-    {
+void Trader::buy(int stock) {
+    std::stringstream log;
+    //stock -= 1;
+    if ((_capital - (0.15 / 100 * _capital)) >= stock * _stockPrice && stock > 0) {
         log << "[BUY] " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
         cout << "buy " << stock << endl;
         _capital -= stock * _stockPrice;
-        _capital = _capital - (0.15/100 * _capital);
+        _capital = _capital - (0.15 / 100 * _capital);
         _stock += stock;
-    }
-    else
+    } else
         cout << "wait " << endl;
 }
 
-void    Trader::sell(int stock) {
-    std::stringstream	log;
-    if (_stock >= stock && stock > 0)
-    {
+void Trader::sell(int stock) {
+    std::stringstream log;
+    if (_stock >= stock && stock > 0) {
         log << "[SELL] " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
         cout << "sell " << stock << endl;
         _capital += stock * _stockPrice;
-        _capital = _capital - (0.15/100 * _capital);
+        _capital = _capital - (0.15 / 100 * _capital);
         _stock -= stock;
-    }
-    else
+    } else
         cout << "wait " << endl;
 }
