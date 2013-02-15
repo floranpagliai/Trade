@@ -10,7 +10,7 @@ Trader::Action Trader::technicalAnalysis() {
         log.str("");
         if (_stockPrices.size() > 35) {
             float signalLine = exponentialMovingAverage(9, _macd);
-            log << "[Signal Line] " << signalLine ;
+            log << "[Signal Line] " << signalLine;
             _logger->writeLog(log.str());
             if (macd <= signalLine)
                 return BUY;
@@ -51,4 +51,8 @@ float Trader::exponentialMovingAverage(int days, vector<int> stockPrices) {
 
 float Trader::MACD(int EMAShort, int EMALong) {
     return exponentialMovingAverage(EMAShort, _stockPrices) - exponentialMovingAverage(EMALong, _stockPrices);
+}
+
+int Trader::moneyManagement() {
+        return _capital / _stockPrice;
 }

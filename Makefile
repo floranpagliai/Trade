@@ -23,11 +23,11 @@ all:	$(OBJ)
 	g++ $(FLAG) -o $(NAME) $(OBJ)
 	make clean
 	echo BAC1
-	./moulinette/trade_moulinette.php -f moulinette/BAC1.txt -p $(NAME) -m 100000
+	./moulinette/trade_moulinette.php -f moulinette/BAC1.txt -p $(NAME) -m 50000
 	echo ibm5
-	./moulinette/trade_moulinette.php -f moulinette/ibm5.txt -p $(NAME) -m 100000
+	./moulinette/trade_moulinette.php -f moulinette/ibm5.txt -p $(NAME) -m 50000
 	echo CISCO1
-	./moulinette/trade_moulinette.php -f moulinette/CISCO1.txt -p $(NAME) -m 100000
+	./moulinette/trade_moulinette.php -f moulinette/CISCO1.txt -p $(NAME) -m 50000
 
 clean:
 	rm -f $(OBJ)

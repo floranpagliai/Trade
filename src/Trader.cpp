@@ -22,16 +22,16 @@ Trader::~Trader() {
 }
 
 /*----GETTERS----*/
-int Trader::getCapital() const {
+int     Trader::getCapital() const {
     return _capital;
 }
 
-int Trader::getDays() const {
+int     Trader::getDays() const {
     return _days;
 }
 
 /*----FUNCTIONS----*/
-void Trader::Trade() {
+void    Trader::Trade() {
     char buffer[256];
     std::string value;
     stringstream log;
@@ -53,7 +53,7 @@ void Trader::Trade() {
             _logger->writeLog(log.str());
             log.str("");
             switch (technicalAnalysis()) {
-                case BUY: buy((30000) / _stockPrice);
+                case BUY: buy(moneyManagement());
                     break;
                 case SELL: sell(_stock);
                     break;
@@ -65,33 +65,33 @@ void Trader::Trade() {
             ++day;
         }
     }
-    log << endl << "[Day " << day + 1 << "]" << endl;
+    log << endl << "--Day " << day + 1 << "--" << endl;
     _logger->writeLog(log.str());
     sell(_stock);
 }
 
-void Trader::buy(int stock) {
+void    Trader::buy(int stock) {
     std::stringstream log;
     //stock -= 1;
     if ((_capital - (0.15 / 100 * _capital)) >= stock * _stockPrice && stock > 0) {
-        log << "[BUY] " << stock << " for " << stock * _stockPrice << "€";
+        log << "==>BUY " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
         cout << "buy " << stock << endl;
         _capital -= stock * _stockPrice;
-        _capital = _capital - (0.15 / 100 * _capital);
+        _capital = _capital - (0.15 / 100 * (stock * _stockPrice));
         _stock += stock;
     } else
         cout << "wait " << endl;
 }
 
-void Trader::sell(int stock) {
+void    Trader::sell(int stock) {
     std::stringstream log;
     if (_stock >= stock && stock > 0) {
-        log << "[SELL] " << stock << " for " << stock * _stockPrice << "€";
+        log << "==>SELL " << stock << " for " << stock * _stockPrice << "€";
         _logger->writeLog(log.str());
         cout << "sell " << stock << endl;
         _capital += stock * _stockPrice;
-        _capital = _capital - (0.15 / 100 * _capital);
+        _capital = _capital - (0.15 / 100 * (stock * _stockPrice));
         _stock -= stock;
     } else
         cout << "wait " << endl;

@@ -4,6 +4,7 @@
 #include <iostream>
 #include <sstream>
 #include <vector>
+#include <math.h>
 #include <stdlib.h>
 #include "Logger.h"
 
@@ -31,9 +32,11 @@ public:
     float movingAverage(int);
     float exponentialMovingAverage(int, vector<int>);
     float MACD(int, int);
+    int moneyManagement();
 
 protected:
     int _capital;
+    int _capitalEngage;
     int _days;
     int _stock;
     int _stockPrice;
