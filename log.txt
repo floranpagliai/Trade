@@ -1,1486 +1,9605 @@
 ROBOT TRADER QUANTUM LOG
-[Capital]	50000
-[Period]	254
+[Capital]	1000000
+[Period]	1524
 
 
 --Day 1--
-[Capital] 50000
-[Stock]	2302
+[Capital] 1000000
+[Stock]	4234
 
 --Day 2--
-[Capital] 50000
-[Stock]	2300
+[Capital] 1000000
+[Stock]	4282
 
 --Day 3--
-[Capital] 50000
-[Stock]	2253
+[Capital] 1000000
+[Stock]	4336
 
 --Day 4--
-[Capital] 50000
-[Stock]	2308
+[Capital] 1000000
+[Stock]	4350
 
 --Day 5--
-[Capital] 50000
-[Stock]	2282
+[Capital] 1000000
+[Stock]	4372
 
 --Day 6--
-[Capital] 50000
-[Stock]	2311
+[Capital] 1000000
+[Stock]	4382
 
 --Day 7--
-[Capital] 50000
-[Stock]	2349
+[Capital] 1000000
+[Stock]	4415
 
 --Day 8--
-[Capital] 50000
-[Stock]	2328
+[Capital] 1000000
+[Stock]	4420
 
 --Day 9--
-[Capital] 50000
-[Stock]	2384
+[Capital] 1000000
+[Stock]	4419
 
 --Day 10--
-[Capital] 50000
-[Stock]	2332
+[Capital] 1000000
+[Stock]	4482
 
 --Day 11--
-[Capital] 50000
-[Stock]	2311
+[Capital] 1000000
+[Stock]	4484
 
 --Day 12--
-[Capital] 50000
-[Stock]	2268
+[Capital] 1000000
+[Stock]	4498
 
 --Day 13--
-[Capital] 50000
-[Stock]	2259
+[Capital] 1000000
+[Stock]	4452
 
 --Day 14--
-[Capital] 50000
-[Stock]	2230
+[Capital] 1000000
+[Stock]	4292
 
 --Day 15--
-[Capital] 50000
-[Stock]	2215
+[Capital] 1000000
+[Stock]	4408
 
 --Day 16--
-[Capital] 50000
-[Stock]	2152
+[Capital] 1000000
+[Stock]	4358
 
 --Day 17--
-[Capital] 50000
-[Stock]	2120
+[Capital] 1000000
+[Stock]	4308
 
 --Day 18--
-[Capital] 50000
-[Stock]	2113
+[Capital] 1000000
+[Stock]	4300
 
 --Day 19--
-[Capital] 50000
-[Stock]	2113
+[Capital] 1000000
+[Stock]	4348
 
 --Day 20--
-[Capital] 50000
-[Stock]	2142
+[Capital] 1000000
+[Stock]	4266
 
 --Day 21--
-[Capital] 50000
-[Stock]	2149
+[Capital] 1000000
+[Stock]	4265
 
 --Day 22--
-[Capital] 50000
-[Stock]	2267
+[Capital] 1000000
+[Stock]	4348
 
 --Day 23--
-[Capital] 50000
-[Stock]	2255
+[Capital] 1000000
+[Stock]	4338
 
 --Day 24--
-[Capital] 50000
-[Stock]	2261
+[Capital] 1000000
+[Stock]	4366
 
 --Day 25--
-[Capital] 50000
-[Stock]	2304
+[Capital] 1000000
+[Stock]	4362
 
 --Day 26--
-[Capital] 50000
-[Stock]	2343
-[MACD] -3.67505
+[Capital] 1000000
+[Stock]	4380
+[MACD] -21.3721
 
 --Day 27--
-[Capital] 50000
-[Stock]	2370
-[MACD] 13.584
+[Capital] 1000000
+[Stock]	4400
+[MACD] -14.3818
 
 --Day 28--
-[Capital] 50000
-[Stock]	2387
-[MACD] 30.406
+[Capital] 1000000
+[Stock]	4401
+[MACD] -6.73633
 
 --Day 29--
-[Capital] 50000
-[Stock]	2287
-[MACD] 36.4858
+[Capital] 1000000
+[Stock]	4375
+[MACD] -1.37744
 
 --Day 30--
-[Capital] 50000
-[Stock]	2227
-[MACD] 35.7351
+[Capital] 1000000
+[Stock]	4410
+[MACD] 6.02588
 
 --Day 31--
-[Capital] 50000
-[Stock]	2306
-[MACD] 39.594
+[Capital] 1000000
+[Stock]	4317
+[MACD] 4.77051
 
 --Day 32--
-[Capital] 50000
-[Stock]	2273
-[MACD] 38.4146
+[Capital] 1000000
+[Stock]	4310
+[MACD] 3.19824
 
 --Day 33--
-[Capital] 50000
-[Stock]	2316
-[MACD] 38.8774
+[Capital] 1000000
+[Stock]	4260
+[MACD] -3.13281
 
 --Day 34--
-[Capital] 50000
-[Stock]	2332
-[MACD] 38.3818
+[Capital] 1000000
+[Stock]	4225
+[MACD] -12.6328
 
 --Day 35--
-[Capital] 50000
-[Stock]	2368
-[MACD] 39.936
+[Capital] 1000000
+[Stock]	4212
+[MACD] -22.1484
 
 --Day 36--
-[Capital] 50000
-[Stock]	2329
-[MACD] 36.8845
-[Signal Line] 37.4
-==>BUY 21 for 48909€
+[Capital] 1000000
+[Stock]	4216
+[MACD] -30.3188
+[Signal Line] -11.2667
+==>BUY 118 for 497488euros
 
 --Day 37--
-[Capital] 1017
-[Stock]	2353
-[MACD] 34.8674
-[Signal Line] 36.8889
+[Capital] 501765
+[Stock]	4190
+[MACD] -39.3989
+[Signal Line] -17.7111
+==>BUY 59 for 247210euros
 
 --Day 38--
-[Capital] 1017
-[Stock]	2302
-[MACD] 28.2734
-[Signal Line] 35.0889
+[Capital] 254184
+[Stock]	4143
+[MACD] -50.8604
+[Signal Line] -25.6222
+==>BUY 30 for 124290euros
 
 --Day 39--
-[Capital] 1017
-[Stock]	2343
-[MACD] 25.5728
-[Signal Line] 32.8667
+[Capital] 129707
+[Stock]	4304
+[MACD] -47.4517
+[Signal Line] -31.8444
+==>BUY 15 for 64560euros
 
 --Day 40--
-[Capital] 1017
-[Stock]	2384
-[MACD] 26.7278
-[Signal Line] 31.0667
+[Capital] 65050
+[Stock]	4310
+[MACD] -42.7549
+[Signal Line] -35.8889
+==>BUY 7 for 30170euros
 
 --Day 41--
-[Capital] 1017
-[Stock]	2379
-[MACD] 27.9617
-[Signal Line] 29.7556
+[Capital] 34834
+[Stock]	4260
+[MACD] -40.8291
+[Signal Line] -38.5111
+==>BUY 4 for 17040euros
 
 --Day 42--
-[Capital] 1017
-[Stock]	2403
-[MACD] 30.3972
-[Signal Line] 29.2889
-==>SELL 21 for 50463€
+[Capital] 17768
+[Stock]	4252
+[MACD] -38.4883
+[Signal Line] -39.7778
+==>SELL 233 for 990716euros
 
 --Day 43--
-[Capital] 51404
-[Stock]	2392
-[MACD] 30.4146
-[Signal Line] 29
+[Capital] 1006997
+[Stock]	4238
+[MACD] -35.5415
+[Signal Line] -39.6667
 
 --Day 44--
-[Capital] 51404
-[Stock]	2421
-[MACD] 32.4175
-[Signal Line] 29.2889
+[Capital] 1006997
+[Stock]	4210
+[MACD] -34.0146
+[Signal Line] -38.8444
 
 --Day 45--
-[Capital] 51404
-[Stock]	2446
-[MACD] 35.3945
-[Signal Line] 30.3333
+[Capital] 1006997
+[Stock]	4150
+[MACD] -36.2476
+[Signal Line] -38.1556
 
 --Day 46--
-[Capital] 51404
-[Stock]	2386
-[MACD] 32.8674
-[Signal Line] 30.8
+[Capital] 1006997
+[Stock]	4086
+[MACD] -42.7407
+[Signal Line] -38.5333
+==>BUY 123 for 502578euros
 
 --Day 47--
-[Capital] 51404
-[Stock]	2142
-[MACD] 10.8789
-[Signal Line] 26.9111
-==>BUY 23 for 49266€
+[Capital] 503665
+[Stock]	4082
+[MACD] -48.2832
+[Signal Line] -40.0444
+==>BUY 61 for 249002euros
 
 --Day 48--
-[Capital] 2064
-[Stock]	2151
-[MACD] -7.51416
-[Signal Line] 20.0222
+[Capital] 254289
+[Stock]	4108
+[MACD] -50.6069
+[Signal Line] -42
+==>BUY 30 for 123240euros
 
 --Day 49--
-[Capital] 2064
-[Stock]	2124
-[MACD] -26.1096
-[Signal Line] 10.0444
+[Capital] 130864
+[Stock]	4050
+[MACD] -56.856
+[Signal Line] -45.0889
+==>BUY 16 for 64800euros
 
 --Day 50--
-[Capital] 2064
-[Stock]	2207
-[MACD] -35.5212
-[Signal Line] -0.577778
+[Capital] 65966
+[Stock]	3992
+[MACD] -66.7578
+[Signal Line] -49.8667
+==>BUY 8 for 31936euros
 
 --Day 51--
-[Capital] 2064
-[Stock]	2204
-[MACD] -44.1082
-[Signal Line] -11.6222
+[Capital] 33982
+[Stock]	4060
+[MACD] -70.3647
+[Signal Line] -54.8667
+==>BUY 4 for 16240euros
 
 --Day 52--
-[Capital] 2064
-[Stock]	2234
-[MACD] -48.8049
-[Signal Line] -21.8222
+[Capital] 17717
+[Stock]	4053
+[MACD] -72.2622
+[Signal Line] -59.5556
+==>BUY 2 for 8106euros
 
 --Day 53--
-[Capital] 2064
-[Stock]	2219
-[MACD] -53.0854
-[Signal Line] -31.2889
+[Capital] 9598
+[Stock]	3975
+[MACD] -78.0186
+[Signal Line] -64.6222
+==>BUY 1 for 3975euros
 
 --Day 54--
-[Capital] 2064
-[Stock]	2247
-[MACD] -53.5112
-[Signal Line] -38.8667
+[Capital] 5617
+[Stock]	3958
+[MACD] -82.6882
+[Signal Line] -69.5111
 
 --Day 55--
-[Capital] 2064
-[Stock]	2143
-[MACD] -60.6323
-[Signal Line] -45.8889
+[Capital] 5617
+[Stock]	3985
+[MACD] -82.6965
+[Signal Line] -73.3778
 
 --Day 56--
-[Capital] 2064
-[Stock]	2099
-[MACD] -68.4814
-[Signal Line] -52.4667
+[Capital] 5617
+[Stock]	3994
+[MACD] -79.8547
+[Signal Line] -75.7556
 
 --Day 57--
-[Capital] 2064
-[Stock]	2118
-[MACD] -71.0513
-[Signal Line] -57.9111
+[Capital] 5617
+[Stock]	3960
+[MACD] -78.1411
+[Signal Line] -77.2444
 
 --Day 58--
-[Capital] 2064
-[Stock]	2084
-[MACD] -72.6638
-[Signal Line] -62.1333
+[Capital] 5617
+[Stock]	3940
+[MACD] -76.604
+[Signal Line] -77.7111
+==>SELL 245 for 965300euros
 
 --Day 59--
-[Capital] 2064
-[Stock]	2080
-[MACD] -71.2622
-[Signal Line] -65.1333
+[Capital] 969469
+[Stock]	3915
+[MACD] -76.2434
+[Signal Line] -77.7333
 
 --Day 60--
-[Capital] 2064
-[Stock]	2011
-[MACD] -75.2422
-[Signal Line] -68.1333
-==>BUY 1 for 2011€
+[Capital] 969469
+[Stock]	3946
+[MACD] -72.252
+[Signal Line] -76.7333
 
 --Day 61--
-[Capital] 49
-[Stock]	2035
-[MACD] -76.4272
-[Signal Line] -70.6444
+[Capital] 969469
+[Stock]	3922
+[MACD] -68.8931
+[Signal Line] -74.8889
 
 --Day 62--
-[Capital] 49
-[Stock]	2048
-[MACD] -76.3833
-[Signal Line] -72.5333
+[Capital] 969469
+[Stock]	3852
+[MACD] -70.3035
+[Signal Line] -73.5333
 
 --Day 63--
-[Capital] 49
-[Stock]	2104
-[MACD] -70.6338
-[Signal Line] -72.7111
-==>SELL 24 for 50496€
+[Capital] 969469
+[Stock]	3918
+[MACD] -65.6909
+[Signal Line] -71.3556
 
 --Day 64--
-[Capital] 50469
-[Stock]	2104
-[MACD] -64.312
-[Signal Line] -71.3111
+[Capital] 969469
+[Stock]	3850
+[MACD] -65.4573
+[Signal Line] -69.5556
 
 --Day 65--
-[Capital] 50469
-[Stock]	2090
-[MACD] -58.0042
-[Signal Line] -68.6222
+[Capital] 969469
+[Stock]	3930
+[MACD] -57.074
+[Signal Line] -66.5333
 
 --Day 66--
-[Capital] 50469
-[Stock]	2068
-[MACD] -52.5186
-[Signal Line] -64.9556
+[Capital] 969469
+[Stock]	3948
+[MACD] -47.7434
+[Signal Line] -62
 
 --Day 67--
-[Capital] 50469
-[Stock]	2096
-[MACD] -43.4045
-[Signal Line] -59.9111
+[Capital] 969469
+[Stock]	4030
+[MACD] -32.7749
+[Signal Line] -55.1556
 
 --Day 68--
-[Capital] 50469
-[Stock]	2063
-[MACD] -37.1267
-[Signal Line] -54.3111
+[Capital] 969469
+[Stock]	3964
+[MACD] -24.3035
+[Signal Line] -47.6889
 
 --Day 69--
-[Capital] 50469
-[Stock]	2092
-[MACD] -29.0427
-[Signal Line] -47.8667
+[Capital] 969469
+[Stock]	3938
+[MACD] -18.3418
+[Signal Line] -40.1778
 
 --Day 70--
-[Capital] 50469
-[Stock]	2136
-[MACD] -17.9702
-[Signal Line] -40.0444
+[Capital] 969469
+[Stock]	3970
+[MACD] -10.4001
+[Signal Line] -32.2667
 
 --Day 71--
-[Capital] 50469
-[Stock]	2154
-[MACD] -6.94019
-[Signal Line] -31.3333
+[Capital] 969469
+[Stock]	4180
+[MACD] 13.2251
+[Signal Line] -21.0444
 
 --Day 72--
-[Capital] 50469
-[Stock]	2158
-[MACD] 2.62817
-[Signal Line] -22.5778
+[Capital] 969469
+[Stock]	4198
+[MACD] 34.9744
+[Signal Line] -7.46667
 
 --Day 73--
-[Capital] 50469
-[Stock]	2207
-[MACD] 13.5713
-[Signal Line] -13.2222
+[Capital] 969469
+[Stock]	4010
+[MACD] 38.8147
+[Signal Line] 4.71111
 
 --Day 74--
-[Capital] 50469
-[Stock]	2197
-[MACD] 21.6965
-[Signal Line] -3.97778
+[Capital] 969469
+[Stock]	4000
+[MACD] 40.5242
+[Signal Line] 15
 
 --Day 75--
-[Capital] 50469
-[Stock]	2178
-[MACD] 26.5271
-[Signal Line] 4.51111
+[Capital] 969469
+[Stock]	4028
+[MACD] 42.2622
+[Signal Line] 23.5333
 
 --Day 76--
-[Capital] 50469
-[Stock]	2167
-[MACD] 29.6853
-[Signal Line] 11.8667
+[Capital] 969469
+[Stock]	4112
+[MACD] 49.228
+[Signal Line] 31.4889
 
 --Day 77--
-[Capital] 50469
-[Stock]	2155
-[MACD] 30.9644
-[Signal Line] 17.8222
+[Capital] 969469
+[Stock]	4092
+[MACD] 51.5813
+[Signal Line] 38.0444
 
 --Day 78--
-[Capital] 50469
-[Stock]	2184
-[MACD] 33.584
-[Signal Line] 22.8889
+[Capital] 969469
+[Stock]	4082
+[MACD] 51.1509
+[Signal Line] 42.9333
 
 --Day 79--
-[Capital] 50469
-[Stock]	2201
-[MACD] 35.9302
-[Signal Line] 26.9778
+[Capital] 969469
+[Stock]	4062
+[MACD] 47.49
+[Signal Line] 45.4889
 
 --Day 80--
-[Capital] 50469
-[Stock]	2200
-[MACD] 36.7991
-[Signal Line] 30.1111
+[Capital] 969469
+[Stock]	4056
+[MACD] 43.1882
+[Signal Line] 45.9778
+==>BUY 119 for 482664euros
 
 --Day 81--
-[Capital] 50469
-[Stock]	2163
-[MACD] 32.8262
-[Signal Line] 31.5111
+[Capital] 486081
+[Stock]	4104
+[MACD] 41.8147
+[Signal Line] 45.4
+==>BUY 59 for 242136euros
 
 --Day 82--
-[Capital] 50469
-[Stock]	2205
-[MACD] 31.3503
-[Signal Line] 32.0444
-==>BUY 22 for 48510€
+[Capital] 243581
+[Stock]	4132
+[MACD] 40.886
+[Signal Line] 44.4667
+==>BUY 29 for 119828euros
 
 --Day 83--
-[Capital] 1886
-[Stock]	2212
-[MACD] 29.8506
-[Signal Line] 31.7778
+[Capital] 123573
+[Stock]	4132
+[MACD] 38.2734
+[Signal Line] 43.0889
+==>BUY 14 for 57848euros
 
 --Day 84--
-[Capital] 1886
-[Stock]	2181
-[MACD] 25.4019
-[Signal Line] 30.5333
+[Capital] 65638
+[Stock]	4075
+[MACD] 32.2195
+[Signal Line] 40.5556
+==>BUY 8 for 32600euros
 
 --Day 85--
-[Capital] 1886
-[Stock]	2202
-[MACD] 22.6096
-[Signal Line] 28.7111
+[Capital] 32989
+[Stock]	4118
+[MACD] 31.5571
+[Signal Line] 38.0444
+==>BUY 4 for 16472euros
 
 --Day 86--
-[Capital] 1886
-[Stock]	2203
-[MACD] 20.3091
-[Signal Line] 26.6444
+[Capital] 16492
+[Stock]	4138
+[MACD] 31.6838
+[Signal Line] 35.9333
+==>BUY 1 for 4138euros
 
 --Day 87--
-[Capital] 1886
-[Stock]	2247
-[MACD] 21.9885
-[Signal Line] 25
+[Capital] 12347
+[Stock]	4136
+[MACD] 30.4285
+[Signal Line] 34.0667
+==>BUY 1 for 4136euros
 
 --Day 88--
-[Capital] 1886
-[Stock]	2237
-[MACD] 22.5896
-[Signal Line] 23.8222
+[Capital] 8204
+[Stock]	4146
+[MACD] 29.1965
+[Signal Line] 32.4667
 
 --Day 89--
-[Capital] 1886
-[Stock]	2248
-[MACD] 23.7095
-[Signal Line] 23.1333
-==>SELL 22 for 49456€
+[Capital] 8204
+[Stock]	4092
+[MACD] 24.0586
+[Signal Line] 30.2667
+==>BUY 1 for 4092euros
 
 --Day 90--
-[Capital] 51267
-[Stock]	2238
-[MACD] 23.2493
-[Signal Line] 22.7333
+[Capital] 4105
+[Stock]	4055
+[MACD] 16.4641
+[Signal Line] 26.8889
 
 --Day 91--
-[Capital] 51267
-[Stock]	2293
-[MACD] 26.8662
-[Signal Line] 23.1333
+[Capital] 4105
+[Stock]	4080
+[MACD] 11.7949
+[Signal Line] 23.0667
 
 --Day 92--
-[Capital] 51267
-[Stock]	2326
-[MACD] 32.5142
-[Signal Line] 24.8444
+[Capital] 4105
+[Stock]	4108
+[MACD] 9.55542
+[Signal Line] 19.4889
 
 --Day 93--
-[Capital] 51267
-[Stock]	2324
-[MACD] 37.1226
-[Signal Line] 27.4889
+[Capital] 4105
+[Stock]	4068
+[MACD] 3.91455
+[Signal Line] 15.3556
 
 --Day 94--
-[Capital] 51267
-[Stock]	2335
-[MACD] 41.1936
-[Signal Line] 30.6667
+[Capital] 4105
+[Stock]	4125
+[MACD] 3.39014
+[Signal Line] 11.8667
 
 --Day 95--
-[Capital] 51267
-[Stock]	2310
-[MACD] 42.3789
-[Signal Line] 33.6222
+[Capital] 4105
+[Stock]	4160
+[MACD] 6.20654
+[Signal Line] 9.6
 
 --Day 96--
-[Capital] 51267
-[Stock]	2291
-[MACD] 41.4131
-[Signal Line] 35.8889
+[Capital] 4105
+[Stock]	4178
+[MACD] 10.7319
+[Signal Line] 8.68889
+==>SELL 236 for 986008euros
 
 --Day 97--
-[Capital] 51267
-[Stock]	2348
-[MACD] 44.0256
-[Signal Line] 38.3111
+[Capital] 988633
+[Stock]	4185
+[MACD] 15.0884
+[Signal Line] 9.22222
 
 --Day 98--
-[Capital] 51267
-[Stock]	2325
-[MACD] 43.4841
-[Signal Line] 40.0444
+[Capital] 988633
+[Stock]	4166
+[MACD] 17.084
+[Signal Line] 10.4667
 
 --Day 99--
-[Capital] 51267
-[Stock]	2363
-[MACD] 44.886
-[Signal Line] 41.5333
+[Capital] 988633
+[Stock]	4192
+[MACD] 20.7036
+[Signal Line] 12.4667
 
 --Day 100--
-[Capital] 51267
-[Stock]	2349
-[MACD] 44.1282
-[Signal Line] 42.5556
+[Capital] 988633
+[Stock]	4121
+[MACD] 18.46
+[Signal Line] 13.9778
 
 --Day 101--
-[Capital] 51267
-[Stock]	2325
-[MACD] 40.4529
-[Signal Line] 42.3778
-==>BUY 22 for 51150€
+[Capital] 988633
+[Stock]	4150
+[MACD] 19.1953
+[Signal Line] 15.5333
 
 --Day 102--
-[Capital] 40
-[Stock]	2343
-[MACD] 37.6453
-[Signal Line] 41.4222
+[Capital] 988633
+[Stock]	4200
+[MACD] 23.5229
+[Signal Line] 17.6667
 
 --Day 103--
-[Capital] 40
-[Stock]	2312
-[MACD] 31.52
-[Signal Line] 39.2667
-
---Day 104--
-[Capital] 40
-[Stock]	2295
-[MACD] 24.2422
-[Signal Line] 35.9333
-
---Day 105--
-[Capital] 40
-[Stock]	2317
-[MACD] 19.4331
-[Signal Line] 32
-
---Day 106--
-[Capital] 40
-[Stock]	2329
-[MACD] 16.0015
-[Signal Line] 27.9556
-
---Day 107--
-[Capital] 40
-[Stock]	2392
-[MACD] 18.0398
-[Signal Line] 24.9333
-
---Day 108--
-[Capital] 40
-[Stock]	2426
-[MACD] 22.3916
-[Signal Line] 23.2667
-
---Day 109--
-[Capital] 40
-[Stock]	2454
-[MACD] 27.876
-[Signal Line] 23.0889
-==>SELL 22 for 53988€
-
---Day 110--
-[Capital] 53947
-[Stock]	2449
-[MACD] 32.292
-[Signal Line] 24.2889
-
---Day 111--
-[Capital] 53947
-[Stock]	2429
-[MACD] 34.2864
-[Signal Line] 26.0667
-
---Day 112--
-[Capital] 53947
-[Stock]	2046
-[MACD] 5.52856
-[Signal Line] 22.1111
-==>BUY 26 for 53196€
-
---Day 113--
-[Capital] 671
-[Stock]	2062
-[MACD] -18.5156
-[Signal Line] 14.1333
-
---Day 114--
-[Capital] 671
-[Stock]	2037
-[MACD] -41.7095
-[Signal Line] 2.48889
-
---Day 115--
-[Capital] 671
-[Stock]	1988
-[MACD] -65.4587
-[Signal Line] -12.6222
-
---Day 116--
-[Capital] 671
-[Stock]	1962
-[MACD] -87.8689
-[Signal Line] -30.3333
-
---Day 117--
-[Capital] 671
-[Stock]	1973
-[MACD] -105.919
-[Signal Line] -49.3111
-
---Day 118--
-[Capital] 671
-[Stock]	1983
-[MACD] -119.672
-[Signal Line] -68.2667
-
---Day 119--
-[Capital] 671
-[Stock]	1965
-[MACD] -131.403
-[Signal Line] -86.3778
-
---Day 120--
-[Capital] 671
-[Stock]	1944
-[MACD] -140.358
-[Signal Line] -102.667
-
---Day 121--
-[Capital] 671
-[Stock]	1946
-[MACD] -144.087
-[Signal Line] -115.889
-
---Day 122--
-[Capital] 671
-[Stock]	1949
-[MACD] -142.101
-[Signal Line] -125.4
-
---Day 123--
-[Capital] 671
-[Stock]	1947
-[MACD] -134.839
-[Signal Line] -130.556
-
---Day 124--
-[Capital] 671
-[Stock]	1924
-[MACD] -124.375
-[Signal Line] -131.644
-==>SELL 26 for 50024€
-
---Day 125--
-[Capital] 50619
-[Stock]	1934
-[MACD] -112.691
-[Signal Line] -129.022
-
---Day 126--
-[Capital] 50619
-[Stock]	1936
-[MACD] -100.429
-[Signal Line] -123.444
-
---Day 127--
-[Capital] 50619
-[Stock]	1916
-[MACD] -89.6438
-[Signal Line] -115.778
-
---Day 128--
-[Capital] 50619
-[Stock]	1931
-[MACD] -77.9045
-[Signal Line] -106.378
-
---Day 129--
-[Capital] 50619
-[Stock]	1970
-[MACD] -63.8304
-[Signal Line] -95.3778
-
---Day 130--
-[Capital] 50619
-[Stock]	1937
-[MACD] -53.3248
-[Signal Line] -84.0889
-
---Day 131--
-[Capital] 50619
-[Stock]	1949
-[MACD] -42.292
-[Signal Line] -72.6222
-
---Day 132--
-[Capital] 50619
-[Stock]	1975
-[MACD] -30.0286
-[Signal Line] -60.9778
-
---Day 133--
-[Capital] 50619
-[Stock]	1985
-[MACD] -18.3733
-[Signal Line] -49.2444
-
---Day 134--
-[Capital] 50619
-[Stock]	1965
-[MACD] -9.97302
-[Signal Line] -38.0667
-
---Day 135--
-[Capital] 50619
-[Stock]	1958
-[MACD] -3.64966
-[Signal Line] -27.9778
-
---Day 136--
-[Capital] 50619
-[Stock]	1944
-[MACD] 0.00280762
-[Signal Line] -19.4444
-
---Day 137--
-[Capital] 50619
-[Stock]	1970
-[MACD] 4.03418
-[Signal Line] -12.0889
-
---Day 138--
-[Capital] 50619
-[Stock]	1958
-[MACD] 5.33899
-[Signal Line] -6.33333
-
---Day 139--
-[Capital] 50619
-[Stock]	1964
-[MACD] 6.58984
-[Signal Line] -1.88889
-
---Day 140--
-[Capital] 50619
-[Stock]	1954
-[MACD] 6.14807
-[Signal Line] 1.24444
-
---Day 141--
-[Capital] 50619
-[Stock]	1969
-[MACD] 6.37183
-[Signal Line] 3.31111
-
---Day 142--
-[Capital] 50619
-[Stock]	1984
-[MACD] 7.75073
-[Signal Line] 4.77778
-
---Day 143--
-[Capital] 50619
-[Stock]	2037
-[MACD] 12.8176
-[Signal Line] 6.68889
-
---Day 144--
-[Capital] 50619
-[Stock]	2049
-[MACD] 17.896
-[Signal Line] 9.13333
-
---Day 145--
-[Capital] 50619
-[Stock]	2032
-[MACD] 20.8575
-[Signal Line] 11.7333
-
---Day 146--
-[Capital] 50619
-[Stock]	2024
-[MACD] 22.7692
-[Signal Line] 14.2889
-
---Day 147--
-[Capital] 50619
-[Stock]	2045
-[MACD] 25.8276
-[Signal Line] 17.0444
-
---Day 148--
-[Capital] 50619
-[Stock]	2051
-[MACD] 28.5314
+[Capital] 988633
+[Stock]	4200
+[MACD] 26.2422
 [Signal Line] 19.9556
 
+--Day 104--
+[Capital] 988633
+[Stock]	4298
+[MACD] 35.5488
+[Signal Line] 23.5333
+
+--Day 105--
+[Capital] 988633
+[Stock]	4350
+[MACD] 47.1826
+[Signal Line] 28.8667
+
+--Day 106--
+[Capital] 988633
+[Stock]	4390
+[MACD] 59.2119
+[Signal Line] 35.7778
+
+--Day 107--
+[Capital] 988633
+[Stock]	4388
+[MACD] 68.6367
+[Signal Line] 43.5111
+
+--Day 108--
+[Capital] 988633
+[Stock]	4355
+[MACD] 73.3149
+[Signal Line] 51.1111
+
+--Day 109--
+[Capital] 988633
+[Stock]	4325
+[MACD] 73.9658
+[Signal Line] 57.5333
+
+--Day 110--
+[Capital] 988633
+[Stock]	4375
+[MACD] 77.3604
+[Signal Line] 63.5333
+
+--Day 111--
+[Capital] 988633
+[Stock]	4346
+[MACD] 76.6167
+[Signal Line] 68.0444
+
+--Day 112--
+[Capital] 988633
+[Stock]	4338
+[MACD] 73.9102
+[Signal Line] 70.7778
+
+--Day 113--
+[Capital] 988633
+[Stock]	4290
+[MACD] 65.1626
+[Signal Line] 70.8667
+==>BUY 115 for 493350euros
+
+--Day 114--
+[Capital] 494542
+[Stock]	4335
+[MACD] 58.6479
+[Signal Line] 68.8889
+==>BUY 57 for 247095euros
+
+--Day 115--
+[Capital] 247076
+[Stock]	4388
+[MACD] 55.1694
+[Signal Line] 66.0667
+==>BUY 28 for 122864euros
+
+--Day 116--
+[Capital] 124027
+[Stock]	4336
+[MACD] 45.9761
+[Signal Line] 61.3333
+==>BUY 14 for 60704euros
+
+--Day 117--
+[Capital] 63231
+[Stock]	4332
+[MACD] 36.7764
+[Signal Line] 55.3111
+==>BUY 7 for 30324euros
+
+--Day 118--
+[Capital] 32861
+[Stock]	4350
+[MACD] 29.9619
+[Signal Line] 48.7111
+==>BUY 3 for 13050euros
+
+--Day 119--
+[Capital] 19791
+[Stock]	4394
+[MACD] 27.8589
+[Signal Line] 42.6889
+==>BUY 2 for 8788euros
+
+--Day 120--
+[Capital] 10989
+[Stock]	4423
+[MACD] 28.9219
+[Signal Line] 37.9778
+==>BUY 1 for 4423euros
+
+--Day 121--
+[Capital] 6559
+[Stock]	4322
+[MACD] 21.9043
+[Signal Line] 32.9333
+
+--Day 122--
+[Capital] 6559
+[Stock]	4298
+[MACD] 13.4731
+[Signal Line] 27.4444
+
+--Day 123--
+[Capital] 6559
+[Stock]	4288
+[MACD] 5.57227
+[Signal Line] 21.5111
+
+--Day 124--
+[Capital] 6559
+[Stock]	4290
+[MACD] -1.13086
+[Signal Line] 15.5556
+
+--Day 125--
+[Capital] 6559
+[Stock]	4350
+[MACD] -2.08008
+[Signal Line] 10.6444
+
+--Day 126--
+[Capital] 6559
+[Stock]	4375
+[MACD] -1.35303
+[Signal Line] 6.97778
+
+--Day 127--
+[Capital] 6559
+[Stock]	4364
+[MACD] -1.29346
+[Signal Line] 4.13333
+
+--Day 128--
+[Capital] 6559
+[Stock]	4314
+[MACD] -4.30469
+[Signal Line] 1.35556
+
+--Day 129--
+[Capital] 6559
+[Stock]	4308
+[MACD] -7.18799
+[Signal Line] -1.33333
+
+--Day 130--
+[Capital] 6559
+[Stock]	4365
+[MACD] -4.90869
+[Signal Line] -2.64444
+
+--Day 131--
+[Capital] 6559
+[Stock]	4371
+[MACD] -2.15234
+[Signal Line] -3
+==>SELL 227 for 992217euros
+
+--Day 132--
+[Capital] 997287
+[Stock]	4405
+[MACD] 3.6709
+[Signal Line] -2.02222
+
+--Day 133--
+[Capital] 997287
+[Stock]	4568
+[MACD] 22.7705
+[Signal Line] 2.8
+
+--Day 134--
+[Capital] 997287
+[Stock]	4500
+[MACD] 33.8047
+[Signal Line] 9.31111
+
+--Day 135--
+[Capital] 997287
+[Stock]	4470
+[MACD] 40.2695
+[Signal Line] 16.4444
+
+--Day 136--
+[Capital] 997287
+[Stock]	4350
+[MACD] 35.2407
+[Signal Line] 21.6667
+
+--Day 137--
+[Capital] 997287
+[Stock]	4244
+[MACD] 20.916
+[Signal Line] 23.0889
+==>BUY 117 for 496548euros
+
+--Day 138--
+[Capital] 499994
+[Stock]	4265
+[MACD] 9.33447
+[Signal Line] 21.7778
+==>BUY 58 for 247370euros
+
+--Day 139--
+[Capital] 252252
+[Stock]	4335
+[MACD] 4.54004
+[Signal Line] 19.1111
+==>BUY 29 for 125715euros
+
+--Day 140--
+[Capital] 126348
+[Stock]	4372
+[MACD] 3.19678
+[Signal Line] 16.0667
+==>BUY 14 for 61208euros
+
+--Day 141--
+[Capital] 65048
+[Stock]	4354
+[MACD] -0.220703
+[Signal Line] 12.3111
+==>BUY 7 for 30478euros
+
+--Day 142--
+[Capital] 34524
+[Stock]	4385
+[MACD] -1.85205
+[Signal Line] 8.42222
+==>BUY 3 for 13155euros
+
+--Day 143--
+[Capital] 21349
+[Stock]	4362
+[MACD] -5.43408
+[Signal Line] 4.24444
+==>BUY 2 for 8724euros
+
+--Day 144--
+[Capital] 12611
+[Stock]	4340
+[MACD] -10.5713
+[Signal Line] -0.0888889
+==>BUY 1 for 4340euros
+
+--Day 145--
+[Capital] 8264
+[Stock]	4282
+[MACD] -19.5298
+[Signal Line] -5.11111
+
+--Day 146--
+[Capital] 8264
+[Stock]	4278
+[MACD] -25.4604
+[Signal Line] -10.1333
+
+--Day 147--
+[Capital] 8264
+[Stock]	4315
+[MACD] -26.0059
+[Signal Line] -14.3556
+
+--Day 148--
+[Capital] 8264
+[Stock]	4290
+[MACD] -26.5786
+[Signal Line] -17.8
+
 --Day 149--
-[Capital] 50619
-[Stock]	2058
-[MACD] 30.7123
-[Signal Line] 22.7778
+[Capital] 8264
+[Stock]	4322
+[MACD] -23.8521
+[Signal Line] -19.9778
 
 --Day 150--
-[Capital] 50619
-[Stock]	2091
-[MACD] 34.7136
-[Signal Line] 25.8667
+[Capital] 8264
+[Stock]	4365
+[MACD] -18.5986
+[Signal Line] -20.5778
+==>SELL 231 for 1008315euros
 
 --Day 151--
-[Capital] 50619
-[Stock]	2086
-[MACD] 37.0869
-[Signal Line] 28.9333
-
---Day 152--
-[Capital] 50619
-[Stock]	2094
-[MACD] 38.9673
-[Signal Line] 31.5333
-
---Day 153--
-[Capital] 50619
-[Stock]	2090
-[MACD] 39.1838
-[Signal Line] 33.7556
-
---Day 154--
-[Capital] 50619
-[Stock]	2100
-[MACD] 39.1426
-[Signal Line] 35.4889
-
---Day 155--
-[Capital] 50619
-[Stock]	2118
-[MACD] 39.5315
-[Signal Line] 36.8
-
---Day 156--
-[Capital] 50619
-[Stock]	2121
-[MACD] 39.5427
-[Signal Line] 37.7333
-
---Day 157--
-[Capital] 50619
-[Stock]	2122
-[MACD] 39.2351
-[Signal Line] 38.3556
-
---Day 158--
-[Capital] 50619
-[Stock]	2132
-[MACD] 39.0642
-[Signal Line] 38.7333
-
---Day 159--
-[Capital] 50619
-[Stock]	2061
-[MACD] 32.292
-[Signal Line] 37.5111
-==>BUY 24 for 49464€
-
---Day 160--
-[Capital] 1080
-[Stock]	2097
-[MACD] 28.4033
-[Signal Line] 35.5333
-
---Day 161--
-[Capital] 1080
-[Stock]	2084
-[MACD] 23.2637
-[Signal Line] 32.7556
-
---Day 162--
-[Capital] 1080
-[Stock]	2116
-[MACD] 20.7021
-[Signal Line] 29.7111
-
---Day 163--
-[Capital] 1080
-[Stock]	2148
-[MACD] 20.8633
-[Signal Line] 27.0889
-
---Day 164--
-[Capital] 1080
-[Stock]	2137
-[MACD] 19.8589
-[Signal Line] 24.6889
-
---Day 165--
-[Capital] 1080
-[Stock]	2149
-[MACD] 19.7708
-[Signal Line] 22.7333
-
---Day 166--
-[Capital] 1080
-[Stock]	2093
-[MACD] 14.9858
-[Signal Line] 20.2222
-
---Day 167--
-[Capital] 1080
-[Stock]	2127
-[MACD] 13.3989
-[Signal Line] 18.0667
-
---Day 168--
-[Capital] 1080
-[Stock]	2152
-[MACD] 14.1411
-[Signal Line] 16.6889
-
---Day 169--
-[Capital] 1080
-[Stock]	2170
-[MACD] 16.4004
-[Signal Line] 16.1111
-==>SELL 24 for 52080€
-
---Day 170--
-[Capital] 53081
-[Stock]	2190
-[MACD] 20.0186
-[Signal Line] 16.6
-
---Day 171--
-[Capital] 53081
-[Stock]	2211
-[MACD] 24.97
-[Signal Line] 17.9556
-
---Day 172--
-[Capital] 53081
-[Stock]	2195
-[MACD] 27.2322
-[Signal Line] 19.8222
-
---Day 173--
-[Capital] 53081
-[Stock]	2192
-[MACD] 28.4858
-[Signal Line] 21.7333
-
---Day 174--
-[Capital] 53081
-[Stock]	1965
-[MACD] 10.6653
-[Signal Line] 19.8444
-
---Day 175--
-[Capital] 53081
-[Stock]	1911
-[MACD] -9.77197
-[Signal Line] 14.3556
-==>BUY 27 for 51597€
-
---Day 176--
-[Capital] 1406
-[Stock]	1884
-[MACD] -29.7434
-[Signal Line] 5.37778
-
---Day 177--
-[Capital] 1406
-[Stock]	1889
-[MACD] -46.6624
-[Signal Line] -6.06667
-
---Day 178--
-[Capital] 1406
-[Stock]	1877
-[MACD] -61.7662
+[Capital] 1015066
+[Stock]	4408
+[MACD] -10.9829
 [Signal Line] -19.1778
 
+--Day 152--
+[Capital] 1015066
+[Stock]	4335
+[MACD] -9.96191
+[Signal Line] -17.3778
+
+--Day 153--
+[Capital] 1015066
+[Stock]	4300
+[MACD] -11.3716
+[Signal Line] -15.8889
+
+--Day 154--
+[Capital] 1015066
+[Stock]	4252
+[MACD] -16.1011
+[Signal Line] -15.3778
+==>BUY 119 for 505988euros
+
+--Day 155--
+[Capital] 508319
+[Stock]	4212
+[MACD] -22.4932
+[Signal Line] -16.1333
+==>BUY 60 for 252720euros
+
+--Day 156--
+[Capital] 255219
+[Stock]	4255
+[MACD] -23.8052
+[Signal Line] -17.1556
+==>BUY 29 for 123395euros
+
+--Day 157--
+[Capital] 131638
+[Stock]	4180
+[MACD] -30.3232
+[Signal Line] -19.6444
+==>BUY 15 for 62700euros
+
+--Day 158--
+[Capital] 68843
+[Stock]	4216
+[MACD] -33.2065
+[Signal Line] -22.6444
+==>BUY 8 for 33728euros
+
+--Day 159--
+[Capital] 35064
+[Stock]	4203
+[MACD] -36.8701
+[Signal Line] -26.0222
+==>BUY 4 for 16812euros
+
+--Day 160--
+[Capital] 18226
+[Stock]	4257
+[MACD] -35.8301
+[Signal Line] -28.8
+==>BUY 2 for 8514euros
+
+--Day 161--
+[Capital] 9699
+[Stock]	4212
+[MACD] -38.6494
+[Signal Line] -31.6222
+==>BUY 1 for 4212euros
+
+--Day 162--
+[Capital] 5480
+[Stock]	4131
+[MACD] -47.2554
+[Signal Line] -35.6
+
+--Day 163--
+[Capital] 5480
+[Stock]	4090
+[MACD] -56.7549
+[Signal Line] -40.5778
+
+--Day 164--
+[Capital] 5480
+[Stock]	4062
+[MACD] -64.8506
+[Signal Line] -46.2667
+
+--Day 165--
+[Capital] 5480
+[Stock]	4159
+[MACD] -62.2861
+[Signal Line] -50.6222
+
+--Day 166--
+[Capital] 5480
+[Stock]	4145
+[MACD] -59.5327
+[Signal Line] -53.5111
+
+--Day 167--
+[Capital] 5480
+[Stock]	4270
+[MACD] -46.0825
+[Signal Line] -53.1556
+==>SELL 238 for 1016260euros
+
+--Day 168--
+[Capital] 1020215
+[Stock]	4215
+[MACD] -38.0024
+[Signal Line] -50.9111
+
+--Day 169--
+[Capital] 1020215
+[Stock]	4186
+[MACD] -32.208
+[Signal Line] -47.4222
+
+--Day 170--
+[Capital] 1020215
+[Stock]	4190
+[MACD] -26.6724
+[Signal Line] -42.8
+
+--Day 171--
+[Capital] 1020215
+[Stock]	4234
+[MACD] -17.7207
+[Signal Line] -36.6444
+
+--Day 172--
+[Capital] 1020215
+[Stock]	4208
+[MACD] -11.3774
+[Signal Line] -29.9556
+
+--Day 173--
+[Capital] 1020215
+[Stock]	4214
+[MACD] -4.12646
+[Signal Line] -22.8667
+
+--Day 174--
+[Capital] 1020215
+[Stock]	4212
+[MACD] 2.65137
+[Signal Line] -15.9111
+
+--Day 175--
+[Capital] 1020215
+[Stock]	4248
+[MACD] 11.0396
+[Signal Line] -8.57778
+
+--Day 176--
+[Capital] 1020215
+[Stock]	4212
+[MACD] 14.3203
+[Signal Line] -2.2
+
+--Day 177--
+[Capital] 1020215
+[Stock]	4240
+[MACD] 17.4756
+[Signal Line] 3.44444
+
+--Day 178--
+[Capital] 1020215
+[Stock]	4262
+[MACD] 20.8687
+[Signal Line] 8.46667
+
 --Day 179--
-[Capital] 1406
-[Stock]	1863
-[MACD] -75.8362
-[Signal Line] -33.3778
+[Capital] 1020215
+[Stock]	4297
+[MACD] 25.3462
+[Signal Line] 13.3333
 
 --Day 180--
-[Capital] 1406
-[Stock]	1885
-[MACD] -85.4131
-[Signal Line] -47.4667
+[Capital] 1020215
+[Stock]	4328
+[MACD] 31.9419
+[Signal Line] 18.2667
 
 --Day 181--
-[Capital] 1406
-[Stock]	1873
-[MACD] -93.1367
-[Signal Line] -60.7333
+[Capital] 1020215
+[Stock]	4360
+[MACD] 39.8574
+[Signal Line] 23.7333
 
 --Day 182--
-[Capital] 1406
-[Stock]	1857
-[MACD] -99.0271
-[Signal Line] -72.5333
+[Capital] 1020215
+[Stock]	4340
+[MACD] 44.3691
+[Signal Line] 29.0889
 
 --Day 183--
-[Capital] 1406
-[Stock]	1839
-[MACD] -102.836
-[Signal Line] -82.1111
+[Capital] 1020215
+[Stock]	4332
+[MACD] 46.5615
+[Signal Line] 33.7778
 
 --Day 184--
-[Capital] 1406
-[Stock]	1851
-[MACD] -101.725
-[Signal Line] -89
+[Capital] 1020215
+[Stock]	4288
+[MACD] 44.4204
+[Signal Line] 37.0889
 
 --Day 185--
-[Capital] 1406
-[Stock]	1862
-[MACD] -96.1268
-[Signal Line] -92.8444
+[Capital] 1020215
+[Stock]	4292
+[MACD] 41.7773
+[Signal Line] 39.0667
 
 --Day 186--
-[Capital] 1406
-[Stock]	1867
-[MACD] -86.4658
-[Signal Line] -93.2
-==>SELL 27 for 50409€
+[Capital] 1020215
+[Stock]	4325
+[MACD] 41.0215
+[Signal Line] 40.4444
 
 --Day 187--
-[Capital] 51739
-[Stock]	1849
-[MACD] -77.6396
-[Signal Line] -90.8667
+[Capital] 1020215
+[Stock]	4283
+[MACD] 35.6597
+[Signal Line] 40.0889
+==>BUY 119 for 509677euros
 
 --Day 188--
-[Capital] 51739
-[Stock]	1863
-[MACD] -67.5713
-[Signal Line] -86.1778
+[Capital] 509773
+[Stock]	4238
+[MACD] 26.4614
+[Signal Line] 37.6
+==>BUY 60 for 254280euros
 
 --Day 189--
-[Capital] 51739
-[Stock]	1853
-[MACD] -58.7521
-[Signal Line] -79.8667
+[Capital] 255111
+[Stock]	4240
+[MACD] 17.3945
+[Signal Line] 33.2889
+==>BUY 30 for 127200euros
 
 --Day 190--
-[Capital] 51739
-[Stock]	1836
-[MACD] -51.6681
-[Signal Line] -72.7556
+[Capital] 127720
+[Stock]	4268
+[MACD] 10.9883
+[Signal Line] 27.8889
+==>BUY 14 for 59752euros
 
 --Day 191--
-[Capital] 51739
-[Stock]	1817
-[MACD] -46.4316
-[Signal Line] -65.5778
+[Capital] 67878
+[Stock]	4250
+[MACD] 3.65674
+[Signal Line] 21.7333
+==>BUY 7 for 29750euros
 
 --Day 192--
-[Capital] 51739
-[Stock]	1811
-[MACD] -42.0299
-[Signal Line] -58.7778
+[Capital] 38083
+[Stock]	4220
+[MACD] -5.20654
+[Signal Line] 14.8889
+==>BUY 4 for 16880euros
 
 --Day 193--
-[Capital] 51739
-[Stock]	1804
-[MACD] -38.0413
-[Signal Line] -52.5111
+[Capital] 21177
+[Stock]	4250
+[MACD] -10.0786
+[Signal Line] 8.17778
+==>BUY 2 for 8500euros
 
 --Day 194--
-[Capital] 51739
-[Stock]	1781
-[MACD] -35.9231
-[Signal Line] -47.0444
+[Capital] 12664
+[Stock]	4250
+[MACD] -13.5967
+[Signal Line] 2.06667
+==>BUY 1 for 4250euros
 
 --Day 195--
-[Capital] 51739
-[Stock]	1781
-[MACD] -33.8875
-[Signal Line] -42.5333
+[Capital] 8407
+[Stock]	4288
+[MACD] -12.8306
+[Signal Line] -2.64444
 
 --Day 196--
-[Capital] 51739
-[Stock]	1731
-[MACD] -36.2052
-[Signal Line] -39.8
+[Capital] 8407
+[Stock]	4250
+[MACD] -14.2407
+[Signal Line] -6.57778
 
 --Day 197--
-[Capital] 51739
-[Stock]	1733
-[MACD] -38.1324
-[Signal Line] -38.3778
+[Capital] 8407
+[Stock]	4276
+[MACD] -12.9189
+[Signal Line] -9.02222
 
 --Day 198--
-[Capital] 51739
-[Stock]	1713
-[MACD] -41.3633
-[Signal Line] -38.2
-==>BUY 30 for 51390€
+[Capital] 8407
+[Stock]	4245
+[MACD] -13.7446
+[Signal Line] -10.8222
 
 --Day 199--
-[Capital] 271
-[Stock]	1735
-[MACD] -42.2379
-[Signal Line] -38.6
+[Capital] 8407
+[Stock]	4338
+[MACD] -6.02148
+[Signal Line] -10.5556
+==>SELL 237 for 1028106euros
 
 --Day 200--
-[Capital] 271
-[Stock]	1734
-[MACD] -43.0328
-[Signal Line] -39.4
+[Capital] 1034970
+[Stock]	4306
+[MACD] -1.20215
+[Signal Line] -8.93333
 
 --Day 201--
-[Capital] 271
-[Stock]	1742
-[MACD] -42.1937
-[Signal Line] -40.0667
+[Capital] 1034970
+[Stock]	4292
+[MACD] 1.896
+[Signal Line] -6.82222
 
 --Day 202--
-[Capital] 271
-[Stock]	1742
-[MACD] -40.4131
-[Signal Line] -40.3333
+[Capital] 1034970
+[Stock]	4265
+[MACD] 2.29932
+[Signal Line] -4.64444
 
 --Day 203--
-[Capital] 271
-[Stock]	1762
-[MACD] -36.2365
-[Signal Line] -39.7556
-==>SELL 30 for 52860€
+[Capital] 1034970
+[Stock]	4255
+[MACD] 2.09375
+[Signal Line] -2.73333
 
 --Day 204--
-[Capital] 53051
-[Stock]	1738
-[MACD] -33.6311
-[Signal Line] -38.5556
+[Capital] 1034970
+[Stock]	4295
+[MACD] 5.05859
+[Signal Line] -0.555556
 
 --Day 205--
-[Capital] 53051
-[Stock]	1736
-[MACD] -30.6453
-[Signal Line] -36.7556
+[Capital] 1034970
+[Stock]	4250
+[MACD] 3.56543
+[Signal Line] 0.844444
 
 --Day 206--
-[Capital] 53051
-[Stock]	1721
-[MACD] -28.3462
-[Signal Line] -34.6889
+[Capital] 1034970
+[Stock]	4255
+[MACD] 2.3374
+[Signal Line] 1.66667
 
 --Day 207--
-[Capital] 53051
-[Stock]	1758
-[MACD] -22.7935
-[Signal Line] -31.6444
+[Capital] 1034970
+[Stock]	4245
+[MACD] 0.0400391
+[Signal Line] 1.77778
+==>BUY 121 for 513645euros
 
 --Day 208--
-[Capital] 53051
-[Stock]	1732
-[MACD] -19.3477
-[Signal Line] -28.4222
+[Capital] 520554
+[Stock]	4245
+[MACD] -2.03418
+[Signal Line] 1.2
+==>BUY 61 for 258945euros
 
 --Day 209--
-[Capital] 53051
-[Stock]	1729
-[MACD] -16.51
-[Signal Line] -25.1111
+[Capital] 261220
+[Stock]	4235
+[MACD] -5.11279
+[Signal Line] -0.0666667
+==>BUY 30 for 127050euros
 
 --Day 210--
-[Capital] 53051
-[Stock]	1701
-[MACD] -16.1681
-[Signal Line] -22.4
+[Capital] 133979
+[Stock]	4258
+[MACD] -6.10693
+[Signal Line] -1.44444
+==>BUY 15 for 63870euros
 
 --Day 211--
-[Capital] 53051
-[Stock]	1716
-[MACD] -14.9031
-[Signal Line] -19.8667
+[Capital] 70013
+[Stock]	4191
+[MACD] -12.6982
+[Signal Line] -3.86667
+==>BUY 8 for 33528euros
 
 --Day 212--
-[Capital] 53051
-[Stock]	1744
-[MACD] -11.5769
-[Signal Line] -17.3111
+[Capital] 36434
+[Stock]	4178
+[MACD] -18.7295
+[Signal Line] -7.17778
+==>BUY 4 for 16712euros
 
 --Day 213--
-[Capital] 53051
-[Stock]	1816
-[MACD] -2.98572
-[Signal Line] -13.5111
+[Capital] 19696
+[Stock]	4124
+[MACD] -27.8462
+[Signal Line] -11.8444
+==>BUY 2 for 8248euros
 
 --Day 214--
-[Capital] 53051
-[Stock]	1797
-[MACD] 3.047
-[Signal Line] -9.4
+[Capital] 11435
+[Stock]	4132
+[MACD] -34.6235
+[Signal Line] -17.2
+==>BUY 1 for 4132euros
 
 --Day 215--
-[Capital] 53051
-[Stock]	1771
-[MACD] 6.11255
-[Signal Line] -5.42222
+[Capital] 7296
+[Stock]	4162
+[MACD] -37.6055
+[Signal Line] -22.3333
 
 --Day 216--
-[Capital] 53051
-[Stock]	1750
-[MACD] 7.15393
-[Signal Line] -2
+[Capital] 7296
+[Stock]	4088
+[MACD] -45.52
+[Signal Line] -28.2
 
 --Day 217--
-[Capital] 53051
-[Stock]	1750
-[MACD] 7.79626
-[Signal Line] 0.777778
+[Capital] 7296
+[Stock]	4090
+[MACD] -51.1338
+[Signal Line] -34.2667
 
 --Day 218--
-[Capital] 53051
-[Stock]	1715
-[MACD] 5.27637
-[Signal Line] 2.57778
+[Capital] 7296
+[Stock]	4102
+[MACD] -54.1953
+[Signal Line] -39.8444
 
 --Day 219--
-[Capital] 53051
-[Stock]	1719
-[MACD] 2.87891
-[Signal Line] 3.31111
-==>BUY 30 for 51570€
+[Capital] 7296
+[Stock]	4155
+[MACD] -51.4033
+[Signal Line] -43.7333
 
 --Day 220--
-[Capital] 1403
-[Stock]	1688
-[MACD] -1.73364
-[Signal Line] 3.04444
+[Capital] 7296
+[Stock]	4151
+[MACD] -48.0474
+[Signal Line] -46.0222
 
 --Day 221--
-[Capital] 1403
-[Stock]	1665
-[MACD] -7.88171
-[Signal Line] 1.28889
+[Capital] 7296
+[Stock]	4130
+[MACD] -45.4429
+[Signal Line] -46.9111
+==>SELL 242 for 999460euros
 
 --Day 222--
-[Capital] 1403
-[Stock]	1690
-[MACD] -11.5455
-[Signal Line] -1.35556
+[Capital] 1005256
+[Stock]	4114
+[MACD] -43.2192
+[Signal Line] -46.8
 
 --Day 223--
-[Capital] 1403
-[Stock]	1694
-[MACD] -14.8661
-[Signal Line] -4.4
+[Capital] 1005256
+[Stock]	4018
+[MACD] -47.1953
+[Signal Line] -47.1333
+==>BUY 125 for 502250euros
 
 --Day 224--
-[Capital] 1403
-[Stock]	1693
-[MACD] -18.0955
-[Signal Line] -7.86667
+[Capital] 502252
+[Stock]	4108
+[MACD] -42.5088
+[Signal Line] -46.1778
+==>SELL 125 for 513500euros
 
 --Day 225--
-[Capital] 1403
-[Stock]	1721
-[MACD] -18.4944
-[Signal Line] -10.8
+[Capital] 1014981
+[Stock]	4102
+[MACD] -37.7935
+[Signal Line] -44.1111
 
 --Day 226--
-[Capital] 1403
-[Stock]	1760
-[MACD] -14.604
-[Signal Line] -12.3778
+[Capital] 1014981
+[Stock]	4105
+[MACD] -33.2295
+[Signal Line] -41.4222
 
 --Day 227--
-[Capital] 1403
-[Stock]	1720
-[MACD] -13.3561
-[Signal Line] -13.2889
+[Capital] 1014981
+[Stock]	4079
+[MACD] -30.9658
+[Signal Line] -38.5333
 
 --Day 228--
-[Capital] 1403
-[Stock]	1732
-[MACD] -10.5599
-[Signal Line] -13.2
-==>SELL 30 for 51960€
+[Capital] 1014981
+[Stock]	4068
+[MACD] -29.1226
+[Signal Line] -35.9778
 
 --Day 229--
-[Capital] 53285
-[Stock]	1751
-[MACD] -6.04565
-[Signal Line] -12.0444
+[Capital] 1014981
+[Stock]	4059
+[MACD] -28.302
+[Signal Line] -33.7111
 
 --Day 230--
-[Capital] 53285
-[Stock]	1753
-[MACD] -1.41589
-[Signal Line] -9.77778
+[Capital] 1014981
+[Stock]	4080
+[MACD] -25.9673
+[Signal Line] -31.2889
 
 --Day 231--
-[Capital] 53285
-[Stock]	1737
-[MACD] 1.49292
-[Signal Line] -7.24444
+[Capital] 1014981
+[Stock]	4118
+[MACD] -20.9314
+[Signal Line] -28.3111
 
 --Day 232--
-[Capital] 53285
-[Stock]	1748
-[MACD] 5.05127
-[Signal Line] -4.17778
+[Capital] 1014981
+[Stock]	4120
+[MACD] -15.6379
+[Signal Line] -24.8444
 
 --Day 233--
-[Capital] 53285
-[Stock]	1763
-[MACD] 9.11401
-[Signal Line] -0.733333
+[Capital] 1014981
+[Stock]	4146
+[MACD] -8.25781
+[Signal Line] -20.6889
 
 --Day 234--
-[Capital] 53285
-[Stock]	1753
-[MACD] 11.1368
-[Signal Line] 2.51111
+[Capital] 1014981
+[Stock]	4050
+[MACD] -9.02271
+[Signal Line] -17.4889
 
 --Day 235--
-[Capital] 53285
-[Stock]	1765
-[MACD] 13.369
-[Signal Line] 5.51111
+[Capital] 1014981
+[Stock]	4050
+[MACD] -9.52271
+[Signal Line] -14.9111
 
 --Day 236--
-[Capital] 53285
-[Stock]	1782
-[MACD] 16.1495
-[Signal Line] 8.51111
+[Capital] 1014981
+[Stock]	4090
+[MACD] -7.76904
+[Signal Line] -12.4667
 
 --Day 237--
-[Capital] 53285
-[Stock]	1696
-[MACD] 11.1595
-[Signal Line] 9.86667
+[Capital] 1014981
+[Stock]	4003
+[MACD] -13.2036
+[Signal Line] -11.7333
+==>BUY 126 for 504378euros
 
 --Day 238--
-[Capital] 53285
-[Stock]	1686
-[MACD] 5.63525
-[Signal Line] 9.55556
-==>BUY 31 for 52266€
+[Capital] 509846
+[Stock]	3976
+[MACD] -20.0583
+[Signal Line] -12.7556
+==>BUY 64 for 254464euros
 
 --Day 239--
-[Capital] 940
-[Stock]	1682
-[MACD] 0.575439
-[Signal Line] 8
+[Capital] 255000
+[Stock]	3980
+[MACD] -25.5159
+[Signal Line] -14.9556
+==>BUY 32 for 127360euros
 
 --Day 240--
-[Capital] 940
-[Stock]	1650
-[MACD] -6.93152
-[Signal Line] 5.22222
+[Capital] 127448
+[Stock]	3925
+[MACD] -34.5015
+[Signal Line] -18.9556
+==>BUY 16 for 62800euros
 
 --Day 241--
-[Capital] 940
-[Stock]	1664
-[MACD] -12.6895
-[Signal Line] 1.4
+[Capital] 64553
+[Stock]	3935
+[MACD] -41.4458
+[Signal Line] -24.0444
+==>BUY 8 for 31480euros
 
 --Day 242--
-[Capital] 940
-[Stock]	1675
-[MACD] -16.7593
-[Signal Line] -2.84444
+[Capital] 33025
+[Stock]	3950
+[MACD] -46.2507
+[Signal Line] -29.5556
+==>BUY 4 for 15800euros
 
 --Day 243--
-[Capital] 940
-[Stock]	1668
-[MACD] -20.6012
-[Signal Line] -7.33333
+[Capital] 17201
+[Stock]	3982
+[MACD] -47.2295
+[Signal Line] -34.4222
+==>BUY 2 for 7964euros
 
 --Day 244--
-[Capital] 940
-[Stock]	1641
-[MACD] -25.9458
-[Signal Line] -12.1333
+[Capital] 9225
+[Stock]	3996
+[MACD] -45.6553
+[Signal Line] -38.0444
+==>BUY 1 for 3996euros
 
 --Day 245--
-[Capital] 940
-[Stock]	1640
-[MACD] -30.2094
-[Signal Line] -17.0889
+[Capital] 5223
+[Stock]	4042
+[MACD] -39.124
+[Signal Line] -39.6667
+==>SELL 253 for 1022626euros
 
 --Day 246--
-[Capital] 940
-[Stock]	1615
-[MACD] -35.1154
-[Signal Line] -22.0222
+[Capital] 1026315
+[Stock]	4000
+[MACD] -34.9316
+[Signal Line] -39.5778
 
 --Day 247--
-[Capital] 940
-[Stock]	1616
-[MACD] -38.3804
-[Signal Line] -26.5333
+[Capital] 1026315
+[Stock]	4020
+[MACD] -28.9329
+[Signal Line] -37.8222
 
 --Day 248--
-[Capital] 940
-[Stock]	1646
-[MACD] -37.4816
-[Signal Line] -29.8889
+[Capital] 1026315
+[Stock]	4069
+[MACD] -18.9543
+[Signal Line] -33.8889
 
 --Day 249--
-[Capital] 940
-[Stock]	1659
-[MACD] -33.9274
-[Signal Line] -31.6222
+[Capital] 1026315
+[Stock]	4090
+[MACD] -7.15967
+[Signal Line] -27.9111
 
 --Day 250--
-[Capital] 940
-[Stock]	1676
-[MACD] -28.6425
-[Signal Line] -31.7556
-==>SELL 31 for 51956€
+[Capital] 1026315
+[Stock]	4025
+[MACD] -1.46021
+[Signal Line] -21.3333
 
 --Day 251--
-[Capital] 52818
-[Stock]	1631
-[MACD] -26.8676
-[Signal Line] -31.1333
+[Capital] 1026315
+[Stock]	4012
+[MACD] 2.33765
+[Signal Line] -15.0444
 
 --Day 252--
-[Capital] 52818
-[Stock]	1614
-[MACD] -26.0513
-[Signal Line] -30.2889
+[Capital] 1026315
+[Stock]	4030
+[MACD] 6.90454
+[Signal Line] -9.02222
 
 --Day 253--
-[Capital] 52818
-[Stock]	1604
-[MACD] -25.9872
-[Signal Line] -29.1111
+[Capital] 1026315
+[Stock]	4048
+[MACD] 11.3477
+[Signal Line] -3.17778
 
 --Day 254--
+[Capital] 1026315
+[Stock]	4062
+[MACD] 15.3704
+[Signal Line] 2.22222
 
+--Day 255--
+[Capital] 1026315
+[Stock]	4050
+[MACD] 16.9829
+[Signal Line] 6.62222
+
+--Day 256--
+[Capital] 1026315
+[Stock]	4060
+[MACD] 18.4956
+[Signal Line] 10.3111
+
+--Day 257--
+[Capital] 1026315
+[Stock]	4104
+[MACD] 22.6411
+[Signal Line] 13.7778
+
+--Day 258--
+[Capital] 1026315
+[Stock]	4160
+[MACD] 30.4187
+[Signal Line] 17.9556
+
+--Day 259--
+[Capital] 1026315
+[Stock]	4200
+[MACD] 39.4502
+[Signal Line] 23.1111
+
+--Day 260--
+[Capital] 1026315
+[Stock]	4166
+[MACD] 43.6155
+[Signal Line] 28.1778
+
+--Day 261--
+[Capital] 1026315
+[Stock]	4108
+[MACD] 42.2407
+[Signal Line] 32.1333
+
+--Day 262--
+[Capital] 1026315
+[Stock]	4138
+[MACD] 43.1938
+[Signal Line] 35.4889
+
+--Day 263--
+[Capital] 1026315
+[Stock]	4194
+[MACD] 47.302
+[Signal Line] 38.9333
+
+--Day 264--
+[Capital] 1026315
+[Stock]	4242
+[MACD] 53.4502
+[Signal Line] 42.8667
+
+--Day 265--
+[Capital] 1026315
+[Stock]	4222
+[MACD] 56.0425
+[Signal Line] 46.5778
+
+--Day 266--
+[Capital] 1026315
+[Stock]	4075
+[MACD] 45.3677
+[Signal Line] 47.2444
+==>BUY 125 for 509375euros
+
+--Day 267--
+[Capital] 516175
+[Stock]	4000
+[MACD] 28.9702
+[Signal Line] 44
+==>BUY 64 for 256000euros
+
+--Day 268--
+[Capital] 259791
+[Stock]	4055
+[MACD] 17.7861
+[Signal Line] 38.6
+==>BUY 32 for 129760euros
+
+--Day 269--
+[Capital] 129836
+[Stock]	4052
+[MACD] 6.72607
+[Signal Line] 31.4889
+==>BUY 16 for 64832euros
+
+--Day 270--
+[Capital] 64906
+[Stock]	4038
+[MACD] -4.58398
+[Signal Line] 23.2
+==>BUY 8 for 32304euros
+
+--Day 271--
+[Capital] 32553
+[Stock]	4015
+[MACD] -16.0454
+[Signal Line] 13.5333
+==>BUY 4 for 16060euros
+
+--Day 272--
+[Capital] 16468
+[Stock]	3976
+[MACD] -28.3235
+[Signal Line] 2.77778
+==>BUY 2 for 7952euros
+
+--Day 273--
+[Capital] 8504
+[Stock]	3954
+[MACD] -39.9888
+[Signal Line] -8.51111
+==>BUY 1 for 3954euros
+
+--Day 274--
+[Capital] 4544
+[Stock]	3938
+[MACD] -51.1438
+[Signal Line] -20.1556
+
+--Day 275--
+[Capital] 4544
+[Stock]	3908
+[MACD] -62.5012
+[Signal Line] -31.6222
+
+--Day 276--
+[Capital] 4544
+[Stock]	3930
+[MACD] -68.9558
+[Signal Line] -41.9111
+
+--Day 277--
+[Capital] 4544
+[Stock]	3920
+[MACD] -72.4788
+[Signal Line] -50.8667
+
+--Day 278--
+[Capital] 4544
+[Stock]	3900
+[MACD] -73.9873
+[Signal Line] -58.0444
+
+--Day 279--
+[Capital] 4544
+[Stock]	3944
+[MACD] -70.1125
+[Signal Line] -62.8667
+
+--Day 280--
+[Capital] 4544
+[Stock]	3945
+[MACD] -65.7363
+[Signal Line] -65.2222
+
+--Day 281--
+[Capital] 4544
+[Stock]	3918
+[MACD] -62.4375
+[Signal Line] -65.8889
+==>SELL 252 for 987336euros
+
+--Day 282--
+[Capital] 990398
+[Stock]	3980
+[MACD] -52.8506
+[Signal Line] -63.8
+
+--Day 283--
+[Capital] 990398
+[Stock]	4000
+[MACD] -41.1523
+[Signal Line] -59.2222
+
+--Day 284--
+[Capital] 990398
+[Stock]	4008
+[MACD] -28.9204
+[Signal Line] -52.2667
+
+--Day 285--
+[Capital] 990398
+[Stock]	4000
+[MACD] -18.1697
+[Signal Line] -44.0667
+
+--Day 286--
+[Capital] 990398
+[Stock]	4022
+[MACD] -6.82324
+[Signal Line] -34.5778
+
+--Day 287--
+[Capital] 990398
+[Stock]	3959
+[MACD] -1.98999
+[Signal Line] -25.5556
+
+--Day 288--
+[Capital] 990398
+[Stock]	3981
+[MACD] 3.52002
+[Signal Line] -17.3333
+
+--Day 289--
+[Capital] 990398
+[Stock]	3950
+[MACD] 5.45581
+[Signal Line] -10.3333
+
+--Day 290--
+[Capital] 990398
+[Stock]	3940
+[MACD] 5.5144
+[Signal Line] -4.88889
+
+--Day 291--
+[Capital] 990398
+[Stock]	3882
+[MACD] -0.42749
+[Signal Line] -1.93333
+
+--Day 292--
+[Capital] 990398
+[Stock]	3925
+[MACD] -3.11255
+[Signal Line] -0.733333
+==>BUY 126 for 494550euros
+
+--Day 293--
+[Capital] 495106
+[Stock]	3914
+[MACD] -6.84595
+[Signal Line] -0.977778
+==>BUY 63 for 246582euros
+
+--Day 294--
+[Capital] 248154
+[Stock]	3918
+[MACD] -10.4543
+[Signal Line] -2.51111
+==>BUY 31 for 121458euros
+
+--Day 295--
+[Capital] 126513
+[Stock]	3863
+[MACD] -18.0457
+[Signal Line] -5.82222
+==>BUY 16 for 61808euros
+
+--Day 296--
+[Capital] 64612
+[Stock]	3830
+[MACD] -27.0513
+[Signal Line] -10.6667
+==>BUY 8 for 30640euros
+
+--Day 297--
+[Capital] 33926
+[Stock]	3822
+[MACD] -35.0056
+[Signal Line] -16.5333
+==>BUY 4 for 15288euros
+
+--Day 298--
+[Capital] 18615
+[Stock]	3850
+[MACD] -38.9941
+[Signal Line] -22.1556
+==>BUY 2 for 7700euros
+
+--Day 299--
+[Capital] 10903
+[Stock]	3872
+[MACD] -39.3818
+[Signal Line] -27.0222
+==>BUY 1 for 3872euros
+
+--Day 300--
+[Capital] 7025
+[Stock]	3898
+[MACD] -36.8135
+[Signal Line] -30.3111
+
+--Day 301--
+[Capital] 7025
+[Stock]	3888
+[MACD] -34.0925
+[Signal Line] -32.4
+
+--Day 302--
+[Capital] 7025
+[Stock]	3843
+[MACD] -34.2236
+[Signal Line] -33.8
+
+--Day 303--
+[Capital] 7025
+[Stock]	3836
+[MACD] -33.9175
+[Signal Line] -34.3778
+==>SELL 251 for 962836euros
+
+--Day 304--
+[Capital] 968416
+[Stock]	3848
+[MACD] -32.3035
+[Signal Line] -34.2444
+
+--Day 305--
+[Capital] 968416
+[Stock]	3838
+[MACD] -30.6479
+[Signal Line] -33.4
+
+--Day 306--
+[Capital] 968416
+[Stock]	3838
+[MACD] -28.3206
+[Signal Line] -32.0889
+
+--Day 307--
+[Capital] 968416
+[Stock]	3838
+[MACD] -25.2722
+[Signal Line] -30.3333
+
+--Day 308--
+[Capital] 968416
+[Stock]	3846
+[MACD] -21.4929
+[Signal Line] -28.0667
+
+--Day 309--
+[Capital] 968416
+[Stock]	3888
+[MACD] -14.9502
+[Signal Line] -24.8
+
+--Day 310--
+[Capital] 968416
+[Stock]	3992
+[MACD] -1.27637
+[Signal Line] -19.4222
+
+--Day 311--
+[Capital] 968416
+[Stock]	3990
+[MACD] 10.3718
+[Signal Line] -12.5778
+
+--Day 312--
+[Capital] 968416
+[Stock]	4038
+[MACD] 24.3079
+[Signal Line] -3.91111
+
+--Day 313--
+[Capital] 968416
+[Stock]	4050
+[MACD] 37.4517
+[Signal Line] 6.08889
+
+--Day 314--
+[Capital] 968416
+[Stock]	4062
+[MACD] 49.7351
+[Signal Line] 16.9556
+
+--Day 315--
+[Capital] 968416
+[Stock]	4048
+[MACD] 58.3247
+[Signal Line] 27.8667
+
+--Day 316--
+[Capital] 968416
+[Stock]	4040
+[MACD] 63.8374
+[Signal Line] 37.8667
+
+--Day 317--
+[Capital] 968416
+[Stock]	4100
+[MACD] 71.9602
+[Signal Line] 47.5111
+
+--Day 318--
+[Capital] 968416
+[Stock]	4121
+[MACD] 79.02
+[Signal Line] 56.7111
+
+--Day 319--
+[Capital] 968416
+[Stock]	4150
+[MACD] 85.3232
+[Signal Line] 65.0444
+
+--Day 320--
+[Capital] 968416
+[Stock]	4148
+[MACD] 88.1396
+[Signal Line] 72.0667
+
+--Day 321--
+[Capital] 968416
+[Stock]	4140
+[MACD] 87.1013
+[Signal Line] 77.1556
+
+--Day 322--
+[Capital] 968416
+[Stock]	4130
+[MACD] 82.8232
+[Signal Line] 79.8444
+
+--Day 323--
+[Capital] 968416
+[Stock]	4116
+[MACD] 76.5142
+[Signal Line] 80.3333
+==>BUY 117 for 481572euros
+
+--Day 324--
+[Capital] 486121
+[Stock]	4125
+[MACD] 70.1453
+[Signal Line] 79.0222
+==>BUY 58 for 239250euros
+
+--Day 325--
+[Capital] 246512
+[Stock]	4146
+[MACD] 65.1199
+[Signal Line] 76.4444
+==>BUY 29 for 120234euros
+
+--Day 326--
+[Capital] 126097
+[Stock]	4308
+[MACD] 72.5667
+[Signal Line] 75.2222
+==>BUY 14 for 60312euros
+
+--Day 327--
+[Capital] 65694
+[Stock]	4323
+[MACD] 79.2251
+[Signal Line] 75.3778
+==>SELL 218 for 942414euros
+
+--Day 328--
+[Capital] 1006694
+[Stock]	4298
+[MACD] 81.6025
+[Signal Line] 75.9333
+
+--Day 329--
+[Capital] 1006694
+[Stock]	4380
+[MACD] 88.5098
+[Signal Line] 77.9778
+
+--Day 330--
+[Capital] 1006694
+[Stock]	4405
+[MACD] 95.3721
+[Signal Line] 81.4222
+
+--Day 331--
+[Capital] 1006694
+[Stock]	4425
+[MACD] 101.775
+[Signal Line] 85.8889
+
+--Day 332--
+[Capital] 1006694
+[Stock]	4348
+[MACD] 100.183
+[Signal Line] 89.7333
+
+--Day 333--
+[Capital] 1006694
+[Stock]	4362
+[MACD] 98.5957
+[Signal Line] 92.6444
+
+--Day 334--
+[Capital] 1006694
+[Stock]	4385
+[MACD] 97.4897
+[Signal Line] 94.7333
+
+--Day 335--
+[Capital] 1006694
+[Stock]	4438
+[MACD] 98.8789
+[Signal Line] 96.3111
+
+--Day 336--
+[Capital] 1006694
+[Stock]	4437
+[MACD] 97.627
+[Signal Line] 97.1111
+
+--Day 337--
+[Capital] 1006694
+[Stock]	4385
+[MACD] 89.4946
+[Signal Line] 95.9111
+==>BUY 114 for 499890euros
+
+--Day 338--
+[Capital] 506054
+[Stock]	4420
+[MACD] 82.2153
+[Signal Line] 93.1333
+==>BUY 57 for 251940euros
+
+--Day 339--
+[Capital] 253736
+[Stock]	4425
+[MACD] 74.9873
+[Signal Line] 88.8889
+==>BUY 28 for 123900euros
+
+--Day 340--
+[Capital] 129650
+[Stock]	4417
+[MACD] 66.8818
+[Signal Line] 83.5111
+==>BUY 14 for 61838euros
+
+--Day 341--
+[Capital] 67719
+[Stock]	4475
+[MACD] 62.8887
+[Signal Line] 78.1111
+==>BUY 7 for 31325euros
+
+--Day 342--
+[Capital] 36347
+[Stock]	4480
+[MACD] 59.2935
+[Signal Line] 72.9556
+==>BUY 4 for 17920euros
+
+--Day 343--
+[Capital] 18400
+[Stock]	4500
+[MACD] 57.5854
+[Signal Line] 68.2667
+==>BUY 2 for 9000euros
+
+--Day 344--
+[Capital] 9386
+[Stock]	4492
+[MACD] 55.417
+[Signal Line] 64.0667
+==>BUY 1 for 4492euros
+
+--Day 345--
+[Capital] 4887
+[Stock]	4430
+[MACD] 47.5142
+[Signal Line] 59.2222
+
+--Day 346--
+[Capital] 4887
+[Stock]	4470
+[MACD] 42.7275
+[Signal Line] 54.4889
+
+--Day 347--
+[Capital] 4887
+[Stock]	4430
+[MACD] 34.5786
+[Signal Line] 49.2
+
+--Day 348--
+[Capital] 4887
+[Stock]	4478
+[MACD] 31.1865
+[Signal Line] 44.3778
+
+--Day 349--
+[Capital] 4887
+[Stock]	4570
+[MACD] 35.6001
+[Signal Line] 41.3111
+
+--Day 350--
+[Capital] 4887
+[Stock]	4652
+[MACD] 45.4756
+[Signal Line] 40.9333
+==>SELL 227 for 1056004euros
+
+--Day 351--
+[Capital] 1059306
+[Stock]	4648
+[MACD] 53.5601
+[Signal Line] 42.5333
+
+--Day 352--
+[Capital] 1059306
+[Stock]	4566
+[MACD] 53.6738
+[Signal Line] 44.2667
+
+--Day 353--
+[Capital] 1059306
+[Stock]	4590
+[MACD] 54.5269
+[Signal Line] 46.2889
+
+--Day 354--
+[Capital] 1059306
+[Stock]	4605
+[MACD] 55.8633
+[Signal Line] 48.5333
+
+--Day 355--
+[Capital] 1059306
+[Stock]	4540
+[MACD] 51.2861
+[Signal Line] 49.8
+
+--Day 356--
+[Capital] 1059306
+[Stock]	4650
+[MACD] 55.4272
+[Signal Line] 51.6667
+
+--Day 357--
+[Capital] 1059306
+[Stock]	4628
+[MACD] 56.4858
+[Signal Line] 53.2667
+
+--Day 358--
+[Capital] 1059306
+[Stock]	4643
+[MACD] 56.7808
+[Signal Line] 54.3111
+
+--Day 359--
+[Capital] 1059306
+[Stock]	4578
+[MACD] 50.5127
+[Signal Line] 53.6889
+==>BUY 115 for 526470euros
+
+--Day 360--
+[Capital] 532046
+[Stock]	4668
+[MACD] 50.1426
+[Signal Line] 52.9556
+==>BUY 56 for 261408euros
+
+--Day 361--
+[Capital] 270245
+[Stock]	4646
+[MACD] 46.3877
+[Signal Line] 51.4889
+==>BUY 29 for 134734euros
+
+--Day 362--
+[Capital] 135308
+[Stock]	4685
+[MACD] 45.3618
+[Signal Line] 49.9778
+==>BUY 14 for 65590euros
+
+--Day 363--
+[Capital] 69619
+[Stock]	4718
+[MACD] 47.252
+[Signal Line] 49.0667
+==>BUY 7 for 33026euros
+
+--Day 364--
+[Capital] 36543
+[Stock]	4735
+[MACD] 50.5498
+[Signal Line] 48.9333
+==>SELL 221 for 1046435euros
+
+--Day 365--
+[Capital] 1081408
+[Stock]	4792
+[MACD] 57.1255
+[Signal Line] 50.2222
+
+--Day 366--
+[Capital] 1081408
+[Stock]	4752
+[MACD] 58.9658
+[Signal Line] 51.6667
+
+--Day 367--
+[Capital] 1081408
+[Stock]	4775
+[MACD] 61.7104
+[Signal Line] 53.6667
+
+--Day 368--
+[Capital] 1081408
+[Stock]	4800
+[MACD] 64.292
+[Signal Line] 56.1556
+
+--Day 369--
+[Capital] 1081408
+[Stock]	4818
+[MACD] 67.2974
+[Signal Line] 58.9333
+
+--Day 370--
+[Capital] 1081408
+[Stock]	4826
+[MACD] 69.4116
+[Signal Line] 61.7333
+
+--Day 371--
+[Capital] 1081408
+[Stock]	4824
+[MACD] 69.9717
+[Signal Line] 64.0222
+
+--Day 372--
+[Capital] 1081408
+[Stock]	4760
+[MACD] 63.3945
+[Signal Line] 64.5778
+==>BUY 113 for 537880euros
+
+--Day 373--
+[Capital] 542721
+[Stock]	4832
+[MACD] 62.208
+[Signal Line] 64.5778
+==>BUY 56 for 270592euros
+
+--Day 374--
+[Capital] 271723
+[Stock]	4844
+[MACD] 60.7393
+[Signal Line] 63.9111
+==>BUY 28 for 135632euros
+
+--Day 375--
+[Capital] 135887
+[Stock]	4935
+[MACD] 65.5342
+[Signal Line] 64.1778
+==>SELL 197 for 972195euros
+
+--Day 376--
+[Capital] 1106623
+[Stock]	4850
+[MACD] 61.8062
+[Signal Line] 63.4889
+==>BUY 114 for 552900euros
+
+--Day 377--
+[Capital] 552893
+[Stock]	4894
+[MACD] 60.6777
+[Signal Line] 62.6
+==>BUY 56 for 274064euros
+
+--Day 378--
+[Capital] 278417
+[Stock]	4938
+[MACD] 62.4531
+[Signal Line] 62.2
+==>SELL 170 for 839460euros
+
+--Day 379--
+[Capital] 1116617
+[Stock]	4900
+[MACD] 59.8716
+[Signal Line] 61.3111
+==>BUY 113 for 553700euros
+
+--Day 380--
+[Capital] 562086
+[Stock]	4872
+[MACD] 54.3374
+[Signal Line] 59.6444
+==>BUY 57 for 277704euros
+
+--Day 381--
+[Capital] 283965
+[Stock]	4847
+[MACD] 46.6465
+[Signal Line] 56.7111
+==>BUY 29 for 140563euros
+
+--Day 382--
+[Capital] 143191
+[Stock]	4863
+[MACD] 40.7349
+[Signal Line] 52.9556
+==>BUY 14 for 68082euros
+
+--Day 383--
+[Capital] 75006
+[Stock]	4816
+[MACD] 31.2065
+[Signal Line] 47.8889
+==>BUY 7 for 33712euros
+
+--Day 384--
+[Capital] 41243
+[Stock]	4802
+[MACD] 21.1992
+[Signal Line] 41.4667
+==>BUY 4 for 19208euros
+
+--Day 385--
+[Capital] 22006
+[Stock]	4858
+[MACD] 15.5737
+[Signal Line] 34.8222
+==>BUY 2 for 9716euros
+
+--Day 386--
+[Capital] 12275
+[Stock]	4844
+[MACD] 9.29639
+[Signal Line] 28
+==>BUY 1 for 4844euros
+
+--Day 387--
+[Capital] 7423
+[Stock]	4809
+[MACD] 0.727539
+[Signal Line] 20.5111
+
+--Day 388--
+[Capital] 7423
+[Stock]	4850
+[MACD] -2.48975
+[Signal Line] 14
+
+--Day 389--
+[Capital] 7423
+[Stock]	4960
+[MACD] 3.53711
+[Signal Line] 9.84444
+
+--Day 390--
+[Capital] 7423
+[Stock]	4986
+[MACD] 11.4814
+[Signal Line] 8.42222
+==>SELL 227 for 1131822euros
+
+--Day 391--
+[Capital] 1137547
+[Stock]	4997
+[MACD] 20.4033
+[Signal Line] 9.57778
+
+--Day 392--
+[Capital] 1137547
+[Stock]	5012
+[MACD] 29.8618
+[Signal Line] 12.9778
+
+--Day 393--
+[Capital] 1137547
+[Stock]	4980
+[MACD] 35.7139
+[Signal Line] 17.6222
+
+--Day 394--
+[Capital] 1137547
+[Stock]	4960
+[MACD] 38.8491
+[Signal Line] 22.5556
+
+--Day 395--
+[Capital] 1137547
+[Stock]	4900
+[MACD] 36.4102
+[Signal Line] 26.5778
+
+--Day 396--
+[Capital] 1137547
+[Stock]	4884
+[MACD] 31.8521
+[Signal Line] 29
+
+--Day 397--
+[Capital] 1137547
+[Stock]	4905
+[MACD] 28.0825
+[Signal Line] 30.1333
+==>BUY 115 for 564075euros
+
+--Day 398--
+[Capital] 572625
+[Stock]	4925
+[MACD] 25.5371
+[Signal Line] 30
+==>BUY 58 for 285650euros
+
+--Day 399--
+[Capital] 286546
+[Stock]	4926
+[MACD] 22.5024
+[Signal Line] 28.7778
+==>BUY 29 for 142854euros
+
+--Day 400--
+[Capital] 143477
+[Stock]	4962
+[MACD] 21.1084
+[Signal Line] 27.1111
+==>BUY 14 for 69468euros
+
+--Day 401--
+[Capital] 73904
+[Stock]	4995
+[MACD] 21.2466
+[Signal Line] 25.4222
+==>BUY 7 for 34965euros
+
+--Day 402--
+[Capital] 38886
+[Stock]	4978
+[MACD] 19.751
+[Signal Line] 23.5111
+==>BUY 3 for 14934euros
+
+--Day 403--
+[Capital] 23929
+[Stock]	4975
+[MACD] 18.4829
+[Signal Line] 21.7556
+==>BUY 2 for 9950euros
+
+--Day 404--
+[Capital] 13964
+[Stock]	4990
+[MACD] 18.9243
+[Signal Line] 20.4444
+==>BUY 1 for 4990euros
+
+--Day 405--
+[Capital] 8966
+[Stock]	4991
+[MACD] 19.8765
+[Signal Line] 19.7333
+==>SELL 229 for 1142939euros
+
+--Day 406--
+[Capital] 1150190
+[Stock]	5000
+[MACD] 21.6641
+[Signal Line] 19.6889
+
+--Day 407--
+[Capital] 1150190
+[Stock]	5008
+[MACD] 23.9414
+[Signal Line] 20.2
+
+--Day 408--
+[Capital] 1150190
+[Stock]	4885
+[MACD] 15.4814
+[Signal Line] 19.1556
+==>BUY 117 for 571545euros
+
+--Day 409--
+[Capital] 577787
+[Stock]	4840
+[MACD] 3.48145
+[Signal Line] 15.8667
+==>BUY 59 for 285560euros
+
+--Day 410--
+[Capital] 291798
+[Stock]	4845
+[MACD] -7.21777
+[Signal Line] 10.9778
+==>BUY 30 for 145350euros
+
+--Day 411--
+[Capital] 146229
+[Stock]	4800
+[MACD] -20.3589
+[Signal Line] 4.11111
+==>BUY 15 for 72000euros
+
+--Day 412--
+[Capital] 74121
+[Stock]	4768
+[MACD] -34.6025
+[Signal Line] -4.68889
+==>BUY 7 for 33376euros
+
+--Day 413--
+[Capital] 40694
+[Stock]	4825
+[MACD] -42.0283
+[Signal Line] -13.9333
+==>BUY 4 for 19300euros
+
+--Day 414--
+[Capital] 21365
+[Stock]	4888
+[MACD] -42.2036
+[Signal Line] -21.8444
+==>BUY 2 for 9776euros
+
+--Day 415--
+[Capital] 11574
+[Stock]	4931
+[MACD] -37.6865
+[Signal Line] -27.4
+==>BUY 1 for 4931euros
+
+--Day 416--
+[Capital] 6635
+[Stock]	5050
+[MACD] -23.1948
+[Signal Line] -28.8667
+==>SELL 235 for 1186750euros
+
+--Day 417--
+[Capital] 1191604
+[Stock]	4980
+[MACD] -14.8745
+[Signal Line] -27.5111
+
+--Day 418--
+[Capital] 1191604
+[Stock]	4971
+[MACD] -7.17969
+[Signal Line] -24.1111
+
+--Day 419--
+[Capital] 1191604
+[Stock]	5093
+[MACD] 10.5029
+[Signal Line] -17.0889
+
+--Day 420--
+[Capital] 1191604
+[Stock]	5135
+[MACD] 30.7681
+[Signal Line] -6.44444
+
+--Day 421--
+[Capital] 1191604
+[Stock]	5154
+[MACD] 49.8418
+[Signal Line] 6.88889
+
+--Day 422--
+[Capital] 1191604
+[Stock]	5180
+[MACD] 67.688
+[Signal Line] 21.9778
+
+--Day 423--
+[Capital] 1191604
+[Stock]	5172
+[MACD] 81.4443
+[Signal Line] 37.4444
+
+--Day 424--
+[Capital] 1191604
+[Stock]	5260
+[MACD] 98.2124
+[Signal Line] 53.5778
+
+--Day 425--
+[Capital] 1191604
+[Stock]	5262
+[MACD] 109.787
+[Signal Line] 68.9111
+
+--Day 426--
+[Capital] 1191604
+[Stock]	5325
+[MACD] 121.741
+[Signal Line] 83.7111
+
+--Day 427--
+[Capital] 1191604
+[Stock]	5315
+[MACD] 128.329
+[Signal Line] 96.9111
+
+--Day 428--
+[Capital] 1191604
+[Stock]	5340
+[MACD] 132.9
+[Signal Line] 107.911
+
+--Day 429--
+[Capital] 1191604
+[Stock]	5345
+[MACD] 135.184
+[Signal Line] 116.8
+
+--Day 430--
+[Capital] 1191604
+[Stock]	5412
+[MACD] 139.187
+[Signal Line] 124.156
+
+--Day 431--
+[Capital] 1191604
+[Stock]	5445
+[MACD] 141.371
+[Signal Line] 129.911
+
+--Day 432--
+[Capital] 1191604
+[Stock]	5372
+[MACD] 134.512
+[Signal Line] 132.622
+
+--Day 433--
+[Capital] 1191604
+[Stock]	5238
+[MACD] 114.984
+[Signal Line] 130.156
+==>BUY 113 for 591894euros
+
+--Day 434--
+[Capital] 598822
+[Stock]	5155
+[MACD] 88.4146
+[Signal Line] 122.133
+==>BUY 58 for 298990euros
+
+--Day 435--
+[Capital] 299383
+[Stock]	5260
+[MACD] 71.3105
+[Signal Line] 111.178
+==>BUY 28 for 147280euros
+
+--Day 436--
+[Capital] 151882
+[Stock]	5194
+[MACD] 49.0103
+[Signal Line] 96.9333
+==>BUY 14 for 72716euros
+
+--Day 437--
+[Capital] 79056
+[Stock]	5148
+[MACD] 24.8804
+[Signal Line] 79.4444
+==>BUY 7 for 36036euros
+
+--Day 438--
+[Capital] 42965
+[Stock]	5246
+[MACD] 11.0215
+[Signal Line] 61.7556
+==>BUY 4 for 20984euros
+
+--Day 439--
+[Capital] 21949
+[Stock]	5260
+[MACD] 0.653809
+[Signal Line] 44.6222
+==>BUY 2 for 10520euros
+
+--Day 440--
+[Capital] 11413
+[Stock]	5268
+[MACD] -7.13086
+[Signal Line] 29.1778
+==>BUY 1 for 5268euros
+
+--Day 441--
+[Capital] 6137
+[Stock]	5285
+[MACD] -11.5542
+[Signal Line] 16.2222
+
+--Day 442--
+[Capital] 6137
+[Stock]	5250
+[MACD] -16.9917
+[Signal Line] 5.48889
+
+--Day 443--
+[Capital] 6137
+[Stock]	5230
+[MACD] -21.3774
+[Signal Line] -3.35556
+
+--Day 444--
+[Capital] 6137
+[Stock]	5238
+[MACD] -21.6567
+[Signal Line] -9.77778
+
+--Day 445--
+[Capital] 6137
+[Stock]	5290
+[MACD] -15.3091
+[Signal Line] -12.9556
+
+--Day 446--
+[Capital] 6137
+[Stock]	5390
+[MACD] -1.08984
+[Signal Line] -11.9111
+==>SELL 227 for 1223530euros
+
+--Day 447--
+[Capital] 1227831
+[Stock]	5416
+[MACD] 12.9175
+[Signal Line] -7.71111
+
+--Day 448--
+[Capital] 1227831
+[Stock]	5462
+[MACD] 29.3403
+[Signal Line] -0.133333
+
+--Day 449--
+[Capital] 1227831
+[Stock]	5440
+[MACD] 41.376
+[Signal Line] 9.2
+
+--Day 450--
+[Capital] 1227831
+[Stock]	5350
+[MACD] 43.2524
+[Signal Line] 17.8667
+
+--Day 451--
+[Capital] 1227831
+[Stock]	5452
+[MACD] 52.188
+[Signal Line] 27.1333
+
+--Day 452--
+[Capital] 1227831
+[Stock]	5425
+[MACD] 57.0498
+[Signal Line] 35.8889
+
+--Day 453--
+[Capital] 1227831
+[Stock]	5320
+[MACD] 51.8076
+[Signal Line] 41.7111
+
+--Day 454--
+[Capital] 1227831
+[Stock]	5255
+[MACD] 40.9458
+[Signal Line] 43.7333
+==>BUY 116 for 609580euros
+
+--Day 455--
+[Capital] 617336
+[Stock]	5260
+[MACD] 30.1768
+[Signal Line] 42.5333
+==>BUY 58 for 305080euros
+
+--Day 456--
+[Capital] 311798
+[Stock]	5340
+[MACD] 25.1626
+[Signal Line] 39.6444
+==>BUY 29 for 154860euros
+
+--Day 457--
+[Capital] 156705
+[Stock]	5325
+[MACD] 17.4385
+[Signal Line] 34.8667
+==>BUY 14 for 74550euros
+
+--Day 458--
+[Capital] 82043
+[Stock]	5345
+[MACD] 10.52
+[Signal Line] 28.9556
+==>BUY 7 for 37415euros
+
+--Day 459--
+[Capital] 44571
+[Stock]	5359
+[MACD] 5.21826
+[Signal Line] 22.7333
+==>BUY 4 for 21436euros
+
+--Day 460--
+[Capital] 23102
+[Stock]	5341
+[MACD] -0.444336
+[Signal Line] 16.3556
+==>BUY 2 for 10682euros
+
+--Day 461--
+[Capital] 12403
+[Stock]	5373
+[MACD] -1.47266
+[Signal Line] 10.9333
+==>BUY 1 for 5373euros
+
+--Day 462--
+[Capital] 7021
+[Stock]	5432
+[MACD] 3.38623
+[Signal Line] 7.6
+
+--Day 463--
+[Capital] 7021
+[Stock]	5383
+[MACD] 3.96289
+[Signal Line] 5.33333
+
+--Day 464--
+[Capital] 7021
+[Stock]	5510
+[MACD] 16.2251
+[Signal Line] 6.48889
+==>SELL 231 for 1272810euros
+
+--Day 465--
+[Capital] 1277921
+[Stock]	5400
+[MACD] 19.375
+[Signal Line] 8.55556
+
+--Day 466--
+[Capital] 1277921
+[Stock]	5439
+[MACD] 25.0088
+[Signal Line] 11.9556
+
+--Day 467--
+[Capital] 1277921
+[Stock]	5408
+[MACD] 26.2979
+[Signal Line] 15.3778
+
+--Day 468--
+[Capital] 1277921
+[Stock]	5450
+[MACD] 29.3906
+[Signal Line] 19.0444
+
+--Day 469--
+[Capital] 1277921
+[Stock]	5348
+[MACD] 23.5059
+[Signal Line] 20.9778
+
+--Day 470--
+[Capital] 1277921
+[Stock]	5344
+[MACD] 17.3433
+[Signal Line] 21.2
+==>BUY 119 for 635936euros
+
+--Day 471--
+[Capital] 641031
+[Stock]	5385
+[MACD] 14.7666
+[Signal Line] 20.4222
+==>BUY 59 for 317715euros
+
+--Day 472--
+[Capital] 322839
+[Stock]	5385
+[MACD] 12.127
+[Signal Line] 19
+==>BUY 29 for 156165euros
+
+--Day 473--
+[Capital] 166439
+[Stock]	5360
+[MACD] 6.91455
+[Signal Line] 16.1778
+==>BUY 15 for 80400euros
+
+--Day 474--
+[Capital] 85918
+[Stock]	5365
+[MACD] 2.10791
+[Signal Line] 12.7778
+==>BUY 8 for 42920euros
+
+--Day 475--
+[Capital] 42933
+[Stock]	5425
+[MACD] 2.6709
+[Signal Line] 9.75556
+==>BUY 3 for 16275euros
+
+--Day 476--
+[Capital] 26633
+[Stock]	5386
+[MACD] -0.458984
+[Signal Line] 6.84444
+==>BUY 2 for 10772euros
+
+--Day 477--
+[Capital] 15844
+[Stock]	5317
+[MACD] -7.40039
+[Signal Line] 3.11111
+==>BUY 1 for 5317euros
+
+--Day 478--
+[Capital] 10519
+[Stock]	5355
+[MACD] -10.6309
+[Signal Line] -0.422222
+
+--Day 479--
+[Capital] 10519
+[Stock]	5341
+[MACD] -14.1011
+[Signal Line] -4.02222
+
+--Day 480--
+[Capital] 10519
+[Stock]	5328
+[MACD] -17.6895
+[Signal Line] -7.53333
+
+--Day 481--
+[Capital] 10519
+[Stock]	5395
+[MACD] -14.1611
+[Signal Line] -9.75556
+
+--Day 482--
+[Capital] 10519
+[Stock]	5380
+[MACD] -12.0469
+[Signal Line] -11
+
+--Day 483--
+[Capital] 10519
+[Stock]	5402
+[MACD] -8.52539
+[Signal Line] -11.0444
+==>SELL 236 for 1274872euros
+
+--Day 484--
+[Capital] 1283478
+[Stock]	5332
+[MACD] -10.5869
+[Signal Line] -11.2667
+
+--Day 485--
+[Capital] 1283478
+[Stock]	5328
+[MACD] -12.3247
+[Signal Line] -11.6222
+==>BUY 120 for 639360euros
+
+--Day 486--
+[Capital] 643158
+[Stock]	5300
+[MACD] -15.9746
+[Signal Line] -12.3111
+==>BUY 60 for 318000euros
+
+--Day 487--
+[Capital] 324681
+[Stock]	5269
+[MACD] -21.3804
+[Signal Line] -14.0222
+==>BUY 30 for 158070euros
+
+--Day 488--
+[Capital] 166373
+[Stock]	5280
+[MACD] -24.2051
+[Signal Line] -16.0889
+==>BUY 15 for 79200euros
+
+--Day 489--
+[Capital] 87054
+[Stock]	5292
+[MACD] -25.1465
+[Signal Line] -18.1333
+==>BUY 8 for 42336euros
+
+--Day 490--
+[Capital] 44654
+[Stock]	5360
+[MACD] -20.603
+[Signal Line] -19
+==>BUY 4 for 21440euros
+
+--Day 491--
+[Capital] 23181
+[Stock]	5469
+[MACD] -7.85498
+[Signal Line] -17.1333
+==>SELL 237 for 1296153euros
+
+--Day 492--
+[Capital] 1317389
+[Stock]	5540
+[MACD] 9.1123
+[Signal Line] -12.1778
+
+--Day 493--
+[Capital] 1317389
+[Stock]	5503
+[MACD] 20.6978
+[Signal Line] -5.4
+
+--Day 494--
+[Capital] 1317389
+[Stock]	5442
+[MACD] 26.3032
+[Signal Line] 1.91111
+
+--Day 495--
+[Capital] 1317389
+[Stock]	5460
+[MACD] 32.5269
+[Signal Line] 9.57778
+
+--Day 496--
+[Capital] 1317389
+[Stock]	5470
+[MACD] 39.1235
+[Signal Line] 17.6
+
+--Day 497--
+[Capital] 1317389
+[Stock]	5597
+[MACD] 54.4414
+[Signal Line] 27.2889
+
+--Day 498--
+[Capital] 1317389
+[Stock]	5675
+[MACD] 73.1367
+[Signal Line] 39.0444
+
+--Day 499--
+[Capital] 1317389
+[Stock]	5758
+[MACD] 94.4717
+[Signal Line] 52.8222
+
+--Day 500--
+[Capital] 1317389
+[Stock]	5724
+[MACD] 107.959
+[Signal Line] 66.6667
+
+--Day 501--
+[Capital] 1317389
+[Stock]	5690
+[MACD] 114.064
+[Signal Line] 79.3778
+
+--Day 502--
+[Capital] 1317389
+[Stock]	5562
+[MACD] 105.611
+[Signal Line] 87.9556
+
+--Day 503--
+[Capital] 1317389
+[Stock]	5325
+[MACD] 76.1641
+[Signal Line] 88.8444
+==>BUY 123 for 654975euros
+
+--Day 504--
+[Capital] 661431
+[Stock]	5360
+[MACD] 51.3774
+[Signal Line] 83.6222
+==>BUY 61 for 326960euros
+
+--Day 505--
+[Capital] 333980
+[Stock]	5340
+[MACD] 27.3174
+[Signal Line] 73.1778
+==>BUY 31 for 165540euros
+
+--Day 506--
+[Capital] 168191
+[Stock]	5354
+[MACD] 6.46191
+[Signal Line] 58.8
+==>BUY 15 for 80310euros
+
+--Day 507--
+[Capital] 87760
+[Stock]	5375
+[MACD] -11.5171
+[Signal Line] 42.0889
+==>BUY 8 for 43000euros
+
+--Day 508--
+[Capital] 44695
+[Stock]	5388
+[MACD] -27.4258
+[Signal Line] 24.0444
+==>BUY 4 for 21552euros
+
+--Day 509--
+[Capital] 23110
+[Stock]	5386
+[MACD] -42.4204
+[Signal Line] 5.68889
+==>BUY 2 for 10772euros
+
+--Day 510--
+[Capital] 12321
+[Stock]	5350
+[MACD] -57.6265
+[Signal Line] -12.3556
+==>BUY 1 for 5350euros
+
+--Day 511--
+[Capital] 6962
+[Stock]	5470
+[MACD] -59.0425
+[Signal Line] -27
+
+--Day 512--
+[Capital] 6962
+[Stock]	5368
+[MACD] -64.4985
+[Signal Line] -39
+
+--Day 513--
+[Capital] 6962
+[Stock]	5358
+[MACD] -65.9941
+[Signal Line] -48.0889
+
+--Day 514--
+[Capital] 6962
+[Stock]	5360
+[MACD] -62.8203
+[Signal Line] -54
+
+--Day 515--
+[Capital] 6962
+[Stock]	5426
+[MACD] -51.564
+[Signal Line] -55.7333
+==>SELL 245 for 1329370euros
+
+--Day 516--
+[Capital] 1334337
+[Stock]	5675
+[MACD] -21.3574
+[Signal Line] -50.2
+
+--Day 517--
+[Capital] 1334337
+[Stock]	5816
+[MACD] 16.9561
+[Signal Line] -37.0444
+
+--Day 518--
+[Capital] 1334337
+[Stock]	5830
+[MACD] 51.272
+[Signal Line] -17.8444
+
+--Day 519--
+[Capital] 1334337
+[Stock]	5870
+[MACD] 83.5029
+[Signal Line] 5.68889
+
+--Day 520--
+[Capital] 1334337
+[Stock]	5843
+[MACD] 108.279
+[Signal Line] 31.1111
+
+--Day 521--
+[Capital] 1334337
+[Stock]	5898
+[MACD] 132.752
+[Signal Line] 57.6222
+
+--Day 522--
+[Capital] 1334337
+[Stock]	5935
+[MACD] 154.86
+[Signal Line] 84.1778
+
+--Day 523--
+[Capital] 1334337
+[Stock]	5963
+[MACD] 173.027
+[Signal Line] 109.667
+
+--Day 524--
+[Capital] 1334337
+[Stock]	5875
+[MACD] 178.896
+[Signal Line] 130.933
+
+--Day 525--
+[Capital] 1334337
+[Stock]	5810
+[MACD] 173.65
+[Signal Line] 146.111
+
+--Day 526--
+[Capital] 1334337
+[Stock]	5842
+[MACD] 165.309
+[Signal Line] 155.378
+
+--Day 527--
+[Capital] 1334337
+[Stock]	5915
+[MACD] 156.949
+[Signal Line] 159.533
+==>BUY 112 for 662480euros
+
+--Day 528--
+[Capital] 670863
+[Stock]	5831
+[MACD] 136.259
+[Signal Line] 157.356
+==>BUY 57 for 332367euros
+
+--Day 529--
+[Capital] 337997
+[Stock]	5820
+[MACD] 113.458
+[Signal Line] 149.4
+==>BUY 29 for 168780euros
+
+--Day 530--
+[Capital] 168963
+[Stock]	5879
+[MACD] 96.7236
+[Signal Line] 137.933
+==>BUY 14 for 82306euros
+
+--Day 531--
+[Capital] 86533
+[Stock]	5985
+[MACD] 89.2949
+[Signal Line] 125.867
+==>BUY 7 for 41895euros
+
+--Day 532--
+[Capital] 44575
+[Stock]	5936
+[MACD] 78.3203
+[Signal Line] 113.044
+==>BUY 3 for 17808euros
+
+--Day 533--
+[Capital] 26740
+[Stock]	5906
+[MACD] 65.4189
+[Signal Line] 99.7333
+==>BUY 2 for 11812euros
+
+--Day 534--
+[Capital] 14910
+[Stock]	5917
+[MACD] 54.8052
+[Signal Line] 86.7333
+==>BUY 1 for 5917euros
+
+--Day 535--
+[Capital] 8984
+[Stock]	5836
+[MACD] 39.4673
+[Signal Line] 73.3778
+
+--Day 536--
+[Capital] 8984
+[Stock]	5670
+[MACD] 13.7979
+[Signal Line] 57.6222
+
+--Day 537--
+[Capital] 8984
+[Stock]	5645
+[MACD] -10.3262
+[Signal Line] 40.4444
+
+--Day 538--
+[Capital] 8984
+[Stock]	5633
+[MACD] -32.7935
+[Signal Line] 22.1111
+
+--Day 539--
+[Capital] 8984
+[Stock]	5606
+[MACD] -53.98
+[Signal Line] 2.8
+
+--Day 540--
+[Capital] 8984
+[Stock]	5721
+[MACD] -61.3247
+[Signal Line] -14.8
+
+--Day 541--
+[Capital] 8984
+[Stock]	5725
+[MACD] -65.9116
+[Signal Line] -29.8667
+
+--Day 542--
+[Capital] 8984
+[Stock]	5613
+[MACD] -77.3633
+[Signal Line] -44.1556
+
+--Day 543--
+[Capital] 8984
+[Stock]	5585
+[MACD] -87.8145
+[Signal Line] -57.2889
+
+--Day 544--
+[Capital] 8984
+[Stock]	5702
+[MACD] -84.4629
+[Signal Line] -66.6889
+
+--Day 545--
+[Capital] 8984
+[Stock]	5775
+[MACD] -72.6523
+[Signal Line] -70.9556
+
+--Day 546--
+[Capital] 8984
+[Stock]	5576
+[MACD] -75.3081
+[Signal Line] -73.9333
+
+--Day 547--
+[Capital] 8984
+[Stock]	5300
+[MACD] -96.3687
+[Signal Line] -79.6667
+
+--Day 548--
+[Capital] 8984
+[Stock]	5610
+[MACD] -87.5327
+[Signal Line] -82.1778
+
+--Day 549--
+[Capital] 8984
+[Stock]	5615
+[MACD] -78.4546
+[Signal Line] -82.1333
+==>SELL 225 for 1263375euros
+
+--Day 550--
+[Capital] 1270463
+[Stock]	5432
+[MACD] -84.5815
+[Signal Line] -82.9111
+==>BUY 116 for 630112euros
+
+--Day 551--
+[Capital] 639405
+[Stock]	5302
+[MACD] -99.7637
+[Signal Line] -86.2667
+==>BUY 60 for 318120euros
+
+--Day 552--
+[Capital] 320807
+[Stock]	5438
+[MACD] -101.647
+[Signal Line] -89.5333
+==>BUY 29 for 157702euros
+
+--Day 553--
+[Capital] 162868
+[Stock]	5450
+[MACD] -100.095
+[Signal Line] -92.2889
+==>BUY 14 for 76300euros
+
+--Day 554--
+[Capital] 86453
+[Stock]	5450
+[MACD] -96.3433
+[Signal Line] -93.8889
+==>BUY 7 for 38150euros
+
+--Day 555--
+[Capital] 48245
+[Stock]	5435
+[MACD] -92.7832
+[Signal Line] -94.1556
+==>SELL 226 for 1228310euros
+
+--Day 556--
+[Capital] 1274712
+[Stock]	5446
+[MACD] -87.5195
+[Signal Line] -93.0444
+
+--Day 557--
+[Capital] 1274712
+[Stock]	5403
+[MACD] -83.6382
+[Signal Line] -91.3333
+
+--Day 558--
+[Capital] 1274712
+[Stock]	5412
+[MACD] -75.9277
+[Signal Line] -88.1111
+
+--Day 559--
+[Capital] 1274712
+[Stock]	5388
+[MACD] -69.5215
+[Signal Line] -83.7556
+
+--Day 560--
+[Capital] 1274712
+[Stock]	5391
+[MACD] -65.4805
+[Signal Line] -78.9333
+
+--Day 561--
+[Capital] 1274712
+[Stock]	5490
+[MACD] -52.2319
+[Signal Line] -72.2667
+
+--Day 562--
+[Capital] 1274712
+[Stock]	5627
+[MACD] -27.439
+[Signal Line] -61.6889
+
+--Day 563--
+[Capital] 1274712
+[Stock]	5604
+[MACD] -7.10254
+[Signal Line] -48.7333
+
+--Day 564--
+[Capital] 1274712
+[Stock]	5619
+[MACD] 10.4419
+[Signal Line] -34.3556
+
+--Day 565--
+[Capital] 1274712
+[Stock]	5526
+[MACD] 18.2065
+[Signal Line] -20.6444
+
+--Day 566--
+[Capital] 1274712
+[Stock]	5509
+[MACD] 23.4131
+[Signal Line] -8.26667
+
+--Day 567--
+[Capital] 1274712
+[Stock]	5505
+[MACD] 26.9399
+[Signal Line] 2.35556
+
+--Day 568--
+[Capital] 1274712
+[Stock]	5530
+[MACD] 30.9375
+[Signal Line] 11.5333
+
+--Day 569--
+[Capital] 1274712
+[Stock]	5549
+[MACD] 35.1367
+[Signal Line] 19.5111
+
+--Day 570--
+[Capital] 1274712
+[Stock]	5644
+[MACD] 44.9399
+[Signal Line] 27.0667
+
+--Day 571--
+[Capital] 1274712
+[Stock]	5657
+[MACD] 52.6406
+[Signal Line] 34.0889
+
+--Day 572--
+[Capital] 1274712
+[Stock]	5700
+[MACD] 59.9873
+[Signal Line] 40.7556
+
+--Day 573--
+[Capital] 1274712
+[Stock]	5672
+[MACD] 61.4917
+[Signal Line] 46.3556
+
+--Day 574--
+[Capital] 1274712
+[Stock]	5932
+[MACD] 82.4629
+[Signal Line] 55.0222
+
+--Day 575--
+[Capital] 1274712
+[Stock]	5870
+[MACD] 95.4961
+[Signal Line] 64.8667
+
+--Day 576--
+[Capital] 1274712
+[Stock]	6022
+[MACD] 117.97
+[Signal Line] 77.5111
+
+--Day 577--
+[Capital] 1274712
+[Stock]	5775
+[MACD] 117.255
+[Signal Line] 88.1333
+
+--Day 578--
+[Capital] 1274712
+[Stock]	5700
+[MACD] 108.712
+[Signal Line] 95.0222
+
+--Day 579--
+[Capital] 1274712
+[Stock]	5864
+[MACD] 111.55
+[Signal Line] 100.889
+
+--Day 580--
+[Capital] 1274712
+[Stock]	5833
+[MACD] 108.491
+[Signal Line] 104.667
+
+--Day 581--
+[Capital] 1274712
+[Stock]	5808
+[MACD] 100.646
+[Signal Line] 105.6
+==>BUY 109 for 633072euros
+
+--Day 582--
+[Capital] 640690
+[Stock]	5879
+[MACD] 96.2051
+[Signal Line] 104.822
+==>BUY 54 for 317466euros
+
+--Day 583--
+[Capital] 322747
+[Stock]	5929
+[MACD] 93.9741
+[Signal Line] 102.667
+==>BUY 27 for 160083euros
+
+--Day 584--
+[Capital] 162423
+[Stock]	5881
+[MACD] 85.9258
+[Signal Line] 98.6667
+==>BUY 13 for 76453euros
+
+--Day 585--
+[Capital] 85855
+[Stock]	5936
+[MACD] 81.2808
+[Signal Line] 94.0889
+==>BUY 7 for 41552euros
+
+--Day 586--
+[Capital] 44240
+[Stock]	5934
+[MACD] 74.6528
+[Signal Line] 88.9111
+==>BUY 3 for 17802euros
+
+--Day 587--
+[Capital] 26411
+[Stock]	6016
+[MACD] 76.0869
+[Signal Line] 85.0889
+==>BUY 2 for 12032euros
+
+--Day 588--
+[Capital] 14360
+[Stock]	6000
+[MACD] 75.8721
+[Signal Line] 81.7778
+==>BUY 1 for 6000euros
+
+--Day 589--
+[Capital] 8351
+[Stock]	6146
+[MACD] 88.6484
+[Signal Line] 81.8667
+==>SELL 216 for 1327536euros
+
+--Day 590--
+[Capital] 1333895
+[Stock]	6200
+[MACD] 102.52
+[Signal Line] 85.2
+
+--Day 591--
+[Capital] 1333895
+[Stock]	6096
+[MACD] 103.34
+[Signal Line] 88.6889
+
+--Day 592--
+[Capital] 1333895
+[Stock]	6300
+[MACD] 119.084
+[Signal Line] 95.2222
+
+--Day 593--
+[Capital] 1333895
+[Stock]	6386
+[MACD] 137.954
+[Signal Line] 104.778
+
+--Day 594--
+[Capital] 1333895
+[Stock]	6450
+[MACD] 157.03
+[Signal Line] 117.178
+
+--Day 595--
+[Capital] 1333895
+[Stock]	6258
+[MACD] 156.09
+[Signal Line] 127.689
+
+--Day 596--
+[Capital] 1333895
+[Stock]	6294
+[MACD] 155.824
+[Signal Line] 136.178
+
+--Day 597--
+[Capital] 1333895
+[Stock]	6251
+[MACD] 148.684
+[Signal Line] 141.511
+
+--Day 598--
+[Capital] 1333895
+[Stock]	6390
+[MACD] 150.286
+[Signal Line] 145.622
+
+--Day 599--
+[Capital] 1333895
+[Stock]	6380
+[MACD] 147.211
+[Signal Line] 147.756
+==>BUY 104 for 663520euros
+
+--Day 600--
+[Capital] 669379
+[Stock]	6343
+[MACD] 138.534
+[Signal Line] 147.089
+==>BUY 52 for 329836euros
+
+--Day 601--
+[Capital] 339048
+[Stock]	6348
+[MACD] 127.03
+[Signal Line] 143.444
+==>BUY 26 for 165048euros
+
+--Day 602--
+[Capital] 173752
+[Stock]	6446
+[MACD] 122.116
+[Signal Line] 138.622
+==>BUY 13 for 83798euros
+
+--Day 603--
+[Capital] 89828
+[Stock]	6424
+[MACD] 113.5
+[Signal Line] 132.333
+==>BUY 6 for 38544euros
+
+--Day 604--
+[Capital] 51226
+[Stock]	6557
+[MACD] 113.138
+[Signal Line] 127.022
+==>BUY 3 for 19671euros
+
+--Day 605--
+[Capital] 31525
+[Stock]	6594
+[MACD] 114.875
+[Signal Line] 122.867
+==>BUY 2 for 13188euros
+
+--Day 606--
+[Capital] 18317
+[Stock]	6534
+[MACD] 111.238
+[Signal Line] 119.022
+==>BUY 1 for 6534euros
+
+--Day 607--
+[Capital] 11773
+[Stock]	6200
+[MACD] 81.8774
+[Signal Line] 110
+
+--Day 608--
+[Capital] 11773
+[Stock]	6343
+[MACD] 65.7852
+[Signal Line] 99.3111
+
+--Day 609--
+[Capital] 11773
+[Stock]	6300
+[MACD] 46.9561
+[Signal Line] 86.6444
+
+--Day 610--
+[Capital] 11773
+[Stock]	6283
+[MACD] 27.1992
+[Signal Line] 72.2222
+
+--Day 611--
+[Capital] 11773
+[Stock]	6234
+[MACD] 6.05127
+[Signal Line] 55.8222
+
+--Day 612--
+[Capital] 11773
+[Stock]	6171
+[MACD] -17.4019
+[Signal Line] 37.4
+
+--Day 613--
+[Capital] 11773
+[Stock]	6300
+[MACD] -27.6841
+[Signal Line] 19.8667
+
+--Day 614--
+[Capital] 11773
+[Stock]	6425
+[MACD] -26.5698
+[Signal Line] 5.64444
+
+--Day 615--
+[Capital] 11773
+[Stock]	6300
+[MACD] -33.9473
+[Signal Line] -6.86667
+
+--Day 616--
+[Capital] 11773
+[Stock]	6360
+[MACD] -34.5103
+[Signal Line] -16.3778
+
+--Day 617--
+[Capital] 11773
+[Stock]	6237
+[MACD] -41.9028
+[Signal Line] -24.7333
+
+--Day 618--
+[Capital] 11773
+[Stock]	6215
+[MACD] -46.0728
+[Signal Line] -31.7333
+
+--Day 619--
+[Capital] 11773
+[Stock]	6131
+[MACD] -53.0957
+[Signal Line] -38.0889
+
+--Day 620--
+[Capital] 11773
+[Stock]	6313
+[MACD] -45.4414
+[Signal Line] -41.0667
+
+--Day 621--
+[Capital] 11773
+[Stock]	6388
+[MACD] -31.8105
+[Signal Line] -40.1111
+==>SELL 207 for 1322316euros
+
+--Day 622--
+[Capital] 1332105
+[Stock]	6238
+[MACD] -30.9028
+[Signal Line] -38.6444
+
+--Day 623--
+[Capital] 1332105
+[Stock]	6400
+[MACD] -16.6553
+[Signal Line] -34.3111
+
+--Day 624--
+[Capital] 1332105
+[Stock]	6513
+[MACD] 4.90332
+[Signal Line] -26.2
+
+--Day 625--
+[Capital] 1332105
+[Stock]	6499
+[MACD] 21.3105
+[Signal Line] -15.5111
+
+--Day 626--
+[Capital] 1332105
+[Stock]	6495
+[MACD] 35.1865
+[Signal Line] -3.24444
+
+--Day 627--
+[Capital] 1332105
+[Stock]	6736
+[MACD] 67.8237
+[Signal Line] 13.7333
+
+--Day 628--
+[Capital] 1332105
+[Stock]	6644
+[MACD] 88.6367
+[Signal Line] 32.4
+
+--Day 629--
+[Capital] 1332105
+[Stock]	6537
+[MACD] 97.8374
+[Signal Line] 49.7333
+
+--Day 630--
+[Capital] 1332105
+[Stock]	6540
+[MACD] 103.754
+[Signal Line] 65.1111
+
+--Day 631--
+[Capital] 1332105
+[Stock]	6540
+[MACD] 105.455
+[Signal Line] 77.9111
+
+--Day 632--
+[Capital] 1332105
+[Stock]	6609
+[MACD] 107.262
+[Signal Line] 88.1111
+
+--Day 633--
+[Capital] 1332105
+[Stock]	6487
+[MACD] 95.7563
+[Signal Line] 93.1778
+
+--Day 634--
+[Capital] 1332105
+[Stock]	6401
+[MACD] 76.9385
+[Signal Line] 92.4222
+==>BUY 104 for 665704euros
+
+--Day 635--
+[Capital] 665402
+[Stock]	6511
+[MACD] 64.9712
+[Signal Line] 88.0444
+==>BUY 51 for 332061euros
+
+--Day 636--
+[Capital] 332842
+[Stock]	6404
+[MACD] 43.647
+[Signal Line] 78.8222
+==>BUY 25 for 160100euros
+
+--Day 637--
+[Capital] 172501
+[Stock]	6355
+[MACD] 20.1553
+[Signal Line] 65.5333
+==>BUY 13 for 82615euros
+
+--Day 638--
+[Capital] 89762
+[Stock]	6416
+[MACD] 3.7207
+[Signal Line] 50.3556
+==>BUY 6 for 38496euros
+
+--Day 639--
+[Capital] 51208
+[Stock]	6581
+[MACD] 2.15918
+[Signal Line] 37.0667
+==>BUY 3 for 19743euros
+
+--Day 640--
+[Capital] 31435
+[Stock]	6666
+[MACD] 10.167
+[Signal Line] 27.6222
+==>BUY 2 for 13332euros
+
+--Day 641--
+[Capital] 18083
+[Stock]	6609
+[MACD] 14.0312
+[Signal Line] 21.0889
+==>BUY 1 for 6609euros
+
+--Day 642--
+[Capital] 11464
+[Stock]	6677
+[MACD] 23.2778
+[Signal Line] 18.4222
+==>SELL 205 for 1368785euros
+
+--Day 643--
+[Capital] 1378195
+[Stock]	6581
+[MACD] 24.0132
+[Signal Line] 17.5556
+
+--Day 644--
+[Capital] 1378195
+[Stock]	6583
+[MACD] 25.3618
+[Signal Line] 18.0444
+
+--Day 645--
+[Capital] 1378195
+[Stock]	6401
+[MACD] 13.5742
+[Signal Line] 17
+==>BUY 107 for 684907euros
+
+--Day 646--
+[Capital] 692260
+[Stock]	6432
+[MACD] 6.13086
+[Signal Line] 15.2222
+==>BUY 53 for 340896euros
+
+--Day 647--
+[Capital] 350852
+[Stock]	6328
+[MACD] -9.6665
+[Signal Line] 10.7556
+==>BUY 27 for 170856euros
+
+--Day 648--
+[Capital] 179739
+[Stock]	6224
+[MACD] -31.5854
+[Signal Line] 2.15556
+==>BUY 14 for 87136euros
+
+--Day 649--
+[Capital] 92472
+[Stock]	6200
+[MACD] -53.1514
+[Signal Line] -10.1111
+==>BUY 7 for 43400euros
+
+--Day 650--
+[Capital] 49006
+[Stock]	6240
+[MACD] -70.1084
+[Signal Line] -24.3778
+==>BUY 3 for 18720euros
+
+--Day 651--
+[Capital] 30257
+[Stock]	6203
+[MACD] -88.5381
+[Signal Line] -40.3778
+==>BUY 2 for 12406euros
+
+--Day 652--
+[Capital] 17832
+[Stock]	6192
+[MACD] -103.843
+[Signal Line] -56.9111
+==>BUY 1 for 6192euros
+
+--Day 653--
+[Capital] 11630
+[Stock]	6204
+[MACD] -112.977
+[Signal Line] -72.4222
+
+--Day 654--
+[Capital] 11630
+[Stock]	6107
+[MACD] -126.172
+[Signal Line] -87.6889
+
+--Day 655--
+[Capital] 11630
+[Stock]	5987
+[MACD] -143.162
+[Signal Line] -103.267
+
+--Day 656--
+[Capital] 11630
+[Stock]	5694
+[MACD] -177.478
+[Signal Line] -122.333
+==>BUY 1 for 5694euros
+
+--Day 657--
+[Capital] 5927
+[Stock]	5772
+[MACD] -196.583
+[Signal Line] -141.467
+
+--Day 658--
+[Capital] 5927
+[Stock]	5645
+[MACD] -219.943
+[Signal Line] -161.533
+
+--Day 659--
+[Capital] 5927
+[Stock]	5196
+[MACD] -271.778
+[Signal Line] -188.311
+
+--Day 660--
+[Capital] 5927
+[Stock]	5550
+[MACD] -284.539
+[Signal Line] -213.222
+
+--Day 661--
+[Capital] 5927
+[Stock]	5762
+[MACD] -274.171
+[Signal Line] -231.778
+
+--Day 662--
+[Capital] 5927
+[Stock]	5818
+[MACD] -255.854
+[Signal Line] -242.733
+
+--Day 663--
+[Capital] 5927
+[Stock]	5603
+[MACD] -250.949
+[Signal Line] -249.511
+
+--Day 664--
+[Capital] 5927
+[Stock]	5757
+[MACD] -228.208
+[Signal Line] -249.133
+==>SELL 215 for 1237755euros
+
+--Day 665--
+[Capital] 1241825
+[Stock]	5826
+[MACD] -196.264
+[Signal Line] -240.467
+
+--Day 666--
+[Capital] 1241825
+[Stock]	5938
+[MACD] -152.689
+[Signal Line] -222.578
+
+--Day 667--
+[Capital] 1241825
+[Stock]	6164
+[MACD] -90.9941
+[Signal Line] -193.267
+
+--Day 668--
+[Capital] 1241825
+[Stock]	6253
+[MACD] -25.7363
+[Signal Line] -153.822
+
+--Day 669--
+[Capital] 1241825
+[Stock]	5979
+[MACD] 9.28955
+[Signal Line] -113.044
+
+--Day 670--
+[Capital] 1241825
+[Stock]	6032
+[MACD] 44.1733
+[Signal Line] -71.7778
+
+--Day 671--
+[Capital] 1241825
+[Stock]	5958
+[MACD] 66.624
+[Signal Line] -33.1778
+
+--Day 672--
+[Capital] 1241825
+[Stock]	6055
+[MACD] 85.7803
+[Signal Line] 2.08889
+
+--Day 673--
+[Capital] 1241825
+[Stock]	6074
+[MACD] 98.9043
+[Signal Line] 32.5111
+
+--Day 674--
+[Capital] 1241825
+[Stock]	6081
+[MACD] 107.863
+[Signal Line] 57.4889
+
+--Day 675--
+[Capital] 1241825
+[Stock]	6187
+[MACD] 121.499
+[Signal Line] 78.5333
+
+--Day 676--
+[Capital] 1241825
+[Stock]	6289
+[MACD] 135.747
+[Signal Line] 96.3111
+
+--Day 677--
+[Capital] 1241825
+[Stock]	6216
+[MACD] 137.49
+[Signal Line] 109.489
+
+--Day 678--
+[Capital] 1241825
+[Stock]	6289
+[MACD] 140.094
+[Signal Line] 119.667
+
+--Day 679--
+[Capital] 1241825
+[Stock]	6074
+[MACD] 121.324
+[Signal Line] 123.133
+==>BUY 102 for 619548euros
+
+--Day 680--
+[Capital] 621347
+[Stock]	5966
+[MACD] 94.7212
+[Signal Line] 119.489
+==>BUY 52 for 310232euros
+
+--Day 681--
+[Capital] 310649
+[Stock]	6045
+[MACD] 77.6978
+[Signal Line] 111.822
+==>BUY 25 for 151125euros
+
+--Day 682--
+[Capital] 159297
+[Stock]	6070
+[MACD] 61.9883
+[Signal Line] 101.133
+==>BUY 13 for 78910euros
+
+--Day 683--
+[Capital] 80268
+[Stock]	6141
+[MACD] 52.5273
+[Signal Line] 89.4667
+==>BUY 6 for 36846euros
+
+--Day 684--
+[Capital] 43366
+[Stock]	6211
+[MACD] 47.355
+[Signal Line] 78.0222
+==>BUY 3 for 18633euros
+
+--Day 685--
+[Capital] 24705
+[Stock]	6198
+[MACD] 40.7578
+[Signal Line] 66.8222
+==>BUY 1 for 6198euros
+
+--Day 686--
+[Capital] 18497
+[Stock]	6131
+[MACD] 30.0815
+[Signal Line] 55.7333
+==>BUY 1 for 6131euros
+
+--Day 687--
+[Capital] 12356
+[Stock]	6024
+[MACD] 11.8833
+[Signal Line] 43.2222
+==>BUY 1 for 6024euros
+
+--Day 688--
+[Capital] 6322
+[Stock]	5963
+[MACD] -8.34473
+[Signal Line] 29.7778
+
+--Day 689--
+[Capital] 6322
+[Stock]	6081
+[MACD] -14.5669
+[Signal Line] 18
+
+--Day 690--
+[Capital] 6322
+[Stock]	6062
+[MACD] -19.2124
+[Signal Line] 7.62222
+
+--Day 691--
+[Capital] 6322
+[Stock]	5899
+[MACD] -33.0811
+[Signal Line] -3.42222
+
+--Day 692--
+[Capital] 6322
+[Stock]	5818
+[MACD] -50.96
+[Signal Line] -15.7778
+
+--Day 693--
+[Capital] 6322
+[Stock]	5814
+[MACD] -67.6025
+[Signal Line] -29.2667
+
+--Day 694--
+[Capital] 6322
+[Stock]	5800
+[MACD] -83.3975
+[Signal Line] -43.4222
+
+--Day 695--
+[Capital] 6322
+[Stock]	5885
+[MACD] -90.2407
+[Signal Line] -56.2444
+
+--Day 696--
+[Capital] 6322
+[Stock]	6160
+[MACD] -72.1323
+[Signal Line] -62.8
+
+--Day 697--
+[Capital] 6322
+[Stock]	5842
+[MACD] -78.373
+[Signal Line] -68.7111
+
+--Day 698--
+[Capital] 6322
+[Stock]	6027
+[MACD] -65.6226
+[Signal Line] -70.4667
+==>SELL 204 for 1229508euros
+
+--Day 699--
+[Capital] 1233985
+[Stock]	6279
+[MACD] -31.5156
+[Signal Line] -64.2889
+
+--Day 700--
+[Capital] 1233985
+[Stock]	6471
+[MACD] 15.2222
+[Signal Line] -48.6444
+
+--Day 701--
+[Capital] 1233985
+[Stock]	6699
+[MACD] 74.7466
+[Signal Line] -22.2667
+
+--Day 702--
+[Capital] 1233985
+[Stock]	6924
+[MACD] 145.755
+[Signal Line] 15.5556
+
+--Day 703--
+[Capital] 1233985
+[Stock]	6815
+[MACD] 198.826
+[Signal Line] 59.2667
+
+--Day 704--
+[Capital] 1233985
+[Stock]	6655
+[MACD] 229.097
+[Signal Line] 102.933
+
+--Day 705--
+[Capital] 1233985
+[Stock]	6633
+[MACD] 247.924
+[Signal Line] 143.111
+
+--Day 706--
+[Capital] 1233985
+[Stock]	6575
+[MACD] 253.218
+[Signal Line] 177.4
+
+--Day 707--
+[Capital] 1233985
+[Stock]	6860
+[MACD] 273.045
+[Signal Line] 208.333
+
+--Day 708--
+[Capital] 1233985
+[Stock]	6888
+[MACD] 284.929
+[Signal Line] 233.956
+
+--Day 709--
+[Capital] 1233985
+[Stock]	6743
+[MACD] 278.242
+[Signal Line] 251.378
+
+--Day 710--
+[Capital] 1233985
+[Stock]	6915
+[MACD] 275.44
+[Signal Line] 262.356
+
+--Day 711--
+[Capital] 1233985
+[Stock]	6887
+[MACD] 261.026
+[Signal Line] 266.067
+==>BUY 89 for 612943euros
+
+--Day 712--
+[Capital] 620122
+[Stock]	6624
+[MACD] 219.799
+[Signal Line] 258.8
+==>BUY 46 for 304704euros
+
+--Day 713--
+[Capital] 314960
+[Stock]	6670
+[MACD] 181.686
+[Signal Line] 243.467
+==>BUY 23 for 153410euros
+
+--Day 714--
+[Capital] 161319
+[Stock]	6632
+[MACD] 142.752
+[Signal Line] 221.4
+==>BUY 12 for 79584euros
+
+--Day 715--
+[Capital] 81615
+[Stock]	6670
+[MACD] 112.5
+[Signal Line] 195.667
+==>BUY 6 for 40020euros
+
+--Day 716--
+[Capital] 41534
+[Stock]	6631
+[MACD] 82.6738
+[Signal Line] 167.067
+==>BUY 3 for 19893euros
+
+--Day 717--
+[Capital] 21611
+[Stock]	6661
+[MACD] 57.1699
+[Signal Line] 137.711
+==>BUY 1 for 6661euros
+
+--Day 718--
+[Capital] 14940
+[Stock]	6615
+[MACD] 29.8076
+[Signal Line] 107.8
+==>BUY 1 for 6615euros
+
+--Day 719--
+[Capital] 8315
+[Stock]	6600
+[MACD] 3.00732
+[Signal Line] 78.2222
+
+--Day 720--
+[Capital] 8315
+[Stock]	6815
+[MACD] -1.06982
+[Signal Line] 53.8889
+
+--Day 721--
+[Capital] 8315
+[Stock]	6747
+[MACD] -6.74365
+[Signal Line] 34.3778
+
+--Day 722--
+[Capital] 8315
+[Stock]	6845
+[MACD] -2.19531
+[Signal Line] 20.6667
+
+--Day 723--
+[Capital] 8315
+[Stock]	6842
+[MACD] 4.96289
+[Signal Line] 12.2222
+
+--Day 724--
+[Capital] 8315
+[Stock]	6781
+[MACD] 10.6807
+[Signal Line] 8.04444
+==>SELL 181 for 1227361euros
+
+--Day 725--
+[Capital] 1233834
+[Stock]	6852
+[MACD] 22.1982
+[Signal Line] 8.53333
+
+--Day 726--
+[Capital] 1233834
+[Stock]	6903
+[MACD] 37.0825
+[Signal Line] 13.3556
+
+--Day 727--
+[Capital] 1233834
+[Stock]	6782
+[MACD] 40.0713
+[Signal Line] 19.2222
+
+--Day 728--
+[Capital] 1233834
+[Stock]	6823
+[MACD] 45.1313
+[Signal Line] 25.8444
+
+--Day 729--
+[Capital] 1233834
+[Stock]	6680
+[MACD] 36.0342
+[Signal Line] 29.7333
+
+--Day 730--
+[Capital] 1233834
+[Stock]	6859
+[MACD] 40.5884
+[Signal Line] 33.6
+
+--Day 731--
+[Capital] 1233834
+[Stock]	6712
+[MACD] 30.8691
+[Signal Line] 34.4444
+==>BUY 91 for 610792euros
+
+--Day 732--
+[Capital] 622125
+[Stock]	6696
+[MACD] 18.6621
+[Signal Line] 32.1778
+==>BUY 46 for 308016euros
+
+--Day 733--
+[Capital] 313646
+[Stock]	6774
+[MACD] 14.5483
+[Signal Line] 28.8
+==>BUY 23 for 155802euros
+
+--Day 734--
+[Capital] 157610
+[Stock]	6687
+[MACD] 2.90332
+[Signal Line] 22.9333
+==>BUY 11 for 73557euros
+
+--Day 735--
+[Capital] 83942
+[Stock]	6530
+[MACD] -19.813
+[Signal Line] 13.3111
+==>BUY 6 for 39180euros
+
+--Day 736--
+[Capital] 44703
+[Stock]	6517
+[MACD] -40.1738
+[Signal Line] 0.733333
+==>BUY 3 for 19551euros
+
+--Day 737--
+[Capital] 25122
+[Stock]	6564
+[MACD] -54.5342
+[Signal Line] -12.8667
+==>BUY 1 for 6564euros
+
+--Day 738--
+[Capital] 18548
+[Stock]	6600
+[MACD] -63.251
+[Signal Line] -26.0667
+==>BUY 1 for 6600euros
+
+--Day 739--
+[Capital] 11938
+[Stock]	6789
+[MACD] -53.0742
+[Signal Line] -35.0667
+
+--Day 740--
+[Capital] 11938
+[Stock]	6827
+[MACD] -39.6172
+[Signal Line] -39.2
+
+--Day 741--
+[Capital] 11938
+[Stock]	6753
+[MACD] -31.5581
+[Signal Line] -40.2
+==>SELL 182 for 1229046euros
+
+--Day 742--
+[Capital] 1239140
+[Stock]	6720
+[MACD] -26.832
+[Signal Line] -39.1111
+
+--Day 743--
+[Capital] 1239140
+[Stock]	6711
+[MACD] -20.7876
+[Signal Line] -35.9333
+
+--Day 744--
+[Capital] 1239140
+[Stock]	6509
+[MACD] -30.7021
+[Signal Line] -34.2667
+
+--Day 745--
+[Capital] 1239140
+[Stock]	6489
+[MACD] -40.1167
+[Signal Line] -34.3556
+==>BUY 95 for 616455euros
+
+--Day 746--
+[Capital] 621760
+[Stock]	6492
+[MACD] -45.9541
+[Signal Line] -35.4444
+==>BUY 47 for 305124euros
+
+--Day 747--
+[Capital] 316178
+[Stock]	6659
+[MACD] -36.8901
+[Signal Line] -34.9333
+==>BUY 23 for 153157euros
+
+--Day 748--
+[Capital] 162791
+[Stock]	6739
+[MACD] -23.3491
+[Signal Line] -32.4222
+==>SELL 165 for 1111935euros
+
+--Day 749--
+[Capital] 1273058
+[Stock]	6872
+[MACD] -2.34619
+[Signal Line] -26.3778
+
+--Day 750--
+[Capital] 1273058
+[Stock]	6827
+[MACD] 11.2036
+[Signal Line] -18.5556
+
+--Day 751--
+[Capital] 1273058
+[Stock]	6751
+[MACD] 15.9116
+[Signal Line] -10.8667
+
+--Day 752--
+[Capital] 1273058
+[Stock]	6697
+[MACD] 16.5112
+[Signal Line] -3.88889
+
+--Day 753--
+[Capital] 1273058
+[Stock]	6805
+[MACD] 26.8062
+[Signal Line] 4.28889
+
+--Day 754--
+[Capital] 1273058
+[Stock]	6936
+[MACD] 46.9502
+[Signal Line] 15.2222
+
+--Day 755--
+[Capital] 1273058
+[Stock]	6787
+[MACD] 52.7607
+[Signal Line] 25.4444
+
+--Day 756--
+[Capital] 1273058
+[Stock]	6803
+[MACD] 59.1782
+[Signal Line] 34.9111
+
+--Day 757--
+[Capital] 1273058
+[Stock]	6853
+[MACD] 65.6553
+[Signal Line] 43.4667
+
+--Day 758--
+[Capital] 1273058
+[Stock]	6766
+[MACD] 60.9272
+[Signal Line] 49.0667
+
+--Day 759--
+[Capital] 1273058
+[Stock]	6709
+[MACD] 48.3394
+[Signal Line] 50.8889
+==>BUY 94 for 630646euros
+
+--Day 760--
+[Capital] 641466
+[Stock]	6884
+[MACD] 48.8843
+[Signal Line] 51.8889
+==>BUY 46 for 316664euros
+
+--Day 761--
+[Capital] 324327
+[Stock]	6920
+[MACD] 51.0044
+[Signal Line] 52.7556
+==>BUY 23 for 159160euros
+
+--Day 762--
+[Capital] 164928
+[Stock]	6770
+[MACD] 41.6538
+[Signal Line] 50.8444
+==>BUY 12 for 81240euros
+
+--Day 763--
+[Capital] 83566
+[Stock]	6805
+[MACD] 36.5469
+[Signal Line] 47.6
+==>BUY 6 for 40830euros
+
+--Day 764--
+[Capital] 42674
+[Stock]	6723
+[MACD] 24.8931
+[Signal Line] 42.1778
+==>BUY 3 for 20169euros
+
+--Day 765--
+[Capital] 22474
+[Stock]	6703
+[MACD] 11.6611
+[Signal Line] 34.7778
+==>BUY 1 for 6703euros
+
+--Day 766--
+[Capital] 15760
+[Stock]	6708
+[MACD] -0.109863
+[Signal Line] 26.2444
+==>BUY 1 for 6708euros
+
+--Day 767--
+[Capital] 9041
+[Stock]	6625
+[MACD] -15.9175
+[Signal Line] 16.1556
+
+--Day 768--
+[Capital] 9041
+[Stock]	6085
+[MACD] -73.0894
+[Signal Line] -3.86667
+
+--Day 769--
+[Capital] 9041
+[Stock]	5972
+[MACD] -131.88
+[Signal Line] -32.8
+
+--Day 770--
+[Capital] 9041
+[Stock]	6046
+[MACD] -175.578
+[Signal Line] -66.5556
+
+--Day 771--
+[Capital] 9041
+[Stock]	5960
+[MACD] -218.225
+[Signal Line] -103.889
+
+--Day 772--
+[Capital] 9041
+[Stock]	5933
+[MACD] -254.93
+[Signal Line] -142.667
+
+--Day 773--
+[Capital] 9041
+[Stock]	5744
+[MACD] -296.112
+[Signal Line] -183.4
+
+--Day 774--
+[Capital] 9041
+[Stock]	5856
+[MACD] -315.89
+[Signal Line] -220.822
+
+--Day 775--
+[Capital] 9041
+[Stock]	5639
+[MACD] -343.776
+[Signal Line] -256.6
+
+--Day 776--
+[Capital] 9041
+[Stock]	5810
+[MACD] -346.585
+[Signal Line] -285.356
+
+--Day 777--
+[Capital] 9041
+[Stock]	5685
+[MACD] -350.558
+[Signal Line] -307.556
+
+--Day 778--
+[Capital] 9041
+[Stock]	5514
+[MACD] -358.158
+[Signal Line] -325.2
+
+--Day 779--
+[Capital] 9041
+[Stock]	5704
+[MACD] -338.664
+[Signal Line] -333.8
+
+--Day 780--
+[Capital] 9041
+[Stock]	5668
+[MACD] -313.371
+[Signal Line] -333.778
+==>SELL 186 for 1054248euros
+
+--Day 781--
+[Capital] 1061707
+[Stock]	5759
+[MACD] -279.084
+[Signal Line] -324.844
+
+--Day 782--
+[Capital] 1061707
+[Stock]	5852
+[MACD] -237.577
+[Signal Line] -306.956
+
+--Day 783--
+[Capital] 1061707
+[Stock]	5873
+[MACD] -194.617
+[Signal Line] -281.778
+
+--Day 784--
+[Capital] 1061707
+[Stock]	5726
+[MACD] -165.06
+[Signal Line] -253.489
+
+--Day 785--
+[Capital] 1061707
+[Stock]	5722
+[MACD] -136.131
+[Signal Line] -223.356
+
+--Day 786--
+[Capital] 1061707
+[Stock]	5857
+[MACD] -98.9629
+[Signal Line] -190.289
+
+--Day 787--
+[Capital] 1061707
+[Stock]	5934
+[MACD] -58.5913
+[Signal Line] -154.822
+
+--Day 788--
+[Capital] 1061707
+[Stock]	5848
+[MACD] -31.6709
+[Signal Line] -120.622
+
+--Day 789--
+[Capital] 1061707
+[Stock]	5813
+[MACD] -10.6562
+[Signal Line] -89.0444
+
+--Day 790--
+[Capital] 1061707
+[Stock]	5710
+[MACD] -2.32617
+[Signal Line] -62.6
+
+--Day 791--
+[Capital] 1061707
+[Stock]	5930
+[MACD] 18.1553
+[Signal Line] -38.3111
+
+--Day 792--
+[Capital] 1061707
+[Stock]	5975
+[MACD] 37.1265
+[Signal Line] -15.8889
+
+--Day 793--
+[Capital] 1061707
+[Stock]	5842
+[MACD] 39.4644
+[Signal Line] 1.8
+
+--Day 794--
+[Capital] 1061707
+[Stock]	5961
+[MACD] 48
+[Signal Line] 16.7556
+
+--Day 795--
+[Capital] 1061707
+[Stock]	6011
+[MACD] 58.7734
+[Signal Line] 29.6222
+
+--Day 796--
+[Capital] 1061707
+[Stock]	6149
+[MACD] 78.8975
+[Signal Line] 43.0222
+
+--Day 797--
+[Capital] 1061707
+[Stock]	6160
+[MACD] 94.769
+[Signal Line] 56.6
+
+--Day 798--
+[Capital] 1061707
+[Stock]	6106
+[MACD] 101.288
+[Signal Line] 68.8
+
+--Day 799--
+[Capital] 1061707
+[Stock]	6302
+[MACD] 120.742
+[Signal Line] 82.3333
+
+--Day 800--
+[Capital] 1061707
+[Stock]	6271
+[MACD] 134.595
+[Signal Line] 95.9556
+
+--Day 801--
+[Capital] 1061707
+[Stock]	6243
+[MACD] 141.974
+[Signal Line] 108.4
+
+--Day 802--
+[Capital] 1061707
+[Stock]	6169
+[MACD] 139.658
+[Signal Line] 118.133
+
+--Day 803--
+[Capital] 1061707
+[Stock]	6202
+[MACD] 135.112
+[Signal Line] 124.844
+
+--Day 804--
+[Capital] 1061707
+[Stock]	6250
+[MACD] 132.382
+[Signal Line] 129.022
+
+--Day 805--
+[Capital] 1061707
+[Stock]	6121
+[MACD] 117.932
+[Signal Line] 128.556
+==>BUY 86 for 526406euros
+
+--Day 806--
+[Capital] 534511
+[Stock]	6109
+[MACD] 100.135
+[Signal Line] 123.822
+==>BUY 43 for 262687euros
+
+--Day 807--
+[Capital] 271429
+[Stock]	6010
+[MACD] 73.8008
+[Signal Line] 113.556
+==>BUY 22 for 132220euros
+
+--Day 808--
+[Capital] 139010
+[Stock]	6098
+[MACD] 55.2139
+[Signal Line] 100.311
+==>BUY 11 for 67078euros
+
+--Day 809--
+[Capital] 71831
+[Stock]	6066
+[MACD] 35.4287
+[Signal Line] 84.5111
+==>BUY 5 for 30330euros
+
+--Day 810--
+[Capital] 41455
+[Stock]	5979
+[MACD] 10.4585
+[Signal Line] 65.9111
+==>BUY 3 for 17937euros
+
+--Day 811--
+[Capital] 23491
+[Stock]	5910
+[MACD] -17.667
+[Signal Line] 44.8222
+==>BUY 1 for 5910euros
+
+--Day 812--
+[Capital] 17572
+[Stock]	5992
+[MACD] -33.6895
+[Signal Line] 24
+==>BUY 1 for 5992euros
+
+--Day 813--
+[Capital] 11571
+[Stock]	6118
+[MACD] -35.6992
+[Signal Line] 6.51111
+
+--Day 814--
+[Capital] 11571
+[Stock]	6156
+[MACD] -32.5513
+[Signal Line] -6.66667
+
+--Day 815--
+[Capital] 11571
+[Stock]	6073
+[MACD] -34.98
+[Signal Line] -16.9333
+
+--Day 816--
+[Capital] 11571
+[Stock]	6097
+[MACD] -33.0996
+[Signal Line] -24.0222
+
+--Day 817--
+[Capital] 11571
+[Stock]	5941
+[MACD] -40.5996
+[Signal Line] -30.1556
+
+--Day 818--
+[Capital] 11571
+[Stock]	6000
+[MACD] -41.0542
+[Signal Line] -34.3778
+
+--Day 819--
+[Capital] 11571
+[Stock]	6033
+[MACD] -37.4072
+[Signal Line] -36.1111
+
+--Day 820--
+[Capital] 11571
+[Stock]	5989
+[MACD] -37.0215
+[Signal Line] -36.8
+
+--Day 821--
+[Capital] 11571
+[Stock]	5925
+[MACD] -40.2632
+[Signal Line] -37.6444
+
+--Day 822--
+[Capital] 11571
+[Stock]	6060
+[MACD] -31.1733
+[Signal Line] -36.5333
+==>SELL 172 for 1042320euros
+
+--Day 823--
+[Capital] 1052327
+[Stock]	6043
+[MACD] -24.7324
+[Signal Line] -34.1111
+
+--Day 824--
+[Capital] 1052327
+[Stock]	5911
+[MACD] -30.8589
+[Signal Line] -33.0667
+
+--Day 825--
+[Capital] 1052327
+[Stock]	5951
+[MACD] -33.312
+[Signal Line] -32.7111
+==>BUY 88 for 523688euros
+
+--Day 826--
+[Capital] 527853
+[Stock]	6025
+[MACD] -28.7207
+[Signal Line] -31.3556
+==>SELL 88 for 530200euros
+
+--Day 827--
+[Capital] 1057257
+[Stock]	6662
+[MACD] 27.6636
+[Signal Line] -19.2667
+
+--Day 828--
+[Capital] 1057257
+[Stock]	6520
+[MACD] 66.3633
+[Signal Line] -0.888889
+
+--Day 829--
+[Capital] 1057257
+[Stock]	6340
+[MACD] 86.2803
+[Signal Line] 19.2
+
+--Day 830--
+[Capital] 1057257
+[Stock]	6084
+[MACD] 81.0542
+[Signal Line] 35.5556
+
+--Day 831--
+[Capital] 1057257
+[Stock]	6242
+[MACD] 86.8818
+[Signal Line] 50.2222
+
+--Day 832--
+[Capital] 1057257
+[Stock]	6418
+[MACD] 104.415
+[Signal Line] 65.8889
+
+--Day 833--
+[Capital] 1057257
+[Stock]	6698
+[MACD] 139.664
+[Signal Line] 85.7111
+
+--Day 834--
+[Capital] 1057257
+[Stock]	6593
+[MACD] 158.587
+[Signal Line] 105.578
+
+--Day 835--
+[Capital] 1057257
+[Stock]	6620
+[MACD] 174.241
+[Signal Line] 124.4
+
+--Day 836--
+[Capital] 1057257
+[Stock]	6512
+[MACD] 175.46
+[Signal Line] 138.933
+
+--Day 837--
+[Capital] 1057257
+[Stock]	6439
+[MACD] 164.669
+[Signal Line] 147.978
+
+--Day 838--
+[Capital] 1057257
+[Stock]	6199
+[MACD] 129.984
+[Signal Line] 147.844
+==>BUY 85 for 526915euros
+
+--Day 839--
+[Capital] 529551
+[Stock]	6195
+[MACD] 93.3389
+[Signal Line] 139.556
+==>BUY 42 for 260190euros
+
+--Day 840--
+[Capital] 268970
+[Stock]	5703
+[MACD] 23.6523
+[Signal Line] 117
+==>BUY 23 for 131169euros
+
+--Day 841--
+[Capital] 137604
+[Stock]	5608
+[MACD] -44.4287
+[Signal Line] 82.4444
+==>BUY 12 for 67296euros
+
+--Day 842--
+[Capital] 70207
+[Stock]	5034
+[MACD] -150.239
+[Signal Line] 29.9778
+==>BUY 6 for 30204euros
+
+--Day 843--
+[Capital] 39957
+[Stock]	5569
+[MACD] -202.938
+[Signal Line] -26.4667
+==>BUY 3 for 16707euros
+
+--Day 844--
+[Capital] 23224
+[Stock]	5806
+[MACD] -229.164
+[Signal Line] -80.3111
+==>BUY 2 for 11612euros
+
+--Day 845--
+[Capital] 11594
+[Stock]	5602
+[MACD] -264.369
+[Signal Line] -132.2
+==>BUY 1 for 5602euros
+
+--Day 846--
+[Capital] 5983
+[Stock]	5263
+[MACD] -313.793
+[Signal Line] -184.133
+
+--Day 847--
+[Capital] 5983
+[Stock]	5463
+[MACD] -332.281
+[Signal Line] -229.267
+
+--Day 848--
+[Capital] 5983
+[Stock]	5827
+[MACD] -308.213
+[Signal Line] -259.356
+
+--Day 849--
+[Capital] 5983
+[Stock]	5901
+[MACD] -270.125
+[Signal Line] -272.933
+==>SELL 174 for 1026774euros
+
+--Day 850--
+[Capital] 1031216
+[Stock]	5550
+[MACD] -253.544
+[Signal Line] -276.6
+
+--Day 851--
+[Capital] 1031216
+[Stock]	5221
+[MACD] -255.916
+[Signal Line] -276.022
+
+--Day 852--
+[Capital] 1031216
+[Stock]	4759
+[MACD] -284.735
+[Signal Line] -278.911
+==>BUY 108 for 513972euros
+
+--Day 853--
+[Capital] 516473
+[Stock]	4719
+[MACD] -308.249
+[Signal Line] -284.778
+==>BUY 54 for 254826euros
+
+--Day 854--
+[Capital] 261264
+[Stock]	4766
+[MACD] -322.152
+[Signal Line] -291.689
+==>BUY 27 for 128682euros
+
+--Day 855--
+[Capital] 132388
+[Stock]	5218
+[MACD] -301.56
+[Signal Line] -293.111
+==>BUY 12 for 62616euros
+
+--Day 856--
+[Capital] 69678
+[Stock]	5451
+[MACD] -261.077
+[Signal Line] -286.8
+==>SELL 201 for 1095651euros
+
+--Day 857--
+[Capital] 1163685
+[Stock]	5518
+[MACD] -212.501
+[Signal Line] -272.267
+
+--Day 858--
+[Capital] 1163685
+[Stock]	5735
+[MACD] -147.601
+[Signal Line] -246.867
+
+--Day 859--
+[Capital] 1163685
+[Stock]	5687
+[MACD] -94.5269
+[Signal Line] -213.6
+
+--Day 860--
+[Capital] 1163685
+[Stock]	5599
+[MACD] -54.2251
+[Signal Line] -175.867
+
+--Day 861--
+[Capital] 1163685
+[Stock]	5194
+[MACD] -46.1396
+[Signal Line] -141
+
+--Day 862--
+[Capital] 1163685
+[Stock]	5066
+[MACD] -43.2637
+[Signal Line] -110.822
+
+--Day 863--
+[Capital] 1163685
+[Stock]	5073
+[MACD] -37.7437
+[Signal Line] -85.3333
+
+--Day 864--
+[Capital] 1163685
+[Stock]	4791
+[MACD] -56.7134
+[Signal Line] -69.9778
+
+--Day 865--
+[Capital] 1163685
+[Stock]	4514
+[MACD] -102.202
+[Signal Line] -69.2667
+==>BUY 128 for 577792euros
+
+--Day 866--
+[Capital] 585026
+[Stock]	4453
+[MACD] -154.718
+[Signal Line] -82.4889
+==>BUY 65 for 289445euros
+
+--Day 867--
+[Capital] 295146
+[Stock]	4785
+[MACD] -180.298
+[Signal Line] -102.2
+==>BUY 30 for 143550euros
+
+--Day 868--
+[Capital] 151380
+[Stock]	4605
+[MACD] -217.03
+[Signal Line] -128.578
+==>BUY 16 for 73680euros
+
+--Day 869--
+[Capital] 77589
+[Stock]	4613
+[MACD] -243.5
+[Signal Line] -157.422
+==>BUY 8 for 36904euros
+
+--Day 870--
+[Capital] 40629
+[Stock]	4650
+[MACD] -258.139
+[Signal Line] -185.067
+==>BUY 4 for 18600euros
+
+--Day 871--
+[Capital] 22001
+[Stock]	4327
+[MACD] -287.929
+[Signal Line] -213.8
+==>BUY 2 for 8654euros
+
+--Day 872--
+[Capital] 13334
+[Stock]	4441
+[MACD] -294.82
+[Signal Line] -238.511
+==>BUY 1 for 4441euros
+
+--Day 873--
+[Capital] 8886
+[Stock]	4818
+[MACD] -259.134
+[Signal Line] -250.511
+
+--Day 874--
+[Capital] 8886
+[Stock]	5128
+[MACD] -195.735
+[Signal Line] -245.2
+==>SELL 254 for 1302512euros
+
+--Day 875--
+[Capital] 1309444
+[Stock]	4864
+[MACD] -156.183
+[Signal Line] -230.022
+
+--Day 876--
+[Capital] 1309444
+[Stock]	5325
+[MACD] -80.1294
+[Signal Line] -199.6
+
+--Day 877--
+[Capital] 1309444
+[Stock]	5400
+[MACD] -5.58105
+[Signal Line] -156.4
+
+--Day 878--
+[Capital] 1309444
+[Stock]	5227
+[MACD] 44.3179
+[Signal Line] -108.111
+
+--Day 879--
+[Capital] 1309444
+[Stock]	4869
+[MACD] 57.0684
+[Signal Line] -63.6
+
+--Day 880--
+[Capital] 1309444
+[Stock]	4893
+[MACD] 71.084
+[Signal Line] -23.2889
+
+--Day 881--
+[Capital] 1309444
+[Stock]	5117
+[MACD] 99.6382
+[Signal Line] 14.6667
+
+--Day 882--
+[Capital] 1309444
+[Stock]	5098
+[MACD] 119.927
+[Signal Line] 47.8889
+
+--Day 883--
+[Capital] 1309444
+[Stock]	5453
+[MACD] 161.786
+[Signal Line] 81.1111
+
+--Day 884--
+[Capital] 1309444
+[Stock]	5527
+[MACD] 194.928
+[Signal Line] 113.022
+
+--Day 885--
+[Capital] 1309444
+[Stock]	5159
+[MACD] 184.196
+[Signal Line] 135.156
+
+--Day 886--
+[Capital] 1309444
+[Stock]	5017
+[MACD] 156.262
+[Signal Line] 145.822
+
+--Day 887--
+[Capital] 1309444
+[Stock]	4767
+[MACD] 108.15
+[Signal Line] 143.311
+==>BUY 137 for 653079euros
+
+--Day 888--
+[Capital] 655385
+[Stock]	5001
+[MACD] 78.731
+[Signal Line] 133.378
+==>BUY 65 for 325065euros
+
+--Day 889--
+[Capital] 329832
+[Stock]	4827
+[MACD] 39.4004
+[Signal Line] 115.178
+==>BUY 34 for 164118euros
+
+--Day 890--
+[Capital] 165467
+[Stock]	4870
+[MACD] 10.1455
+[Signal Line] 91.8889
+==>BUY 16 for 77920euros
+
+--Day 891--
+[Capital] 87430
+[Stock]	5069
+[MACD] 1.56689
+[Signal Line] 68.7778
+==>BUY 8 for 40552euros
+
+--Day 892--
+[Capital] 46817
+[Stock]	5329
+[MACD] 12.7461
+[Signal Line] 50.4889
+==>BUY 4 for 21316euros
+
+--Day 893--
+[Capital] 25469
+[Stock]	5127
+[MACD] 4.71826
+[Signal Line] 33.9111
+==>BUY 2 for 10254euros
+
+--Day 894--
+[Capital] 15199
+[Stock]	4922
+[MACD] -18.8174
+[Signal Line] 17.1556
+==>BUY 1 for 4922euros
+
+--Day 895--
+[Capital] 10269
+[Stock]	4805
+[MACD] -48.5269
+[Signal Line] -1.11111
+==>BUY 1 for 4805euros
+
+--Day 896--
+[Capital] 5456
+[Stock]	4913
+[MACD] -60.7661
+[Signal Line] -17.2444
+
+--Day 897--
+[Capital] 5456
+[Stock]	4930
+[MACD] -63.0283
+[Signal Line] -30.2444
+
+--Day 898--
+[Capital] 5456
+[Stock]	4970
+[MACD] -57.4458
+[Signal Line] -38.9111
+
+--Day 899--
+[Capital] 5456
+[Stock]	4933
+[MACD] -52.7056
+[Signal Line] -44.4444
+
+--Day 900--
+[Capital] 5456
+[Stock]	4981
+[MACD] -45.936
+[Signal Line] -47.2
+==>SELL 268 for 1334908euros
+
+--Day 901--
+[Capital] 1338361
+[Stock]	5100
+[MACD] -29.8359
+[Signal Line] -45.7333
+
+--Day 902--
+[Capital] 1338361
+[Stock]	5095
+[MACD] -16.9629
+[Signal Line] -40.7556
+
+--Day 903--
+[Capital] 1338361
+[Stock]	5262
+[MACD] 5.69238
+[Signal Line] -31.1333
+
+--Day 904--
+[Capital] 1338361
+[Stock]	5380
+[MACD] 34.8931
+[Signal Line] -16.2222
+
+--Day 905--
+[Capital] 1338361
+[Stock]	5161
+[MACD] 46.4058
+[Signal Line] -0.733333
+
+--Day 906--
+[Capital] 1338361
+[Stock]	5029
+[MACD] 47.7847
+[Signal Line] 12.6
+
+--Day 907--
+[Capital] 1338361
+[Stock]	5145
+[MACD] 57.4331
+[Signal Line] 25.4889
+
+--Day 908--
+[Capital] 1338361
+[Stock]	4940
+[MACD] 46.4487
+[Signal Line] 33.6444
+
+--Day 909--
+[Capital] 1338361
+[Stock]	4981
+[MACD] 37.9385
+[Signal Line] 37.8222
+
+--Day 910--
+[Capital] 1338361
+[Stock]	4822
+[MACD] 14.7466
+[Signal Line] 35.5778
+==>BUY 138 for 665436euros
+
+--Day 911--
+[Capital] 671926
+[Stock]	4665
+[MACD] -21.0811
+[Signal Line] 25.3778
+==>BUY 72 for 335880euros
+
+--Day 912--
+[Capital] 335542
+[Stock]	4738
+[MACD] -49.0566
+[Signal Line] 9.68889
+==>BUY 35 for 165830euros
+
+--Day 913--
+[Capital] 169463
+[Stock]	4613
+[MACD] -84.6841
+[Signal Line] -11.8
+==>BUY 18 for 83034euros
+
+--Day 914--
+[Capital] 86304
+[Stock]	4469
+[MACD] -125.993
+[Signal Line] -38.8667
+==>BUY 9 for 40221euros
+
+--Day 915--
+[Capital] 46022
+[Stock]	4503
+[MACD] -158.08
+[Signal Line] -68.7333
+==>BUY 5 for 22515euros
+
+--Day 916--
+[Capital] 23473
+[Stock]	4477
+[MACD] -183.433
+[Signal Line] -99.0444
+==>BUY 2 for 8954euros
+
+--Day 917--
+[Capital] 14505
+[Stock]	4579
+[MACD] -190.192
+[Signal Line] -125.422
+==>BUY 1 for 4579euros
+
+--Day 918--
+[Capital] 9919
+[Stock]	4592
+[MACD] -189.849
+[Signal Line] -146.356
+==>BUY 1 for 4592euros
+
+--Day 919--
+[Capital] 5320
+[Stock]	4632
+[MACD] -182.812
+[Signal Line] -160.867
+
+--Day 920--
+[Capital] 5320
+[Stock]	4713
+[MACD] -164.146
+[Signal Line] -167.422
+==>SELL 281 for 1324353euros
+
+--Day 921--
+[Capital] 1327686
+[Stock]	4630
+[MACD] -149.788
+[Signal Line] -167.8
+
+--Day 922--
+[Capital] 1327686
+[Stock]	4457
+[MACD] -145.228
+[Signal Line] -165.156
+
+--Day 923--
+[Capital] 1327686
+[Stock]	4468
+[MACD] -136.41
+[Signal Line] -159.356
+
+--Day 924--
+[Capital] 1327686
+[Stock]	4642
+[MACD] -112.503
+[Signal Line] -148.511
+
+--Day 925--
+[Capital] 1327686
+[Stock]	4578
+[MACD] -93.4048
+[Signal Line] -134.889
+
+--Day 926--
+[Capital] 1327686
+[Stock]	4732
+[MACD] -62.584
+[Signal Line] -117.067
+
+--Day 927--
+[Capital] 1327686
+[Stock]	4874
+[MACD] -24.5171
+[Signal Line] -94.4889
+
+--Day 928--
+[Capital] 1327686
+[Stock]	4727
+[MACD] -3.57715
+[Signal Line] -71.3778
+
+--Day 929--
+[Capital] 1327686
+[Stock]	4538
+[MACD] -1.9668
+[Signal Line] -51.8444
+
+--Day 930--
+[Capital] 1327686
+[Stock]	4369
+[MACD] -15.376
+[Signal Line] -38.7333
+
+--Day 931--
+[Capital] 1327686
+[Stock]	4423
+[MACD] -24.4985
+[Signal Line] -30.4
+
+--Day 932--
+[Capital] 1327686
+[Stock]	4272
+[MACD] -45.0898
+[Signal Line] -28.9556
+==>BUY 155 for 662160euros
+
+--Day 933--
+[Capital] 664532
+[Stock]	4232
+[MACD] -65.3745
+[Signal Line] -33.5333
+==>BUY 78 for 330096euros
+
+--Day 934--
+[Capital] 333940
+[Stock]	4394
+[MACD] -70.2354
+[Signal Line] -40.1556
+==>BUY 37 for 162578euros
+
+--Day 935--
+[Capital] 171118
+[Stock]	4232
+[MACD] -88.7661
+[Signal Line] -50.8889
+==>BUY 20 for 84640euros
+
+--Day 936--
+[Capital] 86351
+[Stock]	4345
+[MACD] -97.3916
+[Signal Line] -62.8444
+==>BUY 9 for 39105euros
+
+--Day 937--
+[Capital] 47187
+[Stock]	4164
+[MACD] -118.007
+[Signal Line] -77.3778
+==>BUY 5 for 20820euros
+
+--Day 938--
+[Capital] 26335
+[Stock]	4264
+[MACD] -126.765
+[Signal Line] -90.9556
+==>BUY 3 for 12792euros
+
+--Day 939--
+[Capital] 13523
+[Stock]	4250
+[MACD] -131.99
+[Signal Line] -102.756
+==>BUY 1 for 4250euros
+
+--Day 940--
+[Capital] 9266
+[Stock]	4023
+[MACD] -148.357
+[Signal Line] -115.378
+==>BUY 1 for 4023euros
+
+--Day 941--
+[Capital] 5236
+[Stock]	4083
+[MACD] -152.184
+[Signal Line] -126.044
+
+--Day 942--
+[Capital] 5236
+[Stock]	4037
+[MACD] -155.043
+[Signal Line] -134.933
+
+--Day 943--
+[Capital] 5236
+[Stock]	4074
+[MACD] -151.947
+[Signal Line] -141.022
+
+--Day 944--
+[Capital] 5236
+[Stock]	4137
+[MACD] -140.791
+[Signal Line] -143.111
+==>SELL 309 for 1278333euros
+
+--Day 945--
+[Capital] 1281651
+[Stock]	4025
+[MACD] -138.134
+[Signal Line] -143.644
+
+--Day 946--
+[Capital] 1281651
+[Stock]	3935
+[MACD] -141.732
+[Signal Line] -143.867
+
+--Day 947--
+[Capital] 1281651
+[Stock]	3897
+[MACD] -144.694
+[Signal Line] -144.178
+==>BUY 164 for 639108euros
+
+--Day 948--
+[Capital] 641584
+[Stock]	4198
+[MACD] -121.437
+[Signal Line] -139.489
+==>SELL 164 for 688472euros
+
+--Day 949--
+[Capital] 1329023
+[Stock]	4343
+[MACD] -85.4673
+[Signal Line] -127.822
+
+--Day 950--
+[Capital] 1329023
+[Stock]	4476
+[MACD] -41.5386
+[Signal Line] -108.756
+
+--Day 951--
+[Capital] 1329023
+[Stock]	4500
+[MACD] 1.11377
+[Signal Line] -83.7556
+
+--Day 952--
+[Capital] 1329023
+[Stock]	4385
+[MACD] 31.165
+[Signal Line] -56.2222
+
+--Day 953--
+[Capital] 1329023
+[Stock]	4595
+[MACD] 72.3394
+[Signal Line] -24.5333
+
+--Day 954--
+[Capital] 1329023
+[Stock]	4378
+[MACD] 88.8433
+[Signal Line] 5.64444
+
+--Day 955--
+[Capital] 1329023
+[Stock]	4697
+[MACD] 125.429
+[Signal Line] 38.2
+
+--Day 956--
+[Capital] 1329023
+[Stock]	4597
+[MACD] 146.503
+[Signal Line] 69.0444
+
+--Day 957--
+[Capital] 1329023
+[Stock]	4674
+[MACD] 168.472
+[Signal Line] 97.8444
+
+--Day 958--
+[Capital] 1329023
+[Stock]	4612
+[MACD] 177.889
+[Signal Line] 122.022
+
+--Day 959--
+[Capital] 1329023
+[Stock]	4668
+[MACD] 184.062
+[Signal Line] 141.778
+
+--Day 960--
+[Capital] 1329023
+[Stock]	4742
+[MACD] 187.497
+[Signal Line] 157.133
+
+--Day 961--
+[Capital] 1329023
+[Stock]	4600
+[MACD] 173.621
+[Signal Line] 165.556
+
+--Day 962--
+[Capital] 1329023
+[Stock]	4674
+[MACD] 163.401
+[Signal Line] 168.822
+==>BUY 142 for 663708euros
+
+--Day 963--
+[Capital] 664319
+[Stock]	4618
+[MACD] 147.114
+[Signal Line] 166.867
+==>BUY 71 for 327878euros
+
+--Day 964--
+[Capital] 335949
+[Stock]	4761
+[MACD] 142.014
+[Signal Line] 162.6
+==>BUY 35 for 166635euros
+
+--Day 965--
+[Capital] 169064
+[Stock]	5026
+[MACD] 154.649
+[Signal Line] 160.356
+==>BUY 16 for 80416euros
+
+--Day 966--
+[Capital] 88527
+[Stock]	5128
+[MACD] 172.107
+[Signal Line] 161.533
+==>SELL 264 for 1353792euros
+
+--Day 967--
+[Capital] 1440288
+[Stock]	5037
+[MACD] 175.838
+[Signal Line] 163.222
+
+--Day 968--
+[Capital] 1440288
+[Stock]	4996
+[MACD] 174.656
+[Signal Line] 164.756
+
+--Day 969--
+[Capital] 1440288
+[Stock]	5125
+[MACD] 181.383
+[Signal Line] 167.911
+
+--Day 970--
+[Capital] 1440288
+[Stock]	5327
+[MACD] 201.436
+[Signal Line] 175.2
+
+--Day 971--
+[Capital] 1440288
+[Stock]	5273
+[MACD] 211.405
+[Signal Line] 183.867
+
+--Day 972--
+[Capital] 1440288
+[Stock]	5260
+[MACD] 216.135
+[Signal Line] 192.467
+
+--Day 973--
+[Capital] 1440288
+[Stock]	5140
+[MACD] 208.427
+[Signal Line] 197.933
+
+--Day 974--
+[Capital] 1440288
+[Stock]	5220
+[MACD] 203.72
+[Signal Line] 200.933
+
+--Day 975--
+[Capital] 1440288
+[Stock]	5403
+[MACD] 209.521
+[Signal Line] 204.044
+
+--Day 976--
+[Capital] 1440288
+[Stock]	5388
+[MACD] 207.083
+[Signal Line] 205.933
+
+--Day 977--
+[Capital] 1440288
+[Stock]	5231
+[MACD] 186.679
+[Signal Line] 202.911
+==>BUY 137 for 716647euros
+
+--Day 978--
+[Capital] 722566
+[Stock]	5291
+[MACD] 170.517
+[Signal Line] 196.422
+==>BUY 68 for 359788euros
+
+--Day 979--
+[Capital] 362238
+[Stock]	5500
+[MACD] 171.519
+[Signal Line] 190.378
+==>BUY 32 for 176000euros
+
+--Day 980--
+[Capital] 185974
+[Stock]	5473
+[MACD] 167.008
+[Signal Line] 184.2
+==>BUY 16 for 87568euros
+
+--Day 981--
+[Capital] 98274
+[Stock]	5401
+[MACD] 153.759
+[Signal Line] 176.2
+==>BUY 9 for 48609euros
+
+--Day 982--
+[Capital] 49592
+[Stock]	5342
+[MACD] 134.271
+[Signal Line] 165.8
+==>BUY 4 for 21368euros
+
+--Day 983--
+[Capital] 28191
+[Stock]	5560
+[MACD] 134.103
+[Signal Line] 157.044
+==>BUY 2 for 11120euros
+
+--Day 984--
+[Capital] 17054
+[Stock]	5354
+[MACD] 116.346
+[Signal Line] 146.222
+==>BUY 1 for 5354euros
+
+--Day 985--
+[Capital] 11691
+[Stock]	5287
+[MACD] 94.1538
+[Signal Line] 133.067
+==>BUY 1 for 5287euros
+
+--Day 986--
+[Capital] 6396
+[Stock]	5291
+[MACD] 72.1592
+[Signal Line] 118.022
+
+--Day 987--
+[Capital] 6396
+[Stock]	5442
+[MACD] 62.8647
+[Signal Line] 103.511
+
+--Day 988--
+[Capital] 6396
+[Stock]	5545
+[MACD] 63.6851
+[Signal Line] 91.6
+
+--Day 989--
+[Capital] 6396
+[Stock]	5532
+[MACD] 63.937
+[Signal Line] 82.0889
+
+--Day 990--
+[Capital] 6396
+[Stock]	5376
+[MACD] 50.4897
+[Signal Line] 72.2889
+
+--Day 991--
+[Capital] 6396
+[Stock]	5360
+[MACD] 36.4287
+[Signal Line] 61.9778
+
+--Day 992--
+[Capital] 6396
+[Stock]	5250
+[MACD] 16.3389
+[Signal Line] 49.8444
+
+--Day 993--
+[Capital] 6396
+[Stock]	5040
+[MACD] -17.2964
+[Signal Line] 33.7333
+
+--Day 994--
+[Capital] 6396
+[Stock]	4940
+[MACD] -54.272
+[Signal Line] 13.1778
+
+--Day 995--
+[Capital] 6396
+[Stock]	5009
+[MACD] -80.749
+[Signal Line] -9.28889
+
+--Day 996--
+[Capital] 6396
+[Stock]	5012
+[MACD] -100.253
+[Signal Line] -32.3778
+
+--Day 997--
+[Capital] 6396
+[Stock]	5150
+[MACD] -105.262
+[Signal Line] -52.8667
+
+--Day 998--
+[Capital] 6396
+[Stock]	5233
+[MACD] -102.244
+[Signal Line] -69.0222
+
+--Day 999--
+[Capital] 6396
+[Stock]	5036
+[MACD] -114.273
+[Signal Line] -83.9111
+
+--Day 1000--
+[Capital] 6396
+[Stock]	5135
+[MACD] -113.497
+[Signal Line] -94.9556
+
+--Day 1001--
+[Capital] 6396
+[Stock]	5241
+[MACD] -99.2505
+[Signal Line] -99.8889
+==>SELL 270 for 1415070euros
+
+--Day 1002--
+[Capital] 1419343
+[Stock]	5197
+[MACD] -85.2451
+[Signal Line] -99.4667
+
+--Day 1003--
+[Capital] 1419343
+[Stock]	5417
+[MACD] -51.939
+[Signal Line] -90.7333
+
+--Day 1004--
+[Capital] 1419343
+[Stock]	5445
+[MACD] -16.5996
+[Signal Line] -75.0667
+
+--Day 1005--
+[Capital] 1419343
+[Stock]	5526
+[MACD] 23.1396
+[Signal Line] -53.0222
+
+--Day 1006--
+[Capital] 1419343
+[Stock]	5786
+[MACD] 77.4629
+[Signal Line] -22.9111
+
+--Day 1007--
+[Capital] 1419343
+[Stock]	5899
+[MACD] 130.846
+[Signal Line] 13.7556
+
+--Day 1008--
+[Capital] 1419343
+[Stock]	5739
+[MACD] 161.474
+[Signal Line] 51.4667
+
+--Day 1009--
+[Capital] 1419343
+[Stock]	5814
+[MACD] 189.896
+[Signal Line] 88.6667
+
+--Day 1010--
+[Capital] 1419343
+[Stock]	5860
+[MACD] 214.198
+[Signal Line] 124.156
+
+--Day 1011--
+[Capital] 1419343
+[Stock]	5812
+[MACD] 228.074
+[Signal Line] 155.489
+
+--Day 1012--
+[Capital] 1419343
+[Stock]	5799
+[MACD] 232.46
+[Signal Line] 180.667
+
+--Day 1013--
+[Capital] 1419343
+[Stock]	5887
+[MACD] 236.801
+[Signal Line] 200.356
+
+--Day 1014--
+[Capital] 1419343
+[Stock]	5716
+[MACD] 220.486
+[Signal Line] 211.244
+
+--Day 1015--
+[Capital] 1419343
+[Stock]	5642
+[MACD] 192.102
+[Signal Line] 212.156
+==>BUY 125 for 705250euros
+
+--Day 1016--
+[Capital] 713035
+[Stock]	5639
+[MACD] 160.906
+[Signal Line] 204.111
+==>BUY 63 for 355257euros
+
+--Day 1017--
+[Capital] 357245
+[Stock]	5595
+[MACD] 124.463
+[Signal Line] 188.2
+==>BUY 31 for 173445euros
+
+--Day 1018--
+[Capital] 183539
+[Stock]	5515
+[MACD] 81.4233
+[Signal Line] 164.511
+==>BUY 16 for 88240euros
+
+--Day 1019--
+[Capital] 95166
+[Stock]	5520
+[MACD] 43.0112
+[Signal Line] 135.622
+==>BUY 8 for 44160euros
+
+--Day 1020--
+[Capital] 50939
+[Stock]	5683
+[MACD] 23.8286
+[Signal Line] 106.533
+==>BUY 4 for 22732euros
+
+--Day 1021--
+[Capital] 28172
+[Stock]	5620
+[MACD] 2.45557
+[Signal Line] 77.8
+==>BUY 2 for 11240euros
+
+--Day 1022--
+[Capital] 16915
+[Stock]	5521
+[MACD] -22.5869
+[Signal Line] 49.3778
+==>BUY 1 for 5521euros
+
+--Day 1023--
+[Capital] 11385
+[Stock]	5395
+[MACD] -51.8848
+[Signal Line] 20.8889
+==>BUY 1 for 5395euros
+
+--Day 1024--
+[Capital] 5981
+[Stock]	5065
+[MACD] -101.463
+[Signal Line] -11.5778
+
+--Day 1025--
+[Capital] 5981
+[Stock]	5074
+[MACD] -141.392
+[Signal Line] -45.5333
+
+--Day 1026--
+[Capital] 5981
+[Stock]	5115
+[MACD] -167.519
+[Signal Line] -78
+
+--Day 1027--
+[Capital] 5981
+[Stock]	5186
+[MACD] -180.333
+[Signal Line] -106.6
+
+--Day 1028--
+[Capital] 5981
+[Stock]	5214
+[MACD] -185.225
+[Signal Line] -130.4
+
+--Day 1029--
+[Capital] 5981
+[Stock]	5177
+[MACD] -187.571
+[Signal Line] -149.533
+
+--Day 1030--
+[Capital] 5981
+[Stock]	5106
+[MACD] -190.906
+[Signal Line] -164.6
+
+--Day 1031--
+[Capital] 5981
+[Stock]	5074
+[MACD] -192.516
+[Signal Line] -175.8
+
+--Day 1032--
+[Capital] 5981
+[Stock]	5170
+[MACD] -182.037
+[Signal Line] -181.222
+
+--Day 1033--
+[Capital] 5981
+[Stock]	5099
+[MACD] -172.4
+[Signal Line] -181.733
+==>SELL 251 for 1279849euros
+
+--Day 1034--
+[Capital] 1283910
+[Stock]	5186
+[MACD] -151.423
+[Signal Line] -176.467
+
+--Day 1035--
+[Capital] 1283910
+[Stock]	5067
+[MACD] -137.22
+[Signal Line] -168.178
+
+--Day 1036--
+[Capital] 1283910
+[Stock]	5146
+[MACD] -114.637
+[Signal Line] -155.956
+
+--Day 1037--
+[Capital] 1283910
+[Stock]	5149
+[MACD] -94.8877
+[Signal Line] -141.2
+
+--Day 1038--
+[Capital] 1283910
+[Stock]	5235
+[MACD] -71.1284
+[Signal Line] -123.867
+
+--Day 1039--
+[Capital] 1283910
+[Stock]	5278
+[MACD] -47.084
+[Signal Line] -104.311
+
+--Day 1040--
+[Capital] 1283910
+[Stock]	5315
+[MACD] -23.0024
+[Signal Line] -83.1333
+
+--Day 1041--
+[Capital] 1283910
+[Stock]	5259
+[MACD] -5.82617
+[Signal Line] -62.1111
+
+--Day 1042--
+[Capital] 1283910
+[Stock]	5343
+[MACD] 15.9087
+[Signal Line] -41.0222
+
+--Day 1043--
+[Capital] 1283910
+[Stock]	5200
+[MACD] 22.3545
+[Signal Line] -22.6889
+
+--Day 1044--
+[Capital] 1283910
+[Stock]	5150
+[MACD] 22.0713
+[Signal Line] -8.2
+
+--Day 1045--
+[Capital] 1283910
+[Stock]	5111
+[MACD] 17.8931
+[Signal Line] 1.75556
+
+--Day 1046--
+[Capital] 1283910
+[Stock]	5221
+[MACD] 21.1709
+[Signal Line] 9.6
+
+--Day 1047--
+[Capital] 1283910
+[Stock]	5198
+[MACD] 20.8486
+[Signal Line] 14.6889
+
+--Day 1048--
+[Capital] 1283910
+[Stock]	5250
+[MACD] 21.7935
+[Signal Line] 17.9556
+
+--Day 1049--
+[Capital] 1283910
+[Stock]	5493
+[MACD] 40.0171
+[Signal Line] 23.5111
+
+--Day 1050--
+[Capital] 1283910
+[Stock]	5567
+[MACD] 60.0132
+[Signal Line] 31.6667
+
+--Day 1051--
+[Capital] 1283910
+[Stock]	5698
+[MACD] 87.6323
+[Signal Line] 43.7778
+
+--Day 1052--
+[Capital] 1283910
+[Stock]	5646
+[MACD] 107.497
+[Signal Line] 58.2889
+
+--Day 1053--
+[Capital] 1283910
+[Stock]	5754
+[MACD] 133.247
+[Signal Line] 76.1111
+
+--Day 1054--
+[Capital] 1283910
+[Stock]	5725
+[MACD] 151.954
+[Signal Line] 95.0667
+
+--Day 1055--
+[Capital] 1283910
+[Stock]	5796
+[MACD] 172.885
+[Signal Line] 115.244
+
+--Day 1056--
+[Capital] 1283910
+[Stock]	5787
+[MACD] 187.219
+[Signal Line] 135.067
+
+--Day 1057--
+[Capital] 1283910
+[Stock]	5660
+[MACD] 185.197
+[Signal Line] 150.778
+
+--Day 1058--
+[Capital] 1283910
+[Stock]	5738
+[MACD] 184.027
+[Signal Line] 162.644
+
+--Day 1059--
+[Capital] 1283910
+[Stock]	5766
+[MACD] 180.081
+[Signal Line] 170.511
+
+--Day 1060--
+[Capital] 1283910
+[Stock]	5607
+[MACD] 158.07
+[Signal Line] 171.311
+==>BUY 114 for 639198euros
+
+--Day 1061--
+[Capital] 643753
+[Stock]	5552
+[MACD] 128.293
+[Signal Line] 164.533
+==>BUY 57 for 316464euros
+
+--Day 1062--
+[Capital] 326814
+[Stock]	5509
+[MACD] 95.7124
+[Signal Line] 150.689
+==>BUY 29 for 159761euros
+
+--Day 1063--
+[Capital] 166813
+[Stock]	5680
+[MACD] 78.5498
+[Signal Line] 134.289
+==>BUY 14 for 79520euros
+
+--Day 1064--
+[Capital] 87173
+[Stock]	5599
+[MACD] 56.6694
+[Signal Line] 115.111
+==>BUY 7 for 39193euros
+
+--Day 1065--
+[Capital] 47921
+[Stock]	5570
+[MACD] 34.1152
+[Signal Line] 94.1111
+==>BUY 4 for 22280euros
+
+--Day 1066--
+[Capital] 25607
+[Stock]	5629
+[MACD] 19.4585
+[Signal Line] 73.5111
+==>BUY 2 for 11258euros
+
+--Day 1067--
+[Capital] 14332
+[Stock]	5528
+[MACD] -1.12988
+[Signal Line] 52.6
+==>BUY 1 for 5528euros
+
+--Day 1068--
+[Capital] 8795
+[Stock]	5554
+[MACD] -15.4414
+[Signal Line] 33
+
+--Day 1069--
+[Capital] 8795
+[Stock]	5705
+[MACD] -14.1196
+[Signal Line] 17.9333
+
+--Day 1070--
+[Capital] 8795
+[Stock]	5592
+[MACD] -20.9502
+[Signal Line] 5.48889
+
+--Day 1071--
+[Capital] 8795
+[Stock]	5490
+[MACD] -32.7866
+[Signal Line] -6.06667
+
+--Day 1072--
+[Capital] 8795
+[Stock]	5412
+[MACD] -46.2266
+[Signal Line] -17.6
+
+--Day 1073--
+[Capital] 8795
+[Stock]	5349
+[MACD] -61.6484
+[Signal Line] -29.3778
+
+--Day 1074--
+[Capital] 8795
+[Stock]	5387
+[MACD] -71.0059
+[Signal Line] -40.5556
+
+--Day 1075--
+[Capital] 8795
+[Stock]	5463
+[MACD] -72.3462
+[Signal Line] -49.6
+
+--Day 1076--
+[Capital] 8795
+[Stock]	5493
+[MACD] -68.5967
+[Signal Line] -55.8222
+
+--Day 1077--
+[Capital] 8795
+[Stock]	5535
+[MACD] -60.3491
+[Signal Line] -58.9556
+
+--Day 1078--
+[Capital] 8795
+[Stock]	5556
+[MACD] -50.4414
+[Signal Line] -59.0889
+==>SELL 228 for 1266768euros
+
+--Day 1079--
+[Capital] 1273662
+[Stock]	5448
+[MACD] -48.4702
+[Signal Line] -58.0222
+
+--Day 1080--
+[Capital] 1273662
+[Stock]	5476
+[MACD] -44.1113
+[Signal Line] -55.5333
+
+--Day 1081--
+[Capital] 1273662
+[Stock]	5476
+[MACD] -39.4614
+[Signal Line] -51.7778
+
+--Day 1082--
+[Capital] 1273662
+[Stock]	5700
+[MACD] -14.9189
+[Signal Line] -43.1778
+
+--Day 1083--
+[Capital] 1273662
+[Stock]	5825
+[MACD] 17.9629
+[Signal Line] -29.4222
+
+--Day 1084--
+[Capital] 1273662
+[Stock]	5805
+[MACD] 45.4248
+[Signal Line] -12.0222
+
+--Day 1085--
+[Capital] 1273662
+[Stock]	5897
+[MACD] 75.3774
+[Signal Line] 8.77778
+
+--Day 1086--
+[Capital] 1273662
+[Stock]	5880
+[MACD] 97.3218
+[Signal Line] 30.8
+
+--Day 1087--
+[Capital] 1273662
+[Stock]	5831
+[MACD] 109.815
+[Signal Line] 51.7333
+
+--Day 1088--
+[Capital] 1273662
+[Stock]	5833
+[MACD] 118.544
+[Signal Line] 70.9333
+
+--Day 1089--
+[Capital] 1273662
+[Stock]	5873
+[MACD] 127.028
+[Signal Line] 88.2444
+
+--Day 1090--
+[Capital] 1273662
+[Stock]	5923
+[MACD] 135.718
+[Signal Line] 103.356
+
+--Day 1091--
+[Capital] 1273662
+[Stock]	6401
+[MACD] 178.756
+[Signal Line] 123.2
+
+--Day 1092--
+[Capital] 1273662
+[Stock]	6400
+[MACD] 211.865
+[Signal Line] 145.378
+
+--Day 1093--
+[Capital] 1273662
+[Stock]	6153
+[MACD] 215.62
+[Signal Line] 164.044
+
+--Day 1094--
+[Capital] 1273662
+[Stock]	6188
+[MACD] 215.268
+[Signal Line] 178.933
+
+--Day 1095--
+[Capital] 1273662
+[Stock]	6291
+[MACD] 218.682
+[Signal Line] 191.311
+
+--Day 1096--
+[Capital] 1273662
+[Stock]	6294
+[MACD] 218.031
+[Signal Line] 201
+
+--Day 1097--
+[Capital] 1273662
+[Stock]	6371
+[MACD] 219.254
+[Signal Line] 208.467
+
+--Day 1098--
+[Capital] 1273662
+[Stock]	6412
+[MACD] 220.18
+[Signal Line] 213.889
+
+--Day 1099--
+[Capital] 1273662
+[Stock]	6385
+[MACD] 214.98
+[Signal Line] 216.044
+==>BUY 99 for 632115euros
+
+--Day 1100--
+[Capital] 640598
+[Stock]	6326
+[MACD] 200.923
+[Signal Line] 213.644
+==>BUY 50 for 316300euros
+
+--Day 1101--
+[Capital] 323823
+[Stock]	6408
+[MACD] 189.762
+[Signal Line] 208.556
+==>BUY 25 for 160200euros
+
+--Day 1102--
+[Capital] 163382
+[Stock]	6473
+[MACD] 179.62
+[Signal Line] 201.956
+==>BUY 12 for 77676euros
+
+--Day 1103--
+[Capital] 85589
+[Stock]	6434
+[MACD] 162.107
+[Signal Line] 192.756
+==>BUY 6 for 38604euros
+
+--Day 1104--
+[Capital] 46927
+[Stock]	6504
+[MACD] 152.316
+[Signal Line] 182.733
+==>BUY 3 for 19512euros
+
+--Day 1105--
+[Capital] 27385
+[Stock]	6553
+[MACD] 147.802
+[Signal Line] 173.178
+==>BUY 2 for 13106euros
+
+--Day 1106--
+[Capital] 14259
+[Stock]	6510
+[MACD] 137.877
+[Signal Line] 163.2
+==>BUY 1 for 6510euros
+
+--Day 1107--
+[Capital] 7739
+[Stock]	6482
+[MACD] 124.537
+[Signal Line] 152.444
+
+--Day 1108--
+[Capital] 7739
+[Stock]	6505
+[MACD] 113.449
+[Signal Line] 141.622
+
+--Day 1109--
+[Capital] 7739
+[Stock]	6408
+[MACD] 94.2109
+[Signal Line] 129.244
+
+--Day 1110--
+[Capital] 7739
+[Stock]	6365
+[MACD] 72.729
+[Signal Line] 114.822
+
+--Day 1111--
+[Capital] 7739
+[Stock]	6363
+[MACD] 53.2866
+[Signal Line] 99.2
+
+--Day 1112--
+[Capital] 7739
+[Stock]	6300
+[MACD] 30.4272
+[Signal Line] 81.7778
+
+--Day 1113--
+[Capital] 7739
+[Stock]	6335
+[MACD] 11.8901
+[Signal Line] 63.4889
+
+--Day 1114--
+[Capital] 7739
+[Stock]	6234
+[MACD] -12.332
+[Signal Line] 43.7333
+
+--Day 1115--
+[Capital] 7739
+[Stock]	6225
+[MACD] -33.0654
+[Signal Line] 23.3111
+
+--Day 1116--
+[Capital] 7739
+[Stock]	6282
+[MACD] -45.5698
+[Signal Line] 4.26667
+
+--Day 1117--
+[Capital] 7739
+[Stock]	6349
+[MACD] -48.8604
+[Signal Line] -11.6222
+
+--Day 1118--
+[Capital] 7739
+[Stock]	6465
+[MACD] -40.4302
+[Signal Line] -22.3333
+
+--Day 1119--
+[Capital] 7739
+[Stock]	6450
+[MACD] -32.4346
+[Signal Line] -28.4667
+
+--Day 1120--
+[Capital] 7739
+[Stock]	6534
+[MACD] -16.4814
+[Signal Line] -29.0889
+==>SELL 198 for 1293732euros
+
+--Day 1121--
+[Capital] 1299530
+[Stock]	6461
+[MACD] -5.73779
+[Signal Line] -25.9778
+
+--Day 1122--
+[Capital] 1299530
+[Stock]	6494
+[MACD] 7.44287
+[Signal Line] -19.6889
+
+--Day 1123--
+[Capital] 1299530
+[Stock]	6427
+[MACD] 14.1953
+[Signal Line] -11.9111
+
+--Day 1124--
+[Capital] 1299530
+[Stock]	6466
+[MACD] 23.3975
+[Signal Line] -2.91111
+
+--Day 1125--
+[Capital] 1299530
+[Stock]	6589
+[MACD] 40.437
+[Signal Line] 8.24444
+
+--Day 1126--
+[Capital] 1299530
+[Stock]	6479
+[MACD] 46.0269
+[Signal Line] 18.7111
+
+--Day 1127--
+[Capital] 1299530
+[Stock]	6393
+[MACD] 42.0513
+[Signal Line] 26.2889
+
+--Day 1128--
+[Capital] 1299530
+[Stock]	6334
+[MACD] 31.1724
+[Signal Line] 29.8444
+
+--Day 1129--
+[Capital] 1299530
+[Stock]	6482
+[MACD] 31.0371
+[Signal Line] 32
+==>BUY 100 for 648200euros
+
+--Day 1130--
+[Capital] 650357
+[Stock]	6468
+[MACD] 28.2163
+[Signal Line] 32.5111
+==>BUY 50 for 323400euros
+
+--Day 1131--
+[Capital] 326471
+[Stock]	6453
+[MACD] 24.0581
+[Signal Line] 31.4889
+==>BUY 25 for 161325euros
+
+--Day 1132--
+[Capital] 164904
+[Stock]	6570
+[MACD] 28.9102
+[Signal Line] 30.8889
+==>BUY 12 for 78840euros
+
+--Day 1133--
+[Capital] 85945
+[Stock]	6452
+[MACD] 24.0581
+[Signal Line] 29.1778
+==>BUY 6 for 38712euros
+
+--Day 1134--
+[Capital] 47174
+[Stock]	6480
+[MACD] 21.4697
+[Signal Line] 26.8444
+==>BUY 3 for 19440euros
+
+--Day 1135--
+[Capital] 27704
+[Stock]	6527
+[MACD] 22.7393
+[Signal Line] 25.1333
+==>BUY 2 for 13054euros
+
+--Day 1136--
+[Capital] 14630
+[Stock]	6453
+[MACD] 17.1626
+[Signal Line] 22.9556
+==>BUY 1 for 6453euros
+
+--Day 1137--
+[Capital] 8167
+[Stock]	6526
+[MACD] 17.8262
+[Signal Line] 21.3333
+
+--Day 1138--
+[Capital] 8167
+[Stock]	6528
+[MACD] 19.9214
+[Signal Line] 20.4222
+
+--Day 1139--
+[Capital] 8167
+[Stock]	6430
+[MACD] 14.2212
+[Signal Line] 18.7778
+
+--Day 1140--
+[Capital] 8167
+[Stock]	6400
+[MACD] 5.92285
+[Signal Line] 15.6444
+
+--Day 1141--
+[Capital] 8167
+[Stock]	6351
+[MACD] -6.65674
+[Signal Line] 10.7333
+
+--Day 1142--
+[Capital] 8167
+[Stock]	6220
+[MACD] -27.6479
+[Signal Line] 2.37778
+
+--Day 1143--
+[Capital] 8167
+[Stock]	6316
+[MACD] -37.979
+[Signal Line] -6.84444
+
+--Day 1144--
+[Capital] 8167
+[Stock]	6401
+[MACD] -39.8662
+[Signal Line] -15.1778
+
+--Day 1145--
+[Capital] 8167
+[Stock]	6393
+[MACD] -40.4072
+[Signal Line] -22.3556
+
+--Day 1146--
+[Capital] 8167
+[Stock]	6468
+[MACD] -34.3721
+[Signal Line] -27.0667
+
+--Day 1147--
+[Capital] 8167
+[Stock]	6357
+[MACD] -37.2246
+[Signal Line] -31.2444
+
+--Day 1148--
+[Capital] 8167
+[Stock]	6440
+[MACD] -31.5737
+[Signal Line] -32.9778
+==>SELL 199 for 1281560euros
+
+--Day 1149--
+[Capital] 1287804
+[Stock]	6452
+[MACD] -24.9531
+[Signal Line] -32.3111
+
+--Day 1150--
+[Capital] 1287804
+[Stock]	6488
+[MACD] -14.4399
+[Signal Line] -29
+
+--Day 1151--
+[Capital] 1287804
+[Stock]	6507
+[MACD] -1.83594
+[Signal Line] -22.9111
+
+--Day 1152--
+[Capital] 1287804
+[Stock]	6544
+[MACD] 12.499
+[Signal Line] -14.8
+
+--Day 1153--
+[Capital] 1287804
+[Stock]	6525
+[MACD] 23.6567
+[Signal Line] -5.57778
+
+--Day 1154--
+[Capital] 1287804
+[Stock]	6525
+[MACD] 32.96
+[Signal Line] 4.06667
+
+--Day 1155--
+[Capital] 1287804
+[Stock]	6550
+[MACD] 40.8921
+[Signal Line] 13.7111
+
+--Day 1156--
+[Capital] 1287804
+[Stock]	6585
+[MACD] 48.8091
+[Signal Line] 23.3111
+
+--Day 1157--
+[Capital] 1287804
+[Stock]	6607
+[MACD] 56.4561
+[Signal Line] 32.6222
+
+--Day 1158--
+[Capital] 1287804
+[Stock]	6607
+[MACD] 61.7979
+[Signal Line] 41
+
+--Day 1159--
+[Capital] 1287804
+[Stock]	6606
+[MACD] 65.3833
+[Signal Line] 48.2889
+
+--Day 1160--
+[Capital] 1287804
+[Stock]	6514
+[MACD] 58.876
+[Signal Line] 52.4222
+
+--Day 1161--
+[Capital] 1287804
+[Stock]	6540
+[MACD] 53.5908
+[Signal Line] 54.2444
+==>BUY 98 for 640920euros
+
+--Day 1162--
+[Capital] 645922
+[Stock]	6512
+[MACD] 44.9814
+[Signal Line] 53.3556
+==>BUY 49 for 319088euros
+
+--Day 1163--
+[Capital] 326355
+[Stock]	6579
+[MACD] 41.5767
+[Signal Line] 51.4
+==>BUY 24 for 157896euros
+
+--Day 1164--
+[Capital] 168222
+[Stock]	6592
+[MACD] 38.4375
+[Signal Line] 48.6444
+==>BUY 12 for 79104euros
+
+--Day 1165--
+[Capital] 88999
+[Stock]	6460
+[MACD] 24.3345
+[Signal Line] 43.1333
+==>BUY 6 for 38760euros
+
+--Day 1166--
+[Capital] 50180
+[Stock]	6511
+[MACD] 15.2197
+[Signal Line] 36.3556
+==>BUY 3 for 19533euros
+
+--Day 1167--
+[Capital] 30617
+[Stock]	6549
+[MACD] 9.63086
+[Signal Line] 29.2889
+==>BUY 2 for 13098euros
+
+--Day 1168--
+[Capital] 17499
+[Stock]	6439
+[MACD] -4.15527
+[Signal Line] 20.7778
+==>BUY 1 for 6439euros
+
+--Day 1169--
+[Capital] 11050
+[Stock]	6439
+[MACD] -15.4458
+[Signal Line] 11.6
+
+--Day 1170--
+[Capital] 11050
+[Stock]	6420
+[MACD] -25.748
+[Signal Line] 2.04444
+
+--Day 1171--
+[Capital] 11050
+[Stock]	6421
+[MACD] -33.5186
+[Signal Line] -7.37778
+
+--Day 1172--
+[Capital] 11050
+[Stock]	6431
+[MACD] -38.04
+[Signal Line] -16.0889
+
+--Day 1173--
+[Capital] 11050
+[Stock]	6351
+[MACD] -47.9844
+[Signal Line] -24.8444
+
+--Day 1174--
+[Capital] 11050
+[Stock]	6337
+[MACD] -56.6396
+[Signal Line] -33.5111
+
+--Day 1175--
+[Capital] 11050
+[Stock]	6333
+[MACD] -63.6641
+[Signal Line] -41.8
+
+--Day 1176--
+[Capital] 11050
+[Stock]	6367
+[MACD] -65.1611
+[Signal Line] -48.7556
+
+--Day 1177--
+[Capital] 11050
+[Stock]	6425
+[MACD] -59.4912
+[Signal Line] -52.8667
+
+--Day 1178--
+[Capital] 11050
+[Stock]	6364
+[MACD] -58.4727
+[Signal Line] -55.5556
+
+--Day 1179--
+[Capital] 11050
+[Stock]	6397
+[MACD] -53.4502
+[Signal Line] -56.2889
+==>SELL 195 for 1247415euros
+
+--Day 1180--
+[Capital] 1256593
+[Stock]	6429
+[MACD] -44.2905
+[Signal Line] -54.6
+
+--Day 1181--
+[Capital] 1256593
+[Stock]	6369
+[MACD] -40.063
+[Signal Line] -51.8667
+
+--Day 1182--
+[Capital] 1256593
+[Stock]	6353
+[MACD] -36.729
+[Signal Line] -48.2889
+
+--Day 1183--
+[Capital] 1256593
+[Stock]	6202
+[MACD] -45.2437
+[Signal Line] -46.7556
+
+--Day 1184--
+[Capital] 1256593
+[Stock]	6162
+[MACD] -55.2949
+[Signal Line] -47.4667
+==>BUY 101 for 622362euros
+
+--Day 1185--
+[Capital] 633297
+[Stock]	6178
+[MACD] -61.8887
+[Signal Line] -49.5556
+==>BUY 51 for 315078euros
+
+--Day 1186--
+[Capital] 317746
+[Stock]	6251
+[MACD] -61.6611
+[Signal Line] -51.7333
+==>BUY 25 for 156275euros
+
+--Day 1187--
+[Capital] 161236
+[Stock]	6243
+[MACD] -61.7178
+[Signal Line] -53.8667
+==>BUY 12 for 74916euros
+
+--Day 1188--
+[Capital] 86207
+[Stock]	6249
+[MACD] -60.9888
+[Signal Line] -55.7333
+==>BUY 6 for 37494euros
+
+--Day 1189--
+[Capital] 48656
+[Stock]	6249
+[MACD] -59.4961
+[Signal Line] -57.2444
+==>BUY 3 for 18747euros
+
+--Day 1190--
+[Capital] 29880
+[Stock]	6282
+[MACD] -54.0542
+[Signal Line] -57.4222
+==>SELL 198 for 1243836euros
+
+--Day 1191--
+[Capital] 1271850
+[Stock]	6387
+[MACD] -40.0684
+[Signal Line] -54.4889
+
+--Day 1192--
+[Capital] 1271850
+[Stock]	6449
+[MACD] -21.2168
+[Signal Line] -47.6667
+
+--Day 1193--
+[Capital] 1271850
+[Stock]	6414
+[MACD] -5.58984
+[Signal Line] -38.1778
+
+--Day 1194--
+[Capital] 1271850
+[Stock]	6457
+[MACD] 12.5054
+[Signal Line] -26.4
+
+--Day 1195--
+[Capital] 1271850
+[Stock]	6430
+[MACD] 27.165
+[Signal Line] -13.2444
+
+--Day 1196--
+[Capital] 1271850
+[Stock]	6400
+[MACD] 36.4829
+[Signal Line] -0.244444
+
+--Day 1197--
+[Capital] 1271850
+[Stock]	6501
+[MACD] 50.7495
+[Signal Line] 13.4
+
+--Day 1198--
+[Capital] 1271850
+[Stock]	6623
+[MACD] 70.8345
+[Signal Line] 28.6
+
+--Day 1199--
+[Capital] 1271850
+[Stock]	6791
+[MACD] 100.1
+[Signal Line] 46.9333
+
+--Day 1200--
+[Capital] 1271850
+[Stock]	6806
+[MACD] 124.789
+[Signal Line] 66.6444
+
+--Day 1201--
+[Capital] 1271850
+[Stock]	6770
+[MACD] 140.802
+[Signal Line] 85.9111
+
+--Day 1202--
+[Capital] 1271850
+[Stock]	6802
+[MACD] 153.933
+[Signal Line] 104.2
+
+--Day 1203--
+[Capital] 1271850
+[Stock]	6783
+[MACD] 160.121
+[Signal Line] 120.378
+
+--Day 1204--
+[Capital] 1271850
+[Stock]	6797
+[MACD] 163.369
+[Signal Line] 133.867
+
+--Day 1205--
+[Capital] 1271850
+[Stock]	6876
+[MACD] 169.691
+[Signal Line] 145.533
+
+--Day 1206--
+[Capital] 1271850
+[Stock]	6891
+[MACD] 172.651
+[Signal Line] 154.844
+
+--Day 1207--
+[Capital] 1271850
+[Stock]	6910
+[MACD] 172.879
+[Signal Line] 161.444
+
+--Day 1208--
+[Capital] 1271850
+[Stock]	6942
+[MACD] 171.047
+[Signal Line] 165.578
+
+--Day 1209--
+[Capital] 1271850
+[Stock]	6975
+[MACD] 166.577
+[Signal Line] 167.133
+==>BUY 91 for 634725euros
+
+--Day 1210--
+[Capital] 636172
+[Stock]	7033
+[MACD] 162.859
+[Signal Line] 166.956
+==>BUY 45 for 316485euros
+
+--Day 1211--
+[Capital] 319212
+[Stock]	7039
+[MACD] 156.845
+[Signal Line] 165.089
+==>BUY 22 for 154858euros
+
+--Day 1212--
+[Capital] 164121
+[Stock]	7335
+[MACD] 173.717
+[Signal Line] 166.556
+==>SELL 158 for 1158930euros
+
+--Day 1213--
+[Capital] 1321312
+[Stock]	7426
+[MACD] 194.154
+[Signal Line] 171.933
+
+--Day 1214--
+[Capital] 1321312
+[Stock]	7289
+[MACD] 198.623
+[Signal Line] 177.422
+
+--Day 1215--
+[Capital] 1321312
+[Stock]	7440
+[MACD] 211.856
+[Signal Line] 184.867
+
+--Day 1216--
+[Capital] 1321312
+[Stock]	7435
+[MACD] 219.661
+[Signal Line] 193.044
+
+--Day 1217--
+[Capital] 1321312
+[Stock]	7417
+[MACD] 221.135
+[Signal Line] 200.578
+
+--Day 1218--
+[Capital] 1321312
+[Stock]	7380
+[MACD] 215.657
+[Signal Line] 205.8
+
+--Day 1219--
+[Capital] 1321312
+[Stock]	7416
+[MACD] 209.433
+[Signal Line] 208.733
+
+--Day 1220--
+[Capital] 1321312
+[Stock]	7401
+[MACD] 198.38
+[Signal Line] 208.422
+==>BUY 89 for 658689euros
+
+--Day 1221--
+[Capital] 661634
+[Stock]	7349
+[MACD] 179.984
+[Signal Line] 203.378
+==>BUY 45 for 330705euros
+
+--Day 1222--
+[Capital] 330432
+[Stock]	7401
+[MACD] 163.56
+[Signal Line] 195
+==>BUY 22 for 162822euros
+
+--Day 1223--
+[Capital] 167365
+[Stock]	7401
+[MACD] 145.27
+[Signal Line] 183.711
+==>BUY 11 for 81411euros
+
+--Day 1224--
+[Capital] 85831
+[Stock]	7419
+[MACD] 126.337
+[Signal Line] 169.8
+==>BUY 5 for 37095euros
+
+--Day 1225--
+[Capital] 48680
+[Stock]	7354
+[MACD] 103.412
+[Signal Line] 153.178
+==>BUY 3 for 22062euros
+
+--Day 1226--
+[Capital] 26584
+[Stock]	7397
+[MACD] 86.4429
+[Signal Line] 135.733
+==>BUY 1 for 7397euros
+
+--Day 1227--
+[Capital] 19175
+[Stock]	7346
+[MACD] 65.7051
+[Signal Line] 117.089
+==>BUY 1 for 7346euros
+
+--Day 1228--
+[Capital] 11817
+[Stock]	7418
+[MACD] 53.5571
+[Signal Line] 99.3778
+
+--Day 1229--
+[Capital] 11817
+[Stock]	7529
+[MACD] 52.2363
+[Signal Line] 84.9333
+
+--Day 1230--
+[Capital] 11817
+[Stock]	7543
+[MACD] 52.7227
+[Signal Line] 73.7333
+
+--Day 1231--
+[Capital] 11817
+[Stock]	7561
+[MACD] 54.6792
+[Signal Line] 65.7556
+
+--Day 1232--
+[Capital] 11817
+[Stock]	7557
+[MACD] 56.4106
+[Signal Line] 60.6
+
+--Day 1233--
+[Capital] 11817
+[Stock]	7559
+[MACD] 58.1978
+[Signal Line] 57.8222
+==>SELL 177 for 1337943euros
+
+--Day 1234--
+[Capital] 1347753
+[Stock]	7495
+[MACD] 54.0371
+[Signal Line] 55.7556
+==>BUY 89 for 667055euros
+
+--Day 1235--
+[Capital] 679697
+[Stock]	7602
+[MACD] 58.7822
+[Signal Line] 55.5778
+==>SELL 89 for 676578euros
+
+--Day 1236--
+[Capital] 1355260
+[Stock]	7640
+[MACD] 65.7681
+[Signal Line] 57.4222
+
+--Day 1237--
+[Capital] 1355260
+[Stock]	7629
+[MACD] 70.772
+[Signal Line] 60.2667
+
+--Day 1238--
+[Capital] 1355260
+[Stock]	7782
+[MACD] 86.1367
+[Signal Line] 65.9333
+
+--Day 1239--
+[Capital] 1355260
+[Stock]	7791
+[MACD] 98.5566
+[Signal Line] 73.2444
+
+--Day 1240--
+[Capital] 1355260
+[Stock]	7767
+[MACD] 104.397
+[Signal Line] 80.7333
+
+--Day 1241--
+[Capital] 1355260
+[Stock]	7694
+[MACD] 101.302
+[Signal Line] 86.5111
+
+--Day 1242--
+[Capital] 1355260
+[Stock]	7710
+[MACD] 98.0913
+[Signal Line] 90.6889
+
+--Day 1243--
+[Capital] 1355260
+[Stock]	7745
+[MACD] 96.3145
+[Signal Line] 93.5778
+
+--Day 1244--
+[Capital] 1355260
+[Stock]	7601
+[MACD] 81.627
+[Signal Line] 92.5333
+==>BUY 89 for 676489euros
+
+--Day 1245--
+[Capital] 677756
+[Stock]	7802
+[MACD] 83.0381
+[Signal Line] 91.3778
+==>BUY 43 for 335486euros
+
+--Day 1246--
+[Capital] 341766
+[Stock]	7687
+[MACD] 73.2607
+[Signal Line] 87.8222
+==>BUY 22 for 169114euros
+
+--Day 1247--
+[Capital] 172398
+[Stock]	7455
+[MACD] 43.3291
+[Signal Line] 78.2
+==>BUY 11 for 82005euros
+
+--Day 1248--
+[Capital] 90269
+[Stock]	7135
+[MACD] -9.94287
+[Signal Line] 59.1333
+==>BUY 6 for 42810euros
+
+--Day 1249--
+[Capital] 47394
+[Stock]	7389
+[MACD] -37.2363
+[Signal Line] 36.8444
+==>BUY 3 for 22167euros
+
+--Day 1250--
+[Capital] 25193
+[Stock]	7580
+[MACD] -46.2505
+[Signal Line] 15.8889
+==>BUY 1 for 7580euros
+
+--Day 1251--
+[Capital] 17601
+[Stock]	7671
+[MACD] -44.9575
+[Signal Line] -1.4
+==>BUY 1 for 7671euros
+
+--Day 1252--
+[Capital] 9918
+[Stock]	7765
+[MACD] -33.7236
+[Signal Line] -13.3333
+
+--Day 1253--
+[Capital] 9918
+[Stock]	7463
+[MACD] -45.5073
+[Signal Line] -24.8
+
+--Day 1254--
+[Capital] 9918
+[Stock]	7373
+[MACD] -61.1753
+[Signal Line] -36.6667
+
+--Day 1255--
+[Capital] 9918
+[Stock]	7416
+[MACD] -69.2207
+[Signal Line] -46.9333
+
+--Day 1256--
+[Capital] 9918
+[Stock]	7254
+[MACD] -86.2935
+[Signal Line] -57.4444
+
+--Day 1257--
+[Capital] 9918
+[Stock]	7053
+[MACD] -115.775
+[Signal Line] -70.8889
+
+--Day 1258--
+[Capital] 9918
+[Stock]	6914
+[MACD] -148.189
+[Signal Line] -88.5778
+
+--Day 1259--
+[Capital] 9918
+[Stock]	7117
+[MACD] -156.332
+[Signal Line] -105.4
+
+--Day 1260--
+[Capital] 9918
+[Stock]	7009
+[MACD] -170.016
+[Signal Line] -122.578
+
+--Day 1261--
+[Capital] 9918
+[Stock]	7352
+[MACD] -156.107
+[Signal Line] -134.156
+
+--Day 1262--
+[Capital] 9918
+[Stock]	7328
+[MACD] -144.351
+[Signal Line] -140.6
+
+--Day 1263--
+[Capital] 9918
+[Stock]	7238
+[MACD] -137.432
+[Signal Line] -143.444
+==>SELL 176 for 1273888euros
+
+--Day 1264--
+[Capital] 1281895
+[Stock]	7238
+[MACD] -126.075
+[Signal Line] -142.4
+
+--Day 1265--
+[Capital] 1281895
+[Stock]	7144
+[MACD] -117.012
+[Signal Line] -138.289
+
+--Day 1266--
+[Capital] 1281895
+[Stock]	7131
+[MACD] -106.738
+[Signal Line] -131.289
+
+--Day 1267--
+[Capital] 1281895
+[Stock]	7320
+[MACD] -80.0967
+[Signal Line] -119.289
+
+--Day 1268--
+[Capital] 1281895
+[Stock]	7236
+[MACD] -59.9912
+[Signal Line] -104.6
+
+--Day 1269--
+[Capital] 1281895
+[Stock]	7054
+[MACD] -55.5239
+[Signal Line] -91.2667
+
+--Day 1270--
+[Capital] 1281895
+[Stock]	6959
+[MACD] -60.6167
+[Signal Line] -81.4889
+
+--Day 1271--
+[Capital] 1281895
+[Stock]	7052
+[MACD] -60.6963
+[Signal Line] -73.8444
+
+--Day 1272--
+[Capital] 1281895
+[Stock]	7119
+[MACD] -56.7349
+[Signal Line] -67.2667
+
+--Day 1273--
+[Capital] 1281895
+[Stock]	7129
+[MACD] -55.0044
+[Signal Line] -62.2889
+
+--Day 1274--
+[Capital] 1281895
+[Stock]	7249
+[MACD] -41.771
+[Signal Line] -56.0889
+
+--Day 1275--
+[Capital] 1281895
+[Stock]	7229
+[MACD] -28.7949
+[Signal Line] -48.9778
+
+--Day 1276--
+[Capital] 1281895
+[Stock]	7337
+[MACD] -7.54395
+[Signal Line] -39.4
+
+--Day 1277--
+[Capital] 1281895
+[Stock]	7442
+[MACD] 20.1211
+[Signal Line] -26.0444
+
+--Day 1278--
+[Capital] 1281895
+[Stock]	7480
+[MACD] 46.3447
+[Signal Line] -9.24444
+
+--Day 1279--
+[Capital] 1281895
+[Stock]	7549
+[MACD] 72.7866
+[Signal Line] 10.5111
+
+--Day 1280--
+[Capital] 1281895
+[Stock]	7444
+[MACD] 88.1611
+[Signal Line] 30.5333
+
+--Day 1281--
+[Capital] 1281895
+[Stock]	7266
+[MACD] 86.8716
+[Signal Line] 46.8667
+
+--Day 1282--
+[Capital] 1281895
+[Stock]	7001
+[MACD] 61.2979
+[Signal Line] 55.0444
+
+--Day 1283--
+[Capital] 1281895
+[Stock]	6986
+[MACD] 33.2676
+[Signal Line] 55.0444
+==>BUY 91 for 635726euros
+
+--Day 1284--
+[Capital] 645215
+[Stock]	7050
+[MACD] 10.9985
+[Signal Line] 48.8
+==>BUY 45 for 317250euros
+
+--Day 1285--
+[Capital] 327489
+[Stock]	6963
+[MACD] -16.939
+[Signal Line] 36.5111
+==>BUY 23 for 160149euros
+
+--Day 1286--
+[Capital] 167099
+[Stock]	6794
+[MACD] -56.668
+[Signal Line] 16.4222
+==>BUY 12 for 81528euros
+
+--Day 1287--
+[Capital] 85448
+[Stock]	6789
+[MACD] -91.5757
+[Signal Line] -8.97778
+==>BUY 6 for 40734euros
+
+--Day 1288--
+[Capital] 44652
+[Stock]	6786
+[MACD] -122.685
+[Signal Line] -37.5333
+==>BUY 3 for 20358euros
+
+--Day 1289--
+[Capital] 24263
+[Stock]	6786
+[MACD] -148.275
+[Signal Line] -66.9778
+==>BUY 1 for 6786euros
+
+--Day 1290--
+[Capital] 17466
+[Stock]	6821
+[MACD] -163.95
+[Signal Line] -94.1778
+==>BUY 1 for 6821euros
+
+--Day 1291--
+[Capital] 10634
+[Stock]	6747
+[MACD] -178.268
+[Signal Line] -118.844
+
+--Day 1292--
+[Capital] 10634
+[Stock]	6923
+[MACD] -169.395
+[Signal Line] -136.4
+
+--Day 1293--
+[Capital] 10634
+[Stock]	7016
+[MACD] -147.016
+[Signal Line] -145.067
+
+--Day 1294--
+[Capital] 10634
+[Stock]	6997
+[MACD] -123.813
+[Signal Line] -145.444
+==>SELL 182 for 1273454euros
+
+--Day 1295--
+[Capital] 1282177
+[Stock]	7040
+[MACD] -97.8105
+[Signal Line] -138.244
+
+--Day 1296--
+[Capital] 1282177
+[Stock]	7016
+[MACD] -74.4541
+[Signal Line] -125.533
+
+--Day 1297--
+[Capital] 1282177
+[Stock]	7034
+[MACD] -49.064
+[Signal Line] -108.2
+
+--Day 1298--
+[Capital] 1282177
+[Stock]	7035
+[MACD] -24.5552
+[Signal Line] -87.4889
+
+--Day 1299--
+[Capital] 1282177
+[Stock]	6914
+[MACD] -13.0283
+[Signal Line] -67.3333
+
+--Day 1300--
+[Capital] 1282177
+[Stock]	6790
+[MACD] -13.6079
+[Signal Line] -50.5111
+
+--Day 1301--
+[Capital] 1282177
+[Stock]	7013
+[MACD] 2.24219
+[Signal Line] -34.3556
+
+--Day 1302--
+[Capital] 1282177
+[Stock]	7039
+[MACD] 16.6406
+[Signal Line] -19.2
+
+--Day 1303--
+[Capital] 1282177
+[Stock]	7150
+[MACD] 36.251
+[Signal Line] -3.66667
+
+--Day 1304--
+[Capital] 1282177
+[Stock]	7271
+[MACD] 59.5142
+[Signal Line] 12.9333
+
+--Day 1305--
+[Capital] 1282177
+[Stock]	7370
+[MACD] 85.6182
+[Signal Line] 31.2667
+
+--Day 1306--
+[Capital] 1282177
+[Stock]	7364
+[MACD] 106.195
+[Signal Line] 50.2667
+
+--Day 1307--
+[Capital] 1282177
+[Stock]	7365
+[MACD] 121.919
+[Signal Line] 68.8222
+
+--Day 1308--
+[Capital] 1282177
+[Stock]	7301
+[MACD] 128.652
+[Signal Line] 85.5556
+
+--Day 1309--
+[Capital] 1282177
+[Stock]	7439
+[MACD] 143.595
+[Signal Line] 102.156
+
+--Day 1310--
+[Capital] 1282177
+[Stock]	7420
+[MACD] 153.121
+[Signal Line] 117.289
+
+--Day 1311--
+[Capital] 1282177
+[Stock]	7318
+[MACD] 150.628
+[Signal Line] 128.467
+
+--Day 1312--
+[Capital] 1282177
+[Stock]	7345
+[MACD] 146.121
+[Signal Line] 135.867
+
+--Day 1313--
+[Capital] 1282177
+[Stock]	7342
+[MACD] 135.829
+[Signal Line] 138.622
+==>BUY 87 for 638754euros
+
+--Day 1314--
+[Capital] 642464
+[Stock]	7414
+[MACD] 128.638
+[Signal Line] 138.289
+==>BUY 43 for 318802euros
+
+--Day 1315--
+[Capital] 323183
+[Stock]	7342
+[MACD] 112.685
+[Signal Line] 133.8
+==>BUY 22 for 161524euros
+
+--Day 1316--
+[Capital] 161416
+[Stock]	7277
+[MACD] 90.6694
+[Signal Line] 124.778
+==>BUY 11 for 80047euros
+
+--Day 1317--
+[Capital] 81248
+[Stock]	7099
+[MACD] 55.6768
+[Signal Line] 109.444
+==>BUY 5 for 35495euros
+
+--Day 1318--
+[Capital] 45699
+[Stock]	7141
+[MACD] 28.5117
+[Signal Line] 90.3333
+==>BUY 3 for 21423euros
+
+--Day 1319--
+[Capital] 24243
+[Stock]	7011
+[MACD] -5.54443
+[Signal Line] 67.1778
+==>BUY 1 for 7011euros
+
+--Day 1320--
+[Capital] 17221
+[Stock]	7175
+[MACD] -21.9932
+[Signal Line] 44.3333
+==>BUY 1 for 7175euros
+
+--Day 1321--
+[Capital] 10035
+[Stock]	7169
+[MACD] -36.7979
+[Signal Line] 22.2889
+
+--Day 1322--
+[Capital] 10035
+[Stock]	7181
+[MACD] -46.8164
+[Signal Line] 2.28889
+
+--Day 1323--
+[Capital] 10035
+[Stock]	7073
+[MACD] -61.916
+[Signal Line] -16.6889
+
+--Day 1324--
+[Capital] 10035
+[Stock]	7163
+[MACD] -66.584
+[Signal Line] -32.4667
+
+--Day 1325--
+[Capital] 10035
+[Stock]	7003
+[MACD] -81.3179
+[Signal Line] -47.2889
+
+--Day 1326--
+[Capital] 10035
+[Stock]	6945
+[MACD] -96.0786
+[Signal Line] -61.3111
+
+--Day 1327--
+[Capital] 10035
+[Stock]	7065
+[MACD] -94.812
+[Signal Line] -71.5778
+
+--Day 1328--
+[Capital] 10035
+[Stock]	7073
+[MACD] -89.208
+[Signal Line] -78.1333
+
+--Day 1329--
+[Capital] 10035
+[Stock]	7072
+[MACD] -80.9717
+[Signal Line] -81.0222
+==>SELL 173 for 1223456euros
+
+--Day 1330--
+[Capital] 1231655
+[Stock]	7001
+[MACD] -78.2754
+[Signal Line] -82.2
+
+--Day 1331--
+[Capital] 1231655
+[Stock]	7113
+[MACD] -65.6187
+[Signal Line] -79.8444
+
+--Day 1332--
+[Capital] 1231655
+[Stock]	7208
+[MACD] -47.4229
+[Signal Line] -73.4667
+
+--Day 1333--
+[Capital] 1231655
+[Stock]	7425
+[MACD] -12.7847
+[Signal Line] -60.4
+
+--Day 1334--
+[Capital] 1231655
+[Stock]	7425
+[MACD] 18.7422
+[Signal Line] -42.5333
+
+--Day 1335--
+[Capital] 1231655
+[Stock]	7378
+[MACD] 43.7451
+[Signal Line] -21.8667
+
+--Day 1336--
+[Capital] 1231655
+[Stock]	7424
+[MACD] 68.3335
+[Signal Line] 0.711111
+
+--Day 1337--
+[Capital] 1231655
+[Stock]	7483
+[MACD] 94.2935
+[Signal Line] 24.8889
+
+--Day 1338--
+[Capital] 1231655
+[Stock]	7415
+[MACD] 109.146
+[Signal Line] 48
+
+--Day 1339--
+[Capital] 1231655
+[Stock]	7441
+[MACD] 120.245
+[Signal Line] 69.1111
+
+--Day 1340--
+[Capital] 1231655
+[Stock]	7447
+[MACD] 127.285
+[Signal Line] 87.2222
+
+--Day 1341--
+[Capital] 1231655
+[Stock]	7515
+[MACD] 135.048
+[Signal Line] 102.667
+
+--Day 1342--
+[Capital] 1231655
+[Stock]	7630
+[MACD] 146.799
+[Signal Line] 116.267
+
+--Day 1343--
+[Capital] 1231655
+[Stock]	7693
+[MACD] 156.517
+[Signal Line] 128.356
+
+--Day 1344--
+[Capital] 1231655
+[Stock]	7730
+[MACD] 163.443
+[Signal Line] 138.778
+
+--Day 1345--
+[Capital] 1231655
+[Stock]	7793
+[MACD] 170.38
+[Signal Line] 147.933
+
+--Day 1346--
+[Capital] 1231655
+[Stock]	7747
+[MACD] 171.158
+[Signal Line] 155.022
+
+--Day 1347--
+[Capital] 1231655
+[Stock]	7690
+[MACD] 164.891
+[Signal Line] 159
+
+--Day 1348--
+[Capital] 1231655
+[Stock]	8135
+[MACD] 191.605
+[Signal Line] 167.156
+
+--Day 1349--
+[Capital] 1231655
+[Stock]	7942
+[MACD] 196.527
+[Signal Line] 174.733
+
+--Day 1350--
+[Capital] 1231655
+[Stock]	7907
+[MACD] 195.248
+[Signal Line] 180.578
+
+--Day 1351--
+[Capital] 1231655
+[Stock]	8027
+[MACD] 199.354
+[Signal Line] 185.889
+
+--Day 1352--
+[Capital] 1231655
+[Stock]	8001
+[MACD] 196.79
+[Signal Line] 189.422
+
+--Day 1353--
+[Capital] 1231655
+[Stock]	8096
+[MACD] 197.709
+[Signal Line] 192.267
+
+--Day 1354--
+[Capital] 1231655
+[Stock]	7992
+[MACD] 185.822
+[Signal Line] 191.956
+==>BUY 77 for 615384euros
+
+--Day 1355--
+[Capital] 615347
+[Stock]	8060
+[MACD] 177.336
+[Signal Line] 189.711
+==>BUY 38 for 306280euros
+
+--Day 1356--
+[Capital] 308607
+[Stock]	8103
+[MACD] 170.39
+[Signal Line] 185.933
+==>BUY 19 for 153957euros
+
+--Day 1357--
+[Capital] 154419
+[Stock]	8127
+[MACD] 163.716
+[Signal Line] 180.622
+==>BUY 9 for 73143euros
+
+--Day 1358--
+[Capital] 81166
+[Stock]	8094
+[MACD] 153.017
+[Signal Line] 173.933
+==>BUY 5 for 40470euros
+
+--Day 1359--
+[Capital] 40635
+[Stock]	8162
+[MACD] 145.818
+[Signal Line] 166.6
+==>BUY 2 for 16324euros
+
+--Day 1360--
+[Capital] 24286
+[Stock]	8300
+[MACD] 145.675
+[Signal Line] 160.378
+==>BUY 1 for 8300euros
+
+--Day 1361--
+[Capital] 15973
+[Stock]	8238
+[MACD] 140.964
+[Signal Line] 154.356
+
+--Day 1362--
+[Capital] 15973
+[Stock]	8172
+[MACD] 129.644
+[Signal Line] 147.378
+
+--Day 1363--
+[Capital] 15973
+[Stock]	8226
+[MACD] 121.364
+[Signal Line] 140.311
+
+--Day 1364--
+[Capital] 15973
+[Stock]	8200
+[MACD] 110.577
+[Signal Line] 132.467
+
+--Day 1365--
+[Capital] 15973
+[Stock]	8046
+[MACD] 87.1895
+[Signal Line] 121.511
+
+--Day 1366--
+[Capital] 15973
+[Stock]	8104
+[MACD] 70.7935
+[Signal Line] 109
+
+--Day 1367--
+[Capital] 15973
+[Stock]	8162
+[MACD] 59.46
+[Signal Line] 96.3556
+
+--Day 1368--
+[Capital] 15973
+[Stock]	8211
+[MACD] 52.5713
+[Signal Line] 84.4
+
+--Day 1369--
+[Capital] 15973
+[Stock]	8257
+[MACD] 49.6226
+[Signal Line] 73.9111
+
+--Day 1370--
+[Capital] 15973
+[Stock]	8164
+[MACD] 39.1953
+[Signal Line] 63.5556
+
+--Day 1371--
+[Capital] 15973
+[Stock]	8124
+[MACD] 25.916
+[Signal Line] 52.6444
+
+--Day 1372--
+[Capital] 15973
+[Stock]	8131
+[MACD] 14.6255
+[Signal Line] 41.8444
+
+--Day 1373--
+[Capital] 15973
+[Stock]	8094
+[MACD] 3.64404
+[Signal Line] 31.2222
+
+--Day 1374--
+[Capital] 15973
+[Stock]	8188
+[MACD] 3.1582
+[Signal Line] 22.9778
+
+--Day 1375--
+[Capital] 15973
+[Stock]	8180
+[MACD] 1.97998
+[Signal Line] 16.2
+
+--Day 1376--
+[Capital] 15973
+[Stock]	8173
+[MACD] 1.51123
+[Signal Line] 10.9556
+
+--Day 1377--
+[Capital] 15973
+[Stock]	8272
+[MACD] 10.0444
+[Signal Line] 8.8
+==>SELL 151 for 1249072euros
+
+--Day 1378--
+[Capital] 1263171
+[Stock]	8324
+[MACD] 20.5259
+[Signal Line] 9.57778
+
+--Day 1379--
+[Capital] 1263171
+[Stock]	8366
+[MACD] 32.458
+[Signal Line] 13.4
+
+--Day 1380--
+[Capital] 1263171
+[Stock]	8365
+[MACD] 42.4629
+[Signal Line] 19.3778
+
+--Day 1381--
+[Capital] 1263171
+[Stock]	8314
+[MACD] 47.4893
+[Signal Line] 25.9778
+
+--Day 1382--
+[Capital] 1263171
+[Stock]	8335
+[MACD] 54.1816
+[Signal Line] 33.2444
+
+--Day 1383--
+[Capital] 1263171
+[Stock]	8319
+[MACD] 58.0684
+[Signal Line] 40.1778
+
+--Day 1384--
+[Capital] 1263171
+[Stock]	8291
+[MACD] 57.7676
+[Signal Line] 45.6889
+
+--Day 1385--
+[Capital] 1263171
+[Stock]	8158
+[MACD] 45.3672
+[Signal Line] 47.5556
+==>BUY 77 for 628166euros
+
+--Day 1386--
+[Capital] 634062
+[Stock]	8078
+[MACD] 25.7539
+[Signal Line] 44.4444
+==>BUY 39 for 315042euros
+
+--Day 1387--
+[Capital] 318547
+[Stock]	8217
+[MACD] 18.0059
+[Signal Line] 39.6
+==>BUY 19 for 156123euros
+
+--Day 1388--
+[Capital] 162189
+[Stock]	8287
+[MACD] 15.3076
+[Signal Line] 34.2
+==>BUY 9 for 74583euros
+
+--Day 1389--
+[Capital] 87494
+[Stock]	8508
+[MACD] 29.1055
+[Signal Line] 31.9778
+==>BUY 5 for 42540euros
+
+--Day 1390--
+[Capital] 44890
+[Stock]	8505
+[MACD] 40.4414
+[Signal Line] 32.2444
+==>SELL 149 for 1267245euros
+
+--Day 1391--
+[Capital] 1310234
+[Stock]	8653
+[MACD] 62.1328
+[Signal Line] 37.0667
+
+--Day 1392--
+[Capital] 1310234
+[Stock]	8631
+[MACD] 80.1182
+[Signal Line] 45.3111
+
+--Day 1393--
+[Capital] 1310234
+[Stock]	8540
+[MACD] 88.9365
+[Signal Line] 54.6667
+
+--Day 1394--
+[Capital] 1310234
+[Stock]	8450
+[MACD] 88.7529
+[Signal Line] 63.3333
+
+--Day 1395--
+[Capital] 1310234
+[Stock]	8748
+[MACD] 111.55
+[Signal Line] 75.6444
+
+--Day 1396--
+[Capital] 1310234
+[Stock]	8784
+[MACD] 133.116
+[Signal Line] 90.4444
+
+--Day 1397--
+[Capital] 1310234
+[Stock]	8751
+[MACD] 147.497
+[Signal Line] 105.489
+
+--Day 1398--
+[Capital] 1310234
+[Stock]	8751
+[MACD] 156.062
+[Signal Line] 119.4
+
+--Day 1399--
+[Capital] 1310234
+[Stock]	8839
+[MACD] 164.783
+[Signal Line] 132.089
+
+--Day 1400--
+[Capital] 1310234
+[Stock]	8745
+[MACD] 160.155
+[Signal Line] 141.222
+
+--Day 1401--
+[Capital] 1310234
+[Stock]	8814
+[MACD] 156.747
+[Signal Line] 147.378
+
+--Day 1402--
+[Capital] 1310234
+[Stock]	8776
+[MACD] 148.189
+[Signal Line] 150.244
+==>BUY 74 for 649424euros
+
+--Day 1403--
+[Capital] 659835
+[Stock]	8964
+[MACD] 152.873
+[Signal Line] 152.578
+==>SELL 74 for 663336euros
+
+--Day 1404--
+[Capital] 1322175
+[Stock]	8898
+[MACD] 150.276
+[Signal Line] 153.089
+==>BUY 74 for 658452euros
+
+--Day 1405--
+[Capital] 662735
+[Stock]	8927
+[MACD] 148.205
+[Signal Line] 152.333
+==>BUY 37 for 330299euros
+
+--Day 1406--
+[Capital] 331940
+[Stock]	8854
+[MACD] 136.947
+[Signal Line] 148.844
+==>BUY 18 for 159372euros
+
+--Day 1407--
+[Capital] 172328
+[Stock]	8936
+[MACD] 128.444
+[Signal Line] 144
+==>BUY 9 for 80424euros
+
+--Day 1408--
+[Capital] 91783
+[Stock]	9053
+[MACD] 128.637
+[Signal Line] 139.778
+==>BUY 5 for 45265euros
+
+--Day 1409--
+[Capital] 46450
+[Stock]	9100
+[MACD] 131.176
+[Signal Line] 136.956
+==>BUY 2 for 18200euros
+
+--Day 1410--
+[Capital] 28222
+[Stock]	8700
+[MACD] 99.5557
+[Signal Line] 128.378
+==>BUY 1 for 8700euros
+
+--Day 1411--
+[Capital] 19508
+[Stock]	8605
+[MACD] 62.1758
+[Signal Line] 113.667
+==>BUY 1 for 8605euros
+
+--Day 1412--
+[Capital] 10890
+[Stock]	8598
+[MACD] 28.5127
+[Signal Line] 94.0667
+
+--Day 1413--
+[Capital] 10890
+[Stock]	8624
+[MACD] 0.289062
+[Signal Line] 71.6222
+
+--Day 1414--
+[Capital] 10890
+[Stock]	8654
+[MACD] -21.9463
+[Signal Line] 48.3111
+
+--Day 1415--
+[Capital] 10890
+[Stock]	8530
+[MACD] -51.4629
+[Signal Line] 22.7556
+
+--Day 1416--
+[Capital] 10890
+[Stock]	8540
+[MACD] -74.5557
+[Signal Line] -3.24444
+
+--Day 1417--
+[Capital] 10890
+[Stock]	8583
+[MACD] -89.5283
+[Signal Line] -27.7556
+
+--Day 1418--
+[Capital] 10890
+[Stock]	8560
+[MACD] -102.126
+[Signal Line] -50.0444
+
+--Day 1419--
+[Capital] 10890
+[Stock]	8365
+[MACD] -126.711
+[Signal Line] -71.9556
+
+--Day 1420--
+[Capital] 10890
+[Stock]	8445
+[MACD] -138.093
+[Signal Line] -91.2667
+
+--Day 1421--
+[Capital] 10890
+[Stock]	8370
+[MACD] -147.677
+[Signal Line] -107.933
+
+--Day 1422--
+[Capital] 10890
+[Stock]	8325
+[MACD] -152.568
+[Signal Line] -121.711
+
+--Day 1423--
+[Capital] 10890
+[Stock]	8420
+[MACD] -146.382
+[Signal Line] -130.911
+
+--Day 1424--
+[Capital] 10890
+[Stock]	8440
+[MACD] -137.171
+[Signal Line] -135.533
+
+--Day 1425--
+[Capital] 10890
+[Stock]	8383
+[MACD] -131.368
+[Signal Line] -137.044
+==>SELL 147 for 1232301euros
+
+--Day 1426--
+[Capital] 1241342
+[Stock]	8407
+[MACD] -121.859
+[Signal Line] -135.289
+
+--Day 1427--
+[Capital] 1241342
+[Stock]	8442
+[MACD] -107.354
+[Signal Line] -130.022
+
+--Day 1428--
+[Capital] 1241342
+[Stock]	8409
+[MACD] -95.4141
+[Signal Line] -122.244
+
+--Day 1429--
+[Capital] 1241342
+[Stock]	8320
+[MACD] -89.9404
+[Signal Line] -113.956
+
+--Day 1430--
+[Capital] 1241342
+[Stock]	8351
+[MACD] -80.4561
+[Signal Line] -104.956
+
+--Day 1431--
+[Capital] 1241342
+[Stock]	8200
+[MACD] -81.8965
+[Signal Line] -97.6444
+
+--Day 1432--
+[Capital] 1241342
+[Stock]	8257
+[MACD] -78.7451
+[Signal Line] -91.3111
+
+--Day 1433--
+[Capital] 1241342
+[Stock]	8314
+[MACD] -70.3379
+[Signal Line] -84.8889
+
+--Day 1434--
+[Capital] 1241342
+[Stock]	8407
+[MACD] -55.5654
+[Signal Line] -76.9556
+
+--Day 1435--
+[Capital] 1241342
+[Stock]	8291
+[MACD] -52.9385
+[Signal Line] -70.1111
+
+--Day 1436--
+[Capital] 1241342
+[Stock]	8152
+[MACD] -62.0508
+[Signal Line] -66.8
+
+--Day 1437--
+[Capital] 1241342
+[Stock]	8275
+[MACD] -59.2207
+[Signal Line] -63.8889
+
+--Day 1438--
+[Capital] 1241342
+[Stock]	8343
+[MACD] -50.5215
+[Signal Line] -59.9778
+
+--Day 1439--
+[Capital] 1241342
+[Stock]	8357
+[MACD] -40.6113
+[Signal Line] -54.9333
+
+--Day 1440--
+[Capital] 1241342
+[Stock]	8401
+[MACD] -26.8613
+[Signal Line] -47.9778
+
+--Day 1441--
+[Capital] 1241342
+[Stock]	8580
+[MACD] 0.548828
+[Signal Line] -37.0444
+
+--Day 1442--
+[Capital] 1241342
+[Stock]	8668
+[MACD] 31.7881
+[Signal Line] -21.6444
+
+--Day 1443--
+[Capital] 1241342
+[Stock]	8671
+[MACD] 59.5674
+[Signal Line] -2.88889
+
+--Day 1444--
+[Capital] 1241342
+[Stock]	8692
+[MACD] 83.2334
+[Signal Line] 18.1333
+
+--Day 1445--
+[Capital] 1241342
+[Stock]	8645
+[MACD] 97.9502
+[Signal Line] 38.9556
+
+--Day 1446--
+[Capital] 1241342
+[Stock]	8632
+[MACD] 108.184
+[Signal Line] 58.4444
+
+--Day 1447--
+[Capital] 1241342
+[Stock]	8527
+[MACD] 107.689
+[Signal Line] 74.0222
+
+--Day 1448--
+[Capital] 1241342
+[Stock]	8552
+[MACD] 106.611
+[Signal Line] 85.9111
+
+--Day 1449--
+[Capital] 1241342
+[Stock]	8474
+[MACD] 94.8291
+[Signal Line] 92.1556
+
+--Day 1450--
+[Capital] 1241342
+[Stock]	8882
+[MACD] 113.196
+[Signal Line] 99.5333
+
+--Day 1451--
+[Capital] 1241342
+[Stock]	8760
+[MACD] 116.181
+[Signal Line] 105
+
+--Day 1452--
+[Capital] 1241342
+[Stock]	8689
+[MACD] 109.409
+[Signal Line] 107.178
+
+--Day 1453--
+[Capital] 1241342
+[Stock]	8592
+[MACD] 92.0098
+[Signal Line] 104.844
+==>BUY 72 for 618624euros
+
+--Day 1454--
+[Capital] 621790
+[Stock]	8667
+[MACD] 80.8672
+[Signal Line] 99.9111
+==>BUY 35 for 303345euros
+
+--Day 1455--
+[Capital] 317989
+[Stock]	8829
+[MACD] 83.3965
+[Signal Line] 95.9556
+==>BUY 18 for 158922euros
+
+--Day 1456--
+[Capital] 158828
+[Stock]	8965
+[MACD] 96.1973
+[Signal Line] 95.1556
+==>SELL 125 for 1120625euros
+
+--Day 1457--
+[Capital] 1277772
+[Stock]	8766
+[MACD] 91.375
+[Signal Line] 93.6
+==>BUY 72 for 631152euros
+
+--Day 1458--
+[Capital] 645673
+[Stock]	8891
+[MACD] 96.584
+[Signal Line] 93.3778
+==>SELL 72 for 640152euros
+
+--Day 1459--
+[Capital] 1284864
+[Stock]	8981
+[MACD] 107.458
+[Signal Line] 95.3111
+
+--Day 1460--
+[Capital] 1284864
+[Stock]	9000
+[MACD] 115.929
+[Signal Line] 98.9778
+
+--Day 1461--
+[Capital] 1284864
+[Stock]	8915
+[MACD] 113.563
+[Signal Line] 102.267
+
+--Day 1462--
+[Capital] 1284864
+[Stock]	8876
+[MACD] 104.212
+[Signal Line] 103.667
+
+--Day 1463--
+[Capital] 1284864
+[Stock]	8825
+[MACD] 92.9316
+[Signal Line] 102.4
+==>BUY 72 for 635400euros
+
+--Day 1464--
+[Capital] 648510
+[Stock]	8748
+[MACD] 76.2422
+[Signal Line] 97.6667
+==>BUY 37 for 323676euros
+
+--Day 1465--
+[Capital] 324348
+[Stock]	8686
+[MACD] 55.0039
+[Signal Line] 88.8889
+==>BUY 18 for 156348euros
+
+--Day 1466--
+[Capital] 167765
+[Stock]	8463
+[MACD] 15.71
+[Signal Line] 73.0222
+==>BUY 9 for 76167euros
+
+--Day 1467--
+[Capital] 91483
+[Stock]	8500
+[MACD] -17.8418
+[Signal Line] 52.4444
+==>BUY 5 for 42500euros
+
+--Day 1468--
+[Capital] 48919
+[Stock]	8557
+[MACD] -42.8564
+[Signal Line] 29.3778
+==>BUY 2 for 17114euros
+
+--Day 1469--
+[Capital] 31779
+[Stock]	7799
+[MACD] -123.423
+[Signal Line] -6.57778
+==>BUY 2 for 15598euros
+
+--Day 1470--
+[Capital] 16157
+[Stock]	7762
+[MACD] -197.029
+[Signal Line] -52.0444
+==>BUY 1 for 7762euros
+
+--Day 1471--
+[Capital] 8383
+[Stock]	7665
+[MACD] -266.547
+[Signal Line] -104.422
+
+--Day 1472--
+[Capital] 8383
+[Stock]	7518
+[MACD] -333.712
+[Signal Line] -161.978
+
+--Day 1473--
+[Capital] 8383
+[Stock]	7748
+[MACD] -366.704
+[Signal Line] -216.689
+
+--Day 1474--
+[Capital] 8383
+[Stock]	7683
+[MACD] -392.138
+[Signal Line] -266.778
+
+--Day 1475--
+[Capital] 8383
+[Stock]	7668
+[MACD] -405.95
+[Signal Line] -309.533
+
+--Day 1476--
+[Capital] 8383
+[Stock]	7610
+[MACD] -411.852
+[Signal Line] -344.156
+
+--Day 1477--
+[Capital] 8383
+[Stock]	7647
+[MACD] -403.836
+[Signal Line] -368.422
+
+--Day 1478--
+[Capital] 8383
+[Stock]	7649
+[MACD] -385.511
+[Signal Line] -381.067
+
+--Day 1479--
+[Capital] 8383
+[Stock]	7594
+[MACD] -364.101
+[Signal Line] -383.689
+==>SELL 146 for 1108724euros
+
+--Day 1480--
+[Capital] 1115443
+[Stock]	7678
+[MACD] -327.218
+[Signal Line] -375.2
+
+--Day 1481--
+[Capital] 1115443
+[Stock]	7718
+[MACD] -278.692
+[Signal Line] -355.556
+
+--Day 1482--
+[Capital] 1115443
+[Stock]	7864
+[MACD] -220.647
+[Signal Line] -325.533
+
+--Day 1483--
+[Capital] 1115443
+[Stock]	7864
+[MACD] -167.045
+[Signal Line] -288.156
+
+--Day 1484--
+[Capital] 1115443
+[Stock]	7867
+[MACD] -118.326
+[Signal Line] -245.978
+
+--Day 1485--
+[Capital] 1115443
+[Stock]	7726
+[MACD] -88.2461
+[Signal Line] -204.178
+
+--Day 1486--
+[Capital] 1115443
+[Stock]	7752
+[MACD] -59.3857
+[Signal Line] -163.756
+
+--Day 1487--
+[Capital] 1115443
+[Stock]	7818
+[MACD] -29.7007
+[Signal Line] -124.978
+
+--Day 1488--
+[Capital] 1115443
+[Stock]	7886
+[MACD] 0.360352
+[Signal Line] -88.3111
+
+--Day 1489--
+[Capital] 1115443
+[Stock]	8041
+[MACD] 36.4272
+[Signal Line] -52.5333
+
+--Day 1490--
+[Capital] 1115443
+[Stock]	7807
+[MACD] 46.5425
+[Signal Line] -22.8222
+
+--Day 1491--
+[Capital] 1115443
+[Stock]	7867
+[MACD] 56.7383
+[Signal Line] 1.68889
+
+--Day 1492--
+[Capital] 1115443
+[Stock]	7944
+[MACD] 67.2422
+[Signal Line] 22.2667
+
+--Day 1493--
+[Capital] 1115443
+[Stock]	8019
+[MACD] 78.8408
+[Signal Line] 39.8444
+
+--Day 1494--
+[Capital] 1115443
+[Stock]	8061
+[MACD] 88.5601
+[Signal Line] 55.0667
+
+--Day 1495--
+[Capital] 1115443
+[Stock]	8009
+[MACD] 90.1924
+[Signal Line] 66.7778
+
+--Day 1496--
+[Capital] 1115443
+[Stock]	8006
+[MACD] 90.3247
+[Signal Line] 75.1778
+
+--Day 1497--
+[Capital] 1115443
+[Stock]	8108
+[MACD] 97.5073
+[Signal Line] 82.3333
+
+--Day 1498--
+[Capital] 1115443
+[Stock]	8226
+[MACD] 110.467
+[Signal Line] 89.9333
+
+--Day 1499--
+[Capital] 1115443
+[Stock]	8278
+[MACD] 123.516
+[Signal Line] 98.4889
+
+--Day 1500--
+[Capital] 1115443
+[Stock]	8235
+[MACD] 128.746
+[Signal Line] 106.333
+
+--Day 1501--
+[Capital] 1115443
+[Stock]	8248
+[MACD] 132.112
+[Signal Line] 113.378
+
+--Day 1502--
+[Capital] 1115443
+[Stock]	8270
+[MACD] 136.232
+[Signal Line] 119.778
+
+--Day 1503--
+[Capital] 1115443
+[Stock]	8319
+[MACD] 140.205
+[Signal Line] 125.689
+
+--Day 1504--
+[Capital] 1115443
+[Stock]	8180
+[MACD] 129.209
+[Signal Line] 128.244
+
+--Day 1505--
+[Capital] 1115443
+[Stock]	8325
+[MACD] 128.268
+[Signal Line] 129.733
+==>BUY 66 for 549450euros
+
+--Day 1506--
+[Capital] 565168
+[Stock]	8317
+[MACD] 124.847
+[Signal Line] 129.578
+==>BUY 33 for 274461euros
+
+--Day 1507--
+[Capital] 290295
+[Stock]	8264
+[MACD] 115.737
+[Signal Line] 127.022
+==>BUY 17 for 140488euros
+
+--Day 1508--
+[Capital] 149596
+[Stock]	8472
+[MACD] 121.507
+[Signal Line] 125.556
+==>BUY 8 for 67776euros
+
+--Day 1509--
+[Capital] 81718
+[Stock]	8574
+[MACD] 131.171
+[Signal Line] 126.133
+==>SELL 124 for 1063176euros
+
+--Day 1510--
+[Capital] 1143299
+[Stock]	8482
+[MACD] 129.544
+[Signal Line] 126.244
+
+--Day 1511--
+[Capital] 1143299
+[Stock]	8489
+[MACD] 126.945
+[Signal Line] 125.822
+
+--Day 1512--
+[Capital] 1143299
+[Stock]	8519
+[MACD] 126.21
+[Signal Line] 125.622
+
+--Day 1513--
+[Capital] 1143299
+[Stock]	8639
+[MACD] 133.59
+[Signal Line] 127.133
+
+--Day 1514--
+[Capital] 1143299
+[Stock]	8410
+[MACD] 120.028
+[Signal Line] 125.956
+==>BUY 67 for 563470euros
+
+--Day 1515--
+[Capital] 578983
+[Stock]	8379
+[MACD] 103.692
+[Signal Line] 121.556
+==>BUY 34 for 284886euros
+
+--Day 1516--
+[Capital] 293669
+[Stock]	8378
+[MACD] 87.4697
+[Signal Line] 114.422
+==>BUY 17 for 142426euros
+
+--Day 1517--
+[Capital] 151029
+[Stock]	8317
+[MACD] 65.4697
+[Signal Line] 103.511
+==>BUY 9 for 74853euros
+
+--Day 1518--
+[Capital] 76063
+[Stock]	8462
+[MACD] 56.4219
+[Signal Line] 92.0444
+==>BUY 4 for 33848euros
+
+--Day 1519--
+[Capital] 42164
+[Stock]	8484
+[MACD] 48.7441
+[Signal Line] 80.6444
+==>BUY 2 for 16968euros
+
+--Day 1520--
+[Capital] 25170
+[Stock]	8434
+[MACD] 35.584
+[Signal Line] 68.4444
+==>BUY 1 for 8434euros
+
+--Day 1521--
+[Capital] 16723
+[Stock]	8187
+[MACD] 4.26953
+[Signal Line] 52.0667
+==>BUY 1 for 8187euros
+
+--Day 1522--
+[Capital] 8523
+[Stock]	8051
+[MACD] -32.4258
+[Signal Line] 31.2
+
+--Day 1523--
+[Capital] 8523
+[Stock]	8037
+[MACD] -64.584
+[Signal Line] 7.6
+
+--Day 1524--
+
+==>SELL 135 for 1084995euros

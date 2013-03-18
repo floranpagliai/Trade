@@ -54,5 +54,5 @@ float Trader::MACD(int EMAShort, int EMALong) {
 }
 
 int Trader::moneyManagement() {
-        return _capital / _stockPrice;
+  return (_capital / _stockPrice)/2;
 }

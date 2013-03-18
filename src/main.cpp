@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
   char		buffer[256];
   cin.getline(buffer, 256);
   int		capital = atoi(buffer);
-  Trader		trader(capital, &logger);
+  Trader	trader(capital, &logger);
 
   trader.Trade();
   return 0;

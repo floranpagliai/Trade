@@ -5,13 +5,14 @@
 // Login   <paglia_f@epitech.net>
 //
 // Started on  Thu Jan 31 17:16:57 2013 floran pagliai
-// Last update Thu Jan 31 17:19:02 2013 floran pagliai
+// Last update Mon Mar 18 16:25:37 2013 floran pagliai
 //
 
 #include "Trader.h"
 
 Trader::Trader(int capital, Logger *logger) : _logger(logger) {
     _capital = capital;
+    _stock = 0;
     _days = -1;
     stringstream log;
     log << "[Capital]\t" << _capital;
@@ -74,25 +75,26 @@ void    Trader::buy(int stock) {
     std::stringstream log;
     //stock -= 1;
     if ((_capital - (0.15 / 100 * _capital)) >= stock * _stockPrice && stock > 0) {
-        log << "==>BUY " << stock << " for " << stock * _stockPrice << "€";
+        log << "==>BUY " << stock << " for " << stock * _stockPrice << "euros";
         _logger->writeLog(log.str());
         cout << "buy " << stock << endl;
-        _capital -= stock * _stockPrice;
+	_stock += stock;        
+	_capital -= stock * _stockPrice;
         _capital = _capital - (0.15 / 100 * (stock * _stockPrice));
-        _stock += stock;
+        
     } else
-        cout << "wait " << endl;
+        cout << "wait" << endl;
 }
 
 void    Trader::sell(int stock) {
     std::stringstream log;
     if (_stock >= stock && stock > 0) {
-        log << "==>SELL " << stock << " for " << stock * _stockPrice << "€";
+        log << "==>SELL " << stock << " for " << stock * _stockPrice << "euros";
         _logger->writeLog(log.str());
         cout << "sell " << stock << endl;
-        _capital += stock * _stockPrice;
+	_stock -= stock;        
+	_capital += stock * _stockPrice;
         _capital = _capital - (0.15 / 100 * (stock * _stockPrice));
-        _stock -= stock;
     } else
-        cout << "wait " << endl;
+        cout << "wait" << endl;
 }
